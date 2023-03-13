@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Pluto TV Cine Acción
+#EXTINF:0,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/7aAcqJjyhim0DWVgHP7BqguWyQC.jpg" group-title="2022",Pluto TV Cine Acción
 #EXTGRP:Películas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,Pluto TV Cine Comedia
