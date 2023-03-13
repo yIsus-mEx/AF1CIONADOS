@@ -266,7 +266,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a1
 #EXTINF:0,tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/02/pluto-tv-streaming-france-600aeedc3dda9.jpeg",Pluto TV Junior
 #EXTGRP:Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,Pluto TV Kids
+#EXTINF:0,tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/02/pluto-tv-streaming-france-600aeedc3dda9.jpeg",Pluto TV Kids
 #EXTGRP:Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/02/pluto-tv-streaming-france-600aeedc3dda9.jpeg",Nick Clásico
