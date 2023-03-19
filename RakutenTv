@@ -43,23 +43,17 @@
 				{
 				"name": "Películas Románticas", 
 				"image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0a77cda3-1e27-4d28-a2a4-6f913328e46c-peliculas-romanticas-rakuten-tv-1641196121.jpeg", 
-				"number": "9", 
-				"url": "https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890", 
-				"epgId": "romance-es-rakuten-tv"
+				"url": "https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890"
 				}, 
 				{
 				"name": "MyTime Movie Network", 
 				"image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5e34072a-ba29-4acc-830f-ccc4b82bfdbb-mytime-movie-network-1608562045.jpeg", 
-				"number": "40", 
 				"url": "https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34d3b291-8092-4340-a0dc-0d279d79732f&ads_user_type=visitor", 
-				"epgId": "mytime-movie-network-spanish"
 				}, 
 				{
 				"name": "Filmstream", 
 				"image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/29b5e977-9a76-462c-861c-19b14804ca01.jpeg", 
-				"number": "48", 
-				"url": "https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Filmstream/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1766&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=6039356c-a0cb-4615-a804-3418922edbce&ads.user_type=visitor&ads.wurl_channel=422", 
-				"epgId": "filmstream-spi"
+				"url": "https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Filmstream/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1766&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=6039356c-a0cb-4615-a804-3418922edbce&ads.user_type=visitor&ads.wurl_channel=422" 
 				}, 
 				{
 				"name": "Crimen TV", 
