@@ -1,8 +1,8 @@
 {
 "name": "Rakuten TV",
 "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/RakutenTv",
-"image": "", 
-"author": "",
+"image": "https://images3.alphacoders.com/595/595865.jpg", 
+"author": "@yIsus_mEx",
 "groups": 
 	[
 		{
@@ -17,36 +17,28 @@
 				}, 
 				{
 				"name": "Acción", 
-				"image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2ebca1ec-0fc9-48a4-b040-8ab526df1f26-peliculas-de-accion-rakuten-tv-1621956288.png", 
+				"image": "https://i.postimg.cc/FsYXFQB3/Rakuten-Accion.png", 
 				"url": "https://7316af19af3348fbafec08db40c987fb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenActionMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2496&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2b156ac6-d900-41c2-bacb-c2532d8003fb&ads.user_type=visitor&ads.wurl_channel=427" 
 				}, 
 				{
 				"name": "Comedia", 
-				"image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f0da7911-e8ff-4b65-8776-c769b35542ed-peliculas-de-comedia-rakuten-tv-1621956333.png", 
-				"number": "2", 
+				"image": "https://i.postimg.cc/x1yX5H30/Rakuten-Comedia.png", 
 				"url": "https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c1f49159-b7bd-4632-bb6a-6e5858983275&ads.user_type=visitor&ads.wurl_channel=428", 
-				"epgId": "comedy-es-rakuten-tv"
 				}, 
 				{
 				"name": "Drama", 
-				"image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/27f15d74-cd48-45ad-834c-3c2d97275e68-peliculas-de-drama-rakuten-tv-1621956345.jpeg", 
-				"number": "3", 
+				"image": "https://i.postimg.cc/027dwVrj/Rakuten-Drama.png", 
 				"url": "https://43acc28426e84e7b8a691e3503112bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2498&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=cc9be829-ab69-4e2c-b280-d996746e18ec&ads.user_type=visitor&ads.wurl_channel=429", 
-				"epgId": "drama-es-rakuten-tv"
 				}, 
 				{
 				"name": "Cine Español", 
-				"image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/fe99ab67-7935-40ad-aedb-010a73e70df8-cine-espanol-rakuten-tv-1628175641.jpeg", 
-				"number": "5", 
+				"image": "https://i.postimg.cc/VsM6Fpwq/Rakuten-Cine-Espan-ol.png", 
 				"url": "https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2929&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=99cf9d73-63fe-4a7b-8e1b-134f337272e2&ads.user_type=visitor&ads.wurl_channel=794", 
-				"epgId": "cine-espanol-rakuten-tv"
 				}, 
 				{
 				"name": "Thrillers", 
-				"image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/144190d7-b23b-43d1-8ec2-f4268c35aab3-thriller-rakuten-tv-1635839766.jpeg", 
-				"number": "8", 
+				"image": "https://i.postimg.cc/02XXVWPf/Rakuten-Thriller.png", 
 				"url": "https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3330&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4f4d35f2-f5e3-4603-b7b1-212eb68ed78c&ads.user_type=visitor&ads.wurl_channel=884", 
-				"epgId": "thriller-es-rakuten-tv"
 				}, 
 				{
 				"name": "Películas Románticas", 
