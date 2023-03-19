@@ -1,5 +1,5 @@
 {
-"name": "Rakuten TV by HL",
+"name": "Rakuten TV",
 "author": "Actualizada 19/03/2023 00:10",
 "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
 "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png", 
@@ -13,7 +13,7 @@
 			[
 				{
 				"name": "Películas Top", 
-				"image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7787b527-5f39-4180-98c9-6d093d3215c8-peliculas-top-rakuten-tv-1621956596.png", 
+				"image": "https://images.samsung.com/is/image/samsung/assets/ie/tvs/smart-tv/samsung-tv-plus/UK-TOPMOVIES-CIRCLE-476X476_v2.png?$330_186_PNG$", 
 				"url": "https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2be8bd0c-7bf7-4184-b458-f7d5515f9a53&ads.user_type=visitor&ads.wurl_channel=840" 
 				}, 
 				{
