@@ -1,0 +1,470 @@
+{
+"name": "F1 2022",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/LSir6PtF",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+    [
+        {
+        "name": "GP Abu Dhabi 2022 Yas Marina [20.11.22]",
+        "info":"",
+        "image": "https://pbs.twimg.com/media/FhxDO4wWIAIyvLA.jpg",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "GP Yas Marina Carrera",
+                "info":"DaznF1 [20.11.22]",
+                "image": "https://pbs.twimg.com/media/FhxDO4wWIAIyvLA.jpg",
+                "url":"https://vk.com/video_ext.php?oid=658573886&id=456239065&hash=a5c5b9b554adeddf&hd=4",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "GP Yas Marina Carrera",
+                "info":"F1Tv [20.11.22]",
+                "image": "https://pbs.twimg.com/media/FhxDO4wWIAIyvLA.jpg",
+                "url":"https://vk.com/video_ext.php?oid=658573886&id=456239064&hash=af78cfd7d8f2934f&hd=3",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "GP Brasil 2022 Interlagos [11.11.22]",
+        "info":"",
+        "image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/11/10/f768x1-12285_12412_126.jpg",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "GP Brasil Carrera",
+                "info":"DAZN F1 [13.11.22]",
+                "image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/11/10/f768x1-12285_12412_126.jpg",
+                "url":"https://vk.com/video_ext.php?oid=503491083&id=456244679&hash=7f5583c25d2b9ee5&hd=4",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+		{
+		"name": "GP MEXICO 2022 H. Rodriguez [30.10.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/10/27/f768x1-11619_11746_154.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP H. Rodriguez Carrera",
+				"info":"DAZN F1 [30.10.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/10/27/f768x1-11619_11746_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239083&hash=9c504ce3e8380dc1&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "GP H. Rodriguez Carrera",
+				"info":"EspnF1 [30.10.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/10/27/f768x1-11619_11746_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239084&hash=67b78da265fa18e4&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP USA 2022 Las Americas [23.10.22]",
+		"info":"",
+		"image": "https://i.postimg.cc/Pxvb9wwH/usa.png",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Usa Carrera",
+				"info":"DAZN F1 [23.10.22]",
+				"image": "https://i.postimg.cc/Pxvb9wwH/usa.png",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244590&hash=1d64489270540685&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "GP Usa Carrera",
+				"info":"EspnF1 [23.10.22]",
+				"image": "https://i.postimg.cc/Pxvb9wwH/usa.png",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239080&hash=ef480e8928381192&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP JAPON 2022 Suzuka [23.10.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/10/7/f768x1-10683_10810_5050.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Japon Carrera",
+				"info":"DAZN F1 [08.10.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/10/7/f768x1-10683_10810_5050.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244510&hash=84814115c544c15e&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "GP Japon Carrera",
+				"info":"EspnF1 [08.10.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/10/7/f768x1-10683_10810_5050.jpg",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239068&hash=feb9988ce09d050c&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP SINGAPUR 2022 Marina Bay [02.10.22]",
+		"info":"",
+		"image": "https://i.postimg.cc/bvt0Kwgc/singapur.webp",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Singapur Carrera",
+				"info":"DAZN F1 [02.10.22]",
+				"image": "https://i.postimg.cc/bvt0Kwgc/singapur.webp",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244488&hash=454f5b5248a215e5&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "GP Singapur Carrera",
+				"info":"EspnF1 [02.10.22]",
+				"image": "https://i.postimg.cc/bvt0Kwgc/singapur.webp",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239060&hash=19f332da5254e708&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP ITALIA 2022 Monza [02.10.22]",
+		"info":"",
+		"image": "https://c8.alamy.com/compes/2jtf5em/cartel-de-la-carrera-del-gran-premio-de-italia-f1-2022-2jtf5em.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Italia Carrera",
+				"info":"DAZN F1 [11.09.22]",
+				"image": "https://c8.alamy.com/compes/2jtf5em/cartel-de-la-carrera-del-gran-premio-de-italia-f1-2022-2jtf5em.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244398&hash=0af7d698f22d2d20&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "GP Italia Carrera",
+				"info":"EspnF1 [11.09.22]",
+				"image": "https://c8.alamy.com/compes/2jtf5em/cartel-de-la-carrera-del-gran-premio-de-italia-f1-2022-2jtf5em.jpg",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239032&hash=84fd4d305f416a54&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP HOLANDA 2022 Zandvoort [11.09.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/9/1/f768x1-8742_8869_154.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Zandvoort Carrera",
+				"info":"DAZN F1 [11.09.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/9/1/f768x1-8742_8869_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244368&hash=c6176ca4dae2c07d&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "GP Zandvoort Carrera",
+				"info":"EspnF1 [11.09.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/9/1/f768x1-8742_8869_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=747314243&id=456239028&hash=483cec3864865277&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP BELGICA 2022 Spa-Francorchamps [28.08.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/8/25/f768x1-8316_8443_154.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Spa-Francorchamps Carrera",
+				"info":"DAZN F1 [28.08.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/8/25/f768x1-8316_8443_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244342&hash=6de5c7df0f102f40&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP HUNGRIA 2022 Hungaroring [31.07.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/7/28/f768x1-6519_6646_154.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Hungaroring Carrera",
+				"info":"DAZN F1 [31.07.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/7/28/f768x1-6519_6646_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244197&hash=f64f2927436fbfc8&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP FRANCIA 2022 Paul Ricard [24.07.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/7/21/f768x1-6003_6130_171.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Paul Ricard Carrera",
+				"info":"DAZN F1 [24.07.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/7/21/f768x1-6003_6130_171.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244198&hash=a3c989a144cfc1a5&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP AUSTRIA 2022 Red Bull Ring [10.07.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/7/7/f768x1-5028_5155_154.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Red Bull Ring Carrera",
+				"info":"DAZN F1 [10.07.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/7/7/f768x1-5028_5155_154.jpg",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244152&hash=d705c7375e375d70&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP GRAN BRETAÑA 2022 Silverstone [03.07.22]",
+		"info":"",
+		"image": "https://pbs.twimg.com/media/FWQPWyoXwAAbnIX.jpg:large",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Silverstone Carrera",
+				"info":"DAZN F1 [03.07.22]",
+				"image": "https://pbs.twimg.com/media/FWQPWyoXwAAbnIX.jpg:large",
+				"url":"https://vk.com/video_ext.php?oid=503491083&id=456244115&hash=076be52102dbb097&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP CANADA 2022 Gilles Villeneuve [19.06.22]",
+		"info":"",
+		"image": "https://i.postimg.cc/QCg518g1/canada.webp",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Gilles Villeneuve Carrera",
+				"info":"DAZN F1 [19.06.22]",
+				"image": "https://i.postimg.cc/QCg518g1/canada.webp",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239533&hash=6200fe30622eff60&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP AZERBAIYÁN 2022 Bakú [12.06.22]",
+		"info":"",
+		"image": "https://preview.redd.it/y3kk8lm6o0491.jpg?auto=webp&s=b5fdeae7e5289fa3ababcca3dc4f74ff73be7f17",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Bakú Carrera",
+				"info":"DAZN F1 [12.06.22]",
+				"image": "https://preview.redd.it/y3kk8lm6o0491.jpg?auto=webp&s=b5fdeae7e5289fa3ababcca3dc4f74ff73be7f17",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239532&hash=291d21ae7647bd17&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP MONACO 2022 Monaco [29.05.22]",
+		"info":"",
+		"image": "https://c8.alamy.com/comp/2J95FFK/monaco-f1-grand-prix-2022-race-weekend-poster-2J95FFK.jpg.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Monaco Carrera",
+				"info":"DAZN F1 [29.05.22]",
+				"image": "https://c8.alamy.com/comp/2J95FFK/monaco-f1-grand-prix-2022-race-weekend-poster-2J95FFK.jpg",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239531&hash=35c44f6f393fd556&hd=3",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP ESPAÑA 2022 Barcelona-Catalunya [22.05.22]",
+		"info":"",
+		"image": "https://i.postimg.cc/zBQbhLRy/espa-a.webp",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Barcelona-Catalunya Carrera",
+				"info":"DAZN F1 [22.05.22]",
+				"image": "https://i.postimg.cc/zBQbhLRy/espa-a.webp",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239528&hash=8b6d55eeb2986a5f&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "GP MIAMI 2022 Miami International [08.05.22]",
+		"info":"",
+		"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/5/3/f768x1-276_403_126.jpg",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Miami International Carrera",
+				"info":"DAZN F1 [08.05.22]",
+				"image": "https://www.deceroacien.com.mx/u/fotografias/m/2022/5/3/f768x1-276_403_126.jpg",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239527&hash=68a8f0c60d7fd8c1&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "EMILIA ROMAGNA 2022 Enzo e Dino Ferrari [24.04.22]",
+		"info":"",
+		"image": "https://i.postimg.cc/02wWbDJJ/EMILIA.webp",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Enzo e Dino Ferrari Carrera",
+				"info":"DAZN F1 [24.04.22]",
+				"image": "https://i.postimg.cc/02wWbDJJ/EMILIA.webp",
+				"url":"https://vk.com/video_ext.php?oid=185167322&id=456239987&hash=70cc55bb3b479b13&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "AUSTRALIA 2022 Melbourne  [09.04.22]",
+		"info":"",
+		"image": "https://preview.redd.it/hzb2k1yb8wr81.jpg?auto=webp&s=477bd8106529cb55e3aed9b64f37de307c6aee23",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Melbourne Carrera",
+				"info":"DAZN F1 [09.04.22]",
+				"image": "https://preview.redd.it/hzb2k1yb8wr81.jpg?auto=webp&s=477bd8106529cb55e3aed9b64f37de307c6aee23",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239479&hash=2b1555dc96b7ec07&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "ARABIA SAUDITA 2022 Jeddah  [27.03.22]",
+		"info":"",
+		"image": "https://preview.redd.it/oom6j662d6p81.jpg?auto=webp&s=a1a538cc7b20763e5f133c52e0e9bfb0f3fb8d21",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Jeddah Carrera",
+				"info":"DAZN F1 [27.03.22]",
+				"image": "https://preview.redd.it/oom6j662d6p81.jpg?auto=webp&s=a1a538cc7b20763e5f133c52e0e9bfb0f3fb8d21",
+				"url":"https://vk.com/video_ext.php?oid=185167322&id=456239944&hash=1b643ff961aa6d99&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "BAHREIN 2022 Bahrein  [20.03.22]",
+		"info":"",
+		"image": "https://preview.redd.it/awuye1xeoio81.jpg?auto=webp&s=4b1e6da9e4f1565ab2c0920ad1ed5b290e12ea09",
+		"imageScale": "",
+		"stations":
+			[
+				{
+				"name": "GP Bahrein Carrera",
+				"info":"DAZN F1 [20.03.22]",
+				"image": "https://preview.redd.it/awuye1xeoio81.jpg?auto=webp&s=4b1e6da9e4f1565ab2c0920ad1ed5b290e12ea09",
+				"url":"https://vk.com/video_ext.php?oid=201308637&id=456239477&hash=0bd078a79965b32f&hd=4",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

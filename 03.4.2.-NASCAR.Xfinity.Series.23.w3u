@@ -1,0 +1,39 @@
+{
+"name": "NASCAR Xfinity Series 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/nwsaLDqa",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+    [
+		{
+        "name": "NASCAR Xfinity Beef It's What's for Dinner 300",
+        "info":"[Round 01 - 2023]",
+        "online": "true",
+        "image": "https://westernagnetwork.com/images/img_CXSUzCwmKcWvDtuT8c3Jfq/2.12.21-beef-300.jpg?fit=outside&w=1600",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246370&hash=7a8a32fdf08e04f3&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Xfinity Alliance Group 300",
+        "info":"[Round 02 - 2023]",
+        "online": "true",
+        "image": "https://www.gamblingsites.org/app/uploads/2022/02/2022-NASCAR-Xfinity-Production-Alliance-Group-300-1-1280x720.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246403&hash=a979f675cc0f7231&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Xfinity Las Vegas 300",
+        "info":"[Round 03 - 2023]",
+        "online": "true",
+        "image": "https://www.gamblingsites.org/app/uploads/2022/03/NASCAR-Xfinity-Series-Alsco-Uniforms1-1.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246432&hash=5c5d5175a3aa3033&hd=3",
+        "isHost": "true",
+        "embed":""
+        }
+	]
+}	
+		

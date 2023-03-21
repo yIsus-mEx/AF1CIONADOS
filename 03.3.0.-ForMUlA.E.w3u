@@ -1,0 +1,111 @@
+{
+"name": "ForMUlA E",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/VtDfZ2Dc",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 2023",
+        "image": "https://i.postimg.cc/HLVhkkvy/Logo-Formula-E-2023.png",
+        "imageScale": "",
+        "info":"",
+        "groups":
+            [
+                {
+                "name": "01.MExico E-Prix [2023]",
+                "image": "https://i.postimg.cc/vHb26zSM/Formula-E-mexico.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "MExico E-Prix Carrera",
+                        "info":"Tv Azteca [14.01.23]",
+                        "image": "https://i.postimg.cc/vHb26zSM/Formula-E-mexico.jpg",
+                        "url":"https://www.yourupload.com/embed/2Tsh3X615I6g",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "MExico E-Prix Carrera",
+                        "info":"EuroSport 2 [14.01.23]",
+                        "image": "https://i.postimg.cc/vHb26zSM/Formula-E-mexico.jpg",
+                        "url":"https://www.yourupload.com/embed/QsjPVf7pC0O8",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+						
+                    ]
+                },
+				{
+                "name": "02.Diriyah Arabia Saudita [2023]",
+                "image": "https://i.postimg.cc/2587SKDg/diriyah-e-prix.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Diriyah Carrera",
+                        "info":"Claro Video [27.01.23]",
+                        "image": "https://i.postimg.cc/2587SKDg/diriyah-e-prix.jpg",
+                        "url":"https://www.yourupload.com/watch/bd1L6FcLjx7Q",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+				{
+                "name": "03.Diriyah Arabia Saudita [2023]",
+                "image": "https://i.postimg.cc/2587SKDg/diriyah-e-prix.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Diriyah Carrera",
+                        "info":"Claro Video [28.01.23]",
+                        "image": "https://i.postimg.cc/2587SKDg/diriyah-e-prix.jpg",
+                        "url":"https://www.yourupload.com/watch/eGO6bLHMFVeK",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+				{
+                "name": "04.Hyderabad India [2023]",
+                "image": "https://i.postimg.cc/qqQCLcgv/Hyderabad-India.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Hyderabad Carrera",
+                        "info":"Claro Video [11.02.23]",
+                        "image": "https://i.postimg.cc/qqQCLcgv/Hyderabad-India.png",
+                        "url":"https://www.yourupload.com/watch/wiu68i838I2c",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "Hyderabad Carrera",
+                        "info":"Eurosport 2 [11.02.23]",
+                        "image": "https://i.postimg.cc/qqQCLcgv/Hyderabad-India.png",
+                        "url":"https://www.yourupload.com/watch/dmKoKe2eb0ni",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

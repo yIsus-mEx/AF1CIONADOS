@@ -1,0 +1,32 @@
+{
+"name": "Nascar 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://giffiles.alphacoders.com/211/211426.gif",
+"url": "https://pastebin.com/6PHdYzkQ",
+"telegram": "@yIsus_mEx",
+"info":"@yIsus_mEx",
+"groups":
+    [
+        {
+         "name": "NASCAR Cup Series 2023",
+         "image": "https://i.postimg.cc/cJNycKLB/Nascar-cup-Series-new.png",
+         "url": "https://pastebin.com/qx4eUhaa",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "NASCAR Xfinity Series 2023",
+         "image": "https://i.postimg.cc/xCXL6dCt/nascar-xfinity-series-new.png",
+         "url": "https://pastebin.com/nwsaLDqa",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "NASCAR Craftsman Truck Series 2023",
+         "image": "https://i.postimg.cc/bNh3wQdP/nascar-truck-series-new.png",
+         "url": "https://pastebin.com/H6XDGPRA",
+         "info":"",
+         "import": false
+        }
+    ]
+}

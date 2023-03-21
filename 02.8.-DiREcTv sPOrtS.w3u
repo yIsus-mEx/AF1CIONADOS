@@ -1,0 +1,110 @@
+{
+"name": "DiREcTv sPOrtS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/edit/cJQNg2E2",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+    		[
+        		{
+        		"name": "Deport Tv",
+        		"info":"",
+        		"image": "https://i.postimg.cc/N0f4cJ1b/DeporTV.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1056",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true"
+        		}, 
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 01]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1058",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true"
+        		},
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 02]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1059",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true"
+        		},
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 03]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1061",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true"
+        		},
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 04]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1057",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true"
+        		},
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 05]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1060",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true" 
+        		},  
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 06]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1062",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true" 
+        		},  
+        		{
+        		"name": "DirectTv Sports",
+        		"info":"[Opc. 07]",
+        		"image": "https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",
+        		"url": "https://www.tutele.nl/online.php?a=6",
+        		"userAgent": "",
+        		"online":"true",
+        		"embed": "true" 
+        		},
+        		{
+        		"name": "DirectTv Sports 2",
+        		"image": "https://www.directv.com.uy/content/dam/public-sites/channels/612.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1063",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true" 
+        		},
+        		{
+        		"name": "DirectTv Sports +",
+				"info":"[Opc. 01]",
+        		"image": "https://www.directv.com.uy/content/dam/public-sites/channels/613.png",
+        		"url": "https://usermarket.bond/dtvpl2.html?id=1071",
+        		"userAgent": "PlusMediaPlayer/0.0.9",
+        		"online":"true",
+        		"embed": "true"
+				},
+				{
+				"name": "DirecTV Sports +",
+				"info":"[Opc. 02]",
+				"image": "https://www.directv.com.uy/content/dam/public-sites/channels/613.png",
+				"url": "http://89553021133314199.nicene.xyz:80/play/vi1011644/9165495580/314199.ts",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"online": "true",
+				"isHost": "",
+				"embed": ""
+				}
+        	]
+}

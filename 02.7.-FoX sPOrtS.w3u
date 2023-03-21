@@ -1,0 +1,229 @@
+{
+"name": "FoX sPOrtS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/rb96CP6w",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+    		[
+        		{
+                "name": "Fox Sports 🇦🇷",
+				"info":"[Opc. 01]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+                "url": "https://bahiadeportes.com/canales/foxsportsarg.php",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true" 
+				}, 
+				{
+                "name": "Fox Sports 🇦🇷",
+				"info":"[Opc. 02]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+                "url": "https://embed2.promedios.futbol/dtvpl2.html?id=1118",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"embed": "true" 
+				}, 
+				{
+                "name": "Fox Sports 🇦🇷",
+				"info":"[Opc. 03]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+                "url": "https://tucanaldeportivo.com/foxsportshd.php",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true" 
+				}, 
+				{
+                "name": "Fox Sports 🇦🇷",
+				"info":"[Opc. 04]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+                "url": "https://freelive365.nl/player2.php?id=8&code=123&evento=Argentina",
+				"online":"true"
+                },
+				{
+				"name": "Fox Sports 🇦🇷",
+				"info":"[Opc. 05]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+				"url" : "https://www.tutele.nl/online.php?a=132",
+				"referer" : "https://www.freelive365.net/",
+				"online":"true",
+				"isHost": "true"
+				},
+				{
+				"name": "Fox Sports [CHI]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+				"url" : "http://89553021133294603.nicene.xyz:80/play/vi1011644/9165495580/294603.ts",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"embed": "",
+				"isHost": ""
+				},
+				{
+                "name": "Fox Sports 2 🇦🇷",
+				"info":"[Opc. 01]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+                "url": "https://freelive365.nl/player2.php?id=8&code=124&evento=Argentina"
+				},
+				{
+              	"name": "Fox Sports 2 🇦🇷",
+				"info":"[Opc. 02]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+                "url": "https://www.tutele.nl/online.php?a=133",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true" 
+				}, 
+				{
+              	"name": "Fox Sports 2 🇦🇷",
+				"info":"[Opc. 03]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+                "url": "https://bahiadeportes.com/canales/foxsports2arg-2.php",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true"
+				},
+				{
+				"name": "Fox Sports 2 🇦🇷",
+				"info":"[Opc. 04]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+				"url" : "https://bahiadeportes.com/canales/foxsports2-3.php",
+				"online":"true",
+				"embed": "",
+				"isHost": true
+				},
+				{
+				"name": "Fox Sports 2 🇦🇷",
+				"info":"[Opc. 05]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+				"url" : "https://nginxg.pages.dev/jwm3u?get=aHR0cHM6Ly9kMTdsZ2R4NHQ3YTRvZC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvOTE0M2QxYjFlNDU0NDBiOTlmMWZkYzNhNmE1MGMyMTAvaW5kZXgubTN1OA==",
+				"online":"true",
+				"embed": "true",
+				"isHost": "true"
+				},
+				{
+                "name": "Fox Sports 3 🇦🇷",
+				"info":"[Opc. 01]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+                "url": "https://freelive365.nl/player2.php?id=8&code=125&evento=Argentina",
+				"online":"true"
+                },
+				{
+              	"name": "Fox Sports 3 🇦🇷",
+				"info":"[Opc. 02]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+                "url": "https://usermarket.bond/dtvpl2.html?id=1123",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"embed": "true" 	
+				},
+                {
+              	"name": "Fox Sports 3 🇦🇷",
+				"info":"[Opc. 03]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+                "url": "https://bahiadeportes.com/canales/foxsports3arg.php",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true" 
+				},  
+				{
+              	"name": "Fox Sports 3 🇦🇷",
+				"info":"[Opc. 04]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+                "url": "https://www.tutele.nl/online.php?a=4673",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true" 
+				},
+				{
+				"name": "Fox Sports 3 🇦🇷",
+				"info":"[Opc. 05]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+				"url":"http://89553021133314218.nicene.xyz:80/play/vi1011644/9165495580/314218.ts",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"embed": "",
+				"isHost": ""
+				},
+                {
+				"name": "Fox Sports 🇲🇽",
+				"info":"[Opc. 01]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+	         	"url": "https://bahiadeportes.com/canales/foxsportsdtv.php",
+				"userAgent": "",
+				"online":"true",
+				"embed": "true" 
+				}, 
+				{
+				"name": "Fox Sports 🇲🇽",
+				"info":"[Opc. 02]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+	        	"url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
+				"userAgent" : ""
+                },
+				{
+				"name": "Fox Sports 🇲🇽",
+				"info":"[Opc. 03]",
+				"image": "https://i.imgur.com/CF5il5c.png",
+				"url" : "https://bahiadeportes.com/canales/foxsports-3.php",
+				"online":"true",
+				"embed": "true",
+				"isHost": ""
+				},
+				{
+				"name": "Fox Sports 2 🇲🇽",
+				"info":"[Opc. 01]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+	         	"url": "https://bahiadeportes.com/canales/foxsports2-3.php",
+				"userAgent": "",
+				"playInNatPlayer": "true",
+				"embed": "true" 
+				}, 
+				{
+				"name": "Fox Sports 2 🇲🇽",
+				"info":"[Opc. 02]",
+				"image": "https://i.imgur.com/t2Wn2rO.png",
+	       		"url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+				"online":"true"
+                }, 
+				{
+				"name": "Fox Sports 3 🇲🇽",
+				"info":"[Opc. 01]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+	        	"url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
+				"online":"true"
+                },
+				{
+				"name": "Fox Sports 3 🇲🇽",
+				"info":"[Opc. 02]",
+				"image": "https://i.imgur.com/VxIZXH9.png",
+				"url":"https://bahiadeportes.com/canales/foxsports3-1",
+				"online":"true",
+				"embed": "",
+				"isHost": "true"
+				},  
+				{
+                "name": "Fox Deportes Mexico 🇲🇽",
+				"image": "https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png",
+                "url": "https://freelive365.nl/player2.php?id=11&code=131&evento=Mexico",
+				"online":"true"
+                }, 
+				{
+				"name": "Fox Sports Premium 🇲🇽",
+				"info":"[Opc. 01]",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+				"url": "https://sportsembed.su/channels/hd/hd6.php",
+				"online":"true"
+				},
+				{
+				"name": "Fox Sports Premium 🇲🇽",
+				"info":"[Opc. 02]",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
+				"url" : "https://megadeportes.live/embed/repro/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2p3LnBocD9nZXQ9YUhSMGNITTZMeTl0ZUd4cGRtVmphR0Z1Ym1Wc2MzWnZjMlJoYzJndVkyeGhjbTkyYVdSbGJ5NWpiMjB2UTI5dWRHVnVkQzlFUVZOSVgwUkJVMGhmUmtzdlRHbDJaUzlEYUdGdWJtVnNLRVpQV0ZOUVQxSlVVMTlRVWtWTlNWVk5YMGhFS1M5dFlXNXBabVZ6ZEM1dGNHUT0ma2V5PU9URmhNakZtTjJabVl6QXpZak5sTkRabVpUTTBPR1JrTURjMU5UYzFPR1U9JmtleTI9TldabE5qQm1aRGMzWkdaaE5qRmtZbVkwTVdReFlUQmhZemsxT1RZeU1XUT0=",
+				"desktop": "true",
+				"online":"true",
+				"embed": "true",
+				"isHost": "true"
+				},
+			]
+}

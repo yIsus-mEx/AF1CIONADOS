@@ -1,0 +1,47 @@
+{
+"name": "MovIeS 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/5nyfDz2P",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+    [
+        {
+        "name": "Alerta Extrema",
+        "info":"[Latino][2023]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/41278-705829-20221226031252.jpg",
+        "url":"https://www.yourupload.com/watch/3wn4MnXDho4J",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Duro De Entrenar",
+        "info":"[Latino][2023]",
+        "image": "https://pics.filmaffinity.com/die_hart_the_movie-851514551-mmed.jpg",
+        "url":"https://www.yourupload.com/watch/3T2uF2t63gy1",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Ustedes",
+        "info":"[Latino][2023]",
+        "image": "https://pics.filmaffinity.com/you_people-137803473-mmed.jpg",
+        "url":"https://www.yourupload.com/watch/XX6lTL26A4uF",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Teen Wolf: La Película",
+        "info":"[Latino][2023]",
+        "image": "https://pics.filmaffinity.com/teen_wolf_the_movie-773039978-mmed.jpg",
+        "url":"https://sltube.org/v/GWaolEGxadJDdPVQ",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+"name": "Indycar Series 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/cV3nQERK",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+    [
+        {
+        "name": "IndyCar Grand Prix of St. Petersburg ",
+        "info":"[Round 01][Castellano]",
+        "online": "true",
+        "image": "https://www.indianapolismotorspeedway.com/-/media/IMS/mobile/2023/INDYCAR-Tune-In/St-Pete-300X250.png",
+        "url" :"https://vk.com/video_ext.php?oid=503491083&id=456245274&hash=b77e62704775af17&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "IndyCar Grand Prix of St. Petersburg ",
+        "info":"[Round 01][Latino]",
+        "online": "true",
+        "image": "https://www.indianapolismotorspeedway.com/-/media/IMS/mobile/2023/INDYCAR-Tune-In/St-Pete-300X250.png",
+        "url" :"https://vk.com/video_ext.php?oid=658573886&id=456239236&hash=a3afffd693c4d5f7&hd=2",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "IndyCar Grand Prix of St. Petersburg ",
+        "info":"[Round 01][Ingles]",
+        "online": "true",
+        "image": "https://www.indianapolismotorspeedway.com/-/media/IMS/mobile/2023/INDYCAR-Tune-In/St-Pete-300X250.png",
+        "url" :"https://vk.com/video_ext.php?oid=-157043765&id=456241101&hash=bf1d815430b7a672&hd=4",
+        "isHost": "true",
+        "embed":""
+        }
+	]
+}

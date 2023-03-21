@@ -1,0 +1,43 @@
+{
+"name": "DAzn F1",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/edit/wDXzwg9f",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+	[
+    	{
+		"name": "Dazn F1",
+		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+		"url": "http://89553021133318564.nicene.xyz:80/play/vi1011644/9165495580/318564.ts",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+		"online": "true"
+		},
+		{
+		"name": "Dazn F1",
+		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+		"url": "https://nginxg.pages.dev/daznf1",
+		"online": "true",
+		"isHost": true,
+		"embed": true
+		},
+		{
+		"name": "Dazn F1",
+		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+		"url": "https://nginxg.pages.dev/daznf1-jw",
+		"online": "true",
+		"isHost": true,
+		"embed": true
+		},
+		{
+		"name": "Dazn F1",
+		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+		"url": "https://cdix.pages.dev/daznf1",
+		"desktop": "",
+		"online": "true",
+		"isHost": "",
+		"embed": true
+		}          
+    ]
+}
