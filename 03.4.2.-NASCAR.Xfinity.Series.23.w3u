@@ -8,11 +8,29 @@
 "stations":
     [
 		{
-        "name": "NASCAR Xfinity Beef It's What's for Dinner 300",
-        "info":"[Round 01 - 2023]",
+        "name": "NASCAR Xfinity Atlanta 250",
+        "info":"[Round 05 - 2023]",
         "online": "true",
-        "image": "https://westernagnetwork.com/images/img_CXSUzCwmKcWvDtuT8c3Jfq/2.12.21-beef-300.jpg?fit=outside&w=1600",
-        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246370&hash=7a8a32fdf08e04f3&hd=3",
+        "image": "https://www.nascarwagers.com/wp-content/uploads/2023/03/Screenshot-2023-03-17-7.42.36-PM.png",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246486&hash=689c21a60019b99e&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+        {
+        "name": "NASCAR Xfinity Phoenix 200",
+        "info":"[Round 04 - 2023]",
+        "online": "true",
+        "image": "https://www.phoenixraceway.com/wp-content/uploads/sites/1004/2022/02/02/united_rentals_200-header-1024x500.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246452&hash=2d316558d824b8b1&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+        {
+        "name": "NASCAR Xfinity Las Vegas 300",
+        "info":"[Round 03 - 2023]",
+        "online": "true",
+        "image": "https://www.gamblingsites.org/app/uploads/2022/03/NASCAR-Xfinity-Series-Alsco-Uniforms1-1.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246432&hash=5c5d5175a3aa3033&hd=3",
         "isHost": "true",
         "embed":""
         },
@@ -26,11 +44,11 @@
         "embed":""
         },
 		{
-        "name": "NASCAR Xfinity Las Vegas 300",
-        "info":"[Round 03 - 2023]",
+        "name": "NASCAR Xfinity Beef It's What's for Dinner 300",
+        "info":"[Round 01 - 2023]",
         "online": "true",
-        "image": "https://www.gamblingsites.org/app/uploads/2022/03/NASCAR-Xfinity-Series-Alsco-Uniforms1-1.jpg",
-        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246432&hash=5c5d5175a3aa3033&hd=3",
+        "image": "https://westernagnetwork.com/images/img_CXSUzCwmKcWvDtuT8c3Jfq/2.12.21-beef-300.jpg?fit=outside&w=1600",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246370&hash=7a8a32fdf08e04f3&hd=3",
         "isHost": "true",
         "embed":""
         }
