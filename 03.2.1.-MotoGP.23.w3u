@@ -1,0 +1,80 @@
+{
+"name": "MotoGP 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/877EejRZ",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Portugal 2023 Algarve [24-26.Mar23]",
+        "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+        	[
+            	{
+                "name": "MotoGP Libres 2",
+                "info":"BT Sport 2 [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://cdn023.sh-content.com/hls2/01/00268/fn1hhhhhpw1l_x/index-v1-a1.m3u8?t=O451-PSRRZ1lIvsN3XkqjgwwA_XCJ4wX47EJlYYgoyI&s=1679718015&e=129600&f=1343309&srv=vdyzqyuwfjwm&i=0.0&sp=500&p1=vdyzqyuwfjwm&p2=vdyzqyuwfjwm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"embed":"",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Moto2 Libres 2",
+                "info":"BT Sport 2 [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://cdn014.sh-content.com/hls2/01/00267/i23vi6vlcoc1_x/index-v1-a1.m3u8?t=F3KKkj2MYQNvu-mcmiKVwkYTmQrPITxTTG-iDca8_V8&s=1679717943&e=129600&f=1337080&srv=sto003noview&i=0.0&sp=500&p1=sto003noview&p2=sto003noview",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"embed":"",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Moto3 Libres 2",
+                "info":"BT Sport 2 [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://cdn046.sh-content.com/hls2/01/00266/3wrdn6hn3wme_x/index-v1-a1.m3u8?t=rOdxi1rvCcGwaQaCfe5_kuhYyxpvh7ijlbkEYqxxoL4&s=1679717860&e=129600&f=1333916&srv=sto003noview&i=0.0&sp=500&p1=sto003noview&p2=sto003noview",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"embed":"",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "MotoGP Libres 1",
+                "info":"BT Sport 2 [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://cdn024.sh-content.com/hls2/01/00265/pl9m2ooptlir_x/index-v1-a1.m3u8?t=J2poNyhr4RwlEbl3YnomxSD980pNWTlqJ68fFHVyJkg&s=1679717767&e=129600&f=1329971&srv=kwqltnpeypxk&i=0.0&sp=500&p1=kwqltnpeypxk&p2=kwqltnpeypxk",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"embed":"",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Moto2 Libres 1",
+                "info":"BT Sport 2 [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://cdn016.sh-content.com/hls2/01/00265/2jzlmcjizdhq_x/index-v1-a1.m3u8?t=e6JBKNIsZEsxNPjm0f1ivbuLveloZioYOqM6_gaFRk8&s=1679717650&e=129600&f=1328602&srv=xjkgcqlynhrl&i=0.0&sp=500&p1=xjkgcqlynhrl&p2=xjkgcqlynhrl",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"embed":"",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Moto3 Libres 1",
+                "info":"BT Sport 2 [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://cdn024.sh-content.com/hls2/01/00265/ab8468lr09yu_x/index-v1-a1.m3u8?t=94yX8A4oW0Mx4X6hqxd8x4ZAtTPIKWWAyxjN40U8L0A&s=1679716629&e=129600&f=1327574&srv=sto004noview&i=0.0&sp=500&p1=sto004noview&p2=sto004noview",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"embed":"",
+                "isHost":"",
+                "online":"true"
+                }
+            ]
+        }
+    ]
+}
