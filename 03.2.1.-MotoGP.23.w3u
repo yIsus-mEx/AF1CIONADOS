@@ -16,6 +16,16 @@
         	[
             	{
                 "name": "MotoGP Libres 2",
+                "info":"DAZN [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://vk.com/video_ext.php?oid=658573886&id=456239275&hash=0968bbfad6e0b6fa&hd=4",
+                "userAgent" : "",
+				"embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "MotoGP Libres 2",
                 "info":"BT Sport 2 [24.03.23]",
                 "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
                 "url":"https://cdn023.sh-content.com/hls2/01/00268/fn1hhhhhpw1l_x/index-v1-a1.m3u8?t=O451-PSRRZ1lIvsN3XkqjgwwA_XCJ4wX47EJlYYgoyI&s=1679718015&e=129600&f=1343309&srv=vdyzqyuwfjwm&i=0.0&sp=500&p1=vdyzqyuwfjwm&p2=vdyzqyuwfjwm",
@@ -26,12 +36,32 @@
                 },
 				{
                 "name": "Moto2 Libres 2",
+                "info":"DAZN [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://vk.com/video_ext.php?oid=658573886&id=456239274&hash=e5f9ccb836a42e81&hd=4",
+                "userAgent" : "",
+				"embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Moto2 Libres 2",
                 "info":"BT Sport 2 [24.03.23]",
                 "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
                 "url":"https://cdn014.sh-content.com/hls2/01/00267/i23vi6vlcoc1_x/index-v1-a1.m3u8?t=F3KKkj2MYQNvu-mcmiKVwkYTmQrPITxTTG-iDca8_V8&s=1679717943&e=129600&f=1337080&srv=sto003noview&i=0.0&sp=500&p1=sto003noview&p2=sto003noview",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
 				"embed":"",
                 "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Moto3 Libres 2",
+                "info":"DAZN [24.03.23]",
+                "image": "https://solomoto.es/wp-content/uploads/2022/08/GP-PORTUGAL-2023.jpg",
+                "url":"https://vk.com/video_ext.php?oid=658573886&id=456239273&hash=911dcfc9c547c4c5&hd=4",
+                "userAgent" : "",
+				"embed":"",
+                "isHost":"true",
                 "online":"true"
                 },
 				{
