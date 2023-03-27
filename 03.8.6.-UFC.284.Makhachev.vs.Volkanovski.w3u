@@ -1,0 +1,128 @@
+{
+"name": "UFC 284: Makhachev vs. Volkanovski",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/KJdPxf2z",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+    [
+        {
+        "name": "Tukhugov vs Brenner",
+        "info":"Fight 01",
+        "image": "https://i.postimg.cc/3xQrTVyG/01.jpg",
+        "url":"https://www.yourupload.com/watch/R7X2OeYoSXYR",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Young vs Bilder",
+        "info":"Fight 02",
+        "image": "https://i.postimg.cc/vBYcdjNh/02.webp",
+        "url":"https://www.yourupload.com/watch/N44uCemn7qr0",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Lookboonmee vs Reed",
+        "info":"Fight 03",
+        "image": "https://i.postimg.cc/2yjv23Yz/03.jpg",
+        "url":"https://www.yourupload.com/watch/73jSpthaB6ok",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Jenkins vs Shainis",
+        "info":"Fight 04",
+        "image": "https://i.postimg.cc/6pP0qVXC/04.webp",
+        "url":"https://www.yourupload.com/watch/5n7Uvip8cHCS",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Jamie vs Prado",
+        "info":"Fight 05",
+        "image": "https://i.postimg.cc/0yk3D0F3/05.webp",
+        "url":"https://www.yourupload.com/watch/2Joaa87r442m",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Ross vs Rodrigues",
+        "info":"Fight 06",
+        "image": "https://i.postimg.cc/q7k3kzt2/06.webp",
+        "url":"https://www.yourupload.com/watch/0aS12e68GJk2",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Culibao vs Baghdasaryan",
+        "info":"Fight 07",
+        "image": "https://i.postimg.cc/6q9WZvXh/07.webp",
+        "url":"https://www.yourupload.com/watch/R0OECNr82au0",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Pedro vs Bukauskas",
+        "info":"Fight 08",
+        "image": "https://i.postimg.cc/HWBzy10w/08.webp",
+        "url":"https://www.yourupload.com/watch/A7DjwR4FS31r",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Crute vs Menifield",
+        "info":"Fight 09",
+        "image": "https://i.postimg.cc/MHNjm5pS/09.webp",
+        "url":"https://www.yourupload.com/watch/7t6P32BsY1C7",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Tafa vs Porter",
+        "info":"Fight 10",
+        "image": "https://i.postimg.cc/v8kXQFW3/10.webp",
+        "url":"https://www.yourupload.com/watch/nR8CeuMr8q0b",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Maddalena vs Brown",
+        "info":"Fight 11",
+        "image": "https://i.postimg.cc/8cQF0H6B/11.webp",
+        "url":"https://www.yourupload.com/watch/LyCObwMCbj3s",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Rodriguez vs Emmett",
+        "info":"Fight 12",
+        "image": "https://i.postimg.cc/02NxqS0p/12.webp",
+        "url":"https://www.yourupload.com/watch/QwBVjbqF36io",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Makhachev vs Volkanovski",
+        "info":"Fight 13",
+        "image": "https://i.postimg.cc/vBDjN7sB/13.webp",
+        "url":"https://www.yourupload.com/watch/610KCb2Kwu5n",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}
