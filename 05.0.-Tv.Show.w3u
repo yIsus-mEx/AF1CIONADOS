@@ -22,6 +22,13 @@
          "import": false
         },
 		{
+         "name": "España Tv",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/Spain.m3u",
+         "info":"",
+         "import": false
+        },
+		{
          "name": "TDTChannels",
          "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
          "url": "https://pastebin.com/UWXsWLF9",
