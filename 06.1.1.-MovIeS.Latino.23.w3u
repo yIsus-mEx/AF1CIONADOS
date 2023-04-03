@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Creed 3",
+        "info":"[Latino][2023]",
+        "image": "https://pics.filmaffinity.com/Creed_III-358416025-large.jpg",
+        "url":"https://storage.googleapis.com/31mar/pelis/Creed.III.2023.1080p.WEBRip.Dual.Latino.mkv",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"",
+        "online":"true"
+        },
+        {
         "name": "Alerta Extrema",
         "info":"[Latino][2023]",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/41278-705829-20221226031252.jpg",
