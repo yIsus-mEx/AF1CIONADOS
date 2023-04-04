@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "WrestleMania 39",
+        "info":"[Dia 1]",
+        "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
+        "url": "https://vk.com/video_ext.php?oid=658573886&id=456239334&hash=728ec8db6a778e37&hd=4",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "WrestleMania 39",
+        "info":"[Dia 2]",
+        "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
+        "url": "https://vk.com/video_ext.php?oid=658573886&id=456239335&hash=d5cbce019b42db1b&hd=3",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
         "name": "NBA All-Star Saturday Night",
         "info":"[2023]",
         "image": "https://cdn.nba.com/manage/2023/02/All-Star-Saturday-Night-Logos-16x9-safezone-1-1-784x441.jpg",
