@@ -1,198 +1,65 @@
 {
-"name": "Deporte Online",
+"name": "Deportes Online",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://pastebin.com/edit/WHmeE2bV",
+"url": "https://pastebin.com/xrA3g8Uy",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "telegram": "@yIsus_mEx",
 "info": "@yIsus_mEx",
 "stations":
-[
-{
-"name": "LaLiga Smartbank",
-"image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
-"url": "http://89553021133320785.nicene.xyz:80/play/vi1011644/9165495580/320785.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online": "true"
-},
-{
-"name": "LaLiga Smartbank",
-"image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
-"url": "http://89553021133320786.nicene.xyz:80/play/vi1011644/9165495580/320786.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online": "true"
-},
-{
-"name": "Gol Mundial HD",
-"image": "https://i.postimg.cc/1X6vzTgT/Logo-Gol-Mundial-3.png",
-"url" : "http://703188621864333642.nicene.xyz:80/play/vi1011644/9165495580/333642.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online": "true"
-},
-{
-"name": "TUDN Mex HD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",
-"url": "http://89553021133244790.nicene.xyz:80/play/vi1011644/9165495580/244790.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online": "true"
-},
-{
-"name": "Azteca 7 HD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
-"url": "http://89553021133279267.nicene.xyz:80/play/vi1011644/9165495580/279267.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online": "true"
-},
-{
-"name": "Movistar Deportes",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png",
-"url" : "http://89553021133268070.nicene.xyz:80/play/vi1011644/9165495580/268070.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "Movistar Golf",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url" : "http://89553021133268094.nicene.xyz:80/play/vi1011644/9165495580/268094.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "Real Madrid Tv",
-"image": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",
-"url" : "http://89553021133321402.nicene.xyz:80/play/vi1011644/9165495580/321402.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "Barca Tv",
-"image": "https://www.thesportsdb.com/images/media/channel/tvlogo/yd1cpc1616924982.png",
-"url" : "http://89553021133165442.nicene.xyz:80/play/vi1011644/9165495580/165442.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "TDP",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"url" : "http://89553021133321432.nicene.xyz:80/play/vi1011644/9165495580/321432.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "Vamos",
-"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-"url" : "http://89553021133321071.nicene.xyz:80/play/vi1011644/9165495580/321071.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "#Vamos",
-"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-"url": "http://89553021133321072.nicene.xyz:80/play/vi1011644/9165495580/321072.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"desktop": "",
-"online":"true",
-"embed": "",
-"isHost": ""
-},
-{
-"name": "Gol Play",
-"image": "https://tvendirecto.es/wp-content/uploads/gol-tv-en-directo.png",
-"url" : "http://89553021133165443.nicene.xyz:80/play/vi1011644/9165495580/165443.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "Toros MoviStar",
-"image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png",
-"url" : "http://89553021133321446.nicene.xyz:80/play/vi1011644/9165495580/321446.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "TyC Sport",
-"image": "https://globalsquads.com/custom/uploads/images/72027_tyc.png",
-"url": "https://nosequewea.tk/dtvc?get=aHR0cHM6Ly8xMjQwLXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&key=NGQ0NWI3OWQ0NDg3MzQzNTg5MDU4YWI0OWRkZjhjZjA=&key2=YWE3Zjk1ZjcxYTNjZmU0MGFhNTk5MDRmOTI4NWFmNzI=",
-"userAgent" : "",
-"desktop": "",
-"online":"true",
-"embed": "",
-"isHost": "true"
-},
-{
-"name": "TNT Sports",
-"image": "https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",
-"url" : "http://89553021133333608.nicene.xyz:80/play/vi1011644/9165495580/333608.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online":"true"
-},
-{
-"name": "TNT Sports",
-"image": "https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",
-"url": "http://89553021133314267.nicene.xyz:80/play/vi1011644/9165495580/314267.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online":"true"
-},
-{
-"name": "TNT Sports 2 [CHI]",
-"image": "https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png",
-"url": "http://89553021133294607.nicene.xyz:80/play/vi1011644/9165495580/294607.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online":"true"
-},
-{
-"name": "TNT Sports 3",
-"image": "https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",
-"url": "http://89553021133266230.nicene.xyz:80/play/vi1011644/9165495580/266230.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"online":"true"
-},
-{
-"name": "Win Sports +",
-"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
-"url":"https://www.tutelehd.net/online2.php?a=3305",
-"referer" : "https://tucanaldeportivo.com/",
-"isHost": "true",
-"online":"true"
-},
-{
-"name": "Claro Sports",
-"image": "https://i.postimg.cc/7PBhwZPh/Claro-sports.png",
-"url": "http://89553021133279273.nicene.xyz:80/play/vi1011644/9165495580/279273.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9",
-"desktop": "",
-"online":"",
-"embed": "",
-"isHost": ""
-},
-{
-"name": "BeinSport Extra ñ",
-"info":"Tv Box",
-"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-"url" :  "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
-"userAgent": "",
-"online":"true"
-},
-{
-"name": "Bein Sport extra ñ",
-"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-"url": "https://nginxg.pages.dev/jwm3u?get=Ly9zaWxvaC5wbHV0by50di9saWxvL3Byb2R1Y3Rpb24vQkVJTi9FUy9tYXN0ZXIubTN1OA==",
-"desktop": "",
-"online":"true",
-"embed": "true",
-"isHost": "true"
-},
-{
-"name": "Sky Sport football",
-"image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
-"url":"http://89553021133301744.nicene.xyz:80/play/vi1011644/9165495580/301744.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "MavTV",
-"image": "http://www.kingofthecage.com/wp-content/uploads/mavtv.png",
-"url":"http://89553021133321298.nicene.xyz:80/play/vi1011644/9165495580/321298.ts",
-"userAgent" : "PlusMediaPlayer/0.0.9"
-},
-{
-"name": "Gol Tv",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-"url": "https://megadeportes.live/embed/repro/?r=Ly93aXRlcnZnLndpdGVyZy5yZXBsLmNvL2p3Lmh0bWw/Z2V0PWFIUjBjSE02THk4eE1UTTBMWFp2Y3k1a2RIWnZkSFF1WTI5dEwwUkJVMGd2YldGdWFXWmxjM1F1YlhCayZrZXk9TXpNd00ySTBZelk1T0RKbU16Z3haV0U1WlRNd09UQXdPV1ppWWpObU1qYz0ma2V5Mj1ZVGRtWkRRNU9EQTRaamc1TUdNeU5UQXdZbVl5TVRnd1lXRm1OREl6TURjPQ==",
-"desktop": "",
-"online":"true",
-"embed": "true",
-"isHost": "true"
-}
-]
+    [
+        {
+        "name": "Eurosport 1",
+		"info":"España",
+        "image": "https://www.pngkit.com/png/full/146-1464169_eurosport-1.png",
+        "url": "https://www.rofootball.com/eurosport-1-spain/",
+        "userAgent": "",
+        "isHost": "true",
+        "embed": ""
+        },
+        {
+        "name": "Eurosport 2",
+		"info":"España",
+        "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+        "url": "https://www.rofootball.com/eurosport-2-spain/",
+        "userAgent": "",
+        "isHost": "true",
+        "embed": ""
+        },
+		{
+        "name": "FS1",
+		"info":"USA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png",
+        "url": "https://www.rofootball.com/fox-sports-1-usa/",
+        "userAgent": "",
+        "isHost": "true",
+        "embed": ""
+        },
+		{
+        "name": "FS2",
+		"info":"USA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
+        "url": "https://www.rofootball.com/1574/",
+        "userAgent": "",
+        "isHost": "true",
+        "embed": ""
+        },
+		{
+        "name": "Espn",
+		"info":"USA",
+        "image": "https://secure.espncdn.com/watchespn/images/espnplus/paywalls/ESPN_PLUS.logo@2x.png",
+        "url": "https://www.rofootball.com/espn-usa/",
+        "userAgent": "",
+        "isHost": "true",
+        "embed": ""
+        },
+		{
+        "name": "Espn 2",
+		"info":"USA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1024px-Espn2.svg.png",
+        "url": "https://www.rofootball.com/espn-2-usa/",
+        "userAgent": "",
+        "isHost": "true",
+        "embed": ""
+        }
+    ]   
 }

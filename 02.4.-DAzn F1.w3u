@@ -10,34 +10,44 @@
     	{
 		"name": "Dazn F1",
 		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-		"url": "http://89553021133318564.nicene.xyz:80/play/vi1011644/9165495580/318564.ts",
-		"userAgent" : "PlusMediaPlayer/0.0.9",
-		"online": "true"
+		"url": "https://fotnet24.com/dazn-f1-spain/",
+		"userAgent" : "",
+		"online": "true",
+		"isHost": "true",
+		"embed": ""
 		},
 		{
 		"name": "Dazn F1",
 		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-		"url": "https://nginxg.pages.dev/daznf1",
+		"url": "https://fotnet24.com/dazn-f1-es-live-537/",
+		"userAgent" : "",
 		"online": "true",
-		"isHost": true,
-		"embed": true
+		"isHost": "true",
+		"embed": ""
 		},
 		{
 		"name": "Dazn F1",
 		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-		"url": "https://nginxg.pages.dev/daznf1-jw",
+		"url": "https://daddylivehd.sx/embed/stream-537.php",
 		"online": "true",
-		"isHost": true,
-		"embed": true
+		"isHost": "true",
+		"embed": ""
 		},
 		{
 		"name": "Dazn F1",
 		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-		"url": "https://cdix.pages.dev/daznf1",
-		"desktop": "",
+		"url": "https://www.rofootball.com/dazn-f1/",
 		"online": "true",
-		"isHost": "",
-		"embed": true
-		}          
+		"isHost": "true",
+		"embed": ""
+		},
+		{
+		"name": "Dazn F1",
+		"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+		"url": "https://www.tutelehd.xyz/online.php?a=8649",
+		"online": "true",
+		"isHost": "true",
+		"embed": ""
+		}  
     ]
 }

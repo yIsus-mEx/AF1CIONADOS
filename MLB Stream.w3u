@@ -1,0 +1,116 @@
+{
+"name": "MLB Stream",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/uikuYd8B",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+	[
+		{
+        "name": "MLB",
+		"info":"Canal 01",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-01/",
+		"isHost": "true"
+        },
+		{  
+        "name": "MLB",
+		"info":"Canal 02",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-02/",
+		"isHost": "true"
+        }, 
+		{
+		"name": "MLB",
+		"info":"Canal 03",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-03/",
+		"isHost": "true"
+        }, 
+		{
+		"name": "MLB",
+		"info":"Canal 04",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-04/",
+		"isHost": "true"
+        }, 
+		{  
+        "name": "MLB",
+		"info":"Canal 05",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-05/",
+		"isHost": "true"
+        }, 
+		{
+		"name": "MLB",
+		"info":"Canal 06",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-06/",
+		"isHost": "true"
+        }, 
+		{
+		"name": "MLB",
+		"info":"Canal 07",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "http://markkystreams.com/video/mlb-07/",
+		"isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 08",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-08/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 09",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-09/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 10",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-10/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 11",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-11/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 12",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-12/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 13",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-13/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 14",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-14/",
+        "isHost": "true"
+        },
+		{
+        "name": "MLB",
+        "info":"Canal 15",
+        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+        "url" : "https://markkystreams.com/video/mlb-15/",
+        "isHost": "true"
+        }
+	]
+}

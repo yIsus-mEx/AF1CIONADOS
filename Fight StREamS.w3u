@@ -1,0 +1,46 @@
+{
+"name": "Fight StREamS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/MyzrhUft",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+	[
+		{
+        "name": "Boxing Sports",
+		"info":"Canal 01",
+		"image": "https://i.postimg.cc/hvVfKCYt/Boxing-new.png",
+		"url" : "https://markkystreams.com/video/boxing-1/",
+		"isHost": "true"
+        },
+		{
+        "name": "Boxing Sports",
+		"info":"Canal 02",
+		"image": "https://i.postimg.cc/hvVfKCYt/Boxing-new.png",
+		"url" : "https://markkystreams.com/video/boxing-2/",
+		"isHost": "true"
+        },
+		{
+        "name": "Boxing Sports",
+		"info":"Canal 03",
+		"image": "https://i.postimg.cc/hvVfKCYt/Boxing-new.png",
+		"url" : "https://markkystreams.com/video/boxing-3/",
+		"isHost": "true"
+        },
+		{
+        "name": "Fight Sports",
+		"info":"Canal 01",
+		"image": "https://i.postimg.cc/WbPd5vDF/Fight-new.png",
+		"url" : "https://markkystreams.com/video/ufc/",
+		"isHost": "true"
+        },
+		{
+        "name": "Fight Sports",
+		"info":"Canal 02",
+		"image": "https://i.postimg.cc/WbPd5vDF/Fight-new.png",
+		"url" : "https://markkystreams.com/video/mma/",
+		"isHost": "true"
+        }
+	]
+}
