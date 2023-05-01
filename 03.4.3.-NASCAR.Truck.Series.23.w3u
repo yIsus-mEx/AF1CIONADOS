@@ -8,6 +8,42 @@
 "stations":
     [
 		{
+        "name": "NASCAR Truck Series Martinsville 200",
+        "info":"[Round 07 - 2023]",
+        "online": "true",
+        "image": "https://www.martinsvillespeedway.com/wp-content/uploads/sites/1013/2021/07/08/16x9-united-rentals-200-1024x500.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246626&hash=504a331b7c7d5518&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Pinty's Bristol",
+        "info":"[Round 06 - 2023]",
+        "online": "true",
+        "image": "https://i.ytimg.com/vi/M9mj0fq2TCQ/maxresdefault.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246599&hash=bdcaca1e6e66bac6&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Texas 250",
+        "info":"[Round 05 - 2023]",
+        "online": "true",
+        "image": "https://pbs.twimg.com/media/FskNLzqaMAMmyDB.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246565&hash=d3e4b5554260ab7d&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Circuit Of The Americas 225",
+        "info":"[Round 04 - 2023]",
+        "online": "true",
+        "image": "https://workingonmyredneck.com/wp-content/uploads/2022/03/Kris-Wright-2022-03-23T125120.445.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246515&hash=7c5af4ac89adc520&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
         "name": "NASCAR Truck Series Atlanta 200",
         "info":"[Round 03 - 2023]",
         "online": "true",

@@ -8,6 +8,42 @@
 "stations":
     [
 		{
+        "name": "NASCAR Xfinity Talladega 300",
+        "info":"[Round 09 - 2023]",
+        "online": "true",
+        "image": "https://www.talladegasuperspeedway.com/wp-content/uploads/sites/1002/2021/09/08/TSS-2021-Sparks300-Web-1400x500-1.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246663&hash=94744eeb448691ea&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Xfinity Martinsville 250",
+        "info":"[Round 08 - 2023]",
+        "online": "true",
+        "image": "https://www.martinsvillespeedway.com/wp-content/uploads/sites/1013/2021/05/cook-out-1920x600-article-header-1400x500.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246630&hash=d214f83d28c81c82&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Xfinity ToyotaCare 250",
+        "info":"[Round 07 - 2023]",
+        "online": "true",
+        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2018/04/ToyotaCare-250.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246564&hash=93a52e59f6e25858&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Xfinity Circuit Of The Americas 250",
+        "info":"[Round 06 - 2023]",
+        "online": "true",
+        "image": "https://www.gamblingsites.org/app/uploads/2022/03/NASCAR-Pit-Boss-250-img-1.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246517&hash=abfb2a77c0f79b86&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
         "name": "NASCAR Xfinity Atlanta 250",
         "info":"[Round 05 - 2023]",
         "online": "true",
@@ -53,5 +89,4 @@
         "embed":""
         }
 	]
-}	
-		
+}

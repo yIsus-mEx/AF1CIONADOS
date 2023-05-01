@@ -1,0 +1,71 @@
+{
+"name": "Documental Simeone",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/HisS5TTn",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+	[
+    	{
+        "name": "T1 E1 - Es Mi Vida",
+        "info":"Castellano",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "url": "https://ok.ru/video/3846905268787",
+        "userAgent" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+		"name": "T1 E2 - Pequeños Detalles",
+        "info":"Castellano",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "url": "https://ok.ru/video/3849798879795",
+        "userAgent" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+		"name": "T1 E3 - El Cuchillo Entre Los Dientes",
+        "info":"Castellano",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "url": "https://ok.ru/video/3849798683187",
+        "userAgent" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+		"name": "T1 E4 - Creer",
+        "info":"Castellano",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "url": "https://ok.ru/video/3849798486579",
+        "userAgent" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+		"name": "T1 E5 - Mesa Chica",
+        "info":"Castellano",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "url": "https://ok.ru/video/3849798355507",
+        "userAgent" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+		"name": "T1 E6 - Vivir Partido a Partido",
+        "info":"Castellano",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "url": "https://ok.ru/video/3849798224435",
+        "userAgent" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        }
+	]
+}

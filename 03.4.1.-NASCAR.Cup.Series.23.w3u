@@ -8,6 +8,51 @@
 "stations":
     [
         {
+        "name": "NASCAR Cup Talladega 500",
+        "info":"[Round 10 - 2023]",
+        "online": "true",
+        "image": "https://www.gamblingsites.org/app/uploads/2020/06/Geico-500-Race-Track-1.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246667&hash=70b6f1017bffda4d&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Cup Martinsville 400",
+        "info":"[Round 09 - 2023]",
+        "online": "true",
+        "image": "https://www.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk3MjYwMTU0Mjc2Njg1ODE5/martinsville-2023-spring-race-logo.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246633&hash=7cfc845e7e5493cd&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Cup Bristol Dirt",
+        "info":"[Round 08 - 2023]",
+        "online": "true",
+        "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/03/1000/562/04.08.23_NASCAR-Top-Moments_Food-City-Dirt-Race_Horizontal.jpg?ve=1&tl=1",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246603&hash=e091c445cc12b345&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Cup Richmond 400",
+        "info":"[Round 07 - 2023]",
+        "online": "true",
+        "image": "https://www.richmondraceway.com/wp-content/uploads/sites/1005/2021/06/15/06-FAP400-16x9-1-1024x500.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246567&hash=c15592a093976f59&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Cup Circuit Of The Americas",
+        "info":"[Round 06 - 2023]",
+        "online": "true",
+        "image": "https://i.postimg.cc/VNqcCj94/Echo-Park-Automotive-Grand-Prix.webp",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246528&hash=b8632e2552f3114c&hd=3",
+        "isHost": "true",
+        "embed":""
+        },
+		{
         "name": "NASCAR Cup Atlanta 400",
         "info":"[Round 05 - 2023]",
         "online": "true",
