@@ -71,12 +71,13 @@
 {
 "name": "@yIsus_mEx",
 "image": "https://i.postimg.cc/LX5vcPNv/sol-azteca-new.png",
-"url": "https://t.me/Lista_AF1CIONADOS"
-},
+"url": "https://t.me/Lista_AF1CIONADOS",
+"import": false
 {
 "name": "@AF1CIONADOS",
 "image": "https://i.postimg.cc/Mpm8CnG5/telegram-new.png",
-"url": "https://wallpapercave.com/wp/jFG1Ax2.png"
+"url": "https://wallpapercave.com/wp/jFG1Ax2.png",
+"import": false
 }
 ]
 }
