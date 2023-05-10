@@ -50,9 +50,16 @@
          "import": false
         },
 		{
+         "name": "ToRos",
+         "image": "https://i.postimg.cc/Dyr1qsc2/toros-new.png",
+         "url": "https://pastebin.com/77mDKQrS",
+         "info":"",
+         "import": false
+        },
+		{
          "name": "ESPN sPOrtS",
-         "image": "https://www.cenidet.edu.mx/archivos/Cenidet/construccion.gif",
-         "url": "https://www.cenidet.edu.mx/archivos/Cenidet/construccion.gif",
+         "image": "https://i.postimg.cc/jSxXNGSn/Espn-Deportes-new.png",
+         "url": "https://pastebin.com/fykK7CSx",
          "info":"",
          "import": false
         },
@@ -115,7 +122,7 @@
 		{
          "name": "Fight StREamS",
          "image": "https://i.postimg.cc/7LXFHQGd/Fight-Sports-new.png",
-         "url": "https://pastebin.com/MyzrhUft",
+         "url": "https://pastebin.com/NvuGcH61",
          "info":"",
          "import": false
         }
