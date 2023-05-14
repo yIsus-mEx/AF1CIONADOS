@@ -1,0 +1,81 @@
+{
+"name": "NASCAR Truck Series 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/H6XDGPRA",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "@yIsus_mEx",
+"stations":
+    [
+		{
+        "name": "NASCAR Truck Series Martinsville 200",
+        "info":"[Round 07 - 2023]",
+        "online": "true",
+        "image": "https://www.martinsvillespeedway.com/wp-content/uploads/sites/1013/2021/07/08/16x9-united-rentals-200-1024x500.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246626&hash=504a331b7c7d5518&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Pinty's Bristol",
+        "info":"[Round 06 - 2023]",
+        "online": "true",
+        "image": "https://i.ytimg.com/vi/M9mj0fq2TCQ/maxresdefault.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246599&hash=bdcaca1e6e66bac6&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Texas 250",
+        "info":"[Round 05 - 2023]",
+        "online": "true",
+        "image": "https://pbs.twimg.com/media/FskNLzqaMAMmyDB.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246565&hash=d3e4b5554260ab7d&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Circuit Of The Americas 225",
+        "info":"[Round 04 - 2023]",
+        "online": "true",
+        "image": "https://workingonmyredneck.com/wp-content/uploads/2022/03/Kris-Wright-2022-03-23T125120.445.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246515&hash=7c5af4ac89adc520&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        },
+		{
+        "name": "NASCAR Truck Series Atlanta 200",
+        "info":"[Round 03 - 2023]",
+        "online": "true",
+        "image": "https://jordanandersonracing.com/wp-content/uploads/2021/03/Fr8Auctions.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246485&hash=15ce80565df01155&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        },
+        {
+        "name": "NASCAR Truck Series Las Vegas 200",
+        "info":"[Round 02 - 2023]",
+        "online": "true",
+        "image": "https://i.ytimg.com/vi/bMhkomhI270/maxresdefault.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=-635936&id=456246428&hash=946f21d9cf825b5e&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        },
+        {
+        "name": "NASCAR Truck NextEra Energy 250",
+        "info":"[Round 01 - 2023]",
+        "online": "true",
+        "image": "https://www.nascarwagers.com/wp-content/uploads/2021/02/DIS-Nextera-2020.jpg",
+        "url" :"https://vk.com/video_ext.php?oid=658573886&id=456239194&hash=7cda6505a286b4da&hd=3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "embed":""
+        }
+	]
+}
