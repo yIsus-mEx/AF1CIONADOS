@@ -1,56 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX KIDS HD
-http://line.dmtv-4k.me:80/655367/587437/430649
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES ACTION HD
-http://line.dmtv-4k.me:80/655367/587437/378690
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES AMAZON PRIME HD
-http://line.dmtv-4k.me:80/655367/587437/699534
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES ANIMATION HD HD
-http://line.dmtv-4k.me:80/655367/587437/389722
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES CHRISTMAS HD
-http://line.dmtv-4k.me:80/655367/587437/531126
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES COMEDY HD
-http://line.dmtv-4k.me:80/655367/587437/378691
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES CRIME HD
-http://line.dmtv-4k.me:80/655367/587437/389658
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES DISNEY HD
-http://line.dmtv-4k.me:80/655367/587437/652052
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES DOCUMENTARY HD
-http://line.dmtv-4k.me:80/655367/587437/389718
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES DRAMA HD
-http://line.dmtv-4k.me:80/655367/587437/389621
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES FAMILY HD
-http://line.dmtv-4k.me:80/655367/587437/389622
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES HORROR HD
-http://line.dmtv-4k.me:80/655367/587437/378693
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES JACKIE CHAN HD
-http://line.dmtv-4k.me:80/655367/587437/423581
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES JASON STATHAM HD
-http://line.dmtv-4k.me:80/655367/587437/421525
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES JOHN TRAVOLTA HD
-http://line.dmtv-4k.me:80/655367/587437/421195
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES MARVEL HD
-http://line.dmtv-4k.me:80/655367/587437/643146
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES MORGAN FREEMAN HD
-http://line.dmtv-4k.me:80/655367/587437/317594
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES NETFLIX HD
-http://line.dmtv-4k.me:80/655367/587437/633132
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES NICOLAS CAGE HD
-http://line.dmtv-4k.me:80/655367/587437/413377
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES ROMANTIC HD
-http://line.dmtv-4k.me:80/655367/587437/378694
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES TOM CRUISE HD
-http://line.dmtv-4k.me:80/655367/587437/413379
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES VAN DAMME HD
-http://line.dmtv-4k.me:80/655367/587437/413378
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES WESTERN HD
-http://line.dmtv-4k.me:80/655367/587437/406487
-#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MUSIC LATINO HD
-http://line.dmtv-4k.me:80/655367/587437/378685
-
-
-
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png",DAZN F1 FHD
 http://line.dmtv-4k.me:80/655367/587437/360355
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png",DAZN F1 HD
@@ -493,6 +442,238 @@ http://line.dmtv-4k.me:80/655367/587437/740477
 http://line.dmtv-4k.me:80/655367/587437/740478
 
 
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX KIDS HD
+http://line.dmtv-4k.me:80/655367/587437/430649
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES ACTION HD
+http://line.dmtv-4k.me:80/655367/587437/378690
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES AMAZON PRIME HD
+http://line.dmtv-4k.me:80/655367/587437/699534
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES ANIMATION HD HD
+http://line.dmtv-4k.me:80/655367/587437/389722
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES CHRISTMAS HD
+http://line.dmtv-4k.me:80/655367/587437/531126
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES COMEDY HD
+http://line.dmtv-4k.me:80/655367/587437/378691
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES CRIME HD
+http://line.dmtv-4k.me:80/655367/587437/389658
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES DISNEY HD
+http://line.dmtv-4k.me:80/655367/587437/652052
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES DOCUMENTARY HD
+http://line.dmtv-4k.me:80/655367/587437/389718
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES DRAMA HD
+http://line.dmtv-4k.me:80/655367/587437/389621
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES FAMILY HD
+http://line.dmtv-4k.me:80/655367/587437/389622
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES HORROR HD
+http://line.dmtv-4k.me:80/655367/587437/378693
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES JACKIE CHAN HD
+http://line.dmtv-4k.me:80/655367/587437/423581
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES JASON STATHAM HD
+http://line.dmtv-4k.me:80/655367/587437/421525
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES JOHN TRAVOLTA HD
+http://line.dmtv-4k.me:80/655367/587437/421195
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES MARVEL HD
+http://line.dmtv-4k.me:80/655367/587437/643146
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES MORGAN FREEMAN HD
+http://line.dmtv-4k.me:80/655367/587437/317594
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES NETFLIX HD
+http://line.dmtv-4k.me:80/655367/587437/633132
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES NICOLAS CAGE HD
+http://line.dmtv-4k.me:80/655367/587437/413377
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES ROMANTIC HD
+http://line.dmtv-4k.me:80/655367/587437/378694
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES TOM CRUISE HD
+http://line.dmtv-4k.me:80/655367/587437/413379
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES VAN DAMME HD
+http://line.dmtv-4k.me:80/655367/587437/413378
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MOVIES WESTERN HD
+http://line.dmtv-4k.me:80/655367/587437/406487
+#EXTINF:-1 group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/Flix.png",FLIX MUSIC LATINO HD
+http://line.dmtv-4k.me:80/655367/587437/378685
+
+
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción FHD
+http://line.dmtv-4k.me:80/655367/587437/94688
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción HD
+http://line.dmtv-4k.me:80/655367/587437/36540
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29812
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español FHD
+http://line.dmtv-4k.me:80/655367/587437/94714
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español HD
+http://line.dmtv-4k.me:80/655367/587437/36478
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29814
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M+ Clásicos FHD
+http://line.dmtv-4k.me:80/655367/587437/710949
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M+ Clásicos HD
+http://line.dmtv-4k.me:80/655367/587437/711567
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M+ Comedia FHD
+http://line.dmtv-4k.me:80/655367/587437/94706
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M+ Comedia HD
+http://line.dmtv-4k.me:80/655367/587437/36545
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M+ Drama FHD
+http://line.dmtv-4k.me:80/655367/587437/94711
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M+ Drama HD
+http://line.dmtv-4k.me:80/655367/587437/36539
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png",M+ Estrenos 2 HD
+http://line.dmtv-4k.me:80/655367/587437/511203
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Estrenos FHD
+http://line.dmtv-4k.me:80/655367/587437/94704
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Estrenos HD
+http://line.dmtv-4k.me:80/655367/587437/36507
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Estrenos HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29811
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MUNIDA.png",M+ Superagentes HD
+http://line.dmtv-4k.me:80/655367/587437/607517
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="",Movistar CineDoc&Roll
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29813
+
+
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",M+ Series 2 FHD
+http://line.dmtv-4k.me:80/655367/587437/710951
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",M+ Series 2 HD
+http://line.dmtv-4k.me:80/655367/587437/511202
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series FHD
+http://line.dmtv-4k.me:80/655367/587437/94709
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series HD
+http://line.dmtv-4k.me:80/655367/587437/36520
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29823
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29824
+
+
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break FHD
+http://line.dmtv-4k.me:80/655367/587437/710954
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break FHD
+http://line.dmtv-4k.me:80/655367/587437/94668
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break HD
+http://line.dmtv-4k.me:80/655367/587437/36484
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break HD
+http://line.dmtv-4k.me:80/655367/587437/711561
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break FHD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89387
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break HD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89388
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC FHD
+http://line.dmtv-4k.me:80/655367/587437/94654
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC HD
+http://line.dmtv-4k.me:80/655367/587437/36537
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29816
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime FHD
+http://line.dmtv-4k.me:80/655367/587437/94682
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime HD
+http://line.dmtv-4k.me:80/655367/587437/36482
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime HD
+http://line.dmtv-4k.me:80/655367/587437/711545
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime FHD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89414
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime HD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89415
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN FHD
+http://line.dmtv-4k.me:80/655367/587437/94650
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN HD
+http://line.dmtv-4k.me:80/655367/587437/36548
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29819
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png",AXN White HD
+http://line.dmtv-4k.me:80/655367/587437/36510
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png",AXN White HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29820
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox FHD
+http://line.dmtv-4k.me:80/655367/587437/94700
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox HD
+http://line.dmtv-4k.me:80/655367/587437/36542
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29822
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine HD
+http://line.dmtv-4k.me:80/655367/587437/607516
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine FHD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/330194
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine HD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/330193
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",Calle 13 FHD
+http://line.dmtv-4k.me:80/655367/587437/94666
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",Calle 13 HD
+http://line.dmtv-4k.me:80/655367/587437/36530
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina FHD
+http://line.dmtv-4k.me:80/655367/587437/94664
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina HD
+http://line.dmtv-4k.me:80/655367/587437/36488
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina 4K
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89400
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina 4K
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89402
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina FHD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89401
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",Canal Decasa FHD
+http://line.dmtv-4k.me:80/655367/587437/94663
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",Canal Decasa HD
+http://line.dmtv-4k.me:80/655367/587437/36494
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png",Comedy Central FHD
+http://line.dmtv-4k.me:80/655367/587437/94684
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png",Comedy Central HD
+http://line.dmtv-4k.me:80/655367/587437/36515
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png",COSMO FHD
+http://line.dmtv-4k.me:80/655367/587437/94683
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png",COSMO HD
+http://line.dmtv-4k.me:80/655367/587437/36514
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png",DARK HD
+http://line.dmtv-4k.me:80/655367/587437/661193
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png",DKISS SD
+http://line.dmtv-4k.me:80/655367/587437/729144
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png",DKISS SD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89233
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood FHD
+http://line.dmtv-4k.me:80/655367/587437/94695
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood HD
+http://line.dmtv-4k.me:80/655367/587437/36541
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29815
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HORSE.png",Horse TV HD
+http://line.dmtv-4k.me:80/655367/587437/711543
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HORSE.png",Horse TV HD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89409
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png",La Resistencia HD
+http://line.dmtv-4k.me:80/655367/587437/511204
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",M+ #0 FHD
+http://line.dmtv-4k.me:80/655367/587437/94657
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png",M+ Fest FHD
+http://line.dmtv-4k.me:80/655367/587437/710950
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png",M+ Fest HD
+http://line.dmtv-4k.me:80/655367/587437/711556
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png",Paramount Channel HD
+http://line.dmtv-4k.me:80/655367/587437/94637
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png",Paramount Channel SD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89235
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png",Somos FHD
+http://line.dmtv-4k.me:80/655367/587437/542497
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png",SundanceTV FHD
+http://line.dmtv-4k.me:80/655367/587437/94634
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png",SundanceTV HD
+http://line.dmtv-4k.me:80/655367/587437/94771
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png",SYFY HD
+http://line.dmtv-4k.me:80/655367/587437/36506
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM FHD
+http://line.dmtv-4k.me:80/655367/587437/94632
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM HD
+http://line.dmtv-4k.me:80/655367/587437/36518
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM HD
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29817
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png",Ubeat HD
+http://line.dmtv-4k.me:80/655367/587437/711560
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png",Warner bros FHD
+http://line.dmtv-4k.me:80/655367/587437/94629
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png",XTRM FHD
+http://line.dmtv-4k.me:80/655367/587437/167703
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png",XTRM HD
+http://line.dmtv-4k.me:80/655367/587437/167704
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png",Ubeat HD
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89412
+
+
 #EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea 4K
 http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89385
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea HD
@@ -761,188 +942,6 @@ http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29837
 http://line.dmtv-4k.me:80/655367/587437/94677
 #EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",Dreamworks HD
 http://line.dmtv-4k.me:80/655367/587437/36480
-
-
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción FHD
-http://line.dmtv-4k.me:80/655367/587437/94688
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción HD
-http://line.dmtv-4k.me:80/655367/587437/36540
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29812
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español FHD
-http://line.dmtv-4k.me:80/655367/587437/94714
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español HD
-http://line.dmtv-4k.me:80/655367/587437/36478
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29814
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M+ Clásicos FHD
-http://line.dmtv-4k.me:80/655367/587437/710949
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M+ Clásicos HD
-http://line.dmtv-4k.me:80/655367/587437/711567
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M+ Comedia FHD
-http://line.dmtv-4k.me:80/655367/587437/94706
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M+ Comedia HD
-http://line.dmtv-4k.me:80/655367/587437/36545
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M+ Drama FHD
-http://line.dmtv-4k.me:80/655367/587437/94711
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M+ Drama HD
-http://line.dmtv-4k.me:80/655367/587437/36539
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png",M+ Estrenos 2 HD
-http://line.dmtv-4k.me:80/655367/587437/511203
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Estrenos FHD
-http://line.dmtv-4k.me:80/655367/587437/94704
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Estrenos HD
-http://line.dmtv-4k.me:80/655367/587437/36507
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Estrenos HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29811
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MUNIDA.png",M+ Superagentes HD
-http://line.dmtv-4k.me:80/655367/587437/607517
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="",Movistar CineDoc&Roll
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29813
-
-
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",M+ Series 2 FHD
-http://line.dmtv-4k.me:80/655367/587437/710951
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",M+ Series 2 HD
-http://line.dmtv-4k.me:80/655367/587437/511202
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series FHD
-http://line.dmtv-4k.me:80/655367/587437/94709
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series HD
-http://line.dmtv-4k.me:80/655367/587437/36520
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29823
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29824
-
-
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break FHD
-http://line.dmtv-4k.me:80/655367/587437/710954
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break FHD
-http://line.dmtv-4k.me:80/655367/587437/94668
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break HD
-http://line.dmtv-4k.me:80/655367/587437/36484
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break HD
-http://line.dmtv-4k.me:80/655367/587437/711561
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break FHD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89387
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break HD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89388
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC FHD
-http://line.dmtv-4k.me:80/655367/587437/94654
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC HD
-http://line.dmtv-4k.me:80/655367/587437/36537
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29816
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime FHD
-http://line.dmtv-4k.me:80/655367/587437/94682
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime HD
-http://line.dmtv-4k.me:80/655367/587437/36482
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime HD
-http://line.dmtv-4k.me:80/655367/587437/711545
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime FHD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89414
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime HD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89415
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN FHD
-http://line.dmtv-4k.me:80/655367/587437/94650
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN HD
-http://line.dmtv-4k.me:80/655367/587437/36548
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29819
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png",AXN White HD
-http://line.dmtv-4k.me:80/655367/587437/36510
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png",AXN White HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29820
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox FHD
-http://line.dmtv-4k.me:80/655367/587437/94700
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox HD
-http://line.dmtv-4k.me:80/655367/587437/36542
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29822
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine HD
-http://line.dmtv-4k.me:80/655367/587437/607516
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine FHD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/330194
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine HD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/330193
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",Calle 13 FHD
-http://line.dmtv-4k.me:80/655367/587437/94666
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",Calle 13 HD
-http://line.dmtv-4k.me:80/655367/587437/36530
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina FHD
-http://line.dmtv-4k.me:80/655367/587437/94664
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina HD
-http://line.dmtv-4k.me:80/655367/587437/36488
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina 4K
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89400
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina 4K
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89402
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina FHD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89401
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",Canal Decasa FHD
-http://line.dmtv-4k.me:80/655367/587437/94663
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",Canal Decasa HD
-http://line.dmtv-4k.me:80/655367/587437/36494
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png",Comedy Central FHD
-http://line.dmtv-4k.me:80/655367/587437/94684
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png",Comedy Central HD
-http://line.dmtv-4k.me:80/655367/587437/36515
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png",COSMO FHD
-http://line.dmtv-4k.me:80/655367/587437/94683
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png",COSMO HD
-http://line.dmtv-4k.me:80/655367/587437/36514
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png",DARK HD
-http://line.dmtv-4k.me:80/655367/587437/661193
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png",DKISS SD
-http://line.dmtv-4k.me:80/655367/587437/729144
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png",DKISS SD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89233
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood FHD
-http://line.dmtv-4k.me:80/655367/587437/94695
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood HD
-http://line.dmtv-4k.me:80/655367/587437/36541
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29815
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HORSE.png",Horse TV HD
-http://line.dmtv-4k.me:80/655367/587437/711543
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HORSE.png",Horse TV HD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89409
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png",La Resistencia HD
-http://line.dmtv-4k.me:80/655367/587437/511204
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",M+ #0 FHD
-http://line.dmtv-4k.me:80/655367/587437/94657
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png",M+ Fest FHD
-http://line.dmtv-4k.me:80/655367/587437/710950
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png",M+ Fest HD
-http://line.dmtv-4k.me:80/655367/587437/711556
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png",Paramount Channel HD
-http://line.dmtv-4k.me:80/655367/587437/94637
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png",Paramount Channel SD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89235
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png",Somos FHD
-http://line.dmtv-4k.me:80/655367/587437/542497
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png",SundanceTV FHD
-http://line.dmtv-4k.me:80/655367/587437/94634
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png",SundanceTV HD
-http://line.dmtv-4k.me:80/655367/587437/94771
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png",SYFY HD
-http://line.dmtv-4k.me:80/655367/587437/36506
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM FHD
-http://line.dmtv-4k.me:80/655367/587437/94632
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM HD
-http://line.dmtv-4k.me:80/655367/587437/36518
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM HD
-http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29817
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png",Ubeat HD
-http://line.dmtv-4k.me:80/655367/587437/711560
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png",Warner bros FHD
-http://line.dmtv-4k.me:80/655367/587437/94629
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png",XTRM FHD
-http://line.dmtv-4k.me:80/655367/587437/167703
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png",XTRM HD
-http://line.dmtv-4k.me:80/655367/587437/167704
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png",Ubeat HD
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/89412
 
 
 #EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGON.png",Aragón TV Int HD
