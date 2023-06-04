@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", 4 GDL
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+#EXTINF:-1 group-title="Bics", 8 MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NOTICIERO UNIVISION
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", EURO NEWS
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", ATV+ PE
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TN23
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NUESTRA VISION
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX USA
+https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", N+
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", N+ MEDIA
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
