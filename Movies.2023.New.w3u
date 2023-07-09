@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/7/w1280/6SCokFkHM5dTTTfiGXmPWysucMX.jpg" group-title="2023",Unos Suegros de Armas Tomar (2023)
+https://www.linkbox.to/f-detail/ZnAzeTJvMDB6cTkw0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1g7fQGD/Indiana-Jones-y-el-dial-del-destino.webp" group-title="2023",Indiana Jones 5: El Dia Del Destino (TS) (2023)
 https://www.linkbox.to/f-detail/ZnAzeTBrMDA0NW1j0
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/guardians_of_the_galaxy_vol_3-466272381-mmed.jpg" group-title="2023",Guardianes de la galaxia Vol. 3 (2023)
@@ -8,8 +10,6 @@ https://www.linkbox.to/f-detail/ZnAzeTBrMDAycHN30
 https://www.linkbox.to/f-detail/ZnAzeDJ3MDAwd3U10
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/imagen-2023-02-14-111503094_276j.600.jpg" group-title="2023",The Flash (TS) (2023)
 https://www.linkbox.to/f-detail/ZnAzeDF3MDAzMzlt0
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FzEsZ1EaAAEv5t9.jpg" group-title="2023",Elemental (TS) (2023)
-https://www.linkbox.to/f-detail/ZnAzeDl3MDAwZjFo0
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-917021785-large.jpg" group-title="2023",Transformers: El Despertar De Las Bestias (TS) (2023)
 https://www.linkbox.to/f-detail/ZnAzd2xvMDAyaXFh0
 #EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2023/05/los-blancos-no-saben-saltar-remake-4-900x1125.jpg" group-title="2023",Los Blancos No Saben Saltar (2023)
@@ -18,8 +18,6 @@ https://www.linkbox.to/f-detail/ZnAzdmY4MDAybDI40
 https://www.linkbox.to/f-detail/ZnAzdnEwMDA1OXBi0
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_56165.jpg" group-title="2023",The Black Demon (TS) (2023)
 https://www.linkbox.to/f-detail/ZnAzdjk4MDBuNDc40
-#EXTINF:-1 tvg-logo="https://www.aceprensa.com/wp-content/uploads/2023/05/la-sirenita.jpg" group-title="2023",La Sirenita (TS) (2023)
-https://www.linkbox.to/f-detail/ZnAzdjYwMDAwMTli0
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41958-723264-20230519041114.jpg" group-title="2023",Rápidos y Furiosos X (2023)
 https://www.linkbox.to/f-detail/ZnAzdnhzMDAzdnRr0
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41753-892183-20230217030119.jpg" group-title="2023",Sombras Del Crimen (2023)
