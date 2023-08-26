@@ -1,13 +1,30 @@
 {
 "name": "DePorTes mIx 2023",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://pastebin.com/YJmu3f68",
+"url": "https://pastebin.com/pce48sGL",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "telegram": "@yIsus_mEx",
 "info": "",
 "stations":
     [
         {
+        "name": "Alcaraz vs Djokovic",
+        "info":"Ingles",
+        "image": "https://www.atptour.com/-/media/images/news/2023/08/20/03/13/alcaraz-djokovic-cincinnati-2023-graphic.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0MWJnMDB5a3F20",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "SummerSlam 2023",
+        "info":"Latino",
+        "image": "https://wrestlingnoticias.com.br/wp-content/uploads/2023/06/WWE-SummerSlam-2023-Poster-1200x675-1.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0MDhrMDAxM2p40",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
         "name": "WrestleMania 39",
         "info":"[Dia 1]",
         "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
