@@ -721,376 +721,520 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2160874
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2186097
 #EXTINF:-1 tvg-id="ext" tvg-name="S| ESPN ACCN" tvg-logo="" group-title="TV | USA Sports",S| ESPN ACCN
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2188401
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: #0 HD" tvg-logo="http://l3d.us:25461/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="TV | EspaÃ±a",ES: #0 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: #0 HD" tvg-logo="http://l3d.us:25461/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="TV | España 01",ES: #0 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100616
-#EXTINF:-1 tvg-id="#0.es" tvg-name="ES: #0 SD" tvg-logo="http://l3d.us:25461/images/96eb2e81a7d022ec17b9d93948bcc29c.png" group-title="TV | EspaÃ±a",ES: #0 SD
+#EXTINF:-1 tvg-id="#0.es" tvg-name="ES: #0 SD" tvg-logo="http://l3d.us:25461/images/96eb2e81a7d022ec17b9d93948bcc29c.png" group-title="TV | España 01",ES: #0 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100615
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: 24h SD" tvg-logo="http://l3d.us:25461/images/2e55417a3218cc187fdc82ff8248fcc2.png" group-title="TV | EspaÃ±a",ES: 24h SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: 24h SD" tvg-logo="http://l3d.us:25461/images/2e55417a3218cc187fdc82ff8248fcc2.png" group-title="TV | España 01",ES: 24h SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100538
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: A Punt SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg.png" group-title="TV | EspaÃ±a",ES: A Punt SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: A Punt SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg.png" group-title="TV | España 01",ES: A Punt SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100741
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: A3Series HD" tvg-logo="http://ceoapps.org/logos/a3series.png" group-title="TV | EspaÃ±a",ES: A3Series HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: A3Series HD" tvg-logo="http://ceoapps.org/logos/a3series.png" group-title="TV | España 01",ES: A3Series HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100637
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: A3Series Internacional FHD" tvg-logo="http://ceoapps.org/logos/a3series.png" group-title="TV | EspaÃ±a",ES: A3Series Internacional FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: A3Series Internacional FHD" tvg-logo="http://ceoapps.org/logos/a3series.png" group-title="TV | España 01",ES: A3Series Internacional FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100639
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Alcarria TV SD" tvg-logo="http://l3d.us:25461/images/a08b21c5f6983666a0a9e8ed7218f6bd.png" group-title="TV | EspaÃ±a",ES: Alcarria TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Alcarria TV SD" tvg-logo="http://l3d.us:25461/images/a08b21c5f6983666a0a9e8ed7218f6bd.png" group-title="TV | España 01",ES: Alcarria TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100740
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC FHD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | EspaÃ±a",ES: AMC FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC FHD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | España 01",ES: AMC FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100648
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC HD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | EspaÃ±a",ES: AMC HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC HD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | España 01",ES: AMC HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100647
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC SD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | EspaÃ±a",ES: AMC SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC SD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | España 01",ES: AMC SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100646
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 FHD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | EspaÃ±a",ES: Antena 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 FHD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | España 01",ES: Antena 3 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100547
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 HD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | EspaÃ±a",ES: Antena 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 HD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | España 01",ES: Antena 3 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100546
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 Internacional FHD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | EspaÃ±a",ES: Antena 3 Internacional FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 Internacional FHD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | España 01",ES: Antena 3 Internacional FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100550
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 Internacional HD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | EspaÃ±a",ES: Antena 3 Internacional HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 Internacional HD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | España 01",ES: Antena 3 Internacional HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100549
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 Internacional SD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | EspaÃ±a",ES: Antena 3 Internacional SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Antena 3 Internacional SD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | España 01",ES: Antena 3 Internacional SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100548
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: Antena 3 SD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | EspaÃ±a",ES: Antena 3 SD
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: Antena 3 SD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | España 01",ES: Antena 3 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100545
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Aragon TV SD" tvg-logo="http://l3d.us:25461/images/06069dbe458b1539d4d88be814ea19cb.png" group-title="TV | EspaÃ±a",ES: Aragon TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Aragon TV SD" tvg-logo="http://l3d.us:25461/images/06069dbe458b1539d4d88be814ea19cb.png" group-title="TV | España 01",ES: Aragon TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100742
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN FHD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | EspaÃ±a",ES: AXN FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN FHD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | España 01",ES: AXN FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100642
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN HD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | EspaÃ±a",ES: AXN HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN HD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | España 01",ES: AXN HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100641
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN SD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | EspaÃ±a",ES: AXN SD
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN SD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | España 01",ES: AXN SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100640
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN White FHD" tvg-logo="http.//ceoapps.org/accionwhite.png" group-title="TV | EspaÃ±a",ES: AXN White FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN White FHD" tvg-logo="http.//ceoapps.org/accionwhite.png" group-title="TV | España 01",ES: AXN White FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100645
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN White HD" tvg-logo="http.//ceoapps.org/accionwhite.png" group-title="TV | EspaÃ±a",ES: AXN White HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN White HD" tvg-logo="http.//ceoapps.org/accionwhite.png" group-title="TV | España 01",ES: AXN White HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100644
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN White SD" tvg-logo="http.//ceoapps.org/accionwhite.png" group-title="TV | EspaÃ±a",ES: AXN White SD
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN White SD" tvg-logo="http.//ceoapps.org/accionwhite.png" group-title="TV | España 01",ES: AXN White SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100643
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Baby TV SD" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="TV | EspaÃ±a",ES: Baby TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Baby TV SD" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="TV | España 01",ES: Baby TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100716
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: BeMad FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BeMad_Icon.svg/800px-BeMad_Icon.svg.png" group-title="TV | EspaÃ±a",ES: BeMad FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: BeMad FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BeMad_Icon.svg/800px-BeMad_Icon.svg.png" group-title="TV | España 01",ES: BeMad FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100567
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Blaze HD" tvg-logo="http://l3d.us:25461/images/dfdfce74e3685cc9a3659bc546cb37cc.png" group-title="TV | EspaÃ±a",ES: Blaze HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Blaze HD" tvg-logo="http://l3d.us:25461/images/dfdfce74e3685cc9a3659bc546cb37cc.png" group-title="TV | España 01",ES: Blaze HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100569
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Blaze SD" tvg-logo="http://l3d.us:25461/images/dfdfce74e3685cc9a3659bc546cb37cc.png" group-title="TV | EspaÃ±a",ES: Blaze SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Blaze SD" tvg-logo="http://l3d.us:25461/images/dfdfce74e3685cc9a3659bc546cb37cc.png" group-title="TV | España 01",ES: Blaze SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100568
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Boing HD" tvg-logo="http://l3d.us:25461/images/00bb5483bd1b93c823c1434946acbacc.png" group-title="TV | EspaÃ±a",ES: Boing HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Boing HD" tvg-logo="http://l3d.us:25461/images/00bb5483bd1b93c823c1434946acbacc.png" group-title="TV | España 01",ES: Boing HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100715
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Boing SD" tvg-logo="http://l3d.us:25461/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="TV | EspaÃ±a",ES: Boing SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Boing SD" tvg-logo="http://l3d.us:25461/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="TV | España 01",ES: Boing SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100714
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Bondia TV SD" tvg-logo="http://l3d.us:25461/images/4522ae57682243e701fb7197542e0ca4.png" group-title="TV | EspaÃ±a",ES: Bondia TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Bondia TV SD" tvg-logo="http://l3d.us:25461/images/4522ae57682243e701fb7197542e0ca4.png" group-title="TV | España 01",ES: Bondia TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100743
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Calle 13 FHD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | EspaÃ±a",ES: Calle 13 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Calle 13 FHD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | España 01",ES: Calle 13 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100587
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Calle 13 HD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | EspaÃ±a",ES: Calle 13 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Calle 13 HD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | España 01",ES: Calle 13 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100586
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13 SD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | EspaÃ±a",ES: Calle 13 SD
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13 SD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | España 01",ES: Calle 13 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100585
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal 25 Barbastro TV HD" tvg-logo="http://l3d.us:25461/images/f105b58bff03918dc7bbc52904f41474.png" group-title="TV | EspaÃ±a",ES: Canal 25 Barbastro TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal 25 Barbastro TV HD" tvg-logo="http://l3d.us:25461/images/f105b58bff03918dc7bbc52904f41474.png" group-title="TV | España 01",ES: Canal 25 Barbastro TV HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100746
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Cocina FHD" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="TV | EspaÃ±a",ES: Canal Cocina FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Cocina FHD" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="TV | España 01",ES: Canal Cocina FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100592
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Cocina SD" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="TV | EspaÃ±a",ES: Canal Cocina SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Cocina SD" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="TV | España 01",ES: Canal Cocina SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100591
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Extremadura TV SD" tvg-logo="http://l3d.us:25461/images/503616d8de996e3bb26736d29f8db408.png" group-title="TV | EspaÃ±a",ES: Canal Extremadura TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Extremadura TV SD" tvg-logo="http://l3d.us:25461/images/503616d8de996e3bb26736d29f8db408.png" group-title="TV | España 01",ES: Canal Extremadura TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100747
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Malaga HD" tvg-logo="http://l3d.us:25461/images/2459d140c6d2c5f1de9a365ce863da7a.png" group-title="TV | EspaÃ±a",ES: Canal Malaga HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Malaga HD" tvg-logo="http://l3d.us:25461/images/2459d140c6d2c5f1de9a365ce863da7a.png" group-title="TV | España 01",ES: Canal Malaga HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100745
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Panda SD" tvg-logo="http://l3d.us:25461/images/1bb95f514e29d297c895502782c30e67.png" group-title="TV | EspaÃ±a",ES: Canal Panda SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Panda SD" tvg-logo="http://l3d.us:25461/images/1bb95f514e29d297c895502782c30e67.png" group-title="TV | España 01",ES: Canal Panda SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100717
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Sur AndalucÃ­a FHD" tvg-logo="http://l3d.us:25461/images/b2dd0c4f74898327e6137af710116eb2.png" group-title="TV | EspaÃ±a",ES: Canal Sur AndalucÃ­a FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Sur AndalucÃ­a FHD" tvg-logo="http://l3d.us:25461/images/b2dd0c4f74898327e6137af710116eb2.png" group-title="TV | España 01",ES: Canal Sur AndalucÃ­a FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100744
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Sur AndalucÃ­a SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_Sur_Radio.png" group-title="TV | EspaÃ±a",ES: Canal Sur AndalucÃ­a SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Canal Sur AndalucÃ­a SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_Sur_Radio.png" group-title="TV | España 01",ES: Canal Sur AndalucÃ­a SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100752
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Cazavision SD" tvg-logo="http://l3d.us:25461/images/f21a9236373afe20f8fca55b0c7aa3c6.png" group-title="TV | EspaÃ±a",ES: Cazavision SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Cazavision SD" tvg-logo="http://l3d.us:25461/images/f21a9236373afe20f8fca55b0c7aa3c6.png" group-title="TV | España 01",ES: Cazavision SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100614
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: CGTN En EspaÃ±ol SD" tvg-logo="http://l3d.us:25461/images/f3291790d2b35af70365a95c844222fc.png" group-title="TV | EspaÃ±a",ES: CGTN En EspaÃ±ol SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CGTN En EspaÃ±ol SD" tvg-logo="http://l3d.us:25461/images/f3291790d2b35af70365a95c844222fc.png" group-title="TV | España 01",ES: CGTN En EspaÃ±ol SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100563
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Clan TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png" group-title="TV | EspaÃ±a",ES: Clan TVE SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Clan TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png" group-title="TV | España 01",ES: Clan TVE SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100718
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Comedy Central FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | EspaÃ±a",ES: Comedy Central FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Comedy Central FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | España 01",ES: Comedy Central FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100590
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Comedy Central HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | EspaÃ±a",ES: Comedy Central HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Comedy Central HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | España 01",ES: Comedy Central HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100589
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Comedy Central SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | EspaÃ±a",ES: Comedy Central SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Comedy Central SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | España 01",ES: Comedy Central SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100588
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO FHD" tvg-logo="http://l3d.us:25461/images/76c6905d3cdbc4a0b8b105348122721c.png" group-title="TV | EspaÃ±a",ES: COSMO FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO FHD" tvg-logo="http://l3d.us:25461/images/76c6905d3cdbc4a0b8b105348122721c.png" group-title="TV | España 01",ES: COSMO FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100595
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO HD" tvg-logo="http://l3d.us:25461/images/65227f2a7396f8cbbc6dbe6511dae55f.png" group-title="TV | EspaÃ±a",ES: COSMO HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO HD" tvg-logo="http://l3d.us:25461/images/65227f2a7396f8cbbc6dbe6511dae55f.png" group-title="TV | España 01",ES: COSMO HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100594
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO SD" tvg-logo="http://l3d.us:25461/images/76c6905d3cdbc4a0b8b105348122721c.png" group-title="TV | EspaÃ±a",ES: COSMO SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO SD" tvg-logo="http://l3d.us:25461/images/76c6905d3cdbc4a0b8b105348122721c.png" group-title="TV | España 01",ES: COSMO SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100593
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Crimen Investigacion HD" tvg-logo="http://l3d.us:25461/images/181516304609513dfff0272ea78eedde.png" group-title="TV | EspaÃ±a",ES: Crimen Investigacion HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Crimen Investigacion HD" tvg-logo="http://l3d.us:25461/images/181516304609513dfff0272ea78eedde.png" group-title="TV | España 01",ES: Crimen Investigacion HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100597
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Crimen Investigacion SD" tvg-logo="http://l3d.us:25461/images/181516304609513dfff0272ea78eedde.png" group-title="TV | EspaÃ±a",ES: Crimen Investigacion SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Crimen Investigacion SD" tvg-logo="http://l3d.us:25461/images/181516304609513dfff0272ea78eedde.png" group-title="TV | España 01",ES: Crimen Investigacion SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100596
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Cuatro FHD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | EspaÃ±a",ES: Cuatro FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Cuatro FHD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | España 01",ES: Cuatro FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100553
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Cuatro HD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | EspaÃ±a",ES: Cuatro HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Cuatro HD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | España 01",ES: Cuatro HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100552
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: Cuatro SD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | EspaÃ±a",ES: Cuatro SD
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: Cuatro SD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | España 01",ES: Cuatro SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100551
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DARK FHD" tvg-logo="http://l3d.us:25461/images/516248c93f96b9e66ac7036b767bb2b3.png" group-title="TV | EspaÃ±a",ES: DARK FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DARK FHD" tvg-logo="http://l3d.us:25461/images/516248c93f96b9e66ac7036b767bb2b3.png" group-title="TV | España 01",ES: DARK FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100601
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DARK SD" tvg-logo="http://l3d.us:25461/images/516248c93f96b9e66ac7036b767bb2b3.png" group-title="TV | EspaÃ±a",ES: DARK SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DARK SD" tvg-logo="http://l3d.us:25461/images/516248c93f96b9e66ac7036b767bb2b3.png" group-title="TV | España 01",ES: DARK SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100599
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Decasa HD" tvg-logo="http://l3d.us:25461/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="TV | EspaÃ±a",ES: Decasa HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Decasa HD" tvg-logo="http://l3d.us:25461/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="TV | España 01",ES: Decasa HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100603
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Decasa SD" tvg-logo="http://l3d.us:25461/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="TV | EspaÃ±a",ES: Decasa SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Decasa SD" tvg-logo="http://l3d.us:25461/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="TV | España 01",ES: Decasa SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100602
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Diez TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/DiezTV.png" group-title="TV | EspaÃ±a",ES: Diez TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Diez TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/DiezTV.png" group-title="TV | España 01",ES: Diez TV FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100748
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Discovery Channel FHD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | EspaÃ±a",ES: Discovery Channel FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Discovery Channel FHD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | España 01",ES: Discovery Channel FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100605
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Discovery Channel SD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | EspaÃ±a",ES: Discovery Channel SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Discovery Channel SD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | España 01",ES: Discovery Channel SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100604
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Channel FHD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | EspaÃ±a",ES: Disney Channel FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Channel FHD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | España 01",ES: Disney Channel FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100721
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Channel HD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | EspaÃ±a",ES: Disney Channel HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Channel HD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | España 01",ES: Disney Channel HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100720
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Channel SD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | EspaÃ±a",ES: Disney Channel SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Channel SD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | España 01",ES: Disney Channel SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100719
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Junior SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="TV | EspaÃ±a",ES: Disney Junior SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Disney Junior SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="TV | España 01",ES: Disney Junior SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100722
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Divinity HD" tvg-logo="http://l3d.us:25461/images/24d1176ddefe601b948c68e67f347a71.png" group-title="TV | EspaÃ±a",ES: Divinity HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Divinity HD" tvg-logo="http://l3d.us:25461/images/24d1176ddefe601b948c68e67f347a71.png" group-title="TV | España 01",ES: Divinity HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100573
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Divinity SD" tvg-logo="http://l3d.us:25461/images/24d1176ddefe601b948c68e67f347a71.png" group-title="TV | EspaÃ±a",ES: Divinity SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Divinity SD" tvg-logo="http://l3d.us:25461/images/24d1176ddefe601b948c68e67f347a71.png" group-title="TV | España 01",ES: Divinity SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100572
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DKISS" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | EspaÃ±a",ES: DKISS
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DKISS" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | España 01",ES: DKISS
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100801
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Dkiss SD" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | EspaÃ±a",ES: Dkiss SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Dkiss SD" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | España 01",ES: Dkiss SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100574
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DMAX SD" tvg-logo="http://l3d.us:25461/images/888d0d03549e54793050d64651d143fa.png" group-title="TV | EspaÃ±a",ES: DMAX SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DMAX SD" tvg-logo="http://l3d.us:25461/images/888d0d03549e54793050d64651d143fa.png" group-title="TV | España 01",ES: DMAX SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100575
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Energy SD" tvg-logo="http://l3d.us:25461/images/196e5b29b1cdd595717c36b7558d144d.png" group-title="TV | EspaÃ±a",ES: Energy SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Energy SD" tvg-logo="http://l3d.us:25461/images/196e5b29b1cdd595717c36b7558d144d.png" group-title="TV | España 01",ES: Energy SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100576
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB 1 SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | EspaÃ±a",ES: ETB 1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB 1 SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | España 01",ES: ETB 1 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100762
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="TV | EspaÃ±a",ES: ETB 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="TV | España 01",ES: ETB 2 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100765
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB 2 SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | EspaÃ±a",ES: ETB 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB 2 SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | España 01",ES: ETB 2 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100764
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB SAT SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | EspaÃ±a",ES: ETB SAT SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ETB SAT SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | España 01",ES: ETB SAT SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100766
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF FHD" tvg-logo="http://l3d.us:25461/images/3c46ff85e2f88f81e1392ecdd1280d36.png" group-title="TV | EspaÃ±a",ES: FDF FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF FHD" tvg-logo="http://l3d.us:25461/images/3c46ff85e2f88f81e1392ecdd1280d36.png" group-title="TV | España 01",ES: FDF FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100579
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF HD" tvg-logo="http://l3d.us:25461/images/3c46ff85e2f88f81e1392ecdd1280d36.png" group-title="TV | EspaÃ±a",ES: FDF HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF HD" tvg-logo="http://l3d.us:25461/images/3c46ff85e2f88f81e1392ecdd1280d36.png" group-title="TV | España 01",ES: FDF HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100578
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF SD" tvg-logo="http://l3d.us:25461/images/ee2105ada1dfece7bb7ab5c0fc68f2b7.png" group-title="TV | EspaÃ±a",ES: FDF SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF SD" tvg-logo="http://l3d.us:25461/images/ee2105ada1dfece7bb7ab5c0fc68f2b7.png" group-title="TV | España 01",ES: FDF SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100577
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX FHD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | EspaÃ±a",ES: FOX FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX FHD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | España 01",ES: FOX FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100654
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX HD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | EspaÃ±a",ES: FOX HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX HD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | España 01",ES: FOX HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100653
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX SD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | EspaÃ±a",ES: FOX SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX SD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | España 01",ES: FOX SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100652
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hamaika FHD" tvg-logo="http://l3d.us:25461/images/ad22fefe609dbdfe140e9b9fbe0dcc75.png" group-title="TV | EspaÃ±a",ES: Hamaika FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hamaika FHD" tvg-logo="http://l3d.us:25461/images/ad22fefe609dbdfe140e9b9fbe0dcc75.png" group-title="TV | España 01",ES: Hamaika FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100749
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hispan TV SD" tvg-logo="http://l3d.us:25461/images/c338933dd1ee15038a3aac90356a2c5b.png" group-title="TV | EspaÃ±a",ES: Hispan TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hispan TV SD" tvg-logo="http://l3d.us:25461/images/c338933dd1ee15038a3aac90356a2c5b.png" group-title="TV | España 01",ES: Hispan TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100560
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Historia FHD" tvg-logo="http://l3d.us:25461/images/838a653f2110c40cc1a1393bd306a2ac.png" group-title="TV | EspaÃ±a",ES: Historia FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Historia FHD" tvg-logo="http://l3d.us:25461/images/838a653f2110c40cc1a1393bd306a2ac.png" group-title="TV | España 01",ES: Historia FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100607
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Historia SD" tvg-logo="http://l3d.us:25461/images/2ce124f0a3a2c8ca5358b6c7b10b0506.png" group-title="TV | EspaÃ±a",ES: Historia SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Historia SD" tvg-logo="http://l3d.us:25461/images/2ce124f0a3a2c8ca5358b6c7b10b0506.png" group-title="TV | España 01",ES: Historia SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100606
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hollywood FHD" tvg-logo="http://l3d.us:25461/images/df4b0c57a17eca4868c8b09a19a28d29.png" group-title="TV | EspaÃ±a",ES: Hollywood FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hollywood FHD" tvg-logo="http://l3d.us:25461/images/df4b0c57a17eca4868c8b09a19a28d29.png" group-title="TV | España 01",ES: Hollywood FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100632
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hollywood SD" tvg-logo="http://viperos.net:8080/images/6d274be0ae0d21be120712a9bdf94005.png" group-title="TV | EspaÃ±a",ES: Hollywood SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Hollywood SD" tvg-logo="http://viperos.net:8080/images/6d274be0ae0d21be120712a9bdf94005.png" group-title="TV | España 01",ES: Hollywood SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100630
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Interalmeria FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Interalmeria_tv_logo.png" group-title="TV | EspaÃ±a",ES: Interalmeria FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Interalmeria FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Interalmeria_tv_logo.png" group-title="TV | España 01",ES: Interalmeria FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100751
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Intereconomia" tvg-logo="http://l3d.us:25461/images/1207bb1409b21a3c69c0023354193cff.png" group-title="TV | EspaÃ±a",ES: Intereconomia
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Intereconomia" tvg-logo="http://l3d.us:25461/images/1207bb1409b21a3c69c0023354193cff.png" group-title="TV | España 01",ES: Intereconomia
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100561
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 1 FHD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | EspaÃ±a",ES: La 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 1 FHD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | España 01",ES: La 1 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100541
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 1 HD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | EspaÃ±a",ES: La 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 1 HD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | España 01",ES: La 1 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100540
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: La 1 SD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | EspaÃ±a",ES: La 1 SD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: La 1 SD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | España 01",ES: La 1 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100539
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 2 FHD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | EspaÃ±a",ES: La 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 2 FHD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | España 01",ES: La 2 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100544
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 2 HD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | EspaÃ±a",ES: La 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: La 2 HD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | España 01",ES: La 2 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100543
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: La 2 SD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | EspaÃ±a",ES: La 2 SD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: La 2 SD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | España 01",ES: La 2 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100542
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: La Sexta FHD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | EspaÃ±a",ES: La Sexta FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: La Sexta FHD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | España 01",ES: La Sexta FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100559
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: La Sexta HD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | EspaÃ±a",ES: La Sexta HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: La Sexta HD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | España 01",ES: La Sexta HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100558
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: La Sexta SD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | EspaÃ±a",ES: La Sexta SD
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: La Sexta SD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | España 01",ES: La Sexta SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100557
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Accion FHD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | EspaÃ±a",ES: M. Accion FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Accion FHD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | España 01",ES: M. Accion FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100675
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Cine EspaÃ±ol SD" tvg-logo="http://l3d.us:25461/images/7312d808e8b085fe3427978a8b4d710a.png" group-title="TV | EspaÃ±a",ES: M. Cine EspaÃ±ol SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Cine EspaÃ±ol SD" tvg-logo="http://l3d.us:25461/images/7312d808e8b085fe3427978a8b4d710a.png" group-title="TV | España 01",ES: M. Cine EspaÃ±ol SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100685
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Comedia FHD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | EspaÃ±a",ES: M. Comedia FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Comedia FHD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | España 01",ES: M. Comedia FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100678
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Comedia HD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | EspaÃ±a",ES: M. Comedia HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Comedia HD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | España 01",ES: M. Comedia HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100677
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Comedia SD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | EspaÃ±a",ES: M. Comedia SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Comedia SD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | España 01",ES: M. Comedia SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100676
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Drama FHD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | EspaÃ±a",ES: M. Drama FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Drama FHD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | España 01",ES: M. Drama FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100672
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Drama HD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | EspaÃ±a",ES: M. Drama HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Drama HD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | España 01",ES: M. Drama HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100671
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Drama SD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | EspaÃ±a",ES: M. Drama SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Drama SD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | España 01",ES: M. Drama SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100670
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Dreamworks FHD" tvg-logo="http://l3d.us:25461/images/1826d1de2415cb28f6284726e116f982.png" group-title="TV | EspaÃ±a",ES: M. Dreamworks FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Dreamworks FHD" tvg-logo="http://l3d.us:25461/images/1826d1de2415cb28f6284726e116f982.png" group-title="TV | España 01",ES: M. Dreamworks FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100730
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Dreamworks HD" tvg-logo="http://l3d.us:25461/images/1826d1de2415cb28f6284726e116f982.png" group-title="TV | EspaÃ±a",ES: M. Dreamworks HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Dreamworks HD" tvg-logo="http://l3d.us:25461/images/1826d1de2415cb28f6284726e116f982.png" group-title="TV | España 01",ES: M. Dreamworks HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100729
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos 2 FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Estrenos 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos 2 FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Estrenos 2 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100669
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos 2 HD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Estrenos 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos 2 HD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Estrenos 2 HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100668
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos 2 SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Estrenos 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos 2 SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Estrenos 2 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100667
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Estrenos FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Estrenos FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100666
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos HD" tvg-logo="http://l3d.us:25461/images/96f68e8ed150ff892d042131309c264d.png" group-title="TV | EspaÃ±a",ES: M. Estrenos HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos HD" tvg-logo="http://l3d.us:25461/images/96f68e8ed150ff892d042131309c264d.png" group-title="TV | España 01",ES: M. Estrenos HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100665
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Estrenos SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Estrenos SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Estrenos SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100664
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Fest FHD" tvg-logo="http://l3d.us:25461/images/d59636fee9b96ed457085ce3075ddca2.png" group-title="TV | EspaÃ±a",ES: M. Fest FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Fest FHD" tvg-logo="http://l3d.us:25461/images/d59636fee9b96ed457085ce3075ddca2.png" group-title="TV | España 01",ES: M. Fest FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100739
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series 2 FHD" tvg-logo="http://l3d.us:25461/images/d59a4095b2b513f0f931726e584e50c4.png" group-title="TV | EspaÃ±a",ES: M. Series 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series 2 FHD" tvg-logo="http://l3d.us:25461/images/d59a4095b2b513f0f931726e584e50c4.png" group-title="TV | España 01",ES: M. Series 2 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100684
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series 2 SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Series 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series 2 SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Series 2 SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100683
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Series FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Series FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100682
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series HD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | EspaÃ±a",ES: M. Series HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Series HD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España 01",ES: M. Series HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100680
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: MEGA HD" tvg-logo="http://l3d.us:25461/images/d9d32b01d24d5c45f8cb75e95ca7ed31.png" group-title="TV | EspaÃ±a",ES: MEGA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MEGA HD" tvg-logo="http://l3d.us:25461/images/d9d32b01d24d5c45f8cb75e95ca7ed31.png" group-title="TV | España 01",ES: MEGA HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100571
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: MEGA SD" tvg-logo="http://l3d.us:25461/images/d9d32b01d24d5c45f8cb75e95ca7ed31.png" group-title="TV | EspaÃ±a",ES: MEGA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MEGA SD" tvg-logo="http://l3d.us:25461/images/d9d32b01d24d5c45f8cb75e95ca7ed31.png" group-title="TV | España 01",ES: MEGA SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100570
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Mezzo SD" tvg-logo="http://l3d.us:25461/images/8e7f4607f832559715e50be425a2cbe1.png" group-title="TV | EspaÃ±a",ES: Mezzo SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Mezzo SD" tvg-logo="http://l3d.us:25461/images/8e7f4607f832559715e50be425a2cbe1.png" group-title="TV | España 01",ES: Mezzo SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100738
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: MyTime Movie Network FHD" tvg-logo="http://l3d.us:25461/images/d475fc2411ad5f46e5dd9d91b27d9c70.png" group-title="TV | EspaÃ±a",ES: MyTime Movie Network FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MyTime Movie Network FHD" tvg-logo="http://l3d.us:25461/images/d475fc2411ad5f46e5dd9d91b27d9c70.png" group-title="TV | España 01",ES: MyTime Movie Network FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100623
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: MyTime Movie Network HD" tvg-logo="http://l3d.us:25461/images/f10d20bd603d8d8ee5e8d52b64bc8341.png" group-title="TV | EspaÃ±a",ES: MyTime Movie Network HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MyTime Movie Network HD" tvg-logo="http://l3d.us:25461/images/f10d20bd603d8d8ee5e8d52b64bc8341.png" group-title="TV | España 01",ES: MyTime Movie Network HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100622
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: MyTime Movie Network SD" tvg-logo="http://l3d.us:25461/images/f10d20bd603d8d8ee5e8d52b64bc8341.png" group-title="TV | EspaÃ±a",ES: MyTime Movie Network SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MyTime Movie Network SD" tvg-logo="http://l3d.us:25461/images/f10d20bd603d8d8ee5e8d52b64bc8341.png" group-title="TV | España 01",ES: MyTime Movie Network SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100621
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo FHD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | EspaÃ±a",ES: NatGeo FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo FHD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España 01",ES: NatGeo FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100610
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | EspaÃ±a",ES: NatGeo HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España 01",ES: NatGeo HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100609
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo SD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | EspaÃ±a",ES: NatGeo SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo SD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España 01",ES: NatGeo SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100608
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo Wild FHD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | EspaÃ±a",ES: NatGeo Wild FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo Wild FHD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | España 01",ES: NatGeo Wild FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100613
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo Wild HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | EspaÃ±a",ES: NatGeo Wild HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo Wild HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España 01",ES: NatGeo Wild HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100612
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo Wild SD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | EspaÃ±a",ES: NatGeo Wild SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NatGeo Wild SD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | España 01",ES: NatGeo Wild SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100611
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Neox FHD" tvg-logo="http://l3d.us:25461/images/69f654b079d53aaf56aef0307ab8af3d.png" group-title="TV | EspaÃ±a",ES: Neox FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Neox FHD" tvg-logo="http://l3d.us:25461/images/69f654b079d53aaf56aef0307ab8af3d.png" group-title="TV | España 01",ES: Neox FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100581
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Neox SD" tvg-logo="http://l3d.us:25461/images/69f654b079d53aaf56aef0307ab8af3d.png" group-title="TV | EspaÃ±a",ES: Neox SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Neox SD" tvg-logo="http://l3d.us:25461/images/69f654b079d53aaf56aef0307ab8af3d.png" group-title="TV | España 01",ES: Neox SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100580
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Nick Jr SD" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="TV | EspaÃ±a",ES: Nick Jr SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Nick Jr SD" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="TV | España 01",ES: Nick Jr SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100723
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Nickelodeon FHD" tvg-logo="http://l3d.us:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="TV | EspaÃ±a",ES: Nickelodeon FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Nickelodeon FHD" tvg-logo="http://l3d.us:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="TV | España 01",ES: Nickelodeon FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100727
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Nova SD" tvg-logo="http://l3d.us:25461/images/57eb99d68fe6ced7b01d09dd7c0b68fe.png" group-title="TV | EspaÃ±a",ES: Nova SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Nova SD" tvg-logo="http://l3d.us:25461/images/57eb99d68fe6ced7b01d09dd7c0b68fe.png" group-title="TV | España 01",ES: Nova SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100582
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Odisea FHD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | EspaÃ±a",ES: Odisea FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Odisea FHD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | España 01",ES: Odisea FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100584
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Odisea SD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | EspaÃ±a",ES: Odisea SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Odisea SD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | España 01",ES: Odisea SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100583
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: RTV Castilla y LeÃ³n HD (web)" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | EspaÃ±a",ES: RTV Castilla y LeÃ³n HD (web)
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: RTV Castilla y LeÃ³n HD (web)" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | España 01",ES: RTV Castilla y LeÃ³n HD (web)
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100768
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: RTV Castilla y LeÃ³n SD (web)" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | EspaÃ±a",ES: RTV Castilla y LeÃ³n SD (web)
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: RTV Castilla y LeÃ³n SD (web)" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | España 01",ES: RTV Castilla y LeÃ³n SD (web)
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100767
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_de_Somos.png" group-title="TV | EspaÃ±a",ES: SOMOS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_de_Somos.png" group-title="TV | España 01",ES: SOMOS FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100635
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Star TVE FHD" tvg-logo="http://l3d.us:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TV | EspaÃ±a",ES: Star TVE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Star TVE FHD" tvg-logo="http://l3d.us:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TV | España 01",ES: Star TVE FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100565
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Star TVE SD" tvg-logo="http://l3d.us:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TV | EspaÃ±a",ES: Star TVE SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Star TVE SD" tvg-logo="http://l3d.us:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TV | España 01",ES: Star TVE SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100564
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Sundance TV FHD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | EspaÃ±a",ES: Sundance TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Sundance TV FHD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | España 01",ES: Sundance TV FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100619
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Sundance TV HD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | EspaÃ±a",ES: Sundance TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Sundance TV HD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | España 01",ES: Sundance TV HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100618
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Sundance TV SD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | EspaÃ±a",ES: Sundance TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Sundance TV SD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | España 01",ES: Sundance TV SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100617
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: SyFy FHD" tvg-logo="http://l3d.us:25461/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="TV | EspaÃ±a",ES: SyFy FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: SyFy FHD" tvg-logo="http://l3d.us:25461/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="TV | España 01",ES: SyFy FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100626
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: SyFy SD" tvg-logo="http://l3d.us:25461/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="TV | EspaÃ±a",ES: SyFy SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: SyFy SD" tvg-logo="http://l3d.us:25461/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="TV | España 01",ES: SyFy SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100624
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 1" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 1
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 1" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 1
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100686
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 2" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 2
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 2" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 2
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100687
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 3" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 3
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 3" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 3
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100688
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 4 Crimen" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 4 Crimen
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 4 Crimen" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 4 Crimen
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100689
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 5" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 5
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 5" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 5
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100690
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 6" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 6
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 6" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 6
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100691
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 7" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | EspaÃ±a",ES: Taquilla 7
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Taquilla 7" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España 01",ES: Taquilla 7
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100692
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM FHD" tvg-logo="http://l3d.us:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="TV | EspaÃ±a",ES: TCM FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM FHD" tvg-logo="http://l3d.us:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="TV | España 01",ES: TCM FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100629
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM HD" tvg-logo="http://l3d.us:25461/images/d8fd878a5ce34e8eeaa90d5231814aac.png" group-title="TV | EspaÃ±a",ES: TCM HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM HD" tvg-logo="http://l3d.us:25461/images/d8fd878a5ce34e8eeaa90d5231814aac.png" group-title="TV | España 01",ES: TCM HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100628
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM SD" tvg-logo="http://l3d.us:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="TV | EspaÃ±a",ES: TCM SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM SD" tvg-logo="http://l3d.us:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="TV | España 01",ES: TCM SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100627
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Telecinco FHD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | EspaÃ±a",ES: Telecinco FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Telecinco FHD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | España 01",ES: Telecinco FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100556
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Telecinco HD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | EspaÃ±a",ES: Telecinco HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Telecinco HD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | España 01",ES: Telecinco HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100555
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Telecinco SD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | EspaÃ±a",ES: Telecinco SD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Telecinco SD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | España 01",ES: Telecinco SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100554
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Telemadrid SD" tvg-logo="http://l3d.us:25461/images/f8c27d7a0e447f221113a37adcd82201.png" group-title="TV | EspaÃ±a",ES: Telemadrid SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Telemadrid SD" tvg-logo="http://l3d.us:25461/images/f8c27d7a0e447f221113a37adcd82201.png" group-title="TV | España 01",ES: Telemadrid SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100562
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TelevisiÃ³ de Girona HD" tvg-logo="http://l3d.us:25461/images/bb1421c87bc56f6c4a7f3d46f1c3132f.png" group-title="TV | EspaÃ±a",ES: TelevisiÃ³ de Girona HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TelevisiÃ³ de Girona HD" tvg-logo="http://l3d.us:25461/images/bb1421c87bc56f6c4a7f3d46f1c3132f.png" group-title="TV | España 01",ES: TelevisiÃ³ de Girona HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100760
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Ten SD" tvg-logo="http://l3d.us:25461/images/97be6840973c004eaeb5d894e7681ddc.png" group-title="TV | EspaÃ±a",ES: Ten SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Ten SD" tvg-logo="http://l3d.us:25461/images/97be6840973c004eaeb5d894e7681ddc.png" group-title="TV | España 01",ES: Ten SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100598
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT FHD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | EspaÃ±a",ES: TNT FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT FHD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | España 01",ES: TNT FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100651
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT HD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | EspaÃ±a",ES: TNT HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT HD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | España 01",ES: TNT HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100650
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT SD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | EspaÃ±a",ES: TNT SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT SD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | España 01",ES: TNT SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100649
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia America HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | EspaÃ±a",ES: TV Galicia America HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia America HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España 01",ES: TV Galicia America HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100754
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia America SD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | EspaÃ±a",ES: TV Galicia America SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia America SD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España 01",ES: TV Galicia America SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100753
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Cultura HD" tvg-logo="http://l3d.us:25461/images/7d65c411e3bd9690c3f5df0607de6d4d.png" group-title="TV | EspaÃ±a",ES: TV Galicia Cultura HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Cultura HD" tvg-logo="http://l3d.us:25461/images/7d65c411e3bd9690c3f5df0607de6d4d.png" group-title="TV | España 01",ES: TV Galicia Cultura HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100755
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Europa HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | EspaÃ±a",ES: TV Galicia Europa HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Europa HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España 01",ES: TV Galicia Europa HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100757
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Europa SD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | EspaÃ±a",ES: TV Galicia Europa SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Europa SD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España 01",ES: TV Galicia Europa SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100756
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Infantil HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | EspaÃ±a",ES: TV Galicia Infantil HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Infantil HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España 01",ES: TV Galicia Infantil HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100758
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Momentos G HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | EspaÃ±a",ES: TV Galicia Momentos G HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV Galicia Momentos G HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España 01",ES: TV Galicia Momentos G HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100759
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV3 FHD" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | EspaÃ±a",ES: TV3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV3 FHD" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | España 01",ES: TV3 FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100761
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: TVE Internacional SD" tvg-logo="http://l3d.us:25461/images/34f50e6f9e30d567a10b1cd661939818.png" group-title="TV | EspaÃ±a",ES: TVE Internacional SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TVE Internacional SD" tvg-logo="http://l3d.us:25461/images/34f50e6f9e30d567a10b1cd661939818.png" group-title="TV | España 01",ES: TVE Internacional SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100537
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: XTRM FHD" tvg-logo="http://l3d.us:25461/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="TV | EspaÃ±a",ES: XTRM FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: XTRM FHD" tvg-logo="http://l3d.us:25461/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="TV | España 01",ES: XTRM FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100634
-#EXTINF:-1 tvg-id="ext" tvg-name="SP: ES: #Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | EspaÃ±a",SP: ES: #Vamos
+#EXTINF:-1 tvg-id="ext" tvg-name="SP: ES: #Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | España 01",SP: ES: #Vamos
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100770
-#EXTINF:-1 tvg-id="ext" tvg-name="SP: ES: #Vamos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | EspaÃ±a",SP: ES: #Vamos FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="SP: ES: #Vamos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | España 01",SP: ES: #Vamos FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100772
-#EXTINF:-1 tvg-id="ext" tvg-name="SP: ES: #Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | EspaÃ±a",SP: ES: #Vamos HD
+#EXTINF:-1 tvg-id="ext" tvg-name="SP: ES: #Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | España 01",SP: ES: #Vamos HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100771
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Accion SD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | EspaÃ±a",ES: M. Accion SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M. Accion SD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | España 01",ES: M. Accion SD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2146875
-#EXTINF:-1 tvg-id="ext" tvg-name="ES| M. Classicos" tvg-logo="" group-title="TV | EspaÃ±a",ES| M. Classicos
+#EXTINF:-1 tvg-id="ext" tvg-name="ES| M. Classicos" tvg-logo="" group-title="TV | España 01",ES| M. Classicos
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2148179
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: Betis tv HD" tvg-logo="http://l3d.us:25461/images/e71b10c22a8ffbce442e005df47982fd.png" group-title="TV | EspaÃ±a",ES: Betis tv HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Betis tv HD" tvg-logo="http://l3d.us:25461/images/e71b10c22a8ffbce442e005df47982fd.png" group-title="TV | España 01",ES: Betis tv HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2151502
-#EXTINF:-1 tvg-id="ext" tvg-name="ES MOVISTAR SERIESMANIA " tvg-logo="" group-title="TV | EspaÃ±a",ES MOVISTAR SERIESMANIA 
+#EXTINF:-1 tvg-id="ext" tvg-name="ES MOVISTAR SERIESMANIA " tvg-logo="" group-title="TV | España 01",ES MOVISTAR SERIESMANIA 
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2169945
+#EXTINF:-1 tvg-id="ext" tvg-name="##### SPAIN DIGITAL TV #####" tvg-logo="" group-title="TV | España 02",##### SPAIN DIGITAL TV #####
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2106.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="TV | España 02",ES: LA 1 HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2107.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: LA 2 HD" tvg-logo="" group-title="TV | España 02",ES: LA 2 HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2108.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ANTENA 3 HD" tvg-logo="" group-title="TV | España 02",ES: ANTENA 3 HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2109.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV3 CATALUNIA" tvg-logo="" group-title="TV | España 02",ES: TV3 CATALUNIA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2110.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CUATRO  HD" tvg-logo="" group-title="TV | España 02",ES: CUATRO  HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2111.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="TV | España 02",ES: TELECINCO HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2112.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: LA SEXTA  HD" tvg-logo="" group-title="TV | España 02",ES: LA SEXTA  HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2113.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: IBERLIA TV" tvg-logo="" group-title="TV | España 02",ES: IBERLIA TV
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2114.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DKISS" tvg-logo="" group-title="TV | España 02",ES: DKISS
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2115.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ENERGY" tvg-logo="" group-title="TV | España 02",ES: ENERGY
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2116.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DIVINITY" tvg-logo="" group-title="TV | España 02",ES: DIVINITY
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2117.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="TV | España 02",ES: 24 HORAS
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2118.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="##### SPAIN CINEMA #####" tvg-logo="" group-title="TV | España 02",##### SPAIN CINEMA #####
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2119.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: 0# HD" tvg-logo="" group-title="TV | España 02",ES: 0# HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2120.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="" group-title="TV | España 02",ES: MOVISTAR ESTRENOS HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2121.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M.ACCION HD" tvg-logo="" group-title="TV | España 02",ES: M.ACCION HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2122.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MOVISTAR  ACCIÂ©N HD" tvg-logo="" group-title="TV | España 02",ES: MOVISTAR  ACCIÂ©N HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2123.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="" group-title="TV | España 02",ES: MOVISTAR COMEDIA HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2124.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="" group-title="TV | España 02",ES: MOVISTAR DRAMA HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2125.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="" group-title="TV | España 02",ES: MOVISTAR SERIES HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2126.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MOVISTAR SERIESMANIA HD" tvg-logo="" group-title="TV | España 02",ES: MOVISTAR SERIESMANIA HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2127.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="TV | España 02",ES: HOLLYWOOD HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2128.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: A3 SERIES HD" tvg-logo="" group-title="TV | España 02",ES: A3 SERIES HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2129.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AMC HD" tvg-logo="" group-title="TV | España 02",ES: AMC HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2130.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN HD" tvg-logo="" group-title="TV | España 02",ES: AXN HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2131.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="TV | España 02",ES: AXN WHITE HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2132.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="TV | España 02",ES: CALLE 13 HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2133.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Classica" tvg-logo="" group-title="TV | España 02",ES: Classica
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2134.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="TV | España 02",ES: COMEDY CENTRAL HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2135.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: COSMO HD" tvg-logo="" group-title="TV | España 02",ES: COSMO HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2136.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FDF" tvg-logo="" group-title="TV | España 02",ES: FDF
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2137.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX HD" tvg-logo="" group-title="TV | España 02",ES: FOX HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2138.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="TV | España 02",ES: FOX LIFE HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2139.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="" group-title="TV | España 02",ES: PARAMOUNT CHANNEL
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2140.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: SYFY HD" tvg-logo="" group-title="TV | España 02",ES: SYFY HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2141.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TCM HD" tvg-logo="" group-title="TV | España 02",ES: TCM HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2142.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TNT HD" tvg-logo="" group-title="TV | España 02",ES: TNT HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2143.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="#### SPAIN ENTERTAINMENT ####" tvg-logo="" group-title="TV | España 02",#### SPAIN ENTERTAINMENT ####
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2144.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: ARAGON TV INT" tvg-logo="" group-title="TV | España 02",ES: ARAGON TV INT
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2145.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: BE MAD HD" tvg-logo="" group-title="TV | España 02",ES: BE MAD HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2146.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CLAN TVE" tvg-logo="" group-title="TV | España 02",ES: CLAN TVE
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2147.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MEGA" tvg-logo="" group-title="TV | España 02",ES: MEGA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2148.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: MTV ESPANA" tvg-logo="" group-title="TV | España 02",ES: MTV ESPANA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2149.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NEOX" tvg-logo="" group-title="TV | España 02",ES: NEOX
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2150.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NOVA" tvg-logo="" group-title="TV | España 02",ES: NOVA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2151.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TEN" tvg-logo="" group-title="TV | España 02",ES: TEN
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2152.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TOROS TV HD" tvg-logo="" group-title="TV | España 02",ES: TOROS TV HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2153.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: TV GALICIA" tvg-logo="" group-title="TV | España 02",ES: TV GALICIA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2154.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: VIAJAR HD" tvg-logo="" group-title="TV | España 02",ES: VIAJAR HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2155.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="##### SPAIN DOCUMENTARY #####" tvg-logo="" group-title="TV | España 02",##### SPAIN DOCUMENTARY #####
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2156.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="TV | España 02",ES: NAT GEO WILD HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2157.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TV | España 02",ES: NATIONAL GEOGRAPHIC HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2158.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="" group-title="TV | España 02",ES: DISCOVERY CHANNEL
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2159.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: HISTORIA" tvg-logo="" group-title="TV | España 02",ES: HISTORIA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2160.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="TV | España 02",ES: CANAL COCINA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2161.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CANAL DECASA" tvg-logo="" group-title="TV | España 02",ES: CANAL DECASA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2162.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CANAL ODISEA" tvg-logo="" group-title="TV | España 02",ES: CANAL ODISEA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2163.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CANAL SUR A" tvg-logo="" group-title="TV | España 02",ES: CANAL SUR A
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2164.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="TV | España 02",ES: CAZA Y PESCA HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2165.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CRIME & INVESTIGATION" tvg-logo="" group-title="TV | España 02",ES: CRIME & INVESTIGATION
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2166.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="##### SPAIN KIDS #####" tvg-logo="" group-title="TV | España 02",##### SPAIN KIDS #####
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2167.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: BABY TV" tvg-logo="" group-title="TV | España 02",ES: BABY TV
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2168.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: BLAZE" tvg-logo="" group-title="TV | España 02",ES: BLAZE
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2169.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: BOING" tvg-logo="" group-title="TV | España 02",ES: BOING
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2170.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CANAL PANDA" tvg-logo="" group-title="TV | España 02",ES: CANAL PANDA
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2171.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="TV | España 02",ES: DISNEY CHANNEL HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2172.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DISNEY JUNIOR" tvg-logo="" group-title="TV | España 02",ES: DISNEY JUNIOR
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2173.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: CLAN" tvg-logo="" group-title="TV | España 02",ES: CLAN
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2174.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NICK JR" tvg-logo="" group-title="TV | España 02",ES: NICK JR
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2175.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: NICKELODEON HD" tvg-logo="" group-title="TV | España 02",ES: NICKELODEON HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/2176.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: M.DEPORTES HD" tvg-logo="" group-title="TV | España 02",ES: M.DEPORTES HD
+http://tvip.world:80/SPANIJA/ZKJ7rBtnku/16934.ts
 #EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="E | A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="TV | Entretenimiento",E | A&E
 http://185.155.103.50:8080/UzielLCH/UzielLCH/222250
 #EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="E | A&E HD" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="TV | Entretenimiento",E | A&E HD
