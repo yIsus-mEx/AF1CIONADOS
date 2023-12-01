@@ -6,12 +6,12 @@
 "telegram": "Lista_AF1CIONADOS",
 "info":"Agradecimientos Especiales a 						                       			*Lucas*  *Manujaz*  *AdrideCai*",
 "stations":
-				[
-					{ 
-					"name": " Únete Al Grupo",
-					"image": "https://i.postimg.cc/d1N8KdMz/Telegram.png",
-					"url": "https://t.me/Lista_AF1CIONADOS",
-					"embed": "true"
-					}
-				]
+	[
+		{ 
+		"name": " Únete Al Grupo",
+		"image": "https://i.postimg.cc/d1N8KdMz/Telegram.png",
+		"url": "https://t.me/Lista_AF1CIONADOS",
+		"embed": "true"
+		}
+	]
 }
