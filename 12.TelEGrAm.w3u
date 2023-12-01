@@ -5,12 +5,7 @@
 "url": "https://aficionados.vercel.app/12.TelEGrAm.w3u",
 "telegram": "Lista_AF1CIONADOS",
 "info":"Agradecimientos Especiales a 						                       			*Lucas*  *Manujaz*  *AdrideCai*",
-"groups":
-	[
-		{
-		"name": "TeLEgrAm",
-		"image": "https://i.postimg.cc/d1N8KdMz/Telegram.png",
-			"stations":
+"stations":
 				[
 					{ 
 					"name": " Únete Al Grupo",
@@ -19,6 +14,4 @@
 					"embed": "true"
 					}
 				]
-		}
-	]
 }
