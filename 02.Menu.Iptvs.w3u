@@ -73,7 +73,7 @@
 		{
          "name": "IPTV Europa 10",
          "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://aficionados.vercel.app/tv_channels_plus.m3u",
+         "url": "http://flashprinttv.com:2086/get.php?username=agimstr792&password=8V6CL6nYwfjV&type=m3u_plus",
          "info":"300 conex",
          "import": false
         },
