@@ -73,7 +73,7 @@
 		{
          "name": "IPTV Europa 10",
          "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/tv_channels_plus.m3u",
+         "url": "https://aficionados.vercel.app/tv_channels_plus.m3u",
          "info":"300 conex",
          "import": false
         },
