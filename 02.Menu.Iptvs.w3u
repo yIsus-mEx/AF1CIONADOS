@@ -73,7 +73,7 @@
 		{
          "name": "IPTV Europa 10",
          "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "http://blackpanther.life:8080/get.php?username=restreamwellfrank&password=2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa&type=m3u",
+         "url": "http://blackpanther.life:8080/get.php?username=restreamwellfrank&password=2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa&type=m3u_plus",
          "info":"150 conex",
          "import": false
         },
@@ -122,7 +122,7 @@
 		{
          "name": "IPTV Latino 17",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://mytitantv.com:8080/get.php?username=latin_entertainment&password=latin_entertainmentexchan&type=m3u",
+         "url": "http://mytitantv.com:8080/get.php?username=latin_entertainment&password=latin_entertainmentexchan&type=m3u_plus",
          "info":"500 conex",
          "import": false
         },
@@ -136,7 +136,7 @@
 		{
          "name": "IPTV Latino 19",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://spacetvplay.com:8080/get.php?username=skyperu2021&password=mNv2mbFe7e&type=m3u",
+         "url": "http://spacetvplay.com:8080/get.php?username=skyperu2021&password=mNv2mbFe7e&type=m3u_plus",
          "info":"250 conex",
          "import": false
         },
@@ -151,7 +151,7 @@
 		{
          "name": "IPTV Latino 21",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://spacetvplay.com:8080/get.php?username=Granav803&password=S032PEWQQDxm&type=m3u",
+         "url": "http://spacetvplay.com:8080/get.php?username=Granav803&password=S032PEWQQDxm&type=m3u_plus",
          "info":"400 conex",
          "import": false
         },
@@ -165,14 +165,14 @@
 		{
          "name": "IPTV Latino 23",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://xcm.budtv-ultra.com:25461/get.php?username=JW2WBJW2WBOndemand2023&password=d8rQEH2h4E&type=m3u",
+         "url": "http://xcm.budtv-ultra.com:25461/get.php?username=JW2WBJW2WBOndemand2023&password=d8rQEH2h4E&type=m3u_plus",
          "info": "100 conex",
          "import": false
         },
 		{
          "name": "IPTV Latino 24",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://xcm.budtv-ultra.com:25461/get.php?username=JW2WBsjv3sgQaDTHs&password=sjqvgRauPbjj&type=m3u",
+         "url": "http://xcm.budtv-ultra.com:25461/get.php?username=JW2WBsjv3sgQaDTHs&password=sjqvgRauPbjj&type=m3u_plus",
          "info":"150 conex",
          "import": false
         },
