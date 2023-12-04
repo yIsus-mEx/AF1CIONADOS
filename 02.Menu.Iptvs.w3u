@@ -17,8 +17,8 @@
 		{
          "name": "IPTV Europa 02",
          "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "http://pinkpanther.uk:8080/get.php?username=restreamwellfrank&password=2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa&type=m3u_plus",
-         "info":"150 conex",
+         "url": "http://mozzatv.com.es:2082/get.php?username=manuvi&password=zu6E98UFenz&type=m3u_plus",
+         "info":"70 conex",
          "import": false
         },
 		{
@@ -31,7 +31,7 @@
 		{
          "name": "IPTV Europa 04",
          "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "http://pinkpanther.uk:8080/get.php?username=$latinotv$1015&password=$4859430302$&type=m3u_plus",
+         "url": "http://home-playtv.com:8080/get.php?username=powertv&password=ebqwUHmXQvxt&type=m3u_plus",
          "info":"120 conex",
          "import": false
         },
