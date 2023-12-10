@@ -8,23 +8,23 @@
 "stations":
     [
        	{
-        "name": "Real Madrid Vs Napoli",
+        "name": "Barcelona Vs Girona",
         "info":"ESPN",
         "online":"true",
-        "image": "https://sportjudge.mx/__export/1701140074875/sites/sportjudge/img/2023/11/27/napoliporta.jpeg_1879290159.jpeg",
-        "url": "https://techflower.bio/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/11/29/Real_Madrid_vs_Napoli_20231129_1701281438037/ctr-all-complete.m3u8&key=0efc10f3a5494594ac3f3599b9287852&key2=d58f7390e28a4933e291e78a8f75dfbf",
+        "image": "https://i.postimg.cc/1RnVvNSj/17021384735171.webp",
+        "url": "https://paco@mlb.mrgamingstreams.com/espnd.m3u8",
         "userAgent": "",
-        "embed": "true",
-        "isHost": ""
+        "embed": "",
+        "isHost": "true"
         },
         {
-        "name": "Real Madrid Vs Napoli",
-        "info":"TNT Sport",
+        "name": "Barcelona Vs Girona",
+        "info":"DaznLaLiga",
         "online":"true",
-        "image": "https://sportjudge.mx/__export/1701140074875/sites/sportjudge/img/2023/11/27/napoliporta.jpeg_1879290159.jpeg",
-        "url": "https://derealfama.one/hbo.html?get=https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/36420/master.mpd&key=0101547b2cd786ae1ed623a6e406f764&key2=1aa71ec5c5b1d44d8a6dff9c09a36b9d",
-        "userAgent": "",
-        "embed": "true",
+        "image": "https://i.postimg.cc/1RnVvNSj/17021384735171.webp",
+        "url": "http://newaguacate.satelital.es:8080/CarocaRes/Y3HaqS5LX6J4/46530",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
         "isHost": ""
         }
 	]
