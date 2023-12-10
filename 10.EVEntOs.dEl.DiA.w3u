@@ -26,6 +26,26 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
+        },
+        {
+        "name": "Barcelona Vs Girona",
+        "info":"DaznLaLiga",
+        "online":"true",
+        "image": "https://i.postimg.cc/1RnVvNSj/17021384735171.webp",
+        "url": "http://newaguacate.satelital.es:8080/MoisesUlta/j7zFmj7wYn/46530",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Barcelona Vs Girona",
+        "info":"DaznLaLiga",
+        "online":"true",
+        "image": "https://i.postimg.cc/1RnVvNSj/17021384735171.webp",
+        "url": "http://newaguacate.satelital.es:8080/Leafar/fQE5BM66Hc/46530",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         }
 	]
 }
