@@ -1,0 +1,83 @@
+{
+"name": "Hijack Season 1",
+"author": "@Sergio2939",
+"url": "https://pastebin.com/LLtGHcZj",
+"image": "https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+	[
+ 		{
+		"name": "🎬Hijack Season 1🎬",
+ 		"image": "https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Última llamada",
+ 				"info":"Capitulo 01",
+ 				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+ 				"url":"https://upstream.to/embed-ucfsb358may3.html",
+ 				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "3 grados",
+				"info":"Capitulo 02",
+				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+				"url":"https://upstream.to/embed-l95v9bvzh4ap.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "En blanco",
+				"info":"Capitulo 03",
+				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+				"url":"https://upstream.to/embed-3x2cdz23drgd.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "No responde",
+				"info":"Capitulo 04",
+				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+				"url":"https://upstream.to/embed-ev0yx12t9525.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Menos de 1 hora",
+				"info":"Capitulo 05",  
+				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+				"url":"https://upstream.to/embed-uoix0n3gts9q.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Obedece lentamente",
+				"info":"Capitulo 06",  
+				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+				"url":"https://upstream.to/embed-5rbn8ggtbgi6.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Apoyo, apoyo, apoyo",
+				"info":"Capitulo 07",  
+				"image":"https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+				"url":"https://upstream.to/embed-kj0j93fytj47.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
