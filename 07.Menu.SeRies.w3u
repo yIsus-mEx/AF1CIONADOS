@@ -9,10 +9,31 @@
     [
 
 		{
-		"name": "Juego de",
+		"name": "El otro lado",
+		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20OTRO%20LADO.w3u",
+		"import": false
+		},
+		{
+		"name": "El encargado",
+		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ENCARGADO.w3u",
+		"import": false
+		},
+		{
+		"name": "La novia gitana",
+		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20NOVIA%20GITANA.w3u",
+		"import": false
+		},
+		{
+		"name": "Juego de Tronos",
 		"image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
 		"info": "bY. aDri",
-		"url": "https://pastebin.com/raw/PbHnZGBA",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20JUEGO%20DE%20TRONOS.w3u",
 		"import": false
 		},
 		{
@@ -26,47 +47,47 @@
 		"name": "Suits, La clave del exito",
 		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
 		"info": "bY. aDri",
-		"url": "https://pastebin.com/kyZp2p8x",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20SUITS%2C%20LA%20CLAVE%20DEL%20EXITO.w3u",
 		"import": false
 		},
 		{
 		"name": "The Guardian",
 		"image": "https://i.postimg.cc/pXbfH4zH/The-Guardian-Temporada-1-2001-Serie.jpg",
 		"info": "bY. aDri",
-		"url": "https://pastebin.com/EfthYsQZ",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20GUARDIAN.w3u",
 		"import": false
 		},
 		{
 		"name": "Bad Blood",
 		"image": "https://i.postimg.cc/G2TscSyX/Bad-Blood-2017-Serie.png",
 		"info": "bY. aDri",
-		"url": "https://pastebin.com/kzMWpGsf",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BAD%20BLOOD.w3u",
 		"import": false
 		},
  		{
 		"name": "WestWorld",
-		"url": "https://pastebin.com/24UfTkrx",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20WESTWORLD.w3u",
 		"image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
 		"info": "bY. aDri",
         "import": false
 		},
  		{
 		"name": "La que se avecina Temp14",
-		"url": "https://pastebin.com/TMpvUBbX",
 		"image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
 		"info": "bY. aDri",
+        "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20QUE%20SE%20AVECINA%2013-14.w3u",
         "import": false
 		},
  		{
 		"name": "Line of Duty",
-		"url": "https://pastebin.com/B8rLHit0",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LINE%20OF%20DUTY.w3u",
 		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
 		"info": "bY. aDri",
         "import": false
 		},
  		{
 		"name": "David Beckham, al rescate del equipo",
-		"url": "https://pastebin.com/ij1Je1du",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DAVID%20BECKHAM%2C%20AL%20RESCATE%20DEL%20EQUIPO.w3u",
 		"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
 		"info": "bY. aDri",
         "import": false
@@ -74,119 +95,119 @@
 		{
          "name": "See",
          "image": "https://i.postimg.cc/qMWx9q0B/See-Temporada-1-2023-Serie.png",
-         "url": "https://pastebin.com/w9EsjjEU",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20SEE.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Élite",
          "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
-         "url": "https://pastebin.com/zamMhiBQ",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20%C3%89LITE.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "The Bear (El oso)",
          "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
-         "url": "https://pastebin.com/54BxAqmX",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20BEAR%20(EL%20OSO).w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "La Mesias",
          "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
-         "url": "https://pastebin.com/yDLHJZGm",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20MESIAS.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Dopesick",
          "image": "https://pics.filmaffinity.com/dopesick-922434010-large.jpg",
-         "url": "https://pastebin.com/hU0VUhEC",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DOPESICK.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "30 Monedas",
          "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
-         "url": "https://pastebin.com/JF5rWySM",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%2030%20MONEDAS.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Inside Man",
          "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
-         "url": "https://pastebin.com/awb9yg0Z",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20INSIDE%20MAN%20(DESDE%20DENTRO).w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Cancion De Los Bandidos",
          "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
-         "url": "https://pastebin.com/TRrFQHvE",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20CANCION%20DE%20LOS%20BANDIDOS.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Black Snow",
          "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
-         "url": "https://pastebin.com/JVr3YmuV",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20SNOW.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "The Winter King",
          "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
-         "url": "https://pastebin.com/RjHLQ0kM",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20WINTER%20KING%20%5BVOSE%5D.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Poker Face",
          "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-         "url": "https://pastebin.com/HXNSAHp0",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POKER%20FACE.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Leo Talks",
          "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
-         "url": "https://pastebin.com/N9waSqjA",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LEO%20TALKS.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Narcos",
          "image": "https://i.postimg.cc/KYKvfm3F/Narcos.png",
-         "url": "https://pastebin.com/W069yajH",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20NARCOS.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Devils",
          "image": "https://i.postimg.cc/vDRSJL33/DEVILS.png",
-         "url": "https://pastebin.com/Z9D9iSfq",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DEVILS.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Black Mirror",
          "image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
-         "url": "https://pastebin.com/n7n8fdd1",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20MIRROR.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "Veneno, Vida Y Muerte De Un Icono",
          "image": "https://i.postimg.cc/5yWkTxKy/Veneno-2020-Serie.jpg",
-         "url": "https://pastebin.com/KsMeHuFr",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20VENENO%2C%20VIDA%20Y%20MUERTE%20DE%20UN%20ICONO.w3u",
          "info":"bY. aDri",
          "import": false
         },
 		{
          "name": "One Piece",
          "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
-         "url": "https://pastebin.com/meQrkbwc",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20ONE%20PIECE.w3u",
          "info":"bY. aDri",
          "import": false
         },
@@ -228,21 +249,21 @@
 		{
          "name": "Martin, El Hombre Y La Leyenda",
          "image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/7/w1280/k3nVYMmO5VHCgIygssyimBtTANK.jpg",
-         "url": "https://pastebin.com/vKW8rwg1",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20MARTIN%2C%20EL%20HOMBRE%20Y%20LA%20LEYENDA.w3u",
          "info":"bY. Adri",
          "import": false
         },
 		{
          "name": "Bandidos De Hoy",
          "image": "https://i.postimg.cc/zXM9RXvq/bandidos-de-hoy.jpg",
-         "url": "https://pastebin.com/pYmUR9j0",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BANDIDOS%20DE%20HOY.w3u",
          "info":"bY. aDRi",
          "import": false
         },
 		{
          "name": "El Arca",
          "image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
-         "url": "https://pastebin.com/Bp5ewjiF",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ARCA.w3u",
          "info":"bY. Adri",
          "import": false
         },
@@ -333,7 +354,7 @@
 		{
          "name": "Gotham",
          "image": "https://i.postimg.cc/RZXLtYbw/Gotham.png",
-         "url": "https://pastebin.com/Axv4m7eA",
+         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20GOTHAM.w3u",
          "info":"bY. Adri",
          "import": false
         },

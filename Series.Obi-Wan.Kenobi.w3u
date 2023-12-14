@@ -1,0 +1,68 @@
+{
+"name": "Obi-Wan Kenobi",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/pgVL2jsE",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Parte I",
+                "info":"",
+                "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+                "url":"https://ia802502.us.archive.org/1/items/obi-wan-kenobi-1x-1_202206/Obi-Wan%20Kenobi%201x1.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+				{
+                "name": "Parte II",
+                "info":"",
+                "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+                "url":"https://ia802502.us.archive.org/1/items/obi-wan-kenobi-1x-1_202206/Obi-Wan%20Kenobi%201x2.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+				{
+                "name": "Parte III",
+                "info":"",
+                "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+                "url":"https://ia902502.us.archive.org/1/items/obi-wan-kenobi-1x-1_202206/Obi-Wan%20Kenobi%201x3.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+				{
+                "name": "Parte IV",
+                "info":"",
+                "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+                "url":"https://ia801406.us.archive.org/2/items/obi-wan-kenobi-1x-4/Obi-Wan%20Kenobi%201x4.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+				{
+                "name": "Parte V",
+                "info":"",
+                "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+                "url":"https://www.mediafire.com/file/6ea3pv0rovzfxm6/S01E05.mkv/file",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Parte VI",
+                "info":"",
+                "image": "https://i.pinimg.com/736x/21/b6/89/21b689ad8b0e8c7d1c342cbaedcc5e15.jpg",
+                "url":"https://www.mediafire.com/file/6jaiejmt65bzdpw/S01E06.mkv/file",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                }
+			]
+        }
+	]
+}

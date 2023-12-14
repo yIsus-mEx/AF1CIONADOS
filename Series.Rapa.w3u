@@ -1,0 +1,74 @@
+{
+"name": "Rapa",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/QdrE17TM",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 1",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://stream-4591-212-98.pvdcdn.co/kaohpi4sgmikkfn2mcfpqoamhxwykqpf3eepyam74itppvhenei47ersi4/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 2",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://stream-3591-48-222.pvdcdn.co/lyohohbvg4ikkfn2mcfpqpymmhzunkom2fnyqnn6ek2ppzxoinnwjzsjni/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 3",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://stream-5091-212-113.pvdcdn.co/j4ohoervg4ikkfn2mcfpqpcihu6lsk5gle72xwfdvwggwcsekt4mbldw3q/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 4",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://stream-4891-212-105.pvdcdn.co/juohoejvg4ikkfn2mcfpqmywhq3y7dx7yt5xfk3ikuovhuzu4w372wixsq/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 5",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://stream-47178-64-178.pvdcdn.co/kiohoebvg4ikkfn2mcfpqjyhm245wuyvtebbrd4llmpky2diwkyxcxkaai/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 6",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://stream-3591-48-222.pvdcdn.co/lyohofzvg4ikkfn2mcfpqnyjhpbfd4z7r5zhucllzktb6p3z75cqj5v7im/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                }
+			]
+        }
+	]
+}

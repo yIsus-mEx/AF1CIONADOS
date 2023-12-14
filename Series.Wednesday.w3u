@@ -1,0 +1,92 @@
+{
+"name": "Series Wednesday",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/GzH0iWQp",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Wednesday [Temporada 1]",
+        "info":"",
+        "image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                 {
+                "name": "Los Miércoles Son Tristes",
+                "info":"[Episodio 01]",
+                "image": "https://i.pinimg.com/564x/97/a8/23/97a823ac604fd4945fb2e3d7364f2923.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDAxdTNx0",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "La Tristeza Es Solitaria",
+                "info":"[Episodio 02]",
+                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDAwMWF30",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Tristemente Amiga o Enemiga",
+                "info":"[Episodio 03]",
+                "image": "https://i.pinimg.com/564x/16/b7/78/16b77808f685958b3d4ca99c2fc6a421.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDA0ODVt0",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Qué Noche La De Ese Día",
+                "info":"[Episodio 04]",
+                "image": "https://i.pinimg.com/564x/cb/95/2f/cb952fb0c9cb5356b79bf64226e7014b.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDAzeWdr0",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Quien Siembra Vientos Recoge Tristeza",
+                "info":"[Episodio 05]",
+                "image": "https://i.pinimg.com/564x/fd/e0/f4/fde0f440144d3d30d81bea1a156def60.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDAxbWt60",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Hoy Por Mí, Mañana Por Mí",
+                "info":"[Episodio 06]",
+                "image": "https://i.pinimg.com/564x/83/66/0d/83660dc26d2e75b764340f05b7d167b9.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDAxdmI30",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Qué Triste Que Todavía No Me Conozcas",
+                "info":"[Episodio 07]",
+                "image": "https://i.pinimg.com/564x/75/c9/ec/75c9ec1963219d309f526ccc91994321.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDAyOXV50",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Una Bandada De Tristeza",
+                "info":"[Episodio 08]",
+                "image": "https://i.pinimg.com/564x/36/0a/db/360adb59388441d13ac86a7db75bbed4.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnAzcncwMDA0ZDZ40",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}

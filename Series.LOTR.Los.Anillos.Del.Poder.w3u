@@ -1,0 +1,92 @@
+{
+"name": "LOTR: Los Anillos Del Poder",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/qM5CTK4N",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "@yIsus_mEx",
+"groups":
+    [
+        {
+        "name": "Temporada 1",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Una Sombra Del Pasado",
+                "info":"[Episodio 01]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://ia804709.us.archive.org/22/items/anillos.del.poder.-s-01e-01.1080-p-dual-lat/Anillos.del.poder.S01e01.1080P-Dual-Lat.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+                {
+                "name": "A La Deriva",
+                "info":"[Episodio 02]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://ia904704.us.archive.org/28/items/anillos.del.poder.-s-01e-02.1080-p-dual-lat/Anillos.del.poder.S01e02.1080P-Dual-Lat.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Adar",
+                "info":"[Episodio 03]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://ia804703.us.archive.org/1/items/anillos.del.poder.-s-01e-03.1080-p-dual-lat/Anillos.del.poder.S01e03.1080P-Dual-Lat.mp4",
+                "isHost":"",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "La Gran Ola",
+                "info":"[Episodio 04]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://ia801603.us.archive.org/22/items/anillos.del.poder.-s-01e-04.1080-p-dual-lat/Anillos.del.poder.S01e04.1080P-Dual-Lat.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Separaciones",
+                "info":"[Episodio 05]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://ia601602.us.archive.org/30/items/anillos.del.poder.-s-01e-05.1080-p-dual-lat/Anillos.del.poder.S01e05.1080P-Dual-Lat.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+                {
+                "name": "Udûn",
+                "info":"[Episodio 06]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://ia904707.us.archive.org/3/items/anillos.del.poder.-s-01e-06.1080-p-dual-lat/Anillos.del.poder.S01e06.1080P-Dual-Lat.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "El Ojo",
+                "info":"[Episodio 07]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://archive.org/download/07_20221007_20221007/07.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Aliados",
+                "info":"[Episodio 08]",
+                "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+                "url":"https://www.mediafire.com/file/0vlji51eih0kaw0/S01E08.mkv/file",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                }
+            ]
+        }
+    ]
+}

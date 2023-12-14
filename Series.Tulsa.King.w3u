@@ -1,0 +1,101 @@
+{
+"name": "Tulsa King",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/yRKX2WaG",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "@yIsus_mEx",
+"groups":
+    [
+        {
+        "name": "Temporada 1",
+        "info":"",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Ve al Oeste, Viejo",
+                "info":"[Episodio 01]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia802606.us.archive.org/0/items/e1e4_20230318/e1e1.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+                {
+                "name": "Centro del Universo",
+                "info":"[Episodio 02]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia802606.us.archive.org/0/items/e1e4_20230318/e1e2.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Capricho",
+                "info":"[Episodio 03]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia902606.us.archive.org/0/items/e1e4_20230318/e1e3.mp4",
+                "isHost":"",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Lugar de Visita",
+                "info":"[Episodio 04]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia902606.us.archive.org/0/items/e1e4_20230318/e1e4.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Token Joe",
+                "info":"[Episodio 05]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia902606.us.archive.org/0/items/e1e4_20230318/e1e5.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+                {
+                "name": "Estable",
+                "info":"[Episodio 06]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia804704.us.archive.org/12/items/tulsa6/7uls4c4p6.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Warr Acre",
+                "info":"[Episodio 07]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia601600.us.archive.org/26/items/e1e7_20230318/e1e7.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+                {
+                "name": "Adobe Walls",
+                "info":"[Episodio 08]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia801600.us.archive.org/26/items/e1e7_20230318/e1e8.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                },
+				{
+                "name": "Rastros Felices",
+                "info":"[Episodio 09]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
+                "url":"https://ia601600.us.archive.org/26/items/e1e7_20230318/e1e9.mp4",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"",
+                "online":"true"
+                }
+            ]
+        }
+    ]
+}
