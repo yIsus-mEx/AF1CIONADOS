@@ -2,7 +2,7 @@
 "name": "Rapa",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://aficionados.vercel.app/Series.Rapa.w3u",
-"image": "https://images3.alphacoders.com/595/595865.jpg",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "groups":
@@ -64,6 +64,69 @@
                 "info":"Castellano",
                 "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
                 "url":"https://stream-3591-48-222.pvdcdn.co/lyohofzvg4ikkfn2mcfpqnyjhpbfd4z7r5zhucllzktb6p3z75cqj5v7im/v.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                }
+			]
+        },
+        {
+        "name": "Temporada 02",
+        "info":"",
+        "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 1",
+                "info":"Castellano",
+                "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+                "url":"https://upstream.to/8bu6ixfldlly",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 2",
+                "info":"Castellano",
+                "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+                "url":"https://upstream.to/kuw2abbu47zg",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 3",
+                "info":"Castellano",
+                "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+                "url":"https://upstream.to/vkrpwjsezos4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 4",
+                "info":"Castellano",
+                "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+                "url":"https://upstream.to/vr4k5gkodtq5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 5",
+                "info":"Castellano",
+                "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+                "url":"https://upstream.to/7g9nwalfrvzn",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost": "",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 6",
+                "info":"Castellano",
+                "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/06/12/09/51/0675764.jpg",
+                "url":"https://upstream.to/83un9vsh4jrq",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost": "",
                 "online":"true"
