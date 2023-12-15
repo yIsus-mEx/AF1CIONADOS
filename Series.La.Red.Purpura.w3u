@@ -1,0 +1,91 @@
+{
+"name": "La Red Purpura",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+	[
+ 		{
+		"name": "La Red Purpura",
+ 		"image": "https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "En el país de los ciegos",
+ 				"info":"Capitulo 01",
+ 				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+ 				"url":"https://upstream.to/57mwv6btf078",
+ 				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "La caza",
+				"info":"Capitulo 02",
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/9cjmnda3k6i8",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Todas las madres",
+				"info":"Capitulo 03",
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/hwddeqf5afy1",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Donde empieza el monstruo",
+				"info":"Capitulo 04",
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/tsom5blhbcq2",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Todas las hijas",
+				"info":"Capitulo 05",  
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/h6bqt1a7fidn",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Tú eres el mensaje",
+				"info":"Capitulo 06",  
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/8fxy2lj45k4f",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "La sangre de los olvidados",
+				"info":"Capitulo 07",  
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/6q6l0sqi4iuv",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "La madre de Caín",
+				"info":"Capitulo 08",  
+				"image":"https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+				"url":"https://upstream.to/q0u531m7oz0w",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
