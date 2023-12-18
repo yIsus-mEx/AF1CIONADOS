@@ -8,15 +8,22 @@
 "groups":
     [
 
-	    {
-		"name": "HERMANOS DE SANGRE",
+    	{
+		"name": "Ted Lasso",
+		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20TED%20LASSO.w3u",
+		"import": false
+		},
+	{
+		"name": "Hermanos de sangre",
 		"image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20HERMANOS%20DE%20SANGRE.w3u",
 		"import": false
 		},
         {
-		"name": "KALIFAT",
+		"name": "Kalifat",
 		"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
