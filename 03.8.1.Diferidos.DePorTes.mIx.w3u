@@ -1,0 +1,164 @@
+{
+"name": "DePorTes mIx 2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+    [
+        {
+        "name": "WWE The NXT Deadline 2023",
+        "info":"Latino",
+        "image": "https://solowrestling.mundodeportivo.com/uploads/RESEM125795deadline-nxt-resultados.jpg",
+        "url": "https://lbx.to/f/bAppxaP",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "Getafe vs Valencia",
+        "info": "M LaLiga",
+        "image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
+        "url": "https://filemoon.sx/d/rdtgf3invur4",
+        "online": "true",
+        "isHost": "true"
+        },
+		{
+        "name": "WWE Crown Jewel 2023",
+        "info":"Latino",
+        "image": "https://www.voxcatch.fr/wp-content/uploads/2023/11/WWE-Crown-Jewel-2023.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0NndzMDAwYmZ30",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "Barcelona Vs Real Madrid [Clasico]",
+        "info": "LaLiga",
+        "image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        "url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "Final Mundial Rugby Sudafrica Vs Nueva Zelanda",
+        "info":"Latino",
+        "image": "https://i.postimg.cc/NMrrBkPy/skysports-new-zealand-south-africa-6262868.jpg",
+        "url": "https://fviplions.com/f/y1uqq6nnw1xa",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "WWE Fastlane 2023",
+        "info":"Latino",
+        "image": "https://solowrestling.mundodeportivo.com/uploads/RESEM123395wwe-fastlane-2023.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0NWVvMDBpa2Zr0",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "WWE Payback  2023",
+        "info":"Latino",
+        "image": "https://i.postimg.cc/NFYsntVp/payback.png",
+        "url": "https://www.linkbox.to/f-detail/ZnA0MmEwMDA0Zm5o0",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "Celta vs Real Madrid",
+        "info":"Ingles",
+        "image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
+        "url": "https://ok.ru/video/6621098085076",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "Alcaraz vs Djokovic",
+        "info":"Ingles",
+        "image": "https://www.atptour.com/-/media/images/news/2023/08/20/03/13/alcaraz-djokovic-cincinnati-2023-graphic.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0MWJnMDB5a3F20",
+        "online":"true",
+        "isHost": "true"
+        },
+		{
+        "name": "SummerSlam 2023",
+        "info":"Latino",
+        "image": "https://wrestlingnoticias.com.br/wp-content/uploads/2023/06/WWE-SummerSlam-2023-Poster-1200x675-1.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0MDhrMDAxM2p40",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "WrestleMania 39",
+        "info":"[Dia 1]",
+        "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
+        "url": "https://vk.com/video_ext.php?oid=658573886&id=456239334&hash=728ec8db6a778e37&hd=4",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "WrestleMania 39",
+        "info":"[Dia 2]",
+        "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
+        "url": "https://vk.com/video_ext.php?oid=658573886&id=456239335&hash=d5cbce019b42db1b&hd=3",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "NBA All-Star Saturday Night",
+        "info":"[2023]",
+        "image": "https://cdn.nba.com/manage/2023/02/All-Star-Saturday-Night-Logos-16x9-safezone-1-1-784x441.jpg",
+        "url": "https://vk.com/video_ext.php?oid=503491083&id=456245191&hash=d4ffcb60fa8a408e&hd=3",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "NBA All-Star Game",
+        "info":"[2023]",
+        "image": "https://s1.ticketm.net/dam/a/e78/3c8dbfb0-6e4e-4f53-bf77-b634b2309e78_SOURCE",
+        "url": "https://vk.com/video_ext.php?oid=503491083&id=456245192&hash=f6c9c393ed530a48&hd=3",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "Super Bowl LVII: Kansas City Vs Philadelphia",
+        "info":"[2023]",
+        "image": "https://chiefswire.usatoday.com/wp-content/uploads/sites/70/2023/01/PHIvsKC_FB.png?w=1000&h=600&crop=1",
+        "url":"https://vk.com/video_ext.php?oid=503491083&id=456245145&hash=898d7033d97e34e7&hd=4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "Pro Bowl Games",
+        "info":"[2023]",
+        "image": "https://cdn2.mediotiempo.com/uploads/media/2022/12/22/patrick-mahomes-jalen-hurts-estaran_0_0_1200_747.jpg",
+        "url":"https://vk.com/video_ext.php?oid=503491083&id=456245090&hash=699b096904943d29&hd=3",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "NHL All-Star Game",
+        "info":"[2023]",
+        "image": "https://blog.ticketmaster.com/wp-content/uploads/nhl-all-star-game-2023.jpg",
+        "url":"https://www.yourupload.com/watch/LrM7j5j5JtLO",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "NHL All-Star Skills",
+        "info":"[2023]",
+        "image": "https://media.nhl.com/site/asset/public/images/2023/01/2023Skills-23054147.jpg",
+        "url":"https://vk.com/video_ext.php?oid=-200888653&id=456240621&hash=4edba4901bda1c9a&hd=3",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}

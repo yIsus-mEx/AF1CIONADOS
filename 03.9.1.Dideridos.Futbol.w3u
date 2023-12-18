@@ -1,0 +1,164 @@
+{
+"name": "Diferidos Futbol",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Jornada 05 de 06",
+        "info":"",
+        "image": "https://i.postimg.cc/6QN30jVd/ucl-fixtures.jpg",
+        "imageScale": "",
+        "groups":
+        	[
+				{
+        		"name": "Manchester City vs Leipzig",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/GhpN9GNr/8.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Manchester City vs Leipzig",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/GhpN9GNr/8.webp",
+                		"url":"https://filemoon.sx/d/6d0bwoapcqkd",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "Young Boys vs Estrella Roja",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/tJdXTPmF/7.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Young Boys vs Estrella Roja",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/tJdXTPmF/7.webp",
+                		"url":"https://filemoon.sx/d/o9e58zljmjpr",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "Barcelona vs Porto",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/63mWgt4G/6.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Barcelona vs Porto",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/63mWgt4G/6.webp",
+                		"url":"https://filemoon.sx/d/niupnfpti35u",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "PSG vs. Newcastle",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/yYS460t5/5.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "PSG vs. Newcastle",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/yYS460t5/5.webp",
+                		"url":"https://filemoon.sx/d/wc0dbzq7w0he",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "Feyenoord vs Atlético",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/BvbCsBwP/4.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Feyenoord vs Atlético",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/BvbCsBwP/4.webp",
+                		"url":"https://filemoon.sx/d/ls31poujb96y",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "Milan vs Dortmund",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/2jhyMf6P/3.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Milan vs Dortmund",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/2jhyMf6P/3.webp",
+                		"url":"https://filemoon.sx/d/n42uou23buyi",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "Shakhtar vs Antwerp",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/gjRRjXGp/2.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Shakhtar vs Antwerp",
+                		"info":"[Español]",
+                		"image": "https://i.postimg.cc/gjRRjXGp/2.webp",
+                		"url":"https://filemoon.sx/d/hkq04ys1g1h0",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		},
+				{
+        		"name": "Lazio Vs Celtics",
+        		"info":"Jornada 05",
+       	 		"image": "https://i.postimg.cc/2yjs0mJs/1.webp",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Lazio Vs Celtics",
+                		"info":"[1er Tiempo]",
+                		"image": "https://i.postimg.cc/2yjs0mJs/1.webp",
+                		"url":"https://ds2play.com/e/emyzl9pjlpnd?autoplay=1&auto_play=1",
+                		"isHost":"true",
+                		"online":"true"
+                		},
+						{
+                		"name": "Lazio Vs Celtics",
+                		"info":"[2er Tiempo]",
+                		"image": "https://i.postimg.cc/2yjs0mJs/1.webp",
+                		"url":"https://ds2play.com/e/qcil2shq5suo?autoplay=1&auto_play=1",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		}
+			]
+		}
+	]
+}
