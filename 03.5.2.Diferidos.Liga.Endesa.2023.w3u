@@ -1,0 +1,972 @@
+{
+"name": "Liga Endesa",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/C6NWSaXk",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups": 
+    [
+		{
+        "name": "JORNADA 13",
+        "image": "https://i.postimg.cc/YqrmzvgP/round13.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Zaragoza vs Barça",
+                "info": "10/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/gbm2hzlsdz5i",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Murcia vs Valencia",
+                "info": "10/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/jtp859ea0xs5",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Baskonia vs Lenovo Tenerife",
+                "info": "10/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/lagiqcc64m4d",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Real Madrid vs Gran Canaria",
+                "info": "10/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/razdg42tpl5s",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Joventut vs Obradoiro",
+                "info": "10/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/kfm60hkf525b",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Andorra vs Unicaja",
+                "info": "09/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/0jypkce3lgyq",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Manresa vs Basket Girona",
+                "info": "09/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/h57xalg5e7op",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Bilbao Basket vs Breogan",
+                "info": "09/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/u0vrylqtoj57",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Granada vs Zunder Palencia",
+                "info": "09/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://vidhidepro.com/f/nmmsqavtyfe2",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+		{
+        "name": "JORNADA 12",
+        "image": "https://i.ibb.co/Fbc6dKS/round12.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Joventut vs Baskonia",
+                "info": "03/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/thhsivrek1cd",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Barça vs Granada",
+                "info": "03/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/24xmciltg8uo",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Valencia vs Bilbao Basket",
+                "info": "03/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/3tp29ybtcnkx",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Gran Canaria vs Zunder Palencia",
+                "info": "03/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/k0lcawmg9kfv",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Real Madrid vs Breogan",
+                "info": "03/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/sub03qv5dghp",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Basket Girona vs Andorra",
+                "info": "02/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/wyh0v1vz31r4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Lenovo Tenerife vs Obradoiro",
+                "info": "02/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/uh0yxanpylfb",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zaragoza vs Murcia",
+                "info": "02/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/cxjkk05bmrbd",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Unicaja vs Manresa",
+                "info": "02/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/w9rwj4vnlyle",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+		{
+        "name": "JORNADA 11",
+        "image": "https://i.ibb.co/s9fG3bd/round11.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Gran Canaria vs Lenovo Tenerife",
+                "info": "26/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/uswmlxv9q4q5",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Baskonia vs Manresa",
+                "info": "26/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/fzrokjhq0dq4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Barça vs Basket Girona",
+                "info": "26/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/726x544siy7k",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Real Madrid vs Andorra",
+                "info": "26/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/vgxwrmymfkef",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Breogan vs Zaragoza",
+                "info": "26/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/aukosuc7ggpv",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Murcia vs Joventut",
+                "info": "25/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/ex621q03hx39",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Bilbao Basket vs Unicaja",
+                "info": "25/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/tru2bdpvmbjt",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zunder Palencia vs Valencia",
+                "info": "25/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/q9zqjbvkahr5",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Obradoiro vs Granada",
+                "info": "25/11/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filelions.site/f/ott8sdhvyu3n",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+		{
+        "name": "JORNADA 10",
+        "image": "https://i.postimg.cc/5yR5njnB/jornada10.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Murcia vs Barça",
+                "info": "19/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/MG2DCMxt/9.png",
+                "url": "https://filelions.site/f/fh0vdz1ssk09",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Baskonia vs Valencia",
+                "info": "19/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/TPLz9W09/8.png",
+                "url": "https://filelions.site/f/hd7pws0hlcdx",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Joventut vs Bilbao Basket",
+                "info": "19/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/YC9KvPmT/7.png",
+                "url": "https://filelions.site/f/upe1l91ctqci",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Granada vs Andorra",
+                "info": "19/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/d3YcDt89/6.png",
+                "url": "https://filelions.site/f/yfvzwlp8ta9y",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Real Madrid vs Unicaja",
+                "info": "19/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/Rh79TnM8/5.png",
+                "url": "https://filelions.site/f/k3u6omvxg4pn",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Manresa vs Obradoiro",
+                "info": "18/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0YMCBsP/4.png",
+                "url": "https://filelions.site/f/0ssc1xbmpwec",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Basket Girona vs Breogan",
+                "info": "18/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/tgvg1PTN/3.png",
+                "url": "https://filelions.site/f/7qf6oahaed4v",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Lenovo Tenerife vs Zunder Palencia",
+                "info": "18/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/rsr2wR0s/2.png",
+                "url": "https://filelions.site/f/zttm46udl1gy",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zaragoza vs Gran Canaria",
+                "info": "18/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/Nj7YXXNr/1.png",
+                "url": "https://filelions.site/f/xn7m4663cq93",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+		{
+        "name": "JORNADA 9",
+        "image": "https://i.postimg.cc/yd0rXDfn/jornada9.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Barça vs Lenovo Tenerife",
+                "info": "12/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/fRk2q22V/1.png",
+                "url": "https://filelions.site/f/xdrumdldbe0f",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Valencia vs Zaragoza",
+                "info": "12/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/bwKTCzS5/2.png",
+                "url": "https://filelions.site/f/wvj1njn8hbke",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Bilbao Basket vs Real Madrid",
+                "info": "12/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/Bv9T5Md9/3.png",
+                "url": "https://filelions.site/f/drscvnnusbnn",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Gran Canaria vs Granada",
+                "info": "12/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/0N0wYxYD/4.png",
+                "url": "https://filelions.site/f/47t6x3t4hk96",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Obradoiro vs Baskonia",
+                "info": "12/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/xTNNsLG0/5.png",
+                "url": "https://filelions.site/f/4d6tdk5e5hvt",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zunder Palencia vs Murcia",
+                "info": "11/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/WpH5KRK0/6.png",
+                "url": "https://filelions.site/f/670m3q4nzzto",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Basket Girona vs Unicaja",
+                "info": "11/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/mgx8LYTD/7.png",
+                "url": "https://filelions.site/f/cvl2o77916kg",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Breogan vs Joventut",
+                "info": "11/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/bvgT94kD/8.png",
+                "url": "https://filelions.site/f/s3erh3ifnuos",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Andorra vs Manresa",
+                "info": "11/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/rs0Ncmbx/9.png",
+                "url": "https://filelions.site/f/97osf82sftlm",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+		{
+        "name": "JORNADA 8",
+        "image": "https://i.postimg.cc/XYfWjdPQ/jornada8.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Valencia vs Joventut",
+                "info": "05/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/BvLC5nBP/1.png",
+                "url": "https://filelions.site/f/626m4dwa5joa",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Breogan vs Barça",
+                "info": "05/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/sxy9R9d5/2.png",
+                "url": "https://filelions.site/f/8hui0jlci15c",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Baskonia vs Gran Canaria",
+                "info": "05/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/wxVDmNYb/3.png",
+                "url": "https://filelions.site/f/nbp15qxise73",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Granada vs Real Madrid",
+                "info": "05/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/65KwD77w/4.png",
+                "url": "https://filelions.site/f/qd0rh5cewh46",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Murcia vs Manresa",
+                "info": "05/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/d0hK8rfR/5.png",
+                "url": "https://filelions.site/f/kdjjpgnzatyd",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zunder Palencia vs Basket Girona",
+                "info": "04/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/SNmFgw5x/6.png",
+                "url": "https://filelions.site/f/8caqq50m7405",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Lenovo Tenerife vs Andorra",
+                "info": "04/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/W30CnnwZ/7.png",
+                "url": "https://filelions.site/f/kofptjbouibk",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zaragoza vs Bilbao Basket",
+                "info": "04/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/y6bcjHWF/8.png",
+                "url": "https://filelions.site/f/7cr0xetj1zih",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Unicaja vs Obradoiro",
+                "info": "04/11/23",
+                "online": "true",
+                "image": "https://i.postimg.cc/7YrSGy6X/9.png",
+                "url": "https://filelions.site/f/lg775tpjaqyx",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+		{
+        "name": "JORNADA 7",
+        "image": "https://i.postimg.cc/wTJXJ085/Jornada7.png",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Valencia vs Barça",
+	        	"info": "29/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/2S7n9y5V/1.png",
+	        	"url": "https://filelions.site/f/d24l17eipsvb",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Andorra vs Baskonia",
+	        	"info": "29/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/mrZCv4cV/2.png",
+	        	"url": "https://filelions.site/f/0vh3cm35iteg",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Bilbao Basket vs Lenovo Tenerife",
+	        	"info": "29/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/brntxNMY/3.png",
+	        	"url": "https://filelions.site/f/w6aadpmafp4s",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid vs Zunder Palencia",
+	        	"info": "29/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Dw6bdNCG/4.png",
+	        	"url": "https://filelions.site/f/dy1x2i1nl5gm",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Manresa vs Granada",
+	        	"info": "29/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/mDvcgWrv/5.png",
+	        	"url": "https://filelions.site/f/9am0uwyuchgz",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Zaragoza vs Joventut",
+	        	"info": "28/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/15ZnxS26/6.png",
+	        	"url": "https://filelions.site/f/9z5waiv28sqk",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Gran Canaria vs Obradoiro",
+	        	"info": "28/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/hv8G4J6m/7.png",
+	        	"url": "https://filelions.site/f/87ynp1rdkjp8",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Basket Girona vs Murcia",
+	        	"info": "28/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/yYV1X82f/8.png",
+	        	"url": "https://filelions.site/f/vutu0jkx2q8b",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Unicaja vs Breogan",
+	        	"info": "28/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/4dkZKfzQ/9.png",
+	        	"url": "https://filelions.site/f/75jl9oeccqdu",
+				"userAgent":"",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 6",
+        "image": "https://i.postimg.cc/RhvBRgp3/Jornada6.png",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Baskonia vs Unicaja",
+	        	"info": "22/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/CK4W43qx/9.png",
+	        	"url": "https://filemoon.sx/d/zf2ge7288i6m",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Granada vs Zaragoza",
+	        	"info": "22/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/nrMbr3Mc/8.png",
+	        	"url": "https://filemoon.sx/d/1md20f4l6co1",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Valencia vs Manresa",
+	        	"info": "22/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/fR1LN029/7.png",
+	        	"url": "https://filemoon.sx/d/ksnhkwuvpmz7",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Lenovo Tenerife vs Real Madrid",
+	        	"info": "22/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/PJMpfrpk/6.png",
+	        	"url": "https://filemoon.sx/d/cvi4vreb5k62",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Barça vs Bilbao Basket",
+	        	"info": "22/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Qt2kKtd9/5.png",
+	        	"url": "https://filemoon.sx/d/h6isnwto78zw",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Murcia vs Gran Canaria",
+	        	"info": "21/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/9fxL0C9Z/4.png",
+	        	"url": "https://filemoon.sx/d/0pyb7voszhsw",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Obradoiro vs Basket Girona",
+	        	"info": "21/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Hsf386jv/3.png",
+	        	"url": "https://filemoon.sx/d/40051healh4f",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Joventut vs Andorra",
+	        	"info": "21/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/0289RC93/2.png",
+	        	"url": "https://filemoon.sx/d/lwcgtiin466h",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Zunder Palencia vs Breogan",
+	        	"info": "21/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Rh1C1s41/1.png",
+	        	"url": "https://filemoon.sx/d/nm6ska93k2p6",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 5",
+        "image": "https://i.postimg.cc/QMv5Y6Ys/j5.png",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Gran Canaria vs Barça",
+	        	"info": "15/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/wjV0PdDz/9.png",
+	        	"url": "https://filemoon.sx/d/8uq6hltbmobc",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zaragoza vs Baskonia",
+	        	"info": "15/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/GpXgB1pK/8.png",
+	        	"url": "https://filemoon.sx/d/vhaky8srg43x",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Breogan vs Valencia",
+	        	"info": "15/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/3rdVvWmv/7.png",
+	        	"url": "https://filemoon.sx/d/c8xo6hf42t44",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Manresa vs Zunder Palencia",
+	        	"info": "15/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/1t4FzGk4/6.png",
+	        	"url": "https://filemoon.sx/d/0yhaegbuxz2r",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Real Madrid vs Murcia",
+	        	"info": "15/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/mZJYtn24/5.png",
+	        	"url": "https://filemoon.sx/d/rhvltvkfk5pv",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Unicaja vs Joventut",
+	        	"info": "14/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Y9S6WKWr/4.png",
+	        	"url": "https://filemoon.sx/d/zp2oei4x24v6",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Basket Girona vs Lenovo Tenerife",
+	        	"info": "14/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/8zhm8bGS/3.png",
+	        	"url": "https://filemoon.sx/d/tvbwk3hmlfh3",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Bilbao Basket vs Granada",
+	        	"info": "14/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/mgxy650j/2.png",
+	        	"url": "https://filemoon.sx/d/wnp00rccsct2",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Andorra vs Obradoiro",
+	        	"info": "14/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/NGz4RMDW/1.png",
+	        	"url": "https://filemoon.sx/d/85br7z6lrb2c",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 4",
+        "image": "https://i.postimg.cc/g0h163Fv/jornada04.png",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Zunder Palencia vs Joventut",
+	        	"info": "07/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/K83mJkhY/ZunVsVal.png",
+	        	"url": "https://filemoon.sx/d/flyuv2gwqt9m",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Manresa vs Zaragoza",
+	        	"info": "07/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/vmcMc43y/ManVsZar.png",
+	        	"url": "https://filemoon.sx/d/u1zeku8uu1go",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Lenovo Tenerife vs Breogan",
+	        	"info": "07/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/JhV0VcRg/CanVsBre.png",
+	        	"url": "https://filemoon.sx/d/fsirhmm3vpeu",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Barça vs Andorra",
+	        	"info": "08/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/j5Cz3YtK/BarVsAnd.png",
+	        	"url": "https://filemoon.sx/d/psq051y6xnkc",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Bilbao Basket vs Murcia",
+	        	"info": "08/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/bNdwGYLq/BilVsMur.png",
+	        	"url": "https://filemoon.sx/d/dohp6p5mvzng",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Gran Canaria vs Unicaja",
+	        	"info": "08/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/pTDqJtZT/CanVsUni.png",
+	        	"url": "https://filemoon.sx/d/abyqujto31ii",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Valencia vs Obradoiro",
+	        	"info": "08/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/k552yNvt/ValVsObr.png",
+	        	"url": "https://filemoon.sx/d/bihgt023hu2f",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Granada vs Baskonia",
+	        	"info": "08/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/JhJzxTB0/GraVsBas.png",
+	        	"url": "https://filemoon.sx/d/596ad8z01nu8",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Basket Girona vs Real Madrid",
+	        	"info": "08/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/V6WMGsbJ/GirVsRea.png",
+	        	"url": "https://filemoon.sx/d/bxvb0rrbsqel",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 3",
+        "image": "https://i.postimg.cc/wMZN0VxC/Jor03.png",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Baskonia vs Bilbao",
+	        	"info": "30/09/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/zXxCszLD/Baskvs-Bil.png",
+	        	"url": "https://upstream.to/jh28ewcvfu2e",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Unicaja vs Valencia",
+	        	"info": "30/09/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/G2r93f93/unic-Vs-Val.png",
+	        	"url": "https://upstream.to/z29p7jjd0iuj",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Murcia vs Lenovo Tenerife",
+	        	"info": "30/09/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/jjDBwqwZ/MUrVsTEN.png",
+	        	"url": "https://upstream.to/4135x5qspmz0",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Joventut vs Gran Canaria",
+	        	"info": "01/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/0QT6RNm3/JotVsCan.png",
+	        	"url": "https://upstream.to/4tlfciq033di",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "MoraBanc Andorra vs Zunder Palencia",
+	        	"info": "01/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/dVFJMyfr/AndVsPal.png",
+	        	"url": "https://upstream.to/bo0k96ln771w",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Rio Breogan vs Baxi Manresa",
+	        	"info": "01/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/KjvBLhrh/RivsB.png",
+	        	"url": "https://upstream.to/exdvl8lfgf2q",
+				"userAgent":"",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid vs Barça",
+	        	"info": "01/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/FFf54kQm/RvsB.png",
+	        	"url": "https://upstream.to/r8akjsuvzxj5",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		}
+	]
+}

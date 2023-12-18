@@ -1,0 +1,1251 @@
+{
+"name": "Liga Europea",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/CvNnqRUU",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups": 
+	[
+		{
+        "name": "JORNADA 14",
+        "image": "https://i.postimg.cc/13Fn9zHb/round14.jpg",
+        "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "Barcelona vs Olimpia Milano",
+              	"info": "15/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/esrxj5p86ons",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Olympiacos vs Valencia Basket",
+              	"info": "15/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/93zsdesp1z9x",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Fenerbahce Istanbul vs AS Monaco",
+              	"info": "15/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/q098brqwt4ti",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Lyon Villeurbanne vs Panathinaikos",
+              	"info": "14/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/0sb5wt4o1tue",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Real Madrid vs FC Bayern Munich",
+              	"info": "14/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/a3mgxexu5wry",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Baskonia vs Virtus Bologna",
+              	"info": "14/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/vubavrucqkzh",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Maccabi vs Anadolu Efes",
+              	"info": "14/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/og1di50qfzq4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Zalgiris Kaunas vs Partizan Belgrado",
+              	"info": "14/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/s2d8w3y10h5a",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Crvena Zvezda vs Alba Berlin",
+              	"info": "14/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/yd0vs4vsj9pc",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+			]
+		},
+		{
+        "name": "JORNADA 13",
+        "image": "https://i.postimg.cc/TYR8C6t1/round13.jpg",
+        "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "Lyon Villeurbanne vs Valencia Basket",
+              	"info": "08/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/fox0c5vv3t5p",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Barcelona vs Fenerbahce Istanbul",
+              	"info": "08/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/lhpm4vuxyqo9",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Baskonia vs Crvena Zvezda",
+              	"info": "08/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/7awa0efi9yp8",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Virtus Bologna vs Maccabi",
+              	"info": "08/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/m81rhbqfb2kr",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Olympiacos vs FC Bayern Munich",
+              	"info": "08/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/yvxqy20hmzxo",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Zalgiris Kaunas vs AS Monaco",
+              	"info": "08/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/s630nwtkbp83",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Partizan Belgrado vs Olimpia Milano",
+              	"info": "07/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/vpu1iqb1z2tn",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Panathinaikos vs Real Madrid",
+              	"info": "07/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/k7na7jbg2lvg",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Alba Berlin vs Anadolu Efes",
+              	"info": "07/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/yo42xk0wkmci",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+			]
+		},
+		{
+        "name": "JORNADA 12",
+        "image": "https://i.postimg.cc/pdYz4XWn/round12.jpg",
+        "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "Virtus Bologna vs Barcelona",
+              	"info": "06/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/2u327z2wcgn2",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Valencia Basket vs Crvena Zvezda",
+              	"info": "06/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/oc76ns5j7x0m",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Baskonia vs Fenerbahce Istanbul",
+              	"info": "06/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/2g79ctast6b1",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Maccabi vs Lyon Villeurbanne",
+              	"info": "06/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/w3os23vxr66l",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Partizan Belgrado vs AS Monaco",
+              	"info": "05/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/o2rkmfz49hsb",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "FC Bayern Munich vs Olimpia Milano",
+              	"info": "05/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/598gw3cy5f9z",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Olympiacos vs Real Madrid",
+              	"info": "05/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/dfqty5txrzcf",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Alba Berlin vs Zalgiris Kaunas",
+              	"info": "05/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/hg8hvyuc8j5r",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	name": "Anadolu Efes vs Panathinaikos",
+              	"info": "05/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/e6idz5cnpnr2",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+			]
+		},
+		{
+        "name": "JORNADA 11",
+        "image": "https://i.postimg.cc/mg7JvSWd/round-11.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "Barcelona vs Lyon Villeurbanne",
+              "info": "01/12/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/uhdu5o2nnqz3",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Valencia Basket vs Baskonia",
+              "info": "01/12/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/yg4led55bot7",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Crvena Zvezda vs Anadolu Efes",
+              "info": "01/12/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/nn03mea63ph9",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Partizan Belgrado vs Panathinaikos",
+              "info": "30/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/l52sa2nwhdof",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "FC Bayern Munich vs Virtus Bologna",
+              "info": "30/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/au7w5bos03bi",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olimpia Milano vs Zalgiris Kaunas",
+              "info": "30/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/qy30n7axmfxz",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Maccabi vs Alba Berlin",
+              "info": "30/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/d92w3ogidw9p",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "AS Monaco vs Olympiacos",
+              "info": "30/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/xt3t8aqkted2",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Fenerbahce Istanbul vs Real Madrid",
+              "info": "30/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/9f8gwp649783",
+              "userAgent":"",
+              "isHost": "true"
+              }
+            ]
+        },
+		{
+        "name": "JORNADA 10",
+        "image": "https://i.postimg.cc/nccVX65z/Round10.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "Crvena Zvezda vs Olimpia Milano",
+              "info": "25/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/juv5wvzpxekz",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Baskonia vs AS Monaco",
+              "info": "24/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/tr6langucv91",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olympiacos vs Zalgiris Kaunas",
+              "info": "24/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/05n5il6oj1xh",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Anadolu Efes vs Partizan Belgrado",
+              "info": "24/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/ax2inq99ur9b",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Real Madrid vs Alba Berlin",
+              "info": "23/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/xddk6o1k0ukj",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Virtus Bologna vs Fenerbahce Istanbul",
+              "info": "23/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/hxfw6udhvz6b",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Panathinaikos vs Valencia Basket",
+              "info": "23/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/mpi6f8c8bfx4",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Maccabi vs Barcelona",
+              "info": "23/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/jodpaex5ekn6",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Lyon Villeurbanne vs FC Bayern Munich",
+              "info": "23/11/23",
+              "online": "true",
+              "image": "",
+              "url": "https://filemoon.sx/d/r0w2g01qf1a1",
+              "userAgent":"",
+              "isHost": "true"
+              }
+            ]
+        },
+		{
+        "name": "JORNADA 9",
+        "image": "https://i.postimg.cc/0Qb2sQ9X/round9.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "Partizan Belgrado vs Alba Berlin",
+              "info": "17/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/KcsFbFWC/9.png",
+              "url": "https://filemoon.sx/d/vz7m4l0tonlc",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Barcelona vs Valencia Basket",
+              "info": "17/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/PqmrfcDY/8.png",
+              "url": "https://filemoon.sx/d/ndylam3syid8",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Panathinaikos vs Virtus Bologna",
+              "info": "17/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/85SchDGZ/7.png",
+              "url": "https://filemoon.sx/d/ix2zie4etc5y",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Lyon Villeurbanne vs Baskonia",
+              "info": "17/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/2SgVShKR/6.png",
+              "url": "https://filemoon.sx/d/a4tgcmnombqs",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Zalgiris Kaunas vs FC Bayern Munich",
+              "info": "17/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/SRmXp4tn/5.png",
+              "url": "https://filemoon.sx/d/1yai030l74g0",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Real Madrid vs AS Monaco",
+              "info": "16/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/GhqDdBRd/4.png",
+              "url": "https://filemoon.sx/d/btkw4f37fw71",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olimpia Milano vs Anadolu Efes",
+              "info": "16/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/43rtqrgc/3.png",
+              "url": "https://filemoon.sx/d/ky6g7uhd1u71",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olympiacos vs Crvena Zvezda",
+              "info": "16/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/BQgTbYTW/2.png",
+              "url": "https://filemoon.sx/d/ku4ip6yk495h",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Maccabi vs Fenerbahce Istanbul",
+              "info": "16/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/2jL9qD6s/1.png",
+              "url": "https://filemoon.sx/d/shu7zs7qarpo",
+              "userAgent":"",
+              "isHost": "true"
+              }
+            ]
+        },
+		{
+        "name": "JORNADA 8",
+        "image": "https://i.postimg.cc/Jn2Vc5VP/round8.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "FC Bayern Munich vs Partizan Belgrado",
+              "info": "15/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/Kvcv5JMD/9.png",
+              "url": "https://filemoon.sx/d/2c6ujr1zcwg2",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Baskonia vs Barcelona",
+              "info": "15/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/yxs6tTrB/8.png",
+              "url": "https://filemoon.sx/d/2w6zz27y1h0x",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Panathinaikos vs Zalgiris Kaunas",
+              "info": "15/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/0Qp2V4nc/7.png",
+              "url": "https://filemoon.sx/d/v086pi9q9o2w",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Alba Berlin vs Asvel Villeurbanne",
+              "info": "15/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/bwJrq3Yw/6.png",
+              "url": "https://filemoon.sx/d/a0xr29uwyp3i",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Crvena Zvezda vs Fenerbahce Istanbul",
+              "info": "14/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/1t64LXm0/5.png",
+              "url": "https://filemoon.sx/d/i77b8hpo97te",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Valencia Basket vs Real Madrid",
+              "info": "14/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/6p52yBcw/4.png",
+              "url": "https://filemoon.sx/d/kh20orpwtsm1",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Virtus Bologna vs Olimpia Milano",
+              "info": "14/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/2ywt9jh2/3.png",
+              "url": "https://filemoon.sx/d/1k2v7yrcmi96",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Maccabi vs Olympiacos",
+              "info": "14/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/L5NP0GXz/2.png",
+              "url": "https://filemoon.sx/d/co4fwomz7v24",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "AS Monaco vs Anadolu Efes",
+              "info": "14/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/cJbQdpMT/1.png",
+              "url": "https://filemoon.sx/d/9o4c0v8w88p2",
+              "userAgent":"",
+              "isHost": "true"
+              }
+            ]
+        },
+		{
+        "name": "JORNADA 7",
+        "image": "https://i.postimg.cc/VN4c5c7y/round7.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "AS Monaco vs Asvel Villeurbanne",
+              "info": "10/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/SRhKmRBq/9.png",
+              "url": "https://filelions.site/f/541fuor4oe0j",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Barcelona vs Crvena Zvezda",
+              "info": "10/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/XvqGPZbz/8.png",
+              "url": "https://filelions.site/f/8r0duqr706l0",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Alba Berlin vs Panathinaikos",
+              "info": "10/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/BQ38073D/7.png",
+              "url": "https://filelions.site/f/lgc79b7lw9l0",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Real Madrid vs AS Virtus Bologna",
+              "info": "09/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/GmqTzFZD/6.png",
+              "url": "https://filelions.site/f/yj91vuctwoao",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olimpia Milano vs Valencia Basket",
+              "info": "09/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/MK0Qf25d/5.png",
+              "url": "https://filelions.site/f/pvkh5nu9no20",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Partizan Belgrado vs Fenerbahce Istanbul",
+              "info": "09/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/3rvp7DvM/4.png",
+              "url": "https://filelions.site/f/ukgfcp6fb8tg",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Maccabi vs FC Bayern Munich",
+              "info": "09/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/CMBC1Q9Q/3.png",
+              "url": "https://filelions.site/f/aadn1emgxdt9",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Anadolu Efes vs Zalgiris Kaunas",
+              "info": "09/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/TwhVn71h/2.png",
+              "url": "https://filelions.site/f/sos4pes8b1j1",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olympiacos vs Baskonia",
+              "info": "09/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/3xHFzFSb/1.png",
+              "url": "https://filelions.site/f/n7ldomfbcrzl",
+              "userAgent":"",
+              "isHost": "true"
+              }
+            ]
+        },
+       	{
+        "name": "JORNADA 6",
+        "image": "https://i.postimg.cc/W49ZY0pv/round06.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "Virtus Bologna vs Anadolu Efes",
+              "info": "03/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/RCW5NmjC/1.png",
+              "url": "https://filelions.site/f/wvvwzgm04x52",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Baskonia vs Partizan Belgrado",
+              "info": "03/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/cHjzQKVx/2.png",
+              "url": "https://filelions.site/f/vp52roee6jaq",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Barcelona vs Panathinaikos",
+              "info": "03/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/W4YYvFpG/3.png",
+              "url": "https://filelions.site/f/4yzkvgzp1fiu",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olimpia Milano vs  AS Monaco",
+              "info": "02/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/vBpP4JVD/4.png",
+              "url": "https://filelions.site/f/0e87mzfl93ci",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Valencia Basket vs Alba Berlin",
+              "info": "02/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/L8NNtY1c/5.png",
+              "url": "https://filelions.site/f/8f05wm1azxj9",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Maccabi vs Real Madrid",
+              "info": "APLAZADO",
+              "online": "",
+              "image": "https://i.postimg.cc/gjVfmzTG/6.png",
+              "url": "",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Zalgiris Kaunas vs Asvel Villeurbanne",
+              "info": "02/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/wjTSYdcd/7.png",
+              "url": "https://filelions.site/f/5xbb67y0kk6k",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Fenerbahce Istanbul vs Olympiacos",
+              "info": "02/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/L530GyJX/8.png",
+              "url": "https://filelions.site/f/t9dhqa3nitcj",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Crvena Zvezda vs FC Bayern Munich",
+              "info": "02/11/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/Tw8718m1/9.png",
+              "url": "https://filelions.site/f/1lkxoduh4spi",
+              "userAgent":"",
+              "isHost": "true"
+              }
+		    ]
+		},
+		{
+        "name": "JORNADA 5",
+        "image": "https://i.postimg.cc/hGzBP3W7/jornada-05.jpg",
+        "info": "",
+        "stations":
+            [
+              {
+              "name": "Real Madrid vs Barcelona",
+              "info": "26/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/25TR8R3G/1.png",
+              "url": "https://filelions.site/f/ziu7hpjhuizq",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Partizan Belgrado vs Estrella Roja",
+              "info": "26/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/pV3Tt8wT/2.png",
+              "url": "https://filelions.site/f/e4yhtk10rmjq",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Alba Berlin vs Olimpia Milano",
+              "info": "26/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/05KkZjzq/3.png",
+              "url": "https://filelions.site/f/ci925b1kr266",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "AS Monaco vs Maccabi ",
+              "info": "26/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/dV5cJchB/4.png",
+              "url": "https://filelions.site/f/fxpapcv770a3",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Olympiacos vs Anadolu Efes",
+              "info": "26/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/2yRP0ztz/5.png",
+              "url": "https://filelions.site/f/fn1rrjkfna62",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Zalgiris Kaunas vs Valencia Basket",
+              "info": "27/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/0Qm4MTyh/6.png",
+              "url": "https://filelions.site/f/eu0x2s3don5b",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Asvel Villeurbanne vs Virtus Bologna",
+              "info": "27/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/zvFPpTWj/7.png",
+              "url": "https://filelions.site/f/wmpibmjww4a9",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "Panathinaikos vs Baskonia",
+              "info": "27/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/gcHMCqXy/8.png",
+              "url": "https://filelions.site/f/5wv19kc890v5",
+              "userAgent":"",
+              "isHost": "true"
+              },
+              {
+              "name": "FC Bayern Munich vs Fenerbahce Istanbul",
+              "info": "27/10/23",
+              "online": "true",
+              "image": "https://i.postimg.cc/kgBfR0jw/9.png",
+              "url": "https://filelions.site/f/yarkh82ewp04",
+              "userAgent":"",
+              "isHost": "true"
+              }
+		    ]
+		},
+		{
+        "name": "JORNADA 4",
+        "image": "https://i.postimg.cc/4yM814ng/round4.jpg",
+        "info": "",
+        "stations":
+            [
+				
+	       		{
+ 	       		"name": "Virtus Bologna vs Cvrena Zvezda",
+	        	"info": "20/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/05d2H6Cj/9.png",
+	        	"url": "https://upstream.to/3o5ke84v9xui",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Barcelona vs Bayern Munich",
+	        	"info": "20/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/qR2MrgVm/8.png",
+	        	"url": "https://upstream.to/m9g2lgo2xwt9",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Panathinaikos vs As Maccabi",
+	        	"info": "20/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/QCpBf0dd/7.png",
+	        	"url": "https://upstream.to/knse0j61ouud",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Anadolu EFES vs Valencia Basket",
+	        	"info": "20/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/0NBJjz4P/6.png",
+	        	"url": "https://upstream.to/4g11lqjixafr",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Monaco vs ALBA Berlín",
+	        	"info": "20/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/bY21GR8M/5.png",
+	        	"url": "https://upstream.to/yqclckienqjc",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid vs Olimpia Milano",
+	        	"info": "19/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Sxb2z0VY/4.png",
+	        	"url": "https://filemoon.sx/d/s5umgohvvxhv",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Baskonia vs Zalgiris Kaunas",
+	        	"info": "19/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/xTxp0RPZ/3.png",
+	        	"url": "https://upstream.to/qzhwnslcitqj",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olimpiacos vs Partizán",
+	        	"info": "19/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/sXd0kgJD/2.png",
+	        	"url": "https://upstream.to/s06tnog3yppo",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Fenerbache vs Lyon-Villeurbanne",
+	        	"info": "19/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Z5sGMmgC/1.png",
+	        	"url": "https://upstream.to/o1bxx3ajqwbb",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 3",
+        "image": "https://i.postimg.cc/HnjWF4Pf/round3.jpg",
+        "info": "",
+        "stations":
+            [
+				
+	       		{
+ 	       		"name": "Virtus Bologna vs ALBA Berlín",
+	        	"info": "18/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/qqCfrhJb/9.png",
+	        	"url": "https://upstream.to/x7wf8doq7wvv",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Valencia Basket vs Maccabi",
+	        	"info": "18/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/1RY5ZwHH/8.png",
+	        	"url": "https://filemoon.sx/d/9ffa026ffssw",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Cvrena Zvezda vs As Monaco",
+	        	"info": "18/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/VNckVwRP/7.png",
+	        	"url": "https://upstream.to/srmdxbn8vllc",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Olimpia Milano vs Olimpiacos",
+	        	"info": "17/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/WbhzDX3C/6.png",
+	        	"url": "https://upstream.to/btvveuruy6pa",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Real Madrid vs Zalgiris Kaunas",
+	        	"info": "17/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Cx2jBRSH/5.png",
+	        	"url": "https://upstream.to/7rgnx9mgxwsk",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia vs Bayern Munich",
+	        	"info": "17/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/CxS2P6q6/4.png",
+	        	"url": "https://upstream.to/8s88b9iqlss8",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Anadolu EFES vs Lyon-Villeurbanne",
+	        	"info": "17/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Gt47DZ6H/3.png",
+	        	"url": "https://upstream.to/yu4i98v45a1m",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache vs Panathinaikos",
+	        	"info": "17/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/vm1cpXR5/2.png",
+	        	"url": "https://upstream.to/4asuujl4uxzh",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Barcelona vs Partizán",
+	        	"info": "17/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/SR9Lkqw7/1.png",
+	        	"url": "https://upstream.to/ci53c2bo3jtx",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 2",
+        "image": "https://i.postimg.cc/FzLzTVKc/round2.jpg",
+        "info": "",
+        "stations":
+            [
+				
+	       		{
+ 	       		"name": "Valencia Basket vs Fenerbache",
+	        	"info": "13/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/ZqCY5LhN/8.png",
+	        	"url": "https://upstream.to/wlefbztppwta",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Olimpiacos vs FC Barcelona",
+	        	"info": "13/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/2S5r0xyt/7.png",
+	        	"url": "https://upstream.to/2iyju9h7ywnj",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "As Monaco vs Virtus Bologna",
+	        	"info": "13/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/sg2K1MHS/6.png",
+	        	"url": "https://upstream.to/4d5y8qo27kvx",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Zalgiris Kaunas vs Cvrena Zvezda",
+	        	"info": "13/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/sg2K1MHS/6.png",
+	        	"url": "https://upstream.to/41emcikozsu7",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos vs Bayern Munich",
+	        	"info": "12/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/DZty44cz/4.png",
+	        	"url": "https://upstream.to/g2zrqszpop0u",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Lyon-Villeurbanne vs Partizán",
+	        	"info": "12/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/2y7Rj1cM/3.png",
+	        	"url": "https://upstream.to/lrlzvac2umnq",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "ALBA Berlín vs Baskonia",
+	        	"info": "12/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/XN8zJ6NR/2.png",
+	        	"url": "https://upstream.to/utv5is4nura8",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Real Madrid vs Anadolu EFES",
+	        	"info": "12/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/XN8zJ6NR/2.png",
+	        	"url": "https://upstream.to/am1aijc9eg2a",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		},
+		{
+        "name": "JORNADA 1",
+        "image": "https://cope-cdnmed.cope.es/resources/jpg/8/2/1689674353128.jpg",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Cvrena Zvezda vs Lyon-Villeurbanne",
+	        	"info": "05/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/XNRRDnJH/CvVsLy.png",
+	        	"url": "https://upstream.to/e8paku3t4dyx",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi vs Partizán",
+	        	"info": "05/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/FsfBv8ff/Mac-Vs-PArt.png",
+	        	"url": "https://upstream.to/2p86wfmx3t1w",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Bayern Munich vs ALBA Berlín",
+	        	"info": "05/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/159DcqSy/BayVsBer.png",
+	        	"url": "https://upstream.to/50jwu9v4z7by",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona vs Anadolu EFES",
+	        	"info": "05/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/HW5Vcs7d/BarVsAna.png",
+	        	"url": "https://upstream.to/ocdnwos2cqsp",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Virtus Bologna vs Zalgiris Kaunas",
+	        	"info": "05/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/JnYcs7yb/VrtVsZal.png",
+	        	"url": "https://upstream.to/hgmr73953atb",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Fenerbache vs Olimpia Milano",
+	        	"info": "06/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/tCnQCY1N/FenVsOli.png",
+	        	"url": "https://upstream.to/di3pkgx47hp7",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos vs Olympiacos",
+	        	"info": "06/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/WpCpnRgS/PanVsOli.png",
+	        	"url": "https://upstream.to/wx37ofg3llt9",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Valencia Basket vs AS Mónaco",
+	        	"info": "06/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/TPfn35Py/ValVsMon.png",
+	        	"url": "https://upstream.to/shmgn0g7y3rd",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia vs Real Madrid",
+	        	"info": "06/10/23",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/fLpLJksn/Bas-Vs-Real.png",
+	        	"url": "https://upstream.to/i0bmtcjxmux0",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		}
+	]
+}

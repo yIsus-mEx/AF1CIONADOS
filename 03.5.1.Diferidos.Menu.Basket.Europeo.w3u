@@ -1,0 +1,25 @@
+{
+"name": "Basket Europeo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://aficionados.vercel.app/",
+"telegram": "Lista_AF1CIONADOS",
+"info":"",
+"groups":
+    [
+          {
+          "name": "Liga Endesa               bY Ronki",
+          "image": "https://i.postimg.cc/TPj86gWK/liga-endesa-new.png",
+          "url": "https://aficionados.vercel.app/",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "EuroLiga                 bY Ronki",
+          "image": "https://i.postimg.cc/7hYX2yR1/Euro-Liga-new.png",
+          "url": "https://aficionados.vercel.app/",
+          "info":"",
+          "import": false
+          }
+     ]
+}
