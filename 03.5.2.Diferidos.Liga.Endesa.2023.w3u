@@ -8,6 +8,95 @@
 "groups": 
     [
 		{
+        "name": "JORNADA 14",
+        "image": "",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Valencia vs Andorra",
+                "info": "17/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/ahyjgtkl3y52",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Barça vs Baskonia",
+                "info": "17/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/77bdsre76f0o",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Breogan vs Murcia",
+                "info": "17/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/3452yxjvscey",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Basket Girona vs Joventut",
+                "info": "17/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/clgu9c4l4ytw",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Zunder Palencia vs Zaragoza",
+                "info": "17/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/pl4oyuk3laso",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Obradoiro vs Real Madrid",
+                "info": "16/12/23",
+                "online": "",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Gran Canaria vs Bilbao Basket",
+                "info": "16/12/23",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/8kyflapmo32l",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Unicaja vs Granada",
+                "info": "16/12/23",
+                "online": "",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Manresa vs Lenovo Tenerife",
+                "info": "16/12/23",
+                "online": "",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "JORNADA 13",
         "image": "https://i.postimg.cc/YqrmzvgP/round13.png",
         "info": "",
