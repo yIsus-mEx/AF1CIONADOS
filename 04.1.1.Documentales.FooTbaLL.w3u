@@ -1,0 +1,386 @@
+{
+"name": "FooTbaLL",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Futbol Mix",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		{
+       			 "name": "Higuita: El Camino del Escorpión",
+        		"info":"[Documental][Español]",
+        		"image": "https://www17.pelisplushd.to/poster/higuita-el-camino-del-escorpion.jpg",
+        		"url":"https://filelions.to/v/doltcmw4wo5c",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+       			 "name": "Vivir Vale La Pena",
+        		"info":"[Documental][Español]",
+        		"image": "https://i.postimg.cc/8cXb7JtG/Informe-Vivir-vale-la-pena-2022-Documental.jpg",
+        		"url":"https://upstream.to/eouoc7uvx06t",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "En El Corazón De La Decimocuarta 2023",
+        		"info":"[Documental][Español]",
+        		"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/9/w1280/jUeqsV3G8ohcQhdoiat9YRrVOaN.jpg",
+        		"url":"https://www.linkbox.to/f-detail/ZnAzd2Q0MDBsZHhx0",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Lewandowski Lo Desconocido 2023",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/Lewandowski_Lo_desconocido-642027690-large.jpg",
+        		"url":"https://www.linkbox.to/f-detail/ZnAzdXFjMDAzenNz0",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Fútbol Club Maradona 2019",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/futbol_club_maradona-250586810-mmed.jpg",
+        		"url":"https://www.documaniatv.com/biografias/futbol-club-maradona-video_f80339967.html",
+       			"isHost":"true",
+        		"online":"true"
+       			},
+        		{
+        		"name": "Maradona confidencial 2018",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/maradona_confidencial-390198629-mmed.jpg",
+        		"url":"https://www.documaniatv.com/biografias/maradona-confidencial-video_b0d60ecdf.html",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Anelka El Incomprendido 2020",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/anelka_l_incompris-568757795-mmed.jpg",
+        		"url":"https://www.yourupload.com/watch/5g7bQXONyBhj",
+       			"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Diego Maradona 2019",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/diego_maradona-381703784-mmed.jpg",
+        		"url":"https://www.yourupload.com/watch/26J7d48ym4PW",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Hugo Sanchéz: El Gol y La Gloria 2021",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/hugo_sanchez_el_gol_y_la_gloria-853573225-mmed.jpg",
+        		"url":"https://www.yourupload.com/watch/88C6fJkI7Nx0",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "El Caso Figo: El Fichaje Del Siglo 2022",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/the_figo_affair_the_transfer_that_changed_football-784433887-mmed.jpg",
+       	 		"url":"https://www.yourupload.com/watch/q6RhdTh5KAa1",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Pele 2021",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/pele-801713591-mmed.jpg",
+        		"url":"https://www.documaniatv.com/biografias/pele-video_aa5adc9e8.html",
+		        "isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Ronaldo 2015",
+        		"info":"[Documental][Español]",
+        		"image": "https://es.web.img3.acsta.net/pictures/15/09/29/12/57/543717.jpg",
+        		"url":"https://www.documaniatv.com/biografias/ronaldo-video_2dc9e73d4.html",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Toca y Pasa el Balon 2018",
+       			"info":"[Documental][Español]",
+        		"image": "https://i.postimg.cc/nhF0V3rR/toca-y-pasa-el-balon.png",
+        		"url":"https://www.documaniatv.com/deporte/toca-y-pasa-el-barcelona-de-guardiola-video_798011c98.html",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Iniesta de mi vida 2015",
+        		"info":"[Documental][Español]",
+        		"image": "https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/4e/885326.png",
+        		"url":"https://www.documaniatv.com/biografias/iniesta-de-mi-vida-video_5ccbe6940.html",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+			]
+		},
+		{
+        "name": "Real Madrid, La Leyenda Blanca",
+        "image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		{
+        		"name": "Real Madrid: Orígenes",
+        		"info":"[E01]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-1-origenes-video_4b711e095.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Proyección",
+        		"info":"[E02]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-2-proyeccion-video_e3abd8f27.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Factor Humano",
+        		"info":"[E03]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-3-factor-humano-video_da8169d36.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: El Espíritu De La Quinta",
+        		"info":"[E04]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-4-el-espiritu-de-la-quinta-video_f4717e752.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Renacimiento",
+        		"info":"[E05]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-5-renacimiento-video_079097388.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Eterno",
+        		"info":"[E06]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-6-eterno-video_34b601742.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+			]
+		},
+		{
+        "name": "Barcelona, Matchday",
+        "image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		 {
+        		"name": "Barcelona: El Clásico del Fútbol",
+        		"info":"[E01]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-1-el-clasico-del-futbol-video_21a728cd2.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Territorio Enemigo",
+        		"info":"[E02]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-2-territorio-enemigo-video_206572ec8.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: La Maldición de Cuartos",
+        		"info":"[E03]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-3-la-maldicion-de-cuartos-video_7d3a0d299.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Los vecinos",
+        		"info":"[E04]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-4-los-vecinos-video_f3f0cf2a0.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Match Point",
+        		"info":"[E05]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-5-match-point-video_ce10fb3c8.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Una Noche Europea",
+        		"info":"[E06]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-6-una-noche-europea-video_ad85c0e2d.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+       	 		{
+        		"name": "Real Madrid: 18 Días de Tormenta",
+        		"info":"[E07]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-7-18-dias-de-tormenta-video_6b8919773.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Un Nuevo Comienzo",
+        		"info":"[E08]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-8-un-nuevo-comienzo-video_55e86b295.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+			]
+		},
+		{
+        "name": "Simeone",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		{
+        		"name": "T1 E1 - Es Mi Vida",
+        		"info":"Castellano",
+        		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        		"url": "https://ok.ru/video/3846905268787",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "T1 E2 - Pequeños Detalles",
+        		"info":"Castellano",
+        		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        		"url": "https://ok.ru/video/3849798879795",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "T1 E3 - El Cuchillo Entre Los Dientes",
+        		"info":"Castellano",
+        		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        		"url": "https://ok.ru/video/3849798683187",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "T1 E4 - Creer",
+        		"info":"Castellano",
+        		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        		"url": "https://ok.ru/video/3849798486579",
+        		"userAgent" : "",
+        		"online":"true",
+       		 	"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "T1 E5 - Mesa Chica",
+        		"info":"Castellano",
+        		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        		"url": "https://ok.ru/video/3849798355507",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "T1 E6 - Vivir Partido a Partido",
+        		"info":"Castellano",
+        		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        		"url": "https://ok.ru/video/3849798224435",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		}
+			]
+		},
+		{
+        "name": "Neymar: El Caos Perfecto",
+        "image": "https://pics.filmaffinity.com/neymar_the_perfect_chaos-264175934-mmed.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		{
+        		"name": "E1 - La Promesa de Brasil",
+        		"info":"Castellano",
+        		"image": "https://pics.filmaffinity.com/neymar_the_perfect_chaos-264175934-mmed.jpg",
+        		"url": "https://ok.ru/video/3839434951219",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "E2 - El Regreso",
+        		"info":"Castellano",
+        		"image": "https://pics.filmaffinity.com/neymar_the_perfect_chaos-264175934-mmed.jpg",
+        		"url": "https://ok.ru/video/3839434885683",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "E3 - Paris",
+        		"info":"Castellano",
+        		"image": "https://pics.filmaffinity.com/neymar_the_perfect_chaos-264175934-mmed.jpg",
+        		"url": "https://ok.ru/video/3839434754611",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		}
+			]
+		}
+    ]
+}
