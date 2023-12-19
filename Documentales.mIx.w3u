@@ -1,0 +1,38 @@
+{
+"name": "Documentales mIx",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/izdLtrzX",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+    [
+		{
+		"name": "Michael Jordan to the Max 2015",
+		"info":"[Documental][Español]",
+		"image": "https://m.media-amazon.com/images/I/61+XshOUshL._AC_SY445_.jpg",
+		"url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+		"embed":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Rodman: para lo bueno y para lo malo 2019",
+		"info":"[Documental][Español]",
+		"image": "https://pics.filmaffinity.com/30_for_30_rodman_for_better_or_worse-853152931-mmed.jpg",
+		"url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+		"embed":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Serena 2016",
+		"info":"[Documental][Español]",
+		"image": "https://image.tmdb.org/t/p/w500/n6RHfOP2tcqhqm26n65Sbq3f2qB.jpg",
+		"url":"https://www.documaniatv.com/biografias/serena-video_73d1db0b6.html",
+		"embed":"",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
