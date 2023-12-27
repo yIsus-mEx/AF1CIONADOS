@@ -7,7 +7,25 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-       {
+        {
+        "name": "Carlos Sainz: Experiencia Demostrable",
+        "info":"[Documental]",
+        "image": "https://pitlanemotor.com/wp-content/uploads/2023/12/DAZN_Carlos-Sainz-scaled.jpg",
+        "url":"https://filemoon.sx/d/qq1o3jgdt4nk",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "Verstappen: En La Mente del Campeón",
+        "info":"[Documental]",
+        "image": "https://pitlanemotor.com/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-05-at-19.29.23-scaled.jpg",
+        "url":"https://filemoon.sx/d/7ty601z3hhav",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
         "name": "Senna 2010",
         "info":"[Documental][Vose.Sub]",
         "image": "https://m.media-amazon.com/images/I/61Qu7oogxrL.jpg",
