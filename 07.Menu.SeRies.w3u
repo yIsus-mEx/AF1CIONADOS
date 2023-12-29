@@ -8,25 +8,12 @@
 "groups":
     [
 
+
     	{
-		"name": "Hechos polvo",
-		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+		"name": "Bosque, El",
+		"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
 		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie HECHOS POLVO.w3u",
-		"import": false
-		},
-    	{
-		"name": "Homeland",
-		"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie HOMELAND.w3u",
-		"import": false
-		},
-    	{
-		"name": "El espia (The Spy)",
-		"image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie EL ESPIA.w3u",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20BOSQUE.w3u",
 		"import": false
 		},
     	{
@@ -37,31 +24,38 @@
 		"import": false
 		},
     	{
-		"name": "Show de Gardfield",
-		"image": "https://pics.filmaffinity.com/the_garfield_show-220295484-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
-		"import": false
-		},
-    	{
 		"name": "Caleidoscopio",
 		"image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie%20CALEIDOSCOPIO.w3u",
 		"import": false
 		},
-    	{
-		"name": "El Bosque",
-		"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20BOSQUE.w3u",
+        {
+		"name": "Chica de Nieve, La",
+		"image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20CHICA%20DE%20NIEVE.w3u",
+		"import": false
+		},
+		{
+		"name": "Encargado, El",
+		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ENCARGADO.w3u",
 		"import": false
 		},
     	{
-		"name": "Ted Lasso",
-		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
+		"name": "Espia, El (The Spy)",
+		"image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
 		"info": "bY. Adri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20TED%20LASSO.w3u",
+		"url": "https://af1cionados.vercel.app/serie EL ESPIA.w3u",
+		"import": false
+		},
+    	{
+		"name": "Hechos polvo",
+		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie HECHOS POLVO.w3u",
 		"import": false
 		},
 	{
@@ -71,11 +65,32 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20HERMANOS%20DE%20SANGRE.w3u",
 		"import": false
 		},
+    	{
+		"name": "Homeland",
+		"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie HOMELAND.w3u",
+		"import": false
+		},
         {
 		"name": "Kalifat",
 		"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
+		"import": false
+		},
+    	{
+		"name": "Show de Gardfield",
+		"image": "https://pics.filmaffinity.com/the_garfield_show-220295484-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
+		"import": false
+		},
+    	{
+		"name": "Ted Lasso",
+		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20TED%20LASSO.w3u",
 		"import": false
 		},
         {
@@ -85,13 +100,6 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POMBO",
 		"import": false
 		},
-        {
-		"name": "La Chica de Nieve",
-		"image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20CHICA%20DE%20NIEVE.w3u",
-		"import": false
-		},	
         {
 		"name": "La Red Purpura",
 		"image": "https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
@@ -104,13 +112,6 @@
 		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20OTRO%20LADO.w3u",
-		"import": false
-		},
-		{
-		"name": "El encargado",
-		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ENCARGADO.w3u",
 		"import": false
 		},
 		{
