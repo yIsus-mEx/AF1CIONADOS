@@ -12,8 +12,18 @@
         "image": "",
         "imageScale": "",
         "info":"",
-		"stations":
+	"stations":
     		[
+
+        		{
+       			 "name": "Pelé, el rey del fútbol",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/pele_king_of_the_game-249162947-large.jpg",
+        		"url":"https://upstream.to/xvyjvlndzkm5",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
         		{
        			 "name": "Higuita: El Camino del Escorpión",
         		"info":"[Documental][Español]",
