@@ -7,9 +7,14 @@
 "info":"Lista_AF1CIONADOS",
 "groups":
     [
-
-
-    	{
+        {
+		"name": "Big Mouth",
+		"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+		"info": "bY. yIsus",
+		"url": "https://af1cionados.vercel.app/",
+		"import": false
+		},
+        {
 		"name": "Bosque, El",
 		"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
 		"info": "bY. Adri",

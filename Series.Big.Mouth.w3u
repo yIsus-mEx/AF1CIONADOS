@@ -1,0 +1,110 @@
+{
+"name": "Big Mouth",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 07",
+        "image": "https://pics.filmaffinity.com/Big_Mouth_Serie_de_TV-662477175-large.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		{
+        		"name": "Episodio 01",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/7axr9jgy0w7w",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 02",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/w499xebpkt2z",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 03",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 04",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/39a7o6h14qo0",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 05",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/kkpi0sbdzisu",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 06",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/d4gcmm597p2u",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 07",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/7c0k6nx4smf9",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 08",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/cobvr7n83rh5",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 09",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/9395defndekh",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Episodio 10",
+        		"info":"",
+       		 	"image": "https://www.verseries.cloud/storage/public/image/serie/big-mouth-saison-7.jpg",
+        		"url":"https://filemoon.sx/d/v7e9p8bqfgs6",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+			]
+		}
+	]
+}
