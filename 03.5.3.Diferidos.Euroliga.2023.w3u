@@ -7,10 +7,98 @@
 "info": "",
 "groups": 
 	[
-
+		{
+        "name": "JORNADA 17",
+        "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
+        "info": "",
+        "stations":
+        	[
+              	{
+              	"name": "As Monaco vs Barca",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/aeuiuzoolwvo",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Alba Berlin vs Olympiacos",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/fi1i2ujufl13",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "FC Bayern vs Valencia Basket",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/ljevoofti6ey",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Olimpia Milano vs Baskonia",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/o6jo8y8218s3",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Panathinaikos vs Crvena Zvezda",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/6pglexd7iio3",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Lyon Villeurbanne VS vs Real Madrid",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/bcs3b74h992a",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Zalgiris Kaunas vs Maccabi Tel Aviv",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/4kaxtvm66zi2",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Partizan vs Virtus Bologna",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/b2vzaa0m22sh",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Anadolu Efes vs Fenerbahce Istanbul",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/dx84sii09ylw",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+			]
+		},
 		{
         "name": "JORNADA 16",
-        "image": "",
+        "image": "https://i.postimg.cc/fTF4pRM8/image.jpg",
         "info": "",
         "stations":
         	[
@@ -32,7 +120,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-		{
+				{
               	"name": "ASVEL Villeurbanne vs Olympiacos Piraeus",
               	"info": "22/12/23",
               	"online": "true",
@@ -51,7 +139,7 @@
               	"isHost": "true"
               	},
               	{
-              	"name": "Bayern vs Monaco",
+              	"name": "Bayern vs As Monaco",
               	"info": "22/12/23",
               	"online": "true",
               	"image": "",
@@ -60,7 +148,7 @@
               	"isHost": "true"
               	},
               	{
-              	"name": "Efes VS vs Baskonia",
+              	"name": "Anadolu Efes VS vs Baskonia",
               	"info": "22/12/23",
               	"online": "true",
               	"image": "",
@@ -95,12 +183,11 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
+			]
 		},
-
 		{
         "name": "JORNADA 15",
-        "image": "",
+        "image": "https://i.postimg.cc/dtGXHmSV/image.jpg",
         "info": "",
         "stations":
         	[
@@ -113,8 +200,8 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-		{
-              	"name": "FC Bayern vs Anadolu Istambul",
+				{
+              	"name": "FC Bayern vs Anadolu Efes",
               	"info": "20/12/23",
               	"online": "true",
               	"image": "",
@@ -185,10 +272,8 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
+			]
 		},
-
-
 		{
         "name": "JORNADA 14",
         "image": "https://i.postimg.cc/13Fn9zHb/round14.jpg",
