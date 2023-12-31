@@ -8,6 +8,13 @@
 "groups":
     [
         {
+		"name": "Berlin: La Casa De Papel",
+		"image": "https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/",
+		"import": false
+		},
+        {
 		"name": "Big Mouth",
 		"image": "https://pics.filmaffinity.com/Big_Mouth_Serie_de_TV-662477175-large.jpg",
 		"info": "bY. yIsus",
