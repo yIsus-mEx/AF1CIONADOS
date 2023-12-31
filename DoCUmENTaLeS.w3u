@@ -1,0 +1,45 @@
+{
+"name": "DoCUmENTaLeS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+		{
+		"name":"Matar Al Presidente",
+		"image":"https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
+		"stations":
+			[
+				{
+				"name": "Todos Querian Muerto a Carrero Blanco",
+				"info":"Episodio 01",
+				"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
+				"url":"https://filemoon.sx/d/ntjvrz8d76tn",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "La CIA en España",
+				"info":"Episodio 02",
+				"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
+				"url":"https://filemoon.sx/d/qsfhs7oq0b2z",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "La Conspiracion",
+				"info":"Episodio 03",
+				"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
+				"url":"https://filemoon.sx/d/gzskatlcuily",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
