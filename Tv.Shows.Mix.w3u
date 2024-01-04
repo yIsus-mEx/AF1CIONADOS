@@ -1,0 +1,28 @@
+{
+"name": "Tv Shows Mix",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Ricky Gervais: Armageddon",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/Ricky_Gervais_Armageddon-258828694-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Ricky Gervais: Armageddon",
+                "info":"",
+                "image": "https://pics.filmaffinity.com/Ricky_Gervais_Armageddon-258828694-large.jpg",
+                "url":"https://filemoon.sx/d/697aev386mc3",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}
