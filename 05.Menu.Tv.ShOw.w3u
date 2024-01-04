@@ -27,6 +27,13 @@
          "url": "https://aficionados.vercel.app/Tv.Shows.Conciertos.Mix.w3u",
          "info":"",
          "import": false
+        },
+        {
+         "name": "Tv Shows",
+         "image": "https://i.postimg.cc/B6j2ZjmN/tv-show-new.png",
+         "url": "https://aficionados.vercel.app/",
+         "info":"",
+         "import": false
         }		
     ]
 }
