@@ -7,6 +7,88 @@
 "info": "",
 "groups": 
 	[
+
+		{
+        "name": "JORNADA 18",
+        "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
+        "info": "",
+        "stations":
+        	[
+              	{
+              	"name": "Barca vs Real Madrid",
+              	"info": "03/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/n3ll7zwaqaet/Barsa_VS_Real_Madrid_030124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Virtus Bologna vs FC Bayern Basketball",
+              	"info": "03/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/d45oyx4glxsy/Virtus_Bologna_VS_FC_Bayern_Basketball_030124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "FC Bayern vs Valencia Basket",
+              	"info": "28/12/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/ljevoofti6ey",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Partizan Beograd vs VS ASVEL Lyon",
+              	"info": "02/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/ai2qsvs62wfv/BC_Partizan_Beograd_VS_ASVEL_Lyon-Villeurbanne_020124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Fenerbache vs Estrella Roja",
+              	"info": "02/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/flz92bfelqej/Fenerbahce_VS_Estrella_Roja_020123.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Maccabi Tel Aviv vs Monaco Basket",
+              	"info": "02/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/93181255x9m6/Maccabi_Tel_Aviv_BC_VS_AS_Monaco_Basket_020124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Olimpiakos Piraeus vs Olimpia Milano",
+              	"info": "02/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/urorjgus56yw/Olympiakos_Piraeus_VS_AX_Olimpia_Milano_020124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Zalgiris vs Alba Berlin",
+              	"info": "02/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/htk83ju13k89/Zalgiris_VS_ALBA_020124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+		},
+
 		{
         "name": "JORNADA 17",
         "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
