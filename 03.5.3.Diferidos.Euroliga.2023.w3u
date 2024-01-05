@@ -14,6 +14,25 @@
         "info": "",
         "stations":
         	[
+
+              	{
+              	"name": "Valencia Basket vs Anadolu Efes Istanbul",
+              	"info": "03/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/pm3arcz8xi0t/Valencia_Basket_VS_Anadolu_Efes_Istanbul_030124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Baskonia vs Panathinaikos",
+              	"info": "03/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/6xs2sz1nyp0o/Baskonia_VS_Panathinaikos_030124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
               	{
               	"name": "Barca vs Real Madrid",
               	"info": "03/01/23",
@@ -29,15 +48,6 @@
               	"online": "true",
               	"image": "",
               	"url": "https://filemoon.sx/d/d45oyx4glxsy/Virtus_Bologna_VS_FC_Bayern_Basketball_030124.mp4",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-				{
-              	"name": "FC Bayern vs Valencia Basket",
-              	"info": "28/12/23",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/ljevoofti6ey",
               	"userAgent":"",
               	"isHost": "true"
               	},
