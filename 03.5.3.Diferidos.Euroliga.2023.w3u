@@ -9,6 +9,42 @@
 	[
 
 		{
+        "name": "JORNADA 19",
+        "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
+        "info": "",
+        "stations":
+        	[
+              	{
+              	"name": "Lyon Villeurbanne vs Zalgiris Kaunas",
+              	"info": "04/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/q70kcwnufx59/ASVEL_Lyon-Villeurbanne_VS_Zalgiris_Kaunas_040124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Estrella Roja Breogad vs Partizan Beograd",
+              	"info": "04/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/cqia1btuicyn/Estrella_Roja_VS_Partizan_040124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Olimpiacos Piraeus vs AS Monaco Basket",
+              	"info": "04/01/23",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/2k4kzcknl09w/Olympiacos_Piraeus_VS_AS_Monaco_Basket_040124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+	]
+	},
+
+		{
         "name": "JORNADA 18",
         "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
         "info": "",
