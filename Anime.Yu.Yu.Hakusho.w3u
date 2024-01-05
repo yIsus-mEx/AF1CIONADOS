@@ -1,0 +1,60 @@
+{
+"name": "Yu Yu Hakusho",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Yu Yu Hakusho",
+        "image": "https://pics.filmaffinity.com/Yu_Yu_Hakusho_Serie_de_TV-786199017-large.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"Latino",
+                "image": "https://i.postimg.cc/2SRdm91f/yuyu.jpg",
+                "url":"https://filemoon.sx/e/2anewcv24j7a",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 02",
+                "info":"Latino",
+                "image": "https://i.postimg.cc/2SRdm91f/yuyu.jpg",
+                "url":"https://filemoon.sx/e/3qifu8zlbqvl",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 03",
+                "info":"Latino",
+                "image": "https://i.postimg.cc/2SRdm91f/yuyu.jpg",
+                "url":"https://filemoon.sx/e/aq79rjqf4ccn",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 04",
+                "info":"Latino",
+                "image": "https://i.postimg.cc/2SRdm91f/yuyu.jpg",
+                "url":"https://filemoon.sx/e/299wp9og7bu6",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 05",
+                "info":"Latino",
+                "image": "https://i.postimg.cc/2SRdm91f/yuyu.jpg",
+                "url":"https://filemoon.sx/e/wf5c90iqdnvo",
+                "isHost":"true",
+                "online":"true"
+                }
+			]
+		}
+	]
+}
