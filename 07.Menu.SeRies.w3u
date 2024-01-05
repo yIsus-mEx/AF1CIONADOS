@@ -7,6 +7,14 @@
 "info":"Lista_AF1CIONADOS",
 "groups":
     [
+
+        {
+		"name": "Slow Horses",
+		"image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie SLOW HORSES.w3u",
+		"import": false
+		},
         {
 		"name": "Casa De Papel, La",
 		"image": "https://i.postimg.cc/xCG2V51z/Casa-de-papel-1.png",
