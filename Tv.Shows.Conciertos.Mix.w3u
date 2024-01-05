@@ -1,12 +1,29 @@
 {
 "name": "Conciertos",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://pastebin.com/ZQuDb6BM",
-"image": "https://images3.alphacoders.com/595/595865.jpg",
+"url": "https://aficionados.vercel.app/Tv.Shows.Conciertos.Mix.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
-"info": "",
+"info": "Lista_AF1CIONADOS",
 "groups":
     [
+        {
+        "name": "Por Siempre RBD 2023",
+        "info":"",
+        "image": "https://i.postimg.cc/9Qc2hbVN/Microsoft-Teams-image-18-2.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Por Siempre RBD",
+                "info":"2023",
+                "image": "https://i.postimg.cc/9Qc2hbVN/Microsoft-Teams-image-18-2.jpg",
+                "url":"https://lbx.to/f/HTxBLhj",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
         {
         "name": "Taylor Swift",
         "info":"",
