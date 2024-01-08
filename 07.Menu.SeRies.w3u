@@ -143,21 +143,21 @@
 		"import": false
 		},
         {
-		"name": "La Red Purpura",
+		"name": "Red Purpura, La",
 		"image": "https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
 		"info": "bY. yIsus",
 		"url": "https://aficionados.vercel.app/Series.La.Red.Purpura.w3u",
 		"import": false
 		},
         {
-		"name": "El otro lado",
+		"name": "Otro lado, El",
 		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20OTRO%20LADO.w3u",
 		"import": false
 		},
 		{
-		"name": "La novia gitana",
+		"name": "Novia gitana, La",
 		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20NOVIA%20GITANA.w3u",
@@ -203,21 +203,21 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20WESTWORLD.w3u",
 		"image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
 		"info": "bY. aDri",
-        "import": false
+        	"import": false
 		},
  		{
-		"name": "La que se avecina Temp14",
-		"image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
+		"name": "La que se avecina",
+		"image": "https://i.postimg.cc/prPKkBFK/La-que-se-avecina-Temp-11.png",
 		"info": "bY. aDri",
-        "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20QUE%20SE%20AVECINA%2013-14.w3u",
-        "import": false
+        	"url": "https://af1cionados.vercel.app/serie LA QUE SE AVECINA.w3u",
+        	"import": false
 		},
  		{
 		"name": "Line of Duty",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LINE%20OF%20DUTY.w3u",
 		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
 		"info": "bY. aDri",
-        "import": false
+        	"import": false
 		},
  		{
 		"name": "David Beckham, al rescate del equipo",
