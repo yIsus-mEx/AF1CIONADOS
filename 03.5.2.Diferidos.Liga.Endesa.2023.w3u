@@ -9,6 +9,33 @@
     [
 
 	{
+        "name": "JORNADA 17",
+        "image": "https://i.postimg.cc/nrSKVL2z/image.jpg",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Lenovo Tenerife vs Juventut Badalona",
+                "info": "07/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/bg5woahsaowb/Lenovo_Tenerife_VS_Juventut_Badalona_070124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Valencia Basket vs Dreamland Gran Canaria",
+                "info": "07/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/ftsd4k1hpaf3/Valencia_Basket_VS_Dreamland_Gran_Canaria_070124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                }
+	]
+	},
+
+	{
         "name": "JORNADA 16",
         "image": "https://i.postimg.cc/nrSKVL2z/image.jpg",
         "info": "",
