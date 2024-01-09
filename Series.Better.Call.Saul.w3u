@@ -1,0 +1,100 @@
+{
+"name": "Better Call Saul",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+        {
+        "name": "Temporada 1",
+        "info":"",
+        "image": "https://i.postimg.cc/Xq0DsvMM/Better-call-saul.webp",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Uno",
+                "info":"Episodio 01",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/672qmlz0ubsw",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Mijo",
+                "info":"Episodio 02",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/d5npyiiy9cf9",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Nacho",
+                "info":"Episodio 03",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/d6l3qierjvs8",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Hero",
+                "info":"Episodio 04",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/jdc2cz9g36u9",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Alpine Shepherd Boy",
+                "info":"Episodio 05",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/tluwvrqjc33l",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Five-O",
+                "info":"Episodio 06",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/iz0mgk673t83",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Bingo",
+                "info":"Episodio 07",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/qfyyjjfc6gjf",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Rico",
+                "info":"Episodio 08",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/9kws6bpx4lan",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Pimento",
+                "info":"Episodio 09",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/nri0xijvm8ax",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Marco",
+                "info":"Episodio 10",
+                "image": "https://es.web.img3.acsta.net/pictures/15/12/17/16/57/343857.jpg",
+                "url":"https://filemoon.sx/d/qirb2muzji5q",
+				"isHost":"true",
+                "online":"true"
+                }
+			]
+        }
+    ]
+}
