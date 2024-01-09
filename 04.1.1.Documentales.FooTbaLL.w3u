@@ -14,7 +14,14 @@
         "info":"",
 		"stations":
     		[
-				{
+			{
+			"name": "David Beckham, al rescate del equipo",
+			"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DAVID%20BECKHAM%2C%20AL%20RESCATE%20DEL%20EQUIPO.w3u",
+			"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
+			"info": "bY. aDri",
+        		"import": false
+			},     
+			{
        			 "name": "Pelé, el rey del fútbol",
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/pele_king_of_the_game-249162947-large.jpg",
