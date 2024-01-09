@@ -8,8 +8,113 @@
 "groups":
     [
         {
-        "name": "Dakar Rally",
-        "image": "https://i.postimg.cc/bNB4c81Q/dakar-new.png",
+		"name": "Dakar 2024",
+		"image": "https://i.postimg.cc/yNMSwJ8w/Dakar-2024-new.png",
+		"imageScale": "",
+		"info":"",
+		"stations":
+			[
+				{
+				"name": "PRESENTACION",
+				"image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+				},
+			 	{
+				"name": "PRESENTACION (RESUMEN)",
+				"image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "PROLOGO",
+				"image": "https://i.postimg.cc/ZR79GRQw/Dakar-2024-Prologo.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "PROLOGO (RESUMEN)",
+				"image": "https://i.postimg.cc/ZR79GRQw/Dakar-2024-Prologo.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 1",
+				"image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 1 (RESUMEN)",
+				"image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 2",
+				"image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
+				"url": "https://filemoon.sx/d/9zt1iwsoich1/Dakar_Express_2024_Etapa_2_TDP.mp4",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 2 (RESUMEN)",
+				"image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
+				"url": "https://filemoon.sx/d/8ohm6411quq8/Dakar_2024_Etapa_2_TDP_Resumen_de_la_jornada.mp4",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 3",
+				"image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
+				"url": "https://filemoon.sx/d/afo9g42hftaj/Dakar_Express_2024_Etapa_3_TDP.mp4",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 3 (RESUMEN)",
+				"image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
+				"url": "https://filemoon.sx/d/fqolni29f2oh/Dakar_2024_Etapa_3_TDP_Resumen_de_la_jornada.mp4",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+			 	},
+			 	{
+				"name": "ETAPA 4",
+				"image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+				},
+			 	{
+				"name": "ETAPA 4 (RESUMEN)",
+				"image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
+				"url": "",
+				"info": "2023",
+				"isHost": "true",
+				"online": "true"
+				}	
+			]
+		},
+		{
+        "name": "Dakar 2023",
+        "image": "https://i.postimg.cc/L6DLn6x1/Dakar2023-2.png",
         "imageScale": "",
         "info":"",
 		"stations":
