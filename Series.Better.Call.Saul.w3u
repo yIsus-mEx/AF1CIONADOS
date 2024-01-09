@@ -95,6 +95,95 @@
                 "online":"true"
                 }
 			]
+        },
+        {
+        "name": "Temporada 2",
+        "info":"",
+        "image": "https://www.mubis.es/media/users/4520/143532/better-call-saul-temporada-2-posibles-spoilers-l_cover.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Switch",
+                "info":"Episodio 01",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/fnfy0x0mxr53",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Cobbler",
+                "info":"Episodio 02",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/051tgqfsfs46",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Amarillo",
+                "info":"Episodio 03",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/fc5h56i9vq7d",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Gloves Off",
+                "info":"Episodio 04",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/91ozucjxy6wp",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Rebecca",
+                "info":"Episodio 05",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/xux2j7vnli8w",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Bali Hai",
+                "info":"Episodio 06",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/tgqczrloel1h",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Inflable",
+                "info":"Episodio 07",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/lrqr0n51jla3",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Fifi",
+                "info":"Episodio 08",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/44zne2kcj9s2",
+				"isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Clavado",
+                "info":"Episodio 09",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/0twex8bktxlk",
+				"isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Klick",
+                "info":"Episodio 10",
+                "image": "https://i.postimg.cc/wvt0HFbH/Better-call-saul2.webp",
+                "url":"https://filemoon.sx/d/l51pqgoey3sp",
+				"isHost":"true",
+                "online":"true"
+                }
+			]
         }
     ]
 }
