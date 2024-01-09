@@ -1,7 +1,7 @@
 {
 "name": "DakAr Rally",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://aficionados.vercel.app/Diferidos.DakAr.Rally.w3u",
+"url": "https://aficionados.vercel.app/",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
@@ -15,29 +15,29 @@
 		"stations":
 			[
 				{
-				"name": "PRESENTACION",
+				"name": "PRESENTACION OFICIAL",
 				"image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
-				"url": "",
+				"url": "https://filemoon.sx/d/lzzqh13rqbo4/Presentaci_n_oficial_del_Dakar_2024.mp4",
 				"info": "2023",
 				"isHost": "true",
 				"online": "true"
 				},
 			 	{
-				"name": "PRESENTACION (RESUMEN)",
+				"name": "PRESENTACION",
 				"image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
-				"url": "",
+				"url": "https://filemoon.sx/d/a7l6ug53p53e/Presentaci_n_Rally_Dakar_2024_ES.mp4",
 				"info": "2023",
 				"isHost": "true",
 				"online": "true"
 			 	},
 			 	{
-				"name": "PROLOGO",
-				"image": "https://i.postimg.cc/ZR79GRQw/Dakar-2024-Prologo.png",
-				"url": "",
+				"name": "PROTAGONISTAS",
+				"image": "",
+				"url": "https://filemoon.sx/d/w9hejjyn23r9/Protagonistas_Dakar_2024_ES.mp4",
 				"info": "2023",
 				"isHost": "true",
 				"online": "true"
-			 	},
+				},				
 			 	{
 				"name": "PROLOGO (RESUMEN)",
 				"image": "https://i.postimg.cc/ZR79GRQw/Dakar-2024-Prologo.png",
