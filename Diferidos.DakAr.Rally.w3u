@@ -111,15 +111,40 @@
 				"online": "true"
 				},
 				{
+				"name": "ETAPA 5",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
+				},
+				{
 				"name": "ETAPA 5 (RESUMEN)",
 				"image": "https://i.postimg.cc/VsHfzssr/etapa05.png",
 				"url": "https://filemoon.sx/d/526q10g8jby0",
 				"info": "2024",
 				"isHost": "true",
 				"online": "true"
+				},
+				{
+				"name": "ETAPA 6",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
+				},
+				{
+				"name": "ETAPA 6 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
 				}	
 			]
 		},
+
 		{
         "name": "Dakar 2023",
         "image": "https://i.postimg.cc/L6DLn6x1/Dakar2023-2.png",
