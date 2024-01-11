@@ -32,7 +32,7 @@
 			 	},
 			 	{
 				"name": "PROTAGONISTAS",
-				"image": "",
+				"image": "https://i.postimg.cc/2SGKzmn0/Dakar-2024-Protagonistas.png",
 				"url": "https://filemoon.sx/d/w9hejjyn23r9/Protagonistas_Dakar_2024_ES.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -47,7 +47,7 @@
 				"online": "true"
 			 	},
 			 	{
-				"name": "ETAPA 1",
+				"name": "ETAPA 1 Alula > Alula",
 				"image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
 				"url": "https://filemoon.sx/d/qgog3xtk3kgb/Dakar_Express_2024_Etapa_1_TDP.mp4",
 				"info": "2024",
@@ -63,7 +63,7 @@
 				"online": "true"
 			 	},
 			 	{
-				"name": "ETAPA 2",
+				"name": "ETAPA 2 Alula > Al Henakiyah",
 				"image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
 				"url": "https://filemoon.sx/d/9zt1iwsoich1/Dakar_Express_2024_Etapa_2_TDP.mp4",
 				"info": "2024",
@@ -79,7 +79,7 @@
 				"online": "true"
 			 	},
 			 	{
-				"name": "ETAPA 3",
+				"name": "ETAPA 3 Al Henakiyah > Al Duwadimi",
 				"image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
 				"url": "https://filemoon.sx/d/afo9g42hftaj/Dakar_Express_2024_Etapa_3_TDP.mp4",
 				"info": "2024",
@@ -95,7 +95,7 @@
 				"online": "true"
 			 	},
 			 	{
-				"name": "ETAPA 4",
+				"name": "ETAPA 4 Al Duwadimi > Al Salamiya [Maraton]",
 				"image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
 				"url": "https://filemoon.sx/d/hbv0296q39ch",
 				"info": "2024",
@@ -111,15 +111,40 @@
 				"online": "true"
 				},
 				{
+				"name": "ETAPA 5 Al Salamiya > Al-hofuf",
+				"image": "https://i.postimg.cc/VsHfzssr/etapa05.png",
+				"url": "https://filemoon.sx/d/er2khsxrue20/Dakar_Express_2024_Etapa_5_TDP.mp4",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
+				},
+				{
 				"name": "ETAPA 5 (RESUMEN)",
 				"image": "https://i.postimg.cc/VsHfzssr/etapa05.png",
 				"url": "https://filemoon.sx/d/526q10g8jby0",
 				"info": "2024",
 				"isHost": "true",
 				"online": "true"
+				},
+				{
+				"name": "ETAPA 6 Al-hofuf > Shubaytah",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
+				},
+				{
+				"name": "ETAPA 6 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
 				}	
 			]
 		},
+
 		{
         "name": "Dakar 2023",
         "image": "https://i.postimg.cc/L6DLn6x1/Dakar2023-2.png",
