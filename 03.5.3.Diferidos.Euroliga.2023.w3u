@@ -10,11 +10,29 @@
 
 		{
         "name": "JORNADA 20",
-        "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
+        "image": "https://i.postimg.cc/nzry9d4S/image.jpg",
         "info": "",
         "stations":
         	[
              	{
+              	"name": "Maccabi vs Virtus Bolonia",
+              	"info": "10/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/fekczlmwn410",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+             	{
+              	"name": "Barcelona vs Olympiacos",
+              	"info": "10/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/o0jlt4ymlvah",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
               	"name": "Valenica Basket vs Zalgiris",
               	"info": "09/01/24",
               	"online": "true",
@@ -77,12 +95,12 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-	]
-	},
+			]
+		},
 
 		{
         "name": "JORNADA 19",
-        "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
+        "image": "https://i.postimg.cc/vBDm8tcb/image.jpg",
         "info": "",
         "stations":
         	[
@@ -172,7 +190,7 @@
 
 		{
         "name": "JORNADA 18",
-        "image": "https://i.postimg.cc/yYnh8DDT/image.jpg",
+        "image": "https://i.postimg.cc/YSrfp0YM/image.jpg",
         "info": "",
         "stations":
         	[
