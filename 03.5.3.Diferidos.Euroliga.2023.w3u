@@ -9,13 +9,102 @@
 	[
 
 		{
+        "name": "JORNADA 21",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+        "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "Asvel Lyon Villeurbanne vs Alba Berlin",
+              	"info": "12/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/nq01bbobp95f",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Baskonia vs Olympiacos",
+              	"info": "12/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/oh05m2uv4i8z",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Partizan vs Maccabi",
+              	"info": "12/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/1355fyfodc2d",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Barcelona vs Zalgiris",
+              	"info": "12/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/mr13v8u80iki",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Anadolu Efes vs Virtus Bologna",
+              	"info": "12/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/kwf4qwy9994h",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Real Madrid vs Valencia Basket",
+              	"info": "11/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/o1csxfbpo1db",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Olimpia Milano vs Crvena Zvezda",
+              	"info": "11/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/tgylqysgz2n3",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Panathinaikos vs AS Monaco",
+              	"info": "11/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/cgiyqr13i48o",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+              	{
+              	"name": "Fenerbahce Istanbul vs Bayern Munich",
+              	"info": "11/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/a0n6gcg94e8m",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+			]
+		},
+		{
         "name": "JORNADA 20",
         "image": "https://i.postimg.cc/nzry9d4S/image.jpg",
         "info": "",
         "stations":
         	[
              	{
-              	"name": "Maccabi vs Virtus Bolonia",
+              	"name": "Maccabi vs Virtus Bologna",
               	"info": "10/01/24",
               	"online": "true",
               	"image": "",
@@ -42,7 +131,7 @@
               	"isHost": "true"
               	},
              	{
-              	"name": "Panathinaikos vs Efes",
+              	"name": "Panathinaikos vs Anadolu Efes",
               	"info": "09/01/24",
               	"online": "true",
               	"image": "",
@@ -60,7 +149,7 @@
               	"isHost": "true"
               	},
              	{
-              	"name": "Fenerbache Istanbul vs BC Partizan Beograd",
+              	"name": "Fenerbache Istanbul vs Partizan Beograd",
               	"info": "09/01/24",
               	"online": "true",
               	"image": "",
@@ -87,7 +176,7 @@
               	"isHost": "true"
               	},
              	{
-              	"name": "Asvel Lyon Villeurbanne vs Crvena Zvezda Belgrado",
+              	"name": "Asvel Lyon Villeurbanne vs Crvena Zvezda",
               	"info": "09/01/24",
               	"online": "true",
               	"image": "",
