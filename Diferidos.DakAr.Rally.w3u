@@ -48,7 +48,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 1 Alula > Alula",
-				"image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
+				"image": "https://i.postimg.cc/0jWs0k5T/dakar-01.jpg",
 				"url": "https://filemoon.sx/d/qgog3xtk3kgb/Dakar_Express_2024_Etapa_1_TDP.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -56,7 +56,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 1 (RESUMEN)",
-				"image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
+				"image": "https://i.postimg.cc/0jWs0k5T/dakar-01.jpg",
 				"url": "https://filemoon.sx/d/nxlqcqmomfqo/Dakar_2024_Etapa_1_TDP_Resumen_de_la_jornada.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -64,7 +64,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 2 Alula > Al Henakiyah",
-				"image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
+				"image": "https://i.postimg.cc/Dy0JkmGb/dakar-02.jpg",
 				"url": "https://filemoon.sx/d/9zt1iwsoich1/Dakar_Express_2024_Etapa_2_TDP.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -72,7 +72,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 2 (RESUMEN)",
-				"image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
+				"image": "https://i.postimg.cc/Dy0JkmGb/dakar-02.jpg",
 				"url": "https://filemoon.sx/d/8ohm6411quq8/Dakar_2024_Etapa_2_TDP_Resumen_de_la_jornada.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -80,7 +80,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 3 Al Henakiyah > Al Duwadimi",
-				"image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
+				"image": "https://i.postimg.cc/9XYFf9Tn/dakar-03.jpg",
 				"url": "https://filemoon.sx/d/afo9g42hftaj/Dakar_Express_2024_Etapa_3_TDP.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -88,7 +88,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 3 (RESUMEN)",
-				"image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
+				"image": "https://i.postimg.cc/9XYFf9Tn/dakar-03.jpg",
 				"url": "https://filemoon.sx/d/fqolni29f2oh/Dakar_2024_Etapa_3_TDP_Resumen_de_la_jornada.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -96,7 +96,7 @@
 			 	},
 			 	{
 				"name": "ETAPA 4 Al Duwadimi > Al Salamiya [Maraton]",
-				"image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
+				"image": "https://i.postimg.cc/0NsBrz7V/dakar-04.jpg",
 				"url": "https://filemoon.sx/d/hbv0296q39ch",
 				"info": "2024",
 				"isHost": "true",
@@ -104,7 +104,7 @@
 				},
 			 	{
 				"name": "ETAPA 4 (RESUMEN)",
-				"image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
+				"image": "https://i.postimg.cc/0NsBrz7V/dakar-04.jpg",
 				"url": "https://filemoon.sx/d/2jh256wgog04",
 				"info": "2024",
 				"isHost": "true",
@@ -112,7 +112,7 @@
 				},
 				{
 				"name": "ETAPA 5 Al Salamiya > Al-hofuf",
-				"image": "https://i.postimg.cc/VsHfzssr/etapa05.png",
+				"image": "https://i.postimg.cc/G2kYtpJx/dakar-05.jpg",
 				"url": "https://filemoon.sx/d/er2khsxrue20/Dakar_Express_2024_Etapa_5_TDP.mp4",
 				"info": "2024",
 				"isHost": "true",
@@ -120,24 +120,40 @@
 				},
 				{
 				"name": "ETAPA 5 (RESUMEN)",
-				"image": "https://i.postimg.cc/VsHfzssr/etapa05.png",
+				"image": "https://i.postimg.cc/G2kYtpJx/dakar-05.jpg",
 				"url": "https://filemoon.sx/d/526q10g8jby0",
 				"info": "2024",
 				"isHost": "true",
 				"online": "true"
 				},
 				{
-				"name": "ETAPA 6 Al-hofuf > Shubaytah",
-				"image": "",
-				"url": "",
+				"name": "ETAPA 6 [Dia 1]Al-hofuf > Shubaytah",
+				"image": "https://i.postimg.cc/t4pXG4YH/dakar-06.jpg",
+				"url": "https://filemoon.sx/d/ocge8o99y837",
 				"info": "2024",
 				"isHost": "true",
 				"online": "true"
 				},
 				{
-				"name": "ETAPA 6 (RESUMEN)",
-				"image": "",
-				"url": "",
+				"name": "ETAPA 6 [Dia 1] (RESUMEN)",
+				"image": "https://i.postimg.cc/t4pXG4YH/dakar-06.jpg",
+				"url": "https://filemoon.sx/d/715avu0b5xw8",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
+				},
+				{
+				"name": "ETAPA 6 [Dia 2]Al-hofuf > Shubaytah",
+				"image": "https://i.postimg.cc/65Qtz5bj/dakar-06-02.png",
+				"url": "https://filemoon.sx/d/nebrku93vf2s",
+				"info": "2024",
+				"isHost": "true",
+				"online": "true"
+				},
+				{
+				"name": "ETAPA 6 [Dia 2] (RESUMEN)",
+				"image": "https://i.postimg.cc/65Qtz5bj/dakar-06-02.png",
+				"url": "https://filemoon.sx/d/56drm5nr59n7",
 				"info": "2024",
 				"isHost": "true",
 				"online": "true"
@@ -148,7 +164,7 @@
 				"url": "",
 				"info": "2024",
 				"isHost": "true",
-				"online": "true"
+				"online": ""
 				},
 				{
 				"name": "ETAPA 7 (RESUMEN)",
@@ -156,7 +172,7 @@
 				"url": "",
 				"info": "2024",
 				"isHost": "true",
-				"online": "true"
+				"online": ""
 				},
 				{
 				"name": "ETAPA 8 Shubaytah > Shubaytah",
@@ -164,7 +180,7 @@
 				"url": "",
 				"info": "2024",
 				"isHost": "true",
-				"online": "true"
+				"online": ""
 				},
 				{
 				"name": "ETAPA 8 (RESUMEN)",
@@ -172,7 +188,7 @@
 				"url": "",
 				"info": "2024",
 				"isHost": "true",
-				"online": "true"
+				"online": ""
 				}	
 			]
 		},
