@@ -66,6 +66,16 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
+        },
+        {
+        "name": "Real Madrid Vs Barcelona",
+        "info":"IPTV",
+        "online":"true",
+        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
+        "url": "http://65.109.111.120:8080/JimaraDirecto/uVaEYpQRJdUw/74986",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         }
 	]
 }
