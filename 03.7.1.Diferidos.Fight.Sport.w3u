@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Ankalaev vs Walker 2",
+         "image": "https://espnpressroom.com/us/files/2024/01/UFC-Fight-Night-1.13_LasVegas_KA_1920x1080_v2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Ankalaev vs Walker 2",
+                "info":"[Preliminares]",
+                "image": "https://espnpressroom.com/us/files/2024/01/UFC-Fight-Night-1.13_LasVegas_KA_1920x1080_v2.png",
+                "url":"https://filemoon.sx/d/upibbnt6rw56",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Ankalaev vs Walker 2",
+                "info":"[Estelares]",
+                "image": "https://espnpressroom.com/us/files/2024/01/UFC-Fight-Night-1.13_LasVegas_KA_1920x1080_v2.png",
+                "url":"https://filemoon.sx/d/84ii9fhgo4mm",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 296: Edwards vs Covington",
          "image": "https://i.postimg.cc/Y031RPnC/1280x720-20231205171958.jpg",
          "imageScale": "",
