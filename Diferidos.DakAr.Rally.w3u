@@ -175,7 +175,7 @@
 				"online": ""
 				},
 				{
-				"name": "ETAPA 8 Shubaytah > Shubaytah",
+				"name": "ETAPA 8 Al Duwadimi > Ha'il",
 				"image": "",
 				"url": "",
 				"info": "2024",
@@ -189,7 +189,71 @@
 				"info": "2024",
 				"isHost": "true",
 				"online": ""
-				}	
+				},
+				{
+				"name": "ETAPA 9 Ha'il > Alula",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 9 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 10 Alula > Alula",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 10 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 11 Alula > Yanbu",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 11 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 12 Yanbu > Yanbu",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 12 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				}
 			]
 		},
 
