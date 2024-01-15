@@ -9,6 +9,97 @@
     [
 
 	{
+        "name": "JORNADA 18",
+        "image": "https://i.postimg.cc/nrSKVL2z/image.jpg",
+        "info": "",
+        "stations":
+            [
+
+                {
+                "name": "Granada vs Obradoiro",
+                "info": "14/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/jnw6ghbbw4mm/Granada_VS_Obradoiro_140124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Baxi Manresa vs Baskonia",
+                "info": "14/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/dx6fd5eguu9i/Baxi_Manresa_VS_Baskonia_140124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Lenovo Tenerife vs FC Barcelona",
+                "info": "14/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/eezal1gskz0g/Lenovo_Tenerife_VS_FC_Barcelona_140124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Murcia vs Real Madrid",
+                "info": "14/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/sko3qaoc5b0a/Murcia_VS_Madrid_140124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Valencia vs Breogan",
+                "info": "14/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/h7d06rw3wt0r/Valencia_VS_Breogan_140124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Girona vs Palencia",
+                "info": "13/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/fthkq5su0yv1/Girona_VS_Palencia_130124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Joventut Badalona vs Casademont Zaragoza",
+                "info": "13/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/x2raewelopqf/Juventut_de_Badalona_VS_Casademont_Zaragoza_130124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Unicaja Malaga vs Gran Canaria",
+                "info": "13/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/6pkyvr18ks7v/Unicaja_Malaga_VS_Gran_Canaria_130124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Morabanc Andorra vs Bilbao Basket",
+                "info": "13/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/tidcfv160hjo/Morabanc_Andorra_VS_Sourne_Bilbao_Basket_130124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                }
+	]
+	},
+
+	{
         "name": "JORNADA 17",
         "image": "https://i.postimg.cc/nrSKVL2z/image.jpg",
         "info": "",

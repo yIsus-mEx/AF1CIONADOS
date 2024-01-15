@@ -161,7 +161,7 @@
 				{
 				"name": "ETAPA 7 Shubaytah > Shubaytah",
 				"image": "",
-				"url": "",
+				"url": "https://filemoon.sx/d/mhifybv1i9r6/Dakar_2024_Etapa_7_140124.mp4",
 				"info": "2024",
 				"isHost": "true",
 				"online": ""
@@ -169,13 +169,13 @@
 				{
 				"name": "ETAPA 7 (RESUMEN)",
 				"image": "",
-				"url": "",
+				"url": "https://filemoon.sx/d/b9iu9oi3eumd/Dakar_2024_Etapa_7_TDP_Resumen_de_la_jornada.mp4",
 				"info": "2024",
 				"isHost": "true",
 				"online": ""
 				},
 				{
-				"name": "ETAPA 8 Shubaytah > Shubaytah",
+				"name": "ETAPA 8 Al Duwadimi > Ha'il",
 				"image": "",
 				"url": "",
 				"info": "2024",
@@ -189,7 +189,71 @@
 				"info": "2024",
 				"isHost": "true",
 				"online": ""
-				}	
+				},
+				{
+				"name": "ETAPA 9 Ha'il > Alula",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 9 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 10 Alula > Alula",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 10 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 11 Alula > Yanbu",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 11 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 12 Yanbu > Yanbu",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				},
+				{
+				"name": "ETAPA 12 (RESUMEN)",
+				"image": "",
+				"url": "",
+				"info": "2024",
+				"isHost": "true",
+				"online": ""
+				}
 			]
 		},
 
