@@ -8,22 +8,22 @@
 "groups":
     [
         {
-        "name": "sUPERcOPA dE EsPAÑa",
+        "name": "sUPERcOPA dE EsPAÑa 2024",
         "info":"",
         "image": "https://i.postimg.cc/5t1FL58s/supercopa.jpg",
         "imageScale": "",
         "groups":
         	[
-				{
+			{
         		"name": "Real Madrid vs Atletico",
-        		"info":"",
+        		"info":"SEMIFINAL 1",
        	 		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
         		"imageScale": "",
         		"stations":
             		[
-						{
+				{
                 		"name": "Real Madrid vs Atletico",
-                		"info":"[10-Ene-23]",
+                		"info":"[10-Ene-24]",
                 		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
                 		"url":"https://filemoon.sx/d/hzqu4c6uvet4",
                 		"isHost":"true",
@@ -31,23 +31,58 @@
                 		}
             		]
         		},
-				{
+
+			{
         		"name": "Barcelona vs Osasuna",
-        		"info":"",
+        		"info":"SEMIFINAL 2",
        	 		"image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
         		"imageScale": "",
         		"stations":
             		[
-						{
+				{
                 		"name": "Barcelona vs Osasuna",
-                		"info":"[11-Ene-23]",
+                		"info":"[11-Ene-24]",
                 		"image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
                 		"url":"https://filemoon.sx/d/r6gfh411yjc7",
                 		"isHost":"true",
                 		"online":"true"
                 		}
             		]
+        		},
+			{
+        		"name": "Real Madrid vs FC Barcelona",
+        		"info":"FINAL",
+       	 		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+        		"imageScale": "",
+        		"stations":
+            		[
+				{
+                		"name": "PRE PARTIDO Real Madrid vs Atletico",
+                		"info":"[14-Ene-24]",
+                		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+                		"url":"https://filemoon.sx/d/hzqu4c6uvet4",
+                		"isHost":"true",
+                		"online":"true"
+                		},
+				{
+                		"name": "PARTIDO Real Madrid vs Atletico",
+                		"info":"[14-Ene-24]",
+                		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+                		"url":"https://filemoon.sx/d/hzqu4c6uvet4",
+                		"isHost":"true",
+                		"online":"true"
+                		},
+				{
+                		"name": "POST PARTIDO Real Madrid vs Atletico",
+                		"info":"[14-Ene-24]",
+                		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+                		"url":"https://filemoon.sx/d/hzqu4c6uvet4",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
         		}
+
 			]
 		}
 	]
