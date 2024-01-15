@@ -14,6 +14,16 @@
         "info": "",
         "stations":
             [
+
+                {
+                "name": "Granada vs Obradoiro",
+                "info": "14/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/jnw6ghbbw4mm/Granada_VS_Obradoiro_140124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
                 {
                 "name": "Baxi Manresa vs Baskonia",
                 "info": "14/01/2024",
