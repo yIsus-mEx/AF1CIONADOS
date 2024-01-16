@@ -14,13 +14,13 @@
          "info":"",
          "import": false
         },
-	{
-         "name": "Motor GP",
-         "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
-	"url": "https://af1cionados.vercel.app/Diferidos MotoGP.w3u",
-         "info":"Adri",
-         "import": false
-	},
+	    {
+        "name": "Motor GP",
+        "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
+	    "url": "https://aficionados.vercel.app/03.2.1.Diferidos.Menu.MotoGP.w3u",
+        "info": "Adri",
+        "import": false
+	    },
 		{
          "name": "SuperBike",
          "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
