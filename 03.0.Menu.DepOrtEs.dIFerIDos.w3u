@@ -17,24 +17,9 @@
 	{
          "name": "Motor GP",
          "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
+	"url": "",
          "info":"Adri",
-         "stations":
-	[
-		{
-		"name": "Moto GP 2023",
-		"image": "",
-		"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2023.w3u",
-		"info": "",
-         	"import": false
-		},
-		{
-		"name": "Moto GP 2024",
-		"image": "",
-		"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2024.w3u",
-		"info": "",
-	        "import": false
-		}
-	]
+         "import": false
 	},
 		{
          "name": "SuperBike",
