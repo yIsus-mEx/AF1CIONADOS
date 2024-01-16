@@ -1,25 +1,18 @@
 {
 "name": "MotoGP",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"info": "Lista_AF1CIONADOS",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://aficionados.vercel.app/03.2.1.Diferidos.Menu.MotoGP.w3u",
-"telegram": "Lista_AF1CIONADOS",
+"telegram": "@yIsus_mEx",
+"info":"@yIsus_mEx",
 "groups":
-	[
-		{
-		"name": "MotoGP 2023",
-          "image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
-		"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2023.w3u",
-          "info":"",
-		"import": false
-		},
-		{
-		"name": "MotoGP 2024",
-		"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
-		"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2024.w3u",
-          "info":"",
-		"import": false
-		}
-	]
+    [
+         {
+         "name": "MotoGp 2023",
+         "image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
+         "url": "https://af1cionados.vercel.app/Diferidos MotoGP.w3u",
+         "info":"",
+         "import": false
+        }
+     ]
 }
