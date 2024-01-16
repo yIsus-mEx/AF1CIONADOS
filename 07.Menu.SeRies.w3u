@@ -8,28 +8,35 @@
 "groups":
     [
 
-        	{
+        {
+		"name": "Silo",
+		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/",
+		"import": false
+		},
+		{
 		"name": "Apaches",
 		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
 		"import": false
 		},
-        	{
+        {
 		"name": "El Mentalista",
 		"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://af1cionados.vercel.app/serie EL MENTALISTA .w3u",
 		"import": false
 		},
-        	{
+        {
 		"name": "Pablo Escobar, Patron del mal",
 		"image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://af1cionados.vercel.app/serie PATRON DEL MAL, EL.w3u",
 		"import": false
 		},
- 	       {
+ 	    {
 		"name": "Better Call Saul",
 		"image": "https://i.postimg.cc/Xq0DsvMM/Better-call-saul.webp",
 		"info": "bY. yIsus",

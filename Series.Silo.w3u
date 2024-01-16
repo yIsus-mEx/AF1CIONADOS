@@ -1,0 +1,100 @@
+{
+"name": "Silo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+ 				"url":"https://filemoon.sx/d/e934mynu2csv",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/6cj7k5j2e14f",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/ayx69v9k1091",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/x1j81vednjzt",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/0l7ica2dq7pb",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/mi75yiyv97qj",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/zdbwj0exc3n6",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/b57ay5c9lljb",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 09",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/c7umbleniq70",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 10",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+				"url":"https://filemoon.sx/d/oob0w2e4y9nu",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
