@@ -7,6 +7,14 @@
 "info":"Lista_AF1CIONADOS",
 "groups":
     [
+
+		{
+		"name": "Lazarus Project, The",
+		"image": "https://pics.filmaffinity.com/the_lazarus_project-757640215-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie LAZARUS PROJECT THE.w3u",
+		"info": "2022",
+		"import": false
+		},
 		{
 		"name": "Silo",
 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
