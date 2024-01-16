@@ -1,0 +1,45 @@
+{
+"name": "ForMUlA E",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/VtDfZ2Dc",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 2024",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+        "groups":
+            [
+                {
+                "name": "01.MExico E-Prix [2024]",
+                "image": "https://i.postimg.cc/WzFqhhdL/hq720.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "MExico E-Prix Carrera",
+                        "info":"Latino [13.01.23]",
+                        "image": "https://i.postimg.cc/WzFqhhdL/hq720.jpg",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "MExico E-Prix Carrera",
+                        "info":"Español [13.01.23]",
+                        "image": "https://i.postimg.cc/WzFqhhdL/hq720.jpg",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                }
+			]
+        }
+    ]
+}
