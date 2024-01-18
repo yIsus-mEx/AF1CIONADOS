@@ -1,0 +1,70 @@
+{
+"name": "Tennis",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Open Australia",
+        "image": "https://espnpressroom.com/us/files/2024/01/24018253WGR_TEN_AO24_PR_1920x1080.jpg",
+        "imageScale": "",
+        "info":"",
+        "groups":
+            [
+                {
+                "name": "Primera Ronda",
+                "image": "https://i.postimg.cc/W1CYQ49N/ao24-rod-laver-arena-round1-13jan-clean-landscape-thumb.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Djokovic VS Dino Prižmić",
+                        "info":"[14.01.23]",
+                        "image": "https://i.postimg.cc/tRdTJZPc/djoVsPri.jpg",
+                        "url":"https://filemoon.sx/d/xpiysw3sl4f9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "Gasquet VS Alcaraz",
+                        "info":"[16.01.23]",
+                        "image": "https://i.postimg.cc/qMVj4Y0r/Gasquet-VS-Alcaraz.jpg",
+                        "url":"https://filemoon.sx/d/83b5o8srtcdm",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
+                "name": "Segunda Ronda",
+                "image": "https://i.postimg.cc/Nj5MbQC7/round2.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Djokovic VS Popyrin",
+                        "info":"[17.01.23]",
+                        "image": "https://i.postimg.cc/y8NpWbQb/djokovic-vs-popyrin.png",
+                        "url":"https://filemoon.sx/d/rwzd2w1xbexm",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+						{
+                        "name": "Sonego VS Alcaraz",
+                        "info":"[17.01.23]",
+                        "image": "https://i.postimg.cc/qMVj4Y0r/Gasquet-VS-Alcaraz.jpg",
+                        "url":"",
+                        "isHost":"true",
+                        "online":""
+                        }
+					]
+                }
+			]
+        }
+    ]
+}
