@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "MovIeS 202",
+         "image": "",
+         "url": "https://aficionados.vercel.app/Movies.Latino.24.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "MovIeS 2023",
          "image": "https://i.postimg.cc/L6wz3vQP/2023-new.png",
          "url": "https://aficionados.vercel.app/06.1.1.Movies.Latino.23.w3u",
