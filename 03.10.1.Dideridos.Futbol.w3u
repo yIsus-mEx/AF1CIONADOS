@@ -94,17 +94,17 @@
 				{
         		"name": "Atletico vs Levante",
         		"info":"SEMIFINAL 1",
-       	 		"image": "",
+       	 		"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
         		"imageScale": "",
         		"stations":
             		[
 						{
                 		"name": "Atletico vs Levante",
                 		"info":"[16-Ene-24]",
-                		"image": "",
-                		"url":"",
+                		"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
+                		"url":"https://filemoon.sx/d/gc79kp960rep",
                 		"isHost":"true",
-                		"online":""
+                		"online":"true"
                 		}
             		]
         		},
