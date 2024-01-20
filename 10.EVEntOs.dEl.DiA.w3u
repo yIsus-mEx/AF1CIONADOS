@@ -8,94 +8,14 @@
 "stations":
     [
        	{
-        "name": "Real Madrid Vs Barcelona",
-        "info":"Acestream",
+        "name": "E-TROPHÉE ANDROS 2024 ",
+        "info":"[Round 04]",
         "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "acestream://cf3c9dca822e47dda561a375bd0827b727653e8f",
-        "userAgent": "",
+        "image": "https://i.postimg.cc/Mp9f0VnX/manu.jpg",
+        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239367&hd=4",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"Acestream",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281",
-        "userAgent": "",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"Acestream",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "acestream://8620cc7a6ce4dada7325c05f4c36af3d34f411af",
-        "userAgent": "",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"Acestream",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
-        "userAgent": "",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"Acestream",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
-        "userAgent": "",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"IPTV",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "http://user.ttvrilieos.xyz:8080/RicardMega/Sypd5X3Xyu/46536",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"IPTV",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "http://65.109.111.120:8080/JimaraDirecto/uVaEYpQRJdUw/74986",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"IPTV",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/46536",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Real Madrid Vs Barcelona",
-        "info":"IPTV",
-        "online":"true",
-        "image": "https://i.blogs.es/89a19b/rfef-supercopa/650_1200.jpeg",
-        "url": "http://65.109.111.120:8080/JimaraDirecto/uVaEYpQRJdUw/74986",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
         }
 	]
 }
