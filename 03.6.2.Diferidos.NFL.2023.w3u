@@ -8,6 +8,33 @@
 "groups":
     [
         {
+        "name": "NFL Divisional",
+        "image": "https://i.ytimg.com/vi/GajWyZl5ySI/maxresdefault.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Green Bay Packers vs San Francisco 49ers",
+                "info": "20/01/24",
+                "image": "https://nfl-video.com/_pu/18/08205972.jpg",
+                "url":"https://filemoon.sx/e/tffr4lzps9kv",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                },
+                {
+                "name": "Houston Texans vs Baltimore Ravens",
+                "info": "20/01/24",
+                "image": "https://nfl-video.com/_pu/18/84946258.jpg",
+                "url":"https://filemoon.sx/e/lpkoubx4h51c",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
         "name": "NFL WildCard",
         "image": "https://i.postimg.cc/qMVXTzKn/card.png",
         "imageScale": "",
@@ -15,8 +42,26 @@
         "stations":
             [
                 {
+                "name": "Philadelphia Eagles vs Tampa Bay Buccaneers",
+                "info": "15/01/24",
+                "image": "https://nfl-video.com/_pu/18/97453530.jpg",
+                "url":"https://filemoon.sx/e/nfypsi77rigq",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                },
+                {
+                "name": "Pittsburgh Steelers vs Buffalo Bills",
+                "info": "15/01/24",
+                "image": "https://nfl-video.com/_pu/18/42978215.jpg",
+                "url":"https://filemoon.sx/e/4vymjc13pqtr",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                },
+                {
                 "name": "Los Angeles Rams vs Detroit Lions",
-                "info":"14/01/24",
+                "info": "14/01/24",
                 "image": "https://nfl-video.com/_pu/18/47639801.jpg",
                 "url":"https://filemoon.sx/e/9cs26cq14i7s",
                 "userAgent" : "",

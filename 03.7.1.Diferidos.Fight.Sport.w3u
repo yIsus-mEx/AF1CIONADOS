@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC 297: Strickland vs Du Plessis",
+         "image": "https://www.scotiabankarena.com/assets/img/297_SG_BA_ENG_1920x1080-14ddc4d18e.jpg",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 297: Strickland vs Du Plessis",
+                "info":"[Preliminares]",
+                "image": "https://www.scotiabankarena.com/assets/img/297_SG_BA_ENG_1920x1080-14ddc4d18e.jpg",
+                "url":"https://filemoon.sx/d/g55gg02cw6lw",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 297: Strickland vs Du Plessis",
+                "info":"[Estelares]",
+                "image": "https://www.scotiabankarena.com/assets/img/297_SG_BA_ENG_1920x1080-14ddc4d18e.jpg",
+                "url":"https://filemoon.sx/d/nr6cdq48feqy",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Ankalaev vs Walker 2",
          "image": "https://espnpressroom.com/us/files/2024/01/UFC-Fight-Night-1.13_LasVegas_KA_1920x1080_v2.png",
          "imageScale": "",
