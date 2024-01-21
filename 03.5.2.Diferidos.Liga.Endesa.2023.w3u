@@ -15,6 +15,24 @@
         "stations":
             [
                 {
+                "name": "Palencia vs Manresa",
+                "info": "20/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/rwawiqwvq6wu/Palencia_VS_Manresa_200124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Juventut vs Unicaja",
+                "info": "20/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/zzkthns6cp69/Juventut_VS_Unicaja_200124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
                 "name": "Obradoiro vs Lenovo Tenerife",
                 "info": "20/01/2024",
                 "online": "true",
