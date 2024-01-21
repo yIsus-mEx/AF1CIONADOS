@@ -124,6 +124,49 @@
                 		"online":"true"
                 		}
             		]
+        		},
+				{
+        		"name": "Barcelona vs Levante",
+        		"info":"Final",
+       	 		"image": "https://www.diariodesevilla.es/2024/01/19/deportes/FC-Barcelona-UD-Supercopa-TV_1867923436_201711084_667x375.png",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Barcelona vs Levante",
+                		"info":"[20-Ene-24]",
+                		"image": "https://www.diariodesevilla.es/2024/01/19/deportes/FC-Barcelona-UD-Supercopa-TV_1867923436_201711084_667x375.png",
+                		"url":"https://filemoon.sx/d/ci05dov4wkjm",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+        		}
+			]
+		},
+		{
+        "name": "Mundial Qatar 2023",
+        "info":"",
+        "image": "https://img2.rtve.es/i/?w=1600&i=01705315571841.jpg",
+        "imageScale": "",
+        "groups":
+        	[
+				{
+        		"name": "Argentina Vs Francia",
+        		"info":"FINAL",
+       	 		"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
+        		"imageScale": "",
+        		"stations":
+            		[
+						{
+                		"name": "Argentina Vs Francia",
+                		"info":"[18-DIC-22]",
+                		"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
+                		"url":"https://filemoon.sx/d/argc2dyg6olk",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
         		}
 			]
 		}
