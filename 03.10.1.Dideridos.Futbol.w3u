@@ -84,90 +84,66 @@
 
 			]
 		},
+
 		{
-        "name": "sUPERcOPA dE EsPAÑa 2024 Femenina",
-        "info":"",
-        "image": "https://img2.rtve.es/i/?w=1600&i=01705315571841.jpg",
-        "imageScale": "",
-        "groups":
-        	[
+        	"name": "sUPERcOPA dE EsPAÑa 2024 Femenina",
+        	"info":"",
+        	"image": "https://img2.rtve.es/i/?w=1600&i=01705315571841.jpg",
+        	"imageScale": "",
+        	"groups":
+        		[
 				{
-        		"name": "Atletico vs Levante",
-        		"info":"SEMIFINAL 1",
-       	 		"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Atletico vs Levante",
-                		"info":"[16-Ene-24]",
-                		"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
-                		"url":"https://filemoon.sx/d/gc79kp960rep",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
+	        		"name": "Atletico vs Levante",
+        			"info":"SEMIFINAL 1",
+       	 			"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
+        			"imageScale": "",
+        			"stations":
+            			[
+					{
+                			"name": "Atletico vs Levante",
+	                		"info":"[16-Ene-24]",
+                			"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
+                			"url":"https://filemoon.sx/d/gc79kp960rep",
+                			"isHost":"true",
+                			"online":"true"
+                			}
+            			]
         		},
-				{
-        		"name": "Barcelona vs Real Madrid",
-        		"info":"SEMIFINAL 2",
-       	 		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Barcelona vs Real Madrid",
-                		"info":"[17-Ene-24]",
-                		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
-                		"url":"https://filemoon.sx/d/7630xdpr0ut4",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
+			{
+        			"name": "Barcelona vs Real Madrid",
+        			"info":"SEMIFINAL 2",
+       	 			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+        			"imageScale": "",
+        			"stations":
+            			[
+					{
+                			"name": "Barcelona vs Real Madrid",
+                			"info":"[17-Ene-24]",
+	                		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+                			"url":"https://filemoon.sx/d/7630xdpr0ut4",
+                			"isHost":"true",
+                			"online":"true"
+                			}
+            			]
         		},
-				{
-        		"name": "Barcelona vs Levante",
-        		"info":"Final",
-       	 		"image": "https://www.diariodesevilla.es/2024/01/19/deportes/FC-Barcelona-UD-Supercopa-TV_1867923436_201711084_667x375.png",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Barcelona vs Levante",
-                		"info":"[20-Ene-24]",
-                		"image": "https://www.diariodesevilla.es/2024/01/19/deportes/FC-Barcelona-UD-Supercopa-TV_1867923436_201711084_667x375.png",
-                		"url":"https://filemoon.sx/d/ci05dov4wkjm",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
+			{
+        			"name": "Barcelona vs Levante",
+        			"info":"FINAL",
+       	 			"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+        			"imageScale": "",
+        			"stations":
+            			[
+					{
+                			"name": "Barcelona vs Levante",
+                			"info":"[20-Ene-24]",
+	                		"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+                			"url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
+                			"isHost":"true",
+                			"online":"true"
+                			}
+            			]
         		}
-			]
-		},
-		{
-        "name": "Mundial Qatar 2023",
-        "info":"",
-        "image": "https://img2.rtve.es/i/?w=1600&i=01705315571841.jpg",
-        "imageScale": "",
-        "groups":
-        	[
-				{
-        		"name": "Argentina Vs Francia",
-        		"info":"FINAL",
-       	 		"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Argentina Vs Francia",
-                		"info":"[18-DIC-22]",
-                		"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-                		"url":"https://filemoon.sx/d/argc2dyg6olk",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		}
+
 			]
 		}
 	]
