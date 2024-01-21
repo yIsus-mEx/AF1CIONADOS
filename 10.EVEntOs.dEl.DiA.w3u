@@ -8,11 +8,11 @@
 "stations":
     [
        	{
-        "name": "E-TROPHÉE ANDROS 2024 ",
-        "info":"[Round 04]",
+        "name": "UFC 297: Strickland vs. Du Plessis",
+        "info":"",
         "online":"true",
-        "image": "https://i.postimg.cc/Mp9f0VnX/manu.jpg",
-        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239367&hd=4",
+        "image": "https://i.postimg.cc/zvpVX2gv/UFC297.png",
+        "url": "https://markkystreams.com/video/ufc/",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
@@ -22,6 +22,46 @@
         "info":"",
         "online":"true",
         "image": "https://i.postimg.cc/zvpVX2gv/UFC297.png",
+        "url": "https://markkystreams.com/video/mma/",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC 297: Strickland vs. Du Plessis",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/zvpVX2gv/UFC297.png",
+        "url": "https://bestsolaris.com/mmastreams/ufc-297-strickland-vs-du-plessis/",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC 297: Strickland vs. Du Plessis",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/zvpVX2gv/UFC297.png",
+        "url": "https://crackstreams.biz/watch/51328",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC 297: Strickland vs. Du Plessis",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/zvpVX2gv/UFC297.png",
+        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239367&hd=4",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "E-TROPHÉE ANDROS 2024 ",
+        "info":"[Round 04]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Mp9f0VnX/manu.jpg",
         "url": "https://vk.com/video_ext.php?oid=718161690&id=456239367&hd=4",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
