@@ -8,6 +8,23 @@
 "groups":
     [
         {
+        "name": "Futbol mIx",
+        "info":"",
+       	"image": "",
+        "imageScale": "",
+        "stations":
+        	[
+				{
+           		"name": "Real Madrid vs Almeria",
+           		"info":"[Jornada 21]",
+           		"image": "",
+           		"url":"https://vidhidepro.com/v/tfux5d4glt2u",
+           		"isHost":"true",
+           		"online":"true"
+           		}
+        	]
+        },
+		{
         "name": "sUPERcOPA dE EsPAÑa 2024",
         "info":"",
         "image": "https://i.postimg.cc/5t1FL58s/supercopa.jpg",
