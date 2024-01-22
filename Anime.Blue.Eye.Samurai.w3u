@@ -1,0 +1,84 @@
+{
+"name": "Blue Eye Samurai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "by. Falken",
+"groups":
+    [
+        {
+        "name": "Temporada 1",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/luqj1zacv1ew",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 02",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/niifcq08lyub",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 03",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/wecdbd6j90i6",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 04",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/a0m2jxz20n0j",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 05",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/9hbx6wqwya0q",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 06",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/8szq7at1hgzw",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 07",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/siv11yodt0s9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 08",
+                "info":"Subtitulado",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Blue_Eye_Samurai_poster.jpg",
+                "url": "https://filemoon.sx/d/wecdbd6j90i6",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}

@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "Blue Eye Samurai",
+         "image": "https://i.postimg.cc/mgjgqkqK/blue-eye-samurai.jpg",
+         "url": "https://aficionados.vercel.app/",
+         "info":"bY. Falken",
+         "import": false
+        },
+        {
          "name": "Samurai X",
          "image": "https://pics.filmaffinity.com/Rurouni_Kenshin_Serie_de_TV-142065586-large.jpg",
          "url": "https://aficionados.vercel.app/Anime.Samurai.X.w3u",
