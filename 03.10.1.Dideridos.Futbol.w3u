@@ -9,20 +9,37 @@
     [
         {
         "name": "Futbol mIx",
-        "info":"",
-       	"image": "",
+        "image": "",
         "imageScale": "",
-        "stations":
-        	[
+        "info":"",
+        "groups":
+            [
 				{
-           		"name": "Real Madrid vs Almeria",
-           		"info":"[Jornada 21]",
-           		"image": "",
-           		"url":"https://vidhidepro.com/v/tfux5d4glt2u",
-           		"isHost":"true",
-           		"online":"true"
-           		}
-        	]
+        		"name": "Real Madrid vs Almeria",
+        		"info":"[Jornada 21]",
+       			"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+        		"imageScale": "",
+        		"stations":
+        			[
+						{
+           				"name": "Real Madrid vs Almeria",
+           				"info":"[1er Tiempo]",
+           				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+           				"url":"https://vidhidepro.com/v/tfux5d4glt2u",
+           				"isHost":"true",
+           				"online":"true"
+           				},
+						{
+           				"name": "Real Madrid vs Almeria",
+           				"info":"[2do Tiempo]",
+           				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+           				"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
+           				"isHost":"true",
+           				"online":"true"
+           				}
+        			]
+				}
+			]
         },
 		{
         "name": "sUPERcOPA dE EsPAÑa 2024",
@@ -33,7 +50,7 @@
         	[
 				{
                 "name": "Real Madrid vs Atletico",
-                "info":"[SemiFinal 01]",
+                "info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
                 "url":"https://filemoon.sx/d/hzqu4c6uvet4",
                 "isHost":"true",
@@ -41,7 +58,7 @@
                 },
             	{
                 "name": "Barcelona vs Osasuna",
-                "info":"[SemiFinal 02]",
+                "info":"[SemiFinal 2]",
                 "image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
                 "url":"https://filemoon.sx/d/r6gfh411yjc7",
                 "isHost":"true",
@@ -62,86 +79,50 @@
         "info":"",
         "image": "https://img2.rtve.es/i/?w=1600&i=01705315571841.jpg",
         "imageScale": "",
-        "groups":
+        "stations":
         	[
 				{
-	       		"name": "Atletico vs Levante",
-        		"info":"SEMIFINAL 1",
-       	 		"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Atletico vs Levante",
-	               		"info":"[16-Ene-24]",
-                		"image": "https://i.postimg.cc/wx14vTKM/semi1.png",
-                		"url":"https://filemoon.sx/d/gc79kp960rep",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		},
-				{
-        		"name": "Barcelona vs Real Madrid",
-        		"info":"SEMIFINAL 2",
-       	 		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Barcelona vs Real Madrid",
-                		"info":"[17-Ene-24]",
-	                	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
-                		"url":"https://filemoon.sx/d/7630xdpr0ut4",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		},
-				{
-        		"name": "Barcelona vs Levante",
-        		"info":"FINAL",
-       	 		"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Barcelona vs Levante",
-                		"info":"[20-Ene-24]",
-	                	"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
-                		"url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		}
-			]
+                "name": "Atletico vs Levante",
+	            "info":"[SemiFinal 1]",
+                "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
+                "url":"https://filemoon.sx/d/gc79kp960rep",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Barcelona vs Real Madrid",
+                "info":"[SemiFinal 2]",
+	            "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+                "url":"https://filemoon.sx/d/7630xdpr0ut4",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Barcelona vs Levante",
+                "info":"[Final]",
+	            "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+                "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
 		},
 		{
         "name": "Mundial Qatar 2022",
         "info":"",
         "image": "https://libero.cronosmedia.glr.pe/original/2022/07/20/62d1d9db3db53c0def13060c.jpg",
         "imageScale": "",
-        "groups":
+        "stations":
         	[
 				{
-	       		"name": "Argentina Vs Francia",
-        		"info":"FINAL",
-       	 		"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Argentina Vs Francia",
-	               		"info":"[18-Dic-22]",
-                		"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-                		"url":"https://filemoon.sx/d/argc2dyg6olk",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		}
-			]
+                "name": "Argentina Vs Francia",
+	            "info":"[18-Dic-22]",
+                "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
+                "url":"https://filemoon.sx/d/argc2dyg6olk",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
 		}
 	]
 }
