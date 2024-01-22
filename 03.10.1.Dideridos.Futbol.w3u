@@ -29,78 +29,34 @@
         "info":"",
         "image": "https://i.postimg.cc/5t1FL58s/supercopa.jpg",
         "imageScale": "",
-        "groups":
+        "stations":
         	[
 				{
-        		"name": "Real Madrid vs Atletico",
-        		"info":"SEMIFINAL 1",
-       	 		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Real Madrid vs Atletico",
-                		"info":"[10-Ene-24]",
-                		"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
-                		"url":"https://filemoon.sx/d/hzqu4c6uvet4",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		},
-				{
-        		"name": "Barcelona vs Osasuna",
-        		"info":"SEMIFINAL 2",
-       	 		"image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "Barcelona vs Osasuna",
-                		"info":"[11-Ene-24]",
-                		"image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
-                		"url":"https://filemoon.sx/d/r6gfh411yjc7",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		},
-				{
-        		"name": "Real Madrid vs FC Barcelona",
-        		"info":"FINAL",
-       	 		"image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
-        		"imageScale": "",
-        		"stations":
-            		[
-						{
-                		"name": "PRE PARTIDO Real Madrid vs Barcelon",
-                		"info":"[14-Ene-24]",
-                		"image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
-                		"url":"https://filemoon.sx/d/btlwfq7gyj0l/Supercopa_Espa_a_Pre-partido_Real_Madrid_VS_FC_Barcelona_140124.mp4",
-                		"isHost":"true",
-                		"online":"true"
-                		},
-						{
-                		"name": "PARTIDO Real Madrid vs Barcelona",
-                		"info":"[14-Ene-24]",
-                		"image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
-                		"url":"https://filemoon.sx/d/hzindiudis1m/Supercopa_Espa_a_Partido_Real_Madrid_VS_Barcelona_Multi_140124.mp4",
-                		"isHost":"true",
-                		"online":"true"
-                		},
-						{
-                		"name": "POST PARTIDO Real Madrid vs Barcelona",
-                		"info":"[14-Ene-24]",
-                		"image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
-                		"url":"https://filemoon.sx/d/kuu8819hqcjw/Supercopa_Espa_a_Post-partido_Real_Madrid_VS_FC_Barcelona_140124.mp4",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-        		}
-
-			]
-		},
+                "name": "Real Madrid vs Atletico",
+                "info":"[SemiFinal 01]",
+                "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+                "url":"https://filemoon.sx/d/hzqu4c6uvet4",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Barcelona vs Osasuna",
+                "info":"[SemiFinal 02]",
+                "image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
+                "url":"https://filemoon.sx/d/r6gfh411yjc7",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "PARTIDO Real Madrid vs Barcelona",
+                "info":"[Final]",
+                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
+                "url":"https://filemoon.sx/d/hzindiudis1m/Supercopa_Espa_a_Partido_Real_Madrid_VS_Barcelona_Multi_140124.mp4",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
 		{
         "name": "sUPERcOPA dE EsPAÑa 2024 Femenina",
         "info":"",
