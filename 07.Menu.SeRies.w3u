@@ -9,6 +9,13 @@
     [
 
 		{
+		"name": "OutLander",
+		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
+		"url": "https://aficionados.vercel.app/",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Fargo",
 		"image": "https://pics.filmaffinity.com/Fargo_Miniserie_de_TV-242231012-large.jpg",
 		"url": "https://aficionados.vercel.app/Series.Fargo.w3u",
