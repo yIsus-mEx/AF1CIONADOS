@@ -9,6 +9,13 @@
     [
 
 		{
+		"name": "Successions",
+		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
 		"name": "OutLander",
 		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
 		"url": "https://aficionados.vercel.app/",
@@ -33,14 +40,14 @@
 		"name": "Entrevias (Temp 3)",
 		"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie ENTREVIAS.w3u",
-		"info": "2022",
+		"info": "bY. Adri",
 		"import": false
 		},
 		{
 		"name": "Lazarus Project, The",
 		"image": "https://pics.filmaffinity.com/the_lazarus_project-757640215-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LAZARUS PROJECT THE.w3u",
-		"info": "2022",
+		"info": "bY. Adri",
 		"import": false
 		},
 		{
@@ -54,7 +61,7 @@
 		"name": "Dark Winds",
 		"image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie DARK WINDS.w3u",
-		"info": "2022",
+		"info": "bY. Adri",
 		"import": false
 		},
 		{
@@ -74,7 +81,7 @@
         {
 		"name": "El Mentalista",
 		"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
-		"info": "bY. yIsus",
+		"info": "bY. Tintxi",
 		"url": "https://af1cionados.vercel.app/serie EL MENTALISTA .w3u",
 		"import": false
 		},
@@ -158,7 +165,7 @@
 		{
 		"name": "Encargado, El",
 		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-		"info": "bY. aDri",
+		"info": "bY. Adri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ENCARGADO.w3u",
 		"import": false
 		},
