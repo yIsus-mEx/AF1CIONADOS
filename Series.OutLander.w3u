@@ -143,6 +143,119 @@
  				"online":"true"
 				}
 			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://i.postimg.cc/CLHnvgWY/out22.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/wa66g51xde2o",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 02",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/rh0wlur5wzhx",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/txujjhyeemfh",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 04",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/zr68ahtadx3d",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 05",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/nsnaua0rw2v8",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 06",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/99p5qby7ab6m",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 07",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/7mv08zq9ztp2",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 08",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/a9vh2nanycya",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 09",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/n5ael1zujiz6",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 10",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/s8hre6m7m4u6",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 11",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/yr4c92reqflh",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 12",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/5y4477knxhga",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 13",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
+ 				"url":"https://filemoon.sx/d/2qleagbpujr0",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
 		}
 	]
 }
