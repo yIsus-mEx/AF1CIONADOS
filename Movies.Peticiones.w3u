@@ -7,7 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-         {
+        {
+        "name": "The Game",
+        "info":"[Castellano][1997]",
+        "image": "https://pics.filmaffinity.com/The_Game-701562383-large.jpg",
+        "url": "https://upstream.to/u9ud6ntou3pw",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "La Vida Es Bella",
         "info":"[Castellano][2023]",
         "image": "https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg",
