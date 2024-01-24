@@ -154,22 +154,29 @@
          "info":"100 conex",
          "import": false
         },
+        {
+         "name": "IPTV Europa 22",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://polcalminei.online:2082/get.php?username=viktor22&password=newJdqR5ksgQ3YKYnew&type=m3u_plus",
+         "info":"100 conex",
+         "import": false
+        },
 		{
-         "name": "IPTV Latino 22 LMP",
+         "name": "IPTV Latino 23 LMP",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
          "url": "http://84423.xyz:8000/get.php?username=PmPLUS&password=2048dw23Do0&type=m3u_plus&output=m3u8",
          "info": "150 conex",
          "import": false
         },
 		{
-         "name": "IPTV Latino 23 LMP",
+         "name": "IPTV Latino 24 LMP",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
          "url": "http://84423.xyz:8000/get.php?username=FereTV&password=8R6JSEMQ46&type=m3u_plus&output=m3u8",
          "info":"150 conex",
          "import": false
         },
         {
-         "name": "IPTV Latino 24",
+         "name": "IPTV Latino 25",
          "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
          "url": "http://138.255.102.3:25461/get.php?username=FOXSPORTS1HDsd&password=RRZKamZw9a&type=m3u_plus",
          "info":"1000 conex",
