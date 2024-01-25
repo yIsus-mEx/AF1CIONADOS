@@ -1,21 +1,56 @@
 {
 "name": "MANUJA2 MotoSport",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://pastebin.com/cihCd251",
+"url": "https://aficionados.vercel.app/",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
         {
-        "name": "Rally Islas Canarias ERC 2023🏁",
-        "info":"",
+        "name": "MotorSport 🏁",
+        "info":"Canal 01",
         "online": "true",
-        "image": "https://atodomotor.blob.core.windows.net/contents/race/2023/islascanarias/RaceLogo.png",
-        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239217&hash=6696c193569b1861&hd=4",
+        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
+        "url": "https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost": "true",
-        "embed":""
+        "isHost": ""        
+        },
+        {
+        "name": "MotorSport 🏁",
+        "info":"Canal 02",
+        "online": "true",
+        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
+        "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fe320f6f-fbc4-4b81-8549-1f7a5ff71ca0/0.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": ""        
+        },
+        {
+        "name": "MotorSport 🏁",
+        "info":"Canal 03",
+        "online": "true",
+        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
+        "url": "https://d1phlc8te2m7db.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/44754441-a5b0-4143-84b2-1673a7b15e92/0.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": ""        
+        },
+        {
+        "name": "MotorSport 🏁",
+        "info":"Canal 04",
+        "online": "true",
+        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
+        "url": "https://stream.ads.ottera.tv/cl/240125cmp9u05am0686etvlcvg/1280x720_3643200_1_f.m3u8?i=475_460",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": ""        
+        },
+        {
+        "name": "MotorSport 🏁",
+        "info":"Canal 05",
+        "online": "true",
+        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": ""        
         }
     ]
 }
