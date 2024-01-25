@@ -115,7 +115,49 @@
 			        ]
 		        },
                 {
-                "name": "Cuartos de Final",
+                "name": "Cuartos de Final 1",
+                "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Djokovic VS T Fritz",
+                        "info":"[23.01.24]",
+                        "image": "https://i.ytimg.com/vi/uLJORweiIMw/maxresdefault.jpg",
+                        "url":"https://filemoon.sx/d/1qoj8vx1l1au",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Sinner VS A Rublev",
+                        "info":"[23.01.24]",
+                        "image": "https://i.ytimg.com/vi/0_bCmxV9eWU/maxresdefault.jpg",
+                        "url":"https://filemoon.sx/d/rt3sgqnpi2ar",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Krejcikova VS A Sabalenka",
+                        "info":"[23.01.24]",
+                        "image": "https://i.ytimg.com/vi/Yxwi7Das-f4/mqdefault.jpg",
+                        "url":"https://filemoon.sx/d/lvtc0l2o96qn",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Kostyuk VS Gauff",
+                        "info":"[23.01.24]",
+                        "image": "https://i.ytimg.com/vi/qxFrY3sxnxc/maxresdefault.jpg",
+                        "url":"https://filemoon.sx/d/zsrc189aiznx",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+			]
+		},
+
+               {
+                "name": "Cuartos de Final 2",
                 "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
                 "imageScale": "",
                 "info":"",
@@ -155,6 +197,11 @@
                         }
 			        ]
 		        }
+
+
+
+
+
 	        ]
         }
     ]
