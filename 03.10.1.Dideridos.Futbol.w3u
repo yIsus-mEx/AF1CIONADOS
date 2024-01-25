@@ -50,6 +50,14 @@
         "stations":
         [
 		{
+                "name": "Atletico Madrid VS Sevilla",
+            	"info":"[25-01-2024]",
+               	"image": "https://i.postimg.cc/ZYVNqJ5X/Atletico-Madrid-vs-Sevilla-2024.webp",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
                 "name": "Athletic Bilbao VS FC Barcelona",
             	"info":"[24-01-2024]",
                	"image": "https://i.postimg.cc/YqMd5ryV/Athletic-vs-Barcelona-2024.jpg",
