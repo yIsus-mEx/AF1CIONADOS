@@ -14,14 +14,14 @@
         "info":"",
         "groups":
             [
-				{
-        		"name": "Real Madrid vs Almeria",
-        		"info":"[Jornada 21]",
-       			"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-        		"imageScale": "",
-        		"stations":
-        			[
-						{
+		{
+        	"name": "Real Madrid vs Almeria",
+        	"info":"[Jornada 21]",
+       		"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+        	"imageScale": "",
+        	"stations":
+        		[
+					{
            				"name": "Real Madrid vs Almeria",
            				"info":"[1er Tiempo]",
            				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
@@ -41,7 +41,50 @@
 				}
 			]
         },
+
+	{
+       	"name": "Copa del Rey 2024",
+        "info":"",
+        "image": "https://i.postimg.cc/7hj4ytyq/Copa-Del-Rey-2024.jpg",
+        "imageScale": "",
+        "stations":
+        [
 		{
+                "name": "Atletico Madrid VS Sevilla",
+            	"info":"[25-01-2024]",
+               	"image": "https://i.postimg.cc/ZYVNqJ5X/Atletico-Madrid-vs-Sevilla-2024.webp",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
+                "name": "Athletic Bilbao VS FC Barcelona",
+            	"info":"[24-01-2024]",
+               	"image": "https://i.postimg.cc/YqMd5ryV/Athletic-vs-Barcelona-2024.jpg",
+               	"url":"https://filemoon.sx/d/d640s6d5qwzy/Copa_del_Rey_Bilbao_VS_FC_Barcelona_240124.mp4",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
+               	"name": "RCD Mallorca VS Girona",
+            	"info":"[24-01-2024]",
+               	"image": "https://i.postimg.cc/XYNDCjfF/Mallorca-vs-Girona-2024.webp",
+               	"url":"https://filemoon.sx/d/0nzq8mhbnn9e/Copa_del_Rey_Mallorca_VS_Girona_240124.mp4",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
+               	"name": "Celta de Vigo VS Real Sociedad",
+            	"info":"[23-01-2024]",
+               	"image": "https://i.postimg.cc/vZdGFVdy/Celta-vs-Real-Sociedad-2024.jpg",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                }
+       	]
+	},
+
+	{
         "name": "sUPERcOPA dE EsPAÑa 2024",
         "info":"",
         "image": "https://i.postimg.cc/gj5H29VV/supercopa.png",
