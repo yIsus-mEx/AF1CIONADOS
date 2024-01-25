@@ -22,6 +22,14 @@
 		"info":"Acestream",
 		"image": "https://i.postimg.cc/tgBb3XZ0/hq720-live.jpg",
 		"url": "acestream://b361dafa3d9a5799c8fd139a339bcdc981af6086"
+		},
+        {
+		"name": "24 Horas de Daytona 2024",
+		"info":"[MAnujaz Sports]",
+		"image": "https://i.postimg.cc/13YMkw04/24.png",
+		"url": "https://d1a5pof9bie5vb.cloudfront.net/2024/WORLD_DIRTY_QUALIFYING_DAYTONA_21JAN2024_IWSC/WORLD_DIRTY_QUALIFYING_DAYTONA_21JAN2024_IWSC_master_08.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": "true"
 		}
 	]
 }
