@@ -116,7 +116,7 @@
 		        },
                 {
                 "name": "Cuartos de Final 1",
-                "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
+                "image": "https://i.postimg.cc/PxmMyG0h/cuartos.png",
                 "imageScale": "",
                 "info":"",
                 "stations":
@@ -153,12 +153,11 @@
                         "isHost":"true",
                         "online":"true"
                         }
-			]
-		},
-
-               {
+			        ]
+		        },
+                {
                 "name": "Cuartos de Final 2",
-                "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
+                "image": "https://i.postimg.cc/PxmMyG0h/cuartos.png",
                 "imageScale": "",
                 "info":"",
                 "stations":
@@ -166,7 +165,7 @@
                         {
                         "name": "Kalinskaya VS Zheng",
                         "info":"[24.01.24]",
-                        "image": "",
+                        "image": "https://i.postimg.cc/FsZkZFRD/kal-VSzhen.png",
                         "url":"https://filemoon.sx/d/y7rm7tru5v38/Open_Australia_Cuartos_Femenino_A_Kalinskaya_VS_Zheng_Q_240124.mp4",
                         "isHost":"true",
                         "online":"true"
@@ -174,7 +173,7 @@
                         {
                         "name": "H Hurkacz VS D Medveded",
                         "info":"[24.01.24]",
-                        "image": "",
+                        "image": "https://i.postimg.cc/WbX64wMN/hurVSmed.png",
                         "url":"https://filemoon.sx/d/lbzxogldewuh/Open_Australia_Cuartos_Masculino_H_Hurkacz_VS_D_Medvedez_240124.mp4",
                         "isHost":"true",
                         "online":"true"
@@ -182,7 +181,7 @@
                         {
                         "name": "Noskova VS Yastremska",
                         "info":"[24.01.24]",
-                        "image": "",
+                        "image": "https://i.postimg.cc/k4TXSGwb/nosVSyas.png",
                         "url":"https://filemoon.sx/d/a3jld977d2oa/Open_Australia_Cuartos_Femenino_L_Noskova_VS_D_Yastremska_240124.mp4",
                         "isHost":"true",
                         "online":"true"
@@ -190,17 +189,16 @@
                         {
                         "name": "Zverev VS Alcaraz",
                         "info":"[24.01.24]",
-                        "image": "",
+                        "image": "https://i.postimg.cc/VkNySgpD/zveVSalc.png",
                         "url":"https://filemoon.sx/d/choix4c9wa11/Open_Australia_Cuartos_Masculino_A_Zverev_VS_C_Alcaraz_240124.mp4",
                         "isHost":"true",
                         "online":"true"
                         }
-			]
-		},
-
-               {
+			        ]
+		        },
+                {
                 "name": "Semifinal 1",
-                "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
+                "image": "https://i.postimg.cc/c4JQg81d/semi.png",
                 "imageScale": "",
                 "info":"",
                 "stations":
@@ -221,12 +219,11 @@
                         "isHost":"true",
                         "online":"true"
                         }
-			]
-		},
-
-               {
+			        ]
+		        },
+                {
                 "name": "Semifinal 2",
-                "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
+                "image": "https://i.postimg.cc/c4JQg81d/semi.png",
                 "imageScale": "",
                 "info":"",
                 "stations":
@@ -247,12 +244,11 @@
                         "isHost":"true",
                         "online":"true"
                         }
-			]
-		},
-
-               {
+			        ]
+		        },
+                {
                 "name": "Finales",
-                "image": "https://i.postimg.cc/rmDFLp5r/cuartos.png",
+                "image": "https://i.postimg.cc/3JWvJ59R/finales.png",
                 "imageScale": "",
                 "info":"",
                 "stations":
@@ -273,11 +269,9 @@
                         "isHost":"true",
                         "online":"true"
                         }
-			]
-		}
-
-
-	]
+                    ]
+		        }
+            ]
         }
     ]
 }
