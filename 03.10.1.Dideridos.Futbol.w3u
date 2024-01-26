@@ -21,25 +21,25 @@
         	"imageScale": "",
         	"stations":
         		[
-					{
-           				"name": "Real Madrid vs Almeria",
-           				"info":"[1er Tiempo]",
-           				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-           				"url":"https://vidhidepro.com/v/tfux5d4glt2u",
-           				"isHost":"true",
-           				"online":"true"
-           				},
-						{
-           				"name": "Real Madrid vs Almeria",
-           				"info":"[2do Tiempo]",
-           				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-           				"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
-           				"isHost":"true",
-           				"online":"true"
-           				}
-        			]
-				}
-			]
+				{
+           			"name": "Real Madrid vs Almeria",
+           			"info":"[1er Tiempo]",
+           			"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+           			"url":"https://vidhidepro.com/v/tfux5d4glt2u",
+           			"isHost":"true",
+           			"online":"true"
+           			},
+				{
+           			"name": "Real Madrid vs Almeria",
+           			"info":"[2do Tiempo]",
+           			"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+           			"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
+           			"isHost":"true",
+           			"online":"true"
+           			}
+        		]
+		}
+		]
         },
 
 	{
@@ -53,7 +53,7 @@
                 "name": "Atletico Madrid VS Sevilla",
             	"info":"[25-01-2024]",
                	"image": "https://i.postimg.cc/ZYVNqJ5X/Atletico-Madrid-vs-Sevilla-2024.webp",
-               	"url":"",
+               	"url":"https://filemoon.sx/d/ho1jm25bc6ay/Copa_del_Rey_Cuartos_Atletico_de_Madrid_VS_Sevilla_250124.mp4",
                	"isHost":"true",
                	"online":"true"
                 },
@@ -77,7 +77,7 @@
                	"name": "Celta de Vigo VS Real Sociedad",
             	"info":"[23-01-2024]",
                	"image": "https://i.postimg.cc/vZdGFVdy/Celta-vs-Real-Sociedad-2024.jpg",
-               	"url":"",
+               	"url":"https://filemoon.sx/d/quyi1vva5q65/Copa_del_Rey_Cuartos_Celta_VS_Real_Sociedad_230124.mp4",
                	"isHost":"true",
                	"online":"true"
                 }
