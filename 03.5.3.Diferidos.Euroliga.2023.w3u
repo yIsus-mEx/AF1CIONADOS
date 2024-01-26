@@ -8,7 +8,43 @@
 "groups": 
 	[
 
-		{
+	{
+        "name": "JORNADA 23",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	 "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "FC Bayer Munich VS ASVEL Lyon-Villeurbanne",
+              	"info": "25/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/5lefcdycpcns/FC_Bayer_Baketball_VS_ASVEL_Lyon-Villeurbanne_250124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Fenerbahce VS Bolonia",
+              	"info": "25/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/xz2mrhji25c8/Fenerbahce_VS_Bolonia_250124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Berlin VS Estrella Roja",
+              	"info": "25/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/c09k3xw56x9v/Berlin_VS_Estrella_Roja_250124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 22",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
         "info": "",
