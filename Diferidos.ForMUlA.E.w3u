@@ -15,8 +15,33 @@
         "groups":
             [
                 {
+                "name": "02.Diriyah E-Prix [2024]",
+                "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Diriyah E-Prix Carrera",
+                        "info":"Latino [26.01.23]",
+                        "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
+                        "url":"https://filemoon.sx/d/1o0pr64sg3y7",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "Diriyah E-Prix Carrera",
+                        "info":"Español [26.01.23]",
+                        "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
+                        "url":"https://filemoon.sx/d/uldikedf6wd6",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
                 "name": "01.MExico E-Prix [2024]",
-                "image": "https://i.postimg.cc/WzFqhhdL/hq720.jpg",
+                "image": "https://i.postimg.cc/90PnhvmX/Mexico.png",
                 "imageScale": "",
                 "info":"",
                 "stations":
@@ -24,7 +49,7 @@
                         {
                         "name": "MExico E-Prix Carrera",
                         "info":"Latino [13.01.23]",
-                        "image": "https://i.postimg.cc/WzFqhhdL/hq720.jpg",
+                        "image": "https://i.postimg.cc/90PnhvmX/Mexico.png",
                         "url":"https://filemoon.sx/d/c43p1t5bgl5m",
                         "isHost":"true",
                         "online":"true"
@@ -32,7 +57,7 @@
 						{
                         "name": "MExico E-Prix Carrera",
                         "info":"Español [13.01.23]",
-                        "image": "https://i.postimg.cc/WzFqhhdL/hq720.jpg",
+                        "image": "https://i.postimg.cc/90PnhvmX/Mexico.png",
                         "url":"https://filemoon.sx/d/y3w3dlcesykq",
                         "isHost":"true",
                         "online":"true"
