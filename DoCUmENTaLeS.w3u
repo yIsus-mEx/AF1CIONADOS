@@ -7,91 +7,27 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
     [
-		{
-		"name": "Madoff, el monstruo de Wall Street",
-		"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
-		"stations":
-			[
-				{
-       				"name": "1x01 A Liar, Not a Failure",
-        			"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
-        			"url": "https://filemoon.sx/d/ometqlkwjqou/Ver_madoff_the_monster_wall_street_s01e01_esp_web_720p_tito_mkv.mp4",
-       				"info": "2023",
-       				"embed": "",
-       				"isHost": "true",
-       				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
-       				},
-				{
-			       	"name": "1x02 Don't Ask, Don't Tell",
-			        "image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
-			        "url": "https://filemoon.sx/d/gwjetd7wv4et/Ver_madoff_the_monster_wall_street_s01e02_esp_web_720p_tito_mkv.mp4",
-			       	"info": "2023",
-			       	"embed": "",
-			       	"isHost": "true",
-			       	"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-			       	"import": false
-			       	},
-				{
-			       	"name": "1x03 See No Evil",
-        			"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
-        			"url": "https://filemoon.sx/d/jhyp0sqe69ji/Ver_madoff_the_monster_wall_street_s01e03_esp_web_720p_tito_mkv.mp4",
-       				"info": "2023",
-       				"embed": "",
-       				"isHost": "true",
-       				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
-       				},
-				{
-       				"name": "1x04 The Price of Trust",
-        			"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
-        			"url": "",
-       				"info": "2023",
-       				"embed": "",
-       				"isHost": "true",
-       				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
-       				}
-			]
-		},
 
 		{
-		"name":"Matar Al Presidente",
-		"image":"https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
-		"stations":
-			[
-				{
-				"name": "Todos Querian Muerto a Carrero Blanco",
-				"info":"Episodio 01",
-				"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
-				"url":"https://filemoon.sx/d/ntjvrz8d76tn",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "La CIA en España",
-				"info":"Episodio 02",
-				"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
-				"url":"https://filemoon.sx/d/qsfhs7oq0b2z",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "La Conspiracion",
-				"info":"Episodio 03",
-				"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
-				"url":"https://filemoon.sx/d/gzskatlcuily",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
+		"name": "Grandes robos de la historia",
+		"image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+		"url": "https://af1cionados.vercel.app/DoCuSerie ROBOS HISTORICOS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Madoff, El Monstruo de Wall Street",
+		"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
+		"url": "https://af1cionados.vercel.app/DocuSerie MADOFF.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Matar Al Presidente",
+		"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
+		"url": "https://af1cionados.vercel.app/DoCuSerie MATAR AL PRESIDENTE.w3u",
+		"info": "bY. Adri",
+		"import": false
 		},
 		{
 		"name":"Break Nation: La Electrónica Que Bailó Andalucía",
