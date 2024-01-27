@@ -47,8 +47,16 @@
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
         "imageScale": "",
-        "stations":
+        "groups":
         [
+
+		{
+        	"name": "CUARTOS DE FINAL",
+        	"info":"",
+       		"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
+        	"imageScale": "",
+        	"stations":
+        	[
 		{
                 "name": "Atletico Madrid VS Sevilla",
             	"info":"[25-01-2024]",
@@ -81,7 +89,51 @@
                	"isHost":"true",
                	"online":"true"
                 }
-       	]
+       		]
+		},
+
+		{
+        	"name": "SEMIFINALES",
+        	"info":"",
+       		"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
+        	"imageScale": "",
+        	"stations":
+        	[
+		{
+               	"name": "RCD Mallorca VS Real Sociedad (IDA)",
+            	"info":"[06-02-2024]",
+               	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
+               	"name": "Atletico Madrid VS Athletic Bilbao (IDA)",
+            	"info":"[07-02-2024]",
+               	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
+               	"name": "Real Sociedad VS RCD Mallorca (VUELTA)",
+            	"info":"[27-02-2024]",
+               	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                },
+		{
+               	"name": "Athletic Bilbao VS Atletico Madrid (VUELTA)",
+            	"info":"[29-02-2024]",
+               	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+               	"url":"",
+               	"isHost":"true",
+               	"online":"true"
+                }
+       		]
+		}
+	]
 	},
 
 	{
