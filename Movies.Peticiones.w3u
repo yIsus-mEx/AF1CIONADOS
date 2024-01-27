@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Wish: El Poder de los Deseos",
+        "info":"[Castellano][2023]",
+        "image": "https://pics.filmaffinity.com/Wish_El_poder_de_los_deseos-138082458-large.jpg",
+        "url": "https://filemoon.sx/d/ax28dtb16h40",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "The Game",
         "info":"[Castellano][1997]",
         "image": "https://pics.filmaffinity.com/The_Game-701562383-large.jpg",
