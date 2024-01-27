@@ -15,11 +15,47 @@
         "stations":
         	[
             	{
+              	"name": "Olimpia Milano VS Barca",
+              	"info": "26/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/i70fixhssk59",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Partizan Beograd VS Zalgiris",
+              	"info": "26/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Baskonia VS Valencia Basket",
+              	"info": "26/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/5eylrv4q5509",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Anadolu Efes VS As Monaco",
+              	"info": "26/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/7d5dds9a4suz",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
               	"name": "FC Bayer Munich VS ASVEL Lyon-Villeurbanne",
               	"info": "25/01/24",
               	"online": "true",
               	"image": "",
-              	"url": "https://filemoon.sx/d/5lefcdycpcns/FC_Bayer_Baketball_VS_ASVEL_Lyon-Villeurbanne_250124.mp4",
+              	"url": "https://filemoon.sx/d/k9fvtszmknwj",
               	"userAgent":"",
               	"isHost": "true"
               	},
@@ -28,7 +64,7 @@
               	"info": "25/01/24",
               	"online": "true",
               	"image": "",
-              	"url": "https://filemoon.sx/d/xz2mrhji25c8/Fenerbahce_VS_Bolonia_250124.mp4",
+              	"url": "https://filemoon.sx/d/xz2mrhji25c8",
               	"userAgent":"",
               	"isHost": "true"
               	},
@@ -37,7 +73,25 @@
               	"info": "25/01/24",
               	"online": "true",
               	"image": "",
-              	"url": "https://filemoon.sx/d/c09k3xw56x9v/Berlin_VS_Estrella_Roja_250124.mp4",
+              	"url": "https://filemoon.sx/d/c09k3xw56x9v",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Maccabi VS Panthinaikos BC",
+              	"info": "25/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/hz12hpvbck9m",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Real Madrid VS Olympiacos",
+              	"info": "25/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/rb6xvvv7pbt0",
               	"userAgent":"",
               	"isHost": "true"
               	}
@@ -78,7 +132,7 @@
               	"isHost": "true"
               	},
               	{
-              	"name": "Monaco vs Real Madrid",
+              	"name": "As Monaco vs Real Madrid",
               	"info": "19/01/24",
               	"online": "true",
               	"image": "",
@@ -114,7 +168,7 @@
               	"isHost": "true"
               	},
               	{
-              	"name": "Olympiacos Piraeus vs Maccabi Tel Aviv",
+              	"name": "Olympiacos vs Maccabi Tel Aviv",
               	"info": "18/01/24",
               	"online": "true",
               	"image": "",
