@@ -15,6 +15,31 @@
         "groups":
             [
                 {
+                "name": "03.Diriyah E-Prix [2024]",
+                "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Diriyah E-Prix Carrera",
+                        "info":"Latino [27.01.23]",
+                        "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
+                        "url":"https://filemoon.sx/d/to8h81kkwdt3",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "Diriyah E-Prix Carrera",
+                        "info":"Español [27.01.23]",
+                        "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
+                        "url":"https://filemoon.sx/d/va8vq0s1mgci",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
                 "name": "02.Diriyah E-Prix [2024]",
                 "image": "https://i.postimg.cc/8Pwjk4zt/diriyah.png",
                 "imageScale": "",
