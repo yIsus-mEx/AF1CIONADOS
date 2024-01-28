@@ -104,11 +104,12 @@
         {
 		"name": "ONE 165: Superlek vs Takeru",
 		"info":"",
-        "online":"",
+        "online":"true",
 		"image": "https://cdn.onefc.com/wp-content/uploads/2024/01/ONE165-Poster.jpeg",
 		"url": "https://tv.fsl-stream.im/mma/",
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": "true"
+        "embed": "true",
+        "isHost": ""
 		}
     ]
 }
