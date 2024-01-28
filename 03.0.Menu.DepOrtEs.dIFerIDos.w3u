@@ -14,6 +14,13 @@
          "info":"",
          "import": false
         },
+        {
+         "name": "WRC",
+         "image": "https://i.postimg.cc/tT9Ysfpb/wrc-new.png",
+         "url": "https://aficionados.vercel.app/Diferidos.WRC.2024.w3u",
+         "info":"",
+         "import": false
+        },
 	    {
         "name": "Motor GP",
         "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
@@ -85,13 +92,6 @@
          "import": false
         },
 		{
-         "name": "WRC",
-         "image": "https://i.postimg.cc/tT9Ysfpb/wrc-new.png",
-         "url": "https://pastebin.com/EQT7EbWw",
-         "info":"",
-         "import": false
-        },
-        {
          "name": "Dakar Rally",
          "image": "https://i.postimg.cc/bNB4c81Q/dakar-new.png",
          "url": "https://aficionados.vercel.app/Diferidos.DakAr.Rally.w3u",
