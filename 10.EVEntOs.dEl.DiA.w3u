@@ -69,14 +69,6 @@
 		"name": "24 Horas de Daytona 2024",
 		"info":"[ESPAÑOL]",
 		"image": "https://i.postimg.cc/6pJ2trrq/3.png",
-		"url": "http://polcalminei.online:2082/viktor22/newJdqR5ksgQ3YKYnew/392617",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-		},
-        {
-		"name": "24 Horas de Daytona 2024",
-		"info":"[ESPAÑOL]",
-		"image": "https://i.postimg.cc/6pJ2trrq/3.png",
 		"url": "http://polcalminei.online:2082/viktor22/newJdqR5ksgQ3YKYnew/392318",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
@@ -96,6 +88,38 @@
 		"url": "https://cdn.livetv754.me/webplayer.php?t=ifr&c=2322151&lang=ru&eid=190363721&lid=2322151&uid=1157892&fwm",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": "true"
+		},
+        {
+		"name": "24 Horas de Daytona 2024",
+		"info":"[IMSA]",
+		"image": "https://i.postimg.cc/6pJ2trrq/3.png",
+		"url": "https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_03.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+		},
+        {
+		"name": "24 Horas de Daytona 2024",
+		"info":"[IMSA]",
+		"image": "https://i.postimg.cc/6pJ2trrq/3.png",
+		"url": "https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_04.m3u88",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+		},
+        {
+		"name": "24 Horas de Daytona 2024",
+		"info":"[IMSA]",
+		"image": "https://i.postimg.cc/6pJ2trrq/3.png",
+		"url": "https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_05.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+		},
+        {
+		"name": "24 Horas de Daytona 2024",
+		"info":"[IMSA]",
+		"image": "https://i.postimg.cc/6pJ2trrq/3.png",
+		"url": "https://d22t65jbw0v36j.cloudfront.net/imsa_international/master_06.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
 		},
         {
 		"name": "Martinez Vs Angerville",
