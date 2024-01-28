@@ -9,6 +9,33 @@
     [
 
 	{
+        "name": "JORNADA 20",
+        "image": "https://i.postimg.cc/vTPVyfhD/19.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Lenovo Tenerife VS UCAM Murcia",
+                "info": "27/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/b2h8iug33ye7/Lenovo_Tenerife_VS_Ucam_Murcia_270124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Andorra VS Joventut Badalona",
+                "info": "27/01/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/3o0mhnnq9p3d/Andorra_VS_Juventut_270124.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                }
+	]
+	},
+
+	{
         "name": "JORNADA 19",
         "image": "https://i.postimg.cc/vTPVyfhD/19.png",
         "info": "",
