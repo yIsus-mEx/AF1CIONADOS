@@ -1,0 +1,157 @@
+{
+"name": "Los Enviados",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://aficionados.vercel.app/Series.Los.Enviados.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups": 
+	[
+    	{
+      	"name": "TEMPORADA 1",
+      	"info": "2021",
+      	"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+      	"stations": 
+			[
+        		{
+          		"name": "T1 E1 - Caminen con los ojos bien abiertos",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/gfd5fb8zu0tg/Los_Enviados_S01E01.mkv",
+          		"info": "2021",
+          		"isHost": "true",
+          		"online": "true"
+        		},
+        		{
+          		"name": "T1 E2 - El diablo apoyó la cola",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/6g0li9rs3m24/Los_Enviados_S01E02.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T1 E3 - Juventud de Cristo",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/fts4t4jok9up/Los_Enviados_S01E03.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T1 E4 - No grites",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/se3q4u90wet0/Los_Enviados_S01E04.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T1 E5 - Descenso al infierno",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/inqhxgnawp29/Los_Enviados_S01E05.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T1 E6 - El viaje de Salinas",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/cgmm5fgmhs99/Los_Enviados_S01E06.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T1 E7 - Mi nombre es Legión",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/dep398nqslqt/Los_Enviados_S01E07.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T1 E8 - Líbranos del mal",
+          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+          		"url": "https://filemoon.sx/d/i17dv2u1i0q6/Los_Enviados_S01E08.mkv",
+          		"info": "2021",
+				"isHost": "true",
+          		"online": "true"
+				}
+      		]
+    	},
+    	{
+      	"name": "TEMPORADA 2",
+      	"info": "2023",
+      	"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+      	"stations": 
+			[
+        		{
+          		"name": "T2 E1 - El oráculo de Porto da Lua",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/armlgibdap8v",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E2 - Las llaves del reino",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/5eu1zwpx800l",
+          		"info": "2023",
+          		"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E3 - Los corderos del Señor",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/8htt5twg8m2i",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E4 - Requiescat In Pace",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/bdfrnaoiffst",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E5 - Libres de pecado",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/d9xw8dxwgv26",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E6 - El lago de fuego",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/2sqqvgn72gk6",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E7 - Hestia",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/3ruq9930oyky",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				},
+        		{
+          		"name": "T2 E8 - La luz en las tinieblas",
+          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          		"url": "https://filemoon.sx/d/v21ind9o8c9b",
+          		"info": "2023",
+				"isHost": "true",
+          		"online": "true"
+				}
+      		]
+    	}
+  	]
+}
+
+
