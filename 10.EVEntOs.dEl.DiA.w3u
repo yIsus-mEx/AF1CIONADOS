@@ -70,9 +70,9 @@
         {
         "name": "49ers Va Lions",
         "info":"[INGLES]",
-        "online":"",
+        "online":"true",
         "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "",
+        "url": "https://tv.fsl-stream.im/san-francisco-49ers-live-stream/",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
@@ -80,9 +80,9 @@
         {
         "name": "49ers Va Lions",
         "info":"[INGLES]",
-        "online":"",
+        "online":"true",
         "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "",
+        "url": "https://markkystreams.com/video/nfl-02/",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
@@ -106,26 +106,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
-        },
-        {
-        "name": "49ers Va Lions",
-        "info":"[ESPAÑOL]",
-        "online":"",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "49ers Va Lions",
-        "info":"[ESPAÑOL]",
-        "online":"",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
         }
     ]
 }
