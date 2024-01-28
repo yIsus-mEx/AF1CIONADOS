@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "The Killer",
+        "info":"[Vose.Sub][2023]",
+        "image": "https://images.saymedia-content.com/.image/t_share/MjAyMDcyNzkxMjk2NzEzOTUw/the-killer-2023-movie-review.jpg",
+        "url": "https://filemoon.sx/d/ri3sm99xtey6",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "Wish: El Poder de los Deseos",
         "info":"[Castellano][2023]",
         "image": "https://pics.filmaffinity.com/Wish_El_poder_de_los_deseos-138082458-large.jpg",
