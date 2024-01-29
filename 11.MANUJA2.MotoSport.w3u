@@ -51,6 +51,15 @@
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "isHost": ""        
+        },
+        {
+        "name": "MotorSport 🏁",
+        "info":"Canal 06",
+        "online": "true",
+        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
+        "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=PpUo4v9VwDBztB3uczXKoy",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": ""        
         }
     ]
 }
