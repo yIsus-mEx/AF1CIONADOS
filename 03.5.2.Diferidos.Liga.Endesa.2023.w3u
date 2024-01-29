@@ -8,6 +8,25 @@
 "groups": 
     [
 
+
+	{
+        "name": "JORNADA 21",
+        "image": "https://i.postimg.cc/vTPVyfhD/19.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": " VS ",
+                "info": "06/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                }
+		]
+	},
+
 	{
         "name": "JORNADA 20",
         "image": "https://i.postimg.cc/vTPVyfhD/19.png",
