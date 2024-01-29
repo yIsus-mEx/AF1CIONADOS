@@ -8,8 +8,6 @@
 "groups":
     [
 
-
-
 		{
 		"name": "Andor",
 		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
@@ -22,6 +20,20 @@
 		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
+		"import": false
+		},
+		{
+         	"name": "Ahsoka",
+         	"image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Ahsoka.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
+		"name": "Bad Blood",
+		"image": "https://i.postimg.cc/G2TscSyX/Bad-Blood-2017-Serie.png",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BAD%20BLOOD.w3u",
 		"import": false
 		},
  	    	{
@@ -143,6 +155,13 @@
 		"info": "bY. yIsus",
 		"import": false
 		},
+	    	{
+		"name": "Fauda",
+		"image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie FAUDA.w3u",
+		"import": false
+		},
 		{
 		"name": "Forst",
 		"image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
@@ -150,11 +169,39 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+	    	{
+		"name": "Hechos polvo",
+		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie HECHOS POLVO.w3u",
+		"import": false
+		},
+		{
+		"name": "Hermanos de sangre",
+		"image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20HERMANOS%20DE%20SANGRE.w3u",
+		"import": false
+		},
+	    	{
+		"name": "Homeland",
+		"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie HOMELAND.w3u",
+		"import": false
+		},
 		{
 		"name": "Lazarus Project, The",
 		"image": "https://pics.filmaffinity.com/the_lazarus_project-757640215-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LAZARUS PROJECT THE.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+	        {
+		"name": "Kalifat",
+		"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
 		"import": false
 		},
         	{
@@ -204,42 +251,6 @@
 
 
 
-
-	    	{
-		"name": "Fauda",
-		"image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie FAUDA.w3u",
-		"import": false
-		},
-	    	{
-		"name": "Hechos polvo",
-		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie HECHOS POLVO.w3u",
-		"import": false
-		},
-	{
-		"name": "Hermanos de sangre",
-		"image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20HERMANOS%20DE%20SANGRE.w3u",
-		"import": false
-		},
-    	{
-		"name": "Homeland",
-		"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie HOMELAND.w3u",
-		"import": false
-		},
-        {
-		"name": "Kalifat",
-		"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
-		"import": false
-		},
     	{
 		"name": "Show de Gardfield",
 		"image": "https://pics.filmaffinity.com/the_garfield_show-220295484-large.jpg",
@@ -310,13 +321,7 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20GUARDIAN.w3u",
 		"import": false
 		},
-		{
-		"name": "Bad Blood",
-		"image": "https://i.postimg.cc/G2TscSyX/Bad-Blood-2017-Serie.png",
-		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BAD%20BLOOD.w3u",
-		"import": false
-		},
+
  		{
 		"name": "WestWorld",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20WESTWORLD.w3u",
@@ -492,13 +497,7 @@
          "info":"bY. yIsus",
          "import": false
         },
-		{
-         "name": "Ahsoka",
-         "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-         "url": "https://aficionados.vercel.app/Series.Ahsoka.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
+
 		{
          "name": "Martin, El Hombre Y La Leyenda",
          "image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/7/w1280/k3nVYMmO5VHCgIygssyimBtTANK.jpg",
