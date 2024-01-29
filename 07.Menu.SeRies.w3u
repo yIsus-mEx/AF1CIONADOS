@@ -8,38 +8,131 @@
 "groups":
     [
 
+
+
 		{
-		"name": "Forst",
-		"image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie FORST.w3u",
+		"name": "Andor",
+		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
 		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
+		"import": false
+		},
+        	{
+		"name": "Apaches",
+		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
+		"import": false
+		},
+ 	    	{
+		"name": "Better Call Saul",
+		"image": "https://i.postimg.cc/Xq0DsvMM/Better-call-saul.webp",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Series.Better.Call.Saul.w3u",
+		"import": false
+		},
+	        {
+		"name": "Big Mouth",
+		"image": "https://pics.filmaffinity.com/Big_Mouth_Serie_de_TV-662477175-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Series.Big.Mouth.w3u",
 		"import": false
 		},
 		{
-		"name": "Los Enviados",
-		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-		"url": "https://aficionados.vercel.app/Series.Los.Enviados.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Successions",
-		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "The Blacklist",
+		"name": "Blacklist, The",
 		"image": "https://i.postimg.cc/Gphzb1Y2/10.png",
 		"url": "https://aficionados.vercel.app/Series.The.Blacklist.w3u",
 		"info": "bY. Adri",
 		"import": false
 		},
 		{
-		"name": "OutLander",
-		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
-		"url": "https://aficionados.vercel.app/Series.OutLander.w3u",
+		"name": "Bloodlands",
+		"image": "https://i.postimg.cc/vZWjYBv5/BLODDLANDS-PORTADA.jpg",
+		"info": "bY. Tintxi",
+		"url": "https://af1cionados.vercel.app/Serie BLOODLANDS.w3u",
+		"import": false
+		},
+	        {
+		"name": "Bosque, El",
+		"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20BOSQUE.w3u",
+		"import": false
+		},
+	    	{
+		"name": "Caida de la casa Usher, La",
+		"image": "https://pics.filmaffinity.com/the_fall_of_the_house_of_usher-644509064-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie CAIDA DE LA CASA USHER%2C LA.w3u",
+		"import": false
+		},
+	    	{
+		"name": "Caleidoscopio",
+		"image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie%20CALEIDOSCOPIO.w3u",
+		"import": false
+		},
+	        {
+		"name": "Casa De Papel, La",
+		"image": "https://i.postimg.cc/xCG2V51z/Casa-de-papel-1.png",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie CASA DE PAPEL%2CLA .w3u",
+		"import": false
+		},
+    		{
+		"name": "Casa de papel Berlin",
+		"image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+		"info": "bY. Adri",
+		"url": "https://aficionados.vercel.app/Series.Berlin.La.Casa.De.Papel.w3u",
+		"import": false
+		},
+	        {
+		"name": "Chica de Nieve, La",
+		"image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20CHICA%20DE%20NIEVE.w3u",
+		"import": false
+		},
+		{
+		"name": "Dark Winds",
+		"image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie DARK WINDS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Encargado, El",
+		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ENCARGADO.w3u",
+		"import": false
+		},
+		{
+		"name": "Entrevias (Temp 3)",
+		"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie ENTREVIAS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Enviados, Los",
+		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+		"url": "https://aficionados.vercel.app/Series.Los.Enviados.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+	    	{
+		"name": "Espia, El (The Spy)",
+		"image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie EL ESPIA.w3u",
+		"import": false
+		},
+		{
+		"name": "Farad, Los",
+		"image": "https://www17.pelisplushd.to/poster/los-farad.jpg",
+		"url": "https://aficionados.vercel.app/Series.Los.Farad.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -51,16 +144,9 @@
 		"import": false
 		},
 		{
-		"name": "Los Farad",
-		"image": "https://www17.pelisplushd.to/poster/los-farad.jpg",
-		"url": "https://aficionados.vercel.app/Series.Los.Farad.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Entrevias (Temp 3)",
-		"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ENTREVIAS.w3u",
+		"name": "Forst",
+		"image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie FORST.w3u",
 		"info": "bY. Adri",
 		"import": false
 		},
@@ -71,6 +157,27 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+        	{
+		"name": "Mentalista, El",
+		"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+		"info": "bY. Tintxi",
+		"url": "https://pastebin.com/0QCPR4qC",
+		"import": false
+		},
+		{
+		"name": "OutLander",
+		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
+		"url": "https://aficionados.vercel.app/Series.OutLander.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+        	{
+		"name": "Pablo Escobar, Patron del mal",
+		"image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://af1cionados.vercel.app/serie PATRON DEL MAL, EL.w3u",
+		"import": false
+		},
 		{
 		"name": "Silo",
 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
@@ -78,133 +185,34 @@
 		"url": "https://aficionados.vercel.app/Series.Silo.w3u",
 		"import": false
 		},
-		{
-		"name": "Dark Winds",
-		"image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie DARK WINDS.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Bloodlands",
-		"image": "https://i.postimg.cc/vZWjYBv5/BLODDLANDS-PORTADA.jpg",
-		"info": "bY. Tintxi",
-		"url": "https://af1cionados.vercel.app/Serie BLOODLANDS.w3u",
-		"import": false
-		},		
-        {
-		"name": "Apaches",
-		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
-		"import": false
-		},
-        {
-		"name": "El Mentalista",
-		"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
-		"info": "bY. Tintxi",
-		"url": "https://pastebin.com/0QCPR4qC",
-		"import": false
-		},
-        {
-		"name": "Pablo Escobar, Patron del mal",
-		"image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://af1cionados.vercel.app/serie PATRON DEL MAL, EL.w3u",
-		"import": false
-		},
- 	    {
-		"name": "Better Call Saul",
-		"image": "https://i.postimg.cc/Xq0DsvMM/Better-call-saul.webp",
-		"info": "bY. yIsus",
-		"url": "https://aficionados.vercel.app/Series.Better.Call.Saul.w3u",
-		"import": false
-		},
-		{
-		"name": "Andor",
-		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
-		"import": false
-		},
-        {
+        	{
 		"name": "Slow Horses",
 		"image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie SLOW HORSES.w3u",
 		"import": false
 		},
-        {
-		"name": "Casa De Papel, La",
-		"image": "https://i.postimg.cc/xCG2V51z/Casa-de-papel-1.png",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie CASA DE PAPEL%2CLA .w3u",
-		"import": false
-		},
-        {
-		"name": "Big Mouth",
-		"image": "https://pics.filmaffinity.com/Big_Mouth_Serie_de_TV-662477175-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://aficionados.vercel.app/Series.Big.Mouth.w3u",
-		"import": false
-		},
-        {
-		"name": "Bosque, El",
-		"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20BOSQUE.w3u",
-		"import": false
-		},
-    	{
-		"name": "Caida de la casa Usher, La",
-		"image": "https://pics.filmaffinity.com/the_fall_of_the_house_of_usher-644509064-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie CAIDA DE LA CASA USHER%2C LA.w3u",
-		"import": false
-		},
-    	{
-		"name": "Caleidoscopio",
-		"image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20CALEIDOSCOPIO.w3u",
-		"import": false
-		},
-    	{
-		"name": "Casa de papel Berlin",
-		"image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
-		"info": "bY. Adri",
-		"url": "https://aficionados.vercel.app/Series.Berlin.La.Casa.De.Papel.w3u",
-		"import": false
-		},
-        {
-		"name": "Chica de Nieve, La",
-		"image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20CHICA%20DE%20NIEVE.w3u",
-		"import": false
-		},
 		{
-		"name": "Encargado, El",
-		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+		"name": "Successions",
+		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
 		"info": "bY. Adri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ENCARGADO.w3u",
 		"import": false
 		},
-    	{
-		"name": "Espia, El (The Spy)",
-		"image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie EL ESPIA.w3u",
-		"import": false
-		},
-    	{
+
+
+
+
+
+
+	    	{
 		"name": "Fauda",
 		"image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie FAUDA.w3u",
 		"import": false
 		},
-    	{
+	    	{
 		"name": "Hechos polvo",
 		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
 		"info": "bY. Adri",
