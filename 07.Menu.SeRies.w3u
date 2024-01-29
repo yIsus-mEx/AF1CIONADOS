@@ -9,6 +9,13 @@
     [
 
 		{
+         	"name": "30 Monedas",
+         	"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	         "url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
 		"name": "Andor",
 		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
 		"info": "bY. Adri",
@@ -23,7 +30,14 @@
 		"import": false
 		},
 		{
-         	"name": "Ahsoka",
+         	"name": "El Arca, El",
+         	"image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ARCA.w3u",
+         	"info":"bY. Adri",
+         	"import": false
+        	},
+		{
+         	"name": "Ashoka",
          	"image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
          	"url": "https://aficionados.vercel.app/Series.Ahsoka.w3u",
          	"info":"bY. yIsus",
@@ -114,6 +128,13 @@
 		"import": false
 		},
 		{
+	         "name": "Élite",
+         	"image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20%C3%89LITE.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
 		"name": "Encargado, El",
 		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
 		"info": "bY. Adri",
@@ -191,6 +212,20 @@
 		"import": false
 		},
 		{
+		"name": "Juego de Tronos",
+		"image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20JUEGO%20DE%20TRONOS.w3u",
+		"import": false
+		},
+		{
+		"name": "Juego del Calamar El Desafio",
+		"image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Series.El.Calamar.2023.w3u",
+		"import": false
+		},
+		{
 		"name": "Lazarus Project, The",
 		"image": "https://pics.filmaffinity.com/the_lazarus_project-757640215-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LAZARUS PROJECT THE.w3u",
@@ -212,6 +247,20 @@
 		"import": false
 		},
 		{
+		"name": "Novia gitana, La",
+		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20NOVIA%20GITANA.w3u",
+		"import": false
+		},
+ 	       	{
+		"name": "Otro lado, El",
+		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20OTRO%20LADO.w3u",
+		"import": false
+		},
+		{
 		"name": "OutLander",
 		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
 		"url": "https://aficionados.vercel.app/Series.OutLander.w3u",
@@ -223,6 +272,34 @@
 		"image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://af1cionados.vercel.app/serie PATRON DEL MAL, EL.w3u",
+		"import": false
+		},
+	        {
+		"name": "Pombo",
+		"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POMBO",
+		"import": false
+		},
+	        {
+		"name": "Red Purpura, La",
+		"image": "https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Series.La.Red.Purpura.w3u",
+		"import": false
+		},
+		{
+         	"name": "See",
+        	 "image": "https://i.postimg.cc/qMWx9q0B/See-Temporada-1-2023-Serie.png",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20SEE.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+	    	{
+		"name": "Show de Gardfield",
+		"image": "https://pics.filmaffinity.com/the_garfield_show-220295484-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
 		"import": false
 		},
 		{
@@ -246,67 +323,24 @@
 		"info": "bY. Adri",
 		"import": false
 		},
-
-
-
-
-
-    	{
-		"name": "Show de Gardfield",
-		"image": "https://pics.filmaffinity.com/the_garfield_show-220295484-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
-		"import": false
-		},
-    	{
+	    	{
 		"name": "Ted Lasso",
 		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20TED%20LASSO.w3u",
 		"import": false
 		},
-        {
-		"name": "Pombo",
-		"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POMBO",
-		"import": false
-		},
-        {
-		"name": "Red Purpura, La",
-		"image": "https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
-		"info": "bY. yIsus",
-		"url": "https://aficionados.vercel.app/Series.La.Red.Purpura.w3u",
-		"import": false
-		},
-        {
-		"name": "Otro lado, El",
-		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
+ 		{
+		"name": "WestWorld",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20WESTWORLD.w3u",
+		"image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
 		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20OTRO%20LADO.w3u",
-		"import": false
+        	"import": false
 		},
-		{
-		"name": "Novia gitana, La",
-		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
-		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20NOVIA%20GITANA.w3u",
-		"import": false
-		},
-		{
-		"name": "Juego de Tronos",
-		"image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
-		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20JUEGO%20DE%20TRONOS.w3u",
-		"import": false
-		},
-		{
-		"name": "El Juego del Calamar El Desafio",
-		"image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-		"info": "bY. yIsus",
-		"url": "https://aficionados.vercel.app/Series.El.Calamar.2023.w3u",
-		"import": false
-		},
+
+
+
+
 		{
 		"name": "Suits, La clave del exito",
 		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
@@ -322,13 +356,7 @@
 		"import": false
 		},
 
- 		{
-		"name": "WestWorld",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20WESTWORLD.w3u",
-		"image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
-		"info": "bY. aDri",
-        	"import": false
-		},
+
  		{
 		"name": "La que se avecina",
 		"image": "https://i.postimg.cc/prPKkBFK/La-que-se-avecina-Temp-11.png",
@@ -348,22 +376,10 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DAVID%20BECKHAM%2C%20AL%20RESCATE%20DEL%20EQUIPO.w3u",
 		"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
 		"info": "bY. aDri",
-        "import": false
+        	"import": false
 		},     
-		{
-         "name": "See",
-         "image": "https://i.postimg.cc/qMWx9q0B/See-Temporada-1-2023-Serie.png",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20SEE.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "Élite",
-         "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20%C3%89LITE.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
+
+
 		{
          "name": "The Bear (El oso)",
          "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
@@ -385,13 +401,7 @@
          "info":"bY. aDri",
          "import": false
         },
-		{
-         "name": "30 Monedas",
-         "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
-         "url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
+
 		{
          "name": "Inside Man",
          "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
@@ -512,13 +522,7 @@
          "info":"bY. aDRi",
          "import": false
         },
-		{
-         "name": "El Arca",
-         "image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ARCA.w3u",
-         "info":"bY. Adri",
-         "import": false
-        },
+
 		{
          "name": "Hijack",
          "image": "https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
