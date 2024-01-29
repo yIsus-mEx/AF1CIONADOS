@@ -8,6 +8,7 @@
 "groups":
     [
 
+
 		{
          	"name": "30 Monedas",
          	"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
@@ -65,6 +66,20 @@
 		"import": false
 		},
 		{
+         	"name": "Black Mirror",
+         	"image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20MIRROR.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
+         	"name": "Black Snow",
+         	"image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20SNOW.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
 		"name": "Blacklist, The",
 		"image": "https://i.postimg.cc/Gphzb1Y2/10.png",
 		"url": "https://aficionados.vercel.app/Series.The.Blacklist.w3u",
@@ -99,6 +114,13 @@
 		"url": "https://af1cionados.vercel.app/serie%20CALEIDOSCOPIO.w3u",
 		"import": false
 		},
+		{
+         	"name": "Cancion De Los Bandidos",
+         	"image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20CANCION%20DE%20LOS%20BANDIDOS.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
 	        {
 		"name": "Casa De Papel, La",
 		"image": "https://i.postimg.cc/xCG2V51z/Casa-de-papel-1.png",
@@ -127,6 +149,20 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+ 		{
+		"name": "David Beckham, al rescate del equipo",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DAVID%20BECKHAM%2C%20AL%20RESCATE%20DEL%20EQUIPO.w3u",
+		"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
+		"info": "bY. aDri",
+        	"import": false
+		},
+		{
+         	"name": "Dopesick",
+         	"image": "https://pics.filmaffinity.com/dopesick-922434010-large.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DOPESICK.w3u",
+         	"info":"bY. aDri",
+	        "import": false
+	        },
 		{
 	         "name": "Élite",
          	"image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
@@ -225,6 +261,20 @@
 		"url": "https://aficionados.vercel.app/Series.El.Calamar.2023.w3u",
 		"import": false
 		},
+	        {
+		"name": "Kalifat",
+		"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
+		"import": false
+		},
+ 		{
+		"name": "La que se avecina",
+		"image": "https://i.postimg.cc/prPKkBFK/La-que-se-avecina-Temp-11.png",
+		"info": "bY. aDri",
+        	"url": "https://af1cionados.vercel.app/serie LA QUE SE AVECINA.w3u",
+        	"import": false
+		},
 		{
 		"name": "Lazarus Project, The",
 		"image": "https://pics.filmaffinity.com/the_lazarus_project-757640215-large.jpg",
@@ -232,12 +282,12 @@
 		"info": "bY. Adri",
 		"import": false
 		},
-	        {
-		"name": "Kalifat",
-		"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
-		"import": false
+ 		{
+		"name": "Line of Duty",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LINE%20OF%20DUTY.w3u",
+		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+		"info": "bY. aDri",
+        	"import": false
 		},
         	{
 		"name": "Mentalista, El",
@@ -246,6 +296,13 @@
 		"url": "https://pastebin.com/0QCPR4qC",
 		"import": false
 		},
+		{
+         	"name": "Mesias, La",
+         	"image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20MESIAS.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
 		{
 		"name": "Novia gitana, La",
 		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
@@ -274,6 +331,20 @@
 		"url": "https://af1cionados.vercel.app/serie PATRON DEL MAL, EL.w3u",
 		"import": false
 		},
+		{
+         	"name": "Peaky Blinders",
+	         "image": "https://elargentinodiario.com.ar/wp-content/uploads/2022/07/peaky-blinders.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Peaky.Blinders.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
+         	"name": "Poker Face",
+         	"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POKER%20FACE.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
 	        {
 		"name": "Pombo",
 		"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
@@ -323,11 +394,32 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+		{
+		"name": "Suits, La clave del exito",
+		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20SUITS%2C%20LA%20CLAVE%20DEL%20EXITO.w3u",
+		"import": false
+		},
 	    	{
 		"name": "Ted Lasso",
 		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20TED%20LASSO.w3u",
+		"import": false
+		},
+		{
+         	"name": "The Bear (El oso)",
+	         "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20BEAR%20(EL%20OSO).w3u",
+         	"info":"bY. aDri",
+	         "import": false
+        	},
+		{
+		"name": "The Guardian",
+		"image": "https://i.postimg.cc/pXbfH4zH/The-Guardian-Temporada-1-2001-Serie.jpg",
+		"info": "bY. aDri",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20GUARDIAN.w3u",
 		"import": false
 		},
  		{
@@ -339,69 +431,6 @@
 		},
 
 
-
-
-		{
-		"name": "Suits, La clave del exito",
-		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
-		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20SUITS%2C%20LA%20CLAVE%20DEL%20EXITO.w3u",
-		"import": false
-		},
-		{
-		"name": "The Guardian",
-		"image": "https://i.postimg.cc/pXbfH4zH/The-Guardian-Temporada-1-2001-Serie.jpg",
-		"info": "bY. aDri",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20GUARDIAN.w3u",
-		"import": false
-		},
-
-
- 		{
-		"name": "La que se avecina",
-		"image": "https://i.postimg.cc/prPKkBFK/La-que-se-avecina-Temp-11.png",
-		"info": "bY. aDri",
-        	"url": "https://af1cionados.vercel.app/serie LA QUE SE AVECINA.w3u",
-        	"import": false
-		},
- 		{
-		"name": "Line of Duty",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LINE%20OF%20DUTY.w3u",
-		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
-		"info": "bY. aDri",
-        	"import": false
-		},
- 		{
-		"name": "David Beckham, al rescate del equipo",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DAVID%20BECKHAM%2C%20AL%20RESCATE%20DEL%20EQUIPO.w3u",
-		"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
-		"info": "bY. aDri",
-        	"import": false
-		},     
-
-
-		{
-         "name": "The Bear (El oso)",
-         "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20BEAR%20(EL%20OSO).w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "La Mesias",
-         "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20MESIAS.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "Dopesick",
-         "image": "https://pics.filmaffinity.com/dopesick-922434010-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DOPESICK.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-
 		{
          "name": "Inside Man",
          "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
@@ -409,20 +438,7 @@
          "info":"bY. aDri",
          "import": false
         },
-		{
-         "name": "Cancion De Los Bandidos",
-         "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20CANCION%20DE%20LOS%20BANDIDOS.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "Black Snow",
-         "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20SNOW.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
+
 		{
          "name": "The Winter King",
          "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
@@ -430,13 +446,7 @@
          "info":"bY. aDri",
          "import": false
         },
-		{
-         "name": "Poker Face",
-         "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POKER%20FACE.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
+
 		{
          "name": "Leo Talks",
          "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
@@ -458,13 +468,7 @@
          "info":"bY. aDri",
          "import": false
         },
-		{
-         "name": "Black Mirror",
-         "image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20MIRROR.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
+
 		{
          "name": "Veneno, Vida Y Muerte De Un Icono",
          "image": "https://i.postimg.cc/5yWkTxKy/Veneno-2020-Serie.jpg",
@@ -586,13 +590,7 @@
          "info":"bY. yIsus",
          "import": false
         },
-		{
-         "name": "Peaky Blinders",
-         "image": "https://elargentinodiario.com.ar/wp-content/uploads/2022/07/peaky-blinders.jpg",
-         "url": "https://aficionados.vercel.app/Series.Peaky.Blinders.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
+
 		{
          "name": "Gotham",
          "image": "https://i.postimg.cc/RZXLtYbw/Gotham.png",
