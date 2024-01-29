@@ -8,6 +8,25 @@
 "groups": 
     [
 
+
+	{
+        "name": "JORNADA 21",
+        "image": "https://i.postimg.cc/vTPVyfhD/19.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": " VS ",
+                "info": "06/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                }
+		]
+	},
+
 	{
         "name": "JORNADA 20",
         "image": "https://i.postimg.cc/vTPVyfhD/19.png",
@@ -37,7 +56,7 @@
                 "info": "27/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/i4b054a087tl/Bilbao_VS_Zaragoza_270124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 },
@@ -46,52 +65,52 @@
                 "info": "27/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/napaoxvcf2w4/Manresa_VS_Breogan_270124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 },
                 {
                 "name": "Bàsquet Girona VS Covirán Granada",
-                "info": "27/01/2024",
+                "info": "28/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/r3rlovxiqbut/Girona_VS_Granada_280124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 },
                 {
                 "name": "Dreamland Gran Canaria VS Real Madrid",
-                "info": "27/01/2024",
+                "info": "28/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/wjeez29iolc5/Dreamland_Gran_Canaria_VS_Real_Madrid_280124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 },
                 {
                 "name": "Barça VS Zunder Palencia",
-                "info": "27/01/2024",
+                "info": "28/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/krut9vpavy01/Barca_VS_Palencia_280124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 },
                 {
                 "name": "Baskonia VS Monbus Obradoiro",
-                "info": "27/01/2024",
+                "info": "28/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/j6vohyimt9fd/Baskonia_VS_Obradoiro_280124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 },
                 {
                 "name": "Valencia Basket VS Unicaja",
-                "info": "27/01/2024",
+                "info": "28/01/2024",
                 "online": "true",
                 "image": "",
-                "url": "",
+                "url": "https://filemoon.sx/d/qt0xecnqp043/Valencia_Basket_VS_Unicaja_280124.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 }
