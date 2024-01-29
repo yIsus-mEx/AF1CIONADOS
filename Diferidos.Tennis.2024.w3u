@@ -30,7 +30,7 @@
                         "isHost":"true",
                         "online":"true"
                         },
-						{
+			{
                         "name": "Gasquet VS Alcaraz",
                         "info":"[16.01.24]",
                         "image": "https://i.postimg.cc/qMVj4Y0r/Gasquet-VS-Alcaraz.jpg",
@@ -38,7 +38,7 @@
                         "isHost":"true",
                         "online":"true"
                         }
-			        ]
+			]
                 },
                 {
                 "name": "Segunda Ronda",
@@ -277,7 +277,7 @@
 
         {
         "name": "Roland Garros",
-        "image": "https://i.postimg.cc/8592G9cY/2024-french-open-mobile.jpg,
+        "image": "https://i.postimg.cc/8592G9cY/2024-french-open-mobile.jpg",
         "imageScale": "",
         "info":"",
         "groups":
@@ -537,7 +537,7 @@
                         "isHost":"true",
                         "online":"true"
                         }
-                    	]
+                    ]
 		}
             ]
 
