@@ -51,6 +51,13 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BAD%20BLOOD.w3u",
 		"import": false
 		},
+		{
+         	"name": "Bandidos De Hoy",
+         	"image": "https://i.postimg.cc/zXM9RXvq/bandidos-de-hoy.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BANDIDOS%20DE%20HOY.w3u",
+         	"info":"bY. aDRi",
+         	"import": false
+        	},
  	    	{
 		"name": "Better Call Saul",
 		"image": "https://i.postimg.cc/Xq0DsvMM/Better-call-saul.webp",
@@ -100,6 +107,13 @@
 		"url": "https://af1cionados.vercel.app/serie%20EL%20BOSQUE.w3u",
 		"import": false
 		},
+		{
+         	"name": "Bridgerton",
+         	"image": "https://i.postimg.cc/cCtynM4s/Bridgerton.webp",
+         	"url": "https://aficionados.vercel.app/Series.Bridgerton.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
 	    	{
 		"name": "Caida de la casa Usher, La",
 		"image": "https://pics.filmaffinity.com/the_fall_of_the_house_of_usher-644509064-large.jpg",
@@ -143,6 +157,13 @@
 		"import": false
 		},
 		{
+         	"name": "Citadel",
+         	"image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Citadel.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
 		"name": "Dark Winds",
 		"image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie DARK WINDS.w3u",
@@ -156,6 +177,13 @@
 		"info": "bY. aDri",
         	"import": false
 		},
+		{
+         	"name": "Devils",
+         	"image": "https://i.postimg.cc/vDRSJL33/DEVILS.png",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DEVILS.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
 		{
          	"name": "Dopesick",
          	"image": "https://pics.filmaffinity.com/dopesick-922434010-large.jpg",
@@ -226,6 +254,13 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+		{
+         	"name": "Gotham",
+         	"image": "https://i.postimg.cc/RZXLtYbw/Gotham.png",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20GOTHAM.w3u",
+         	"info":"bY. Adri",
+         	"import": false
+        	},
 	    	{
 		"name": "Hechos polvo",
 		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
@@ -240,6 +275,13 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20HERMANOS%20DE%20SANGRE.w3u",
 		"import": false
 		},
+		{
+	         "name": "Hijack",
+         	"image": "https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Hijack.w3u",
+         	"info":"bY. Sergi0",
+         	"import": false
+        	},
 	    	{
 		"name": "Homeland",
 		"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
@@ -252,6 +294,13 @@
          	"image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
          	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20INSIDE%20MAN%20(DESDE%20DENTRO).w3u",
          	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
+         	"name": "Invasion Secreta",
+         	"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/6/w1280/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Invasión.Secreta.w3u",
+         	"info":"bY. yIsus",
          	"import": false
         	},
 		{
@@ -275,6 +324,13 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20KALIFAT.w3u",
 		"import": false
 		},
+		{
+         	"name": "Last of Us, The",
+         	"image": "https://i.postimg.cc/HsB5tjmt/the-last-of-us.jpg",
+         	"url": "https://aficionados.vercel.app/Series.The.Last.Of.Us.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
  		{
 		"name": "La que se avecina",
 		"image": "https://i.postimg.cc/prPKkBFK/La-que-se-avecina-Temp-11.png",
@@ -289,6 +345,13 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+		{
+         	"name": "Leo Talks",
+         	"image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LEO%20TALKS.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
  		{
 		"name": "Line of Duty",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LINE%20OF%20DUTY.w3u",
@@ -296,6 +359,27 @@
 		"info": "bY. aDri",
         	"import": false
 		},
+		{
+         	"name": "LOTR: Los Anillos Del Poder",
+         	"image": "https://sm.ign.com/t/ign_es/screenshot/default/1_5fgn.600.jpg",
+         	"url": "https://aficionados.vercel.app/Series.LOTR.Los.Anillos.Del.Poder.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
+         	"name": "Mandalorian, The",
+         	"image": "https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+         	"url": "https://aficionados.vercel.app/Series.The.Mandalorian.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
+         	"name": "Martin, El Hombre Y La Leyenda",
+         	"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/7/w1280/k3nVYMmO5VHCgIygssyimBtTANK.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20MARTIN%2C%20EL%20HOMBRE%20Y%20LA%20LEYENDA.w3u",
+         	"info":"bY. Adri",
+         	"import": false
+        	},
         	{
 		"name": "Mentalista, El",
 		"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
@@ -311,12 +395,40 @@
          	"import": false
         	},
 		{
+         	"name": "Narcos",
+         	"image": "https://i.postimg.cc/KYKvfm3F/Narcos.png",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20NARCOS.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
 		"name": "Novia gitana, La",
 		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20NOVIA%20GITANA.w3u",
 		"import": false
 		},
+		{
+         	"name": "Obi-Wan Kenobi",
+         	"image": "https://hips.hearstapps.com/hmg-prod/images/obi-wan-kenobi-serie-disney-poster-1651689693.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Obi-Wan.Kenobi.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
+         	"name": "One Piece",
+         	"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+         	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20ONE%20PIECE.w3u",
+         	"info":"bY. aDri",
+         	"import": false
+        	},
+		{
+         	"name": "Operativo: Lioness",
+         	"image": "https://pics.filmaffinity.com/Special_Ops_Lioness_Serie_de_TV-655357732-large.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Lioness.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
  	       	{
 		"name": "Otro lado, El",
 		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
@@ -359,6 +471,13 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20POMBO",
 		"import": false
 		},
+		{
+         	"name": "Rapa",
+         	"image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Rapa.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+	        },
 	        {
 		"name": "Red Purpura, La",
 		"image": "https://pics.filmaffinity.com/la_red_purpura-612214085-mmed.jpg",
@@ -430,6 +549,13 @@
 		"import": false
 		},
 		{
+         	"name": "Tulsa King",
+         	"image": "https://elcritico.com.ar/wp-content/uploads/2022/12/tulsa-king.jpg",
+	         "url": "https://aficionados.vercel.app/Series.Tulsa.King.w3u",
+	         "info":"bY. yIsus",
+         	"import": false
+        	},
+		{
          	"name": "Veneno, Vida Y Muerte De Un Icono",
          	"image": "https://i.postimg.cc/5yWkTxKy/Veneno-2020-Serie.jpg",
          	"url": "https://af1cionados.vercel.app/serie%20VENENO%2C%20VIDA%20Y%20MUERTE%20DE%20UN%20ICONO.w3u",
@@ -440,6 +566,13 @@
          	"name": "WandaVision",
          	"image": "https://www.ecured.cu/images/b/b9/Wandavision.jpg",
          	"url": "https://aficionados.vercel.app/Series.WandaVisión.w3u",
+         	"info":"bY. yIsus",
+         	"import": false
+        	},
+		{
+         	"name": "Wednesday",
+         	"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+         	"url": "https://aficionados.vercel.app/Series.Wednesday.w3u",
          	"info":"bY. yIsus",
          	"import": false
         	},
@@ -456,150 +589,7 @@
          	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20THE%20WINTER%20KING%20%5BVOSE%5D.w3u",
          	"info":"bY. aDri",
          	"import": false
-        	},
+        	}
 
-
-
-
-
-		{
-         "name": "Leo Talks",
-         "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LEO%20TALKS.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "Narcos",
-         "image": "https://i.postimg.cc/KYKvfm3F/Narcos.png",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20NARCOS.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "Devils",
-         "image": "https://i.postimg.cc/vDRSJL33/DEVILS.png",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20DEVILS.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-
-
-		{
-         "name": "One Piece",
-         "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20ONE%20PIECE.w3u",
-         "info":"bY. aDri",
-         "import": false
-        },
-		{
-         "name": "Rapa",
-         "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
-         "url": "https://aficionados.vercel.app/Series.Rapa.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "Operativo: Lioness",
-         "image": "https://pics.filmaffinity.com/Special_Ops_Lioness_Serie_de_TV-655357732-large.jpg",
-         "url": "https://aficionados.vercel.app/Series.Lioness.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "Citadel",
-         "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-         "url": "https://aficionados.vercel.app/Series.Citadel.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "Bridgerton",
-         "image": "https://i.postimg.cc/cCtynM4s/Bridgerton.webp",
-         "url": "https://aficionados.vercel.app/Series.Bridgerton.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-
-		{
-         "name": "Martin, El Hombre Y La Leyenda",
-         "image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/7/w1280/k3nVYMmO5VHCgIygssyimBtTANK.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20MARTIN%2C%20EL%20HOMBRE%20Y%20LA%20LEYENDA.w3u",
-         "info":"bY. Adri",
-         "import": false
-        },
-		{
-         "name": "Bandidos De Hoy",
-         "image": "https://i.postimg.cc/zXM9RXvq/bandidos-de-hoy.jpg",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BANDIDOS%20DE%20HOY.w3u",
-         "info":"bY. aDRi",
-         "import": false
-        },
-
-		{
-         "name": "Hijack",
-         "image": "https://i.postimg.cc/qMJFF5H4/IMG-2680.jpg",
-         "url": "https://aficionados.vercel.app/Series.Hijack.w3u",
-         "info":"bY. Sergi0",
-         "import": false
-        },
-		{
-         "name": "Invasion Secreta",
-         "image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/6/w1280/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "url": "https://aficionados.vercel.app/Series.Invasión.Secreta.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "The Last of Us",
-         "image": "https://i.postimg.cc/HsB5tjmt/the-last-of-us.jpg",
-         "url": "https://aficionados.vercel.app/Series.The.Last.Of.Us.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "Obi-Wan Kenobi",
-         "image": "https://hips.hearstapps.com/hmg-prod/images/obi-wan-kenobi-serie-disney-poster-1651689693.jpg",
-         "url": "https://aficionados.vercel.app/Series.Obi-Wan.Kenobi.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "The Mandalorian",
-         "image": "https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
-         "url": "https://aficionados.vercel.app/Series.The.Mandalorian.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-
-		{
-         "name": "LOTR: Los Anillos Del Poder",
-         "image": "https://sm.ign.com/t/ign_es/screenshot/default/1_5fgn.600.jpg",
-         "url": "https://aficionados.vercel.app/Series.LOTR.Los.Anillos.Del.Poder.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "Tulsa King",
-         "image": "https://elcritico.com.ar/wp-content/uploads/2022/12/tulsa-king.jpg",
-         "url": "https://aficionados.vercel.app/Series.Tulsa.King.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-		{
-         "name": "Wednesday",
-         "image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
-         "url": "https://aficionados.vercel.app/Series.Wednesday.w3u",
-         "info":"bY. yIsus",
-         "import": false
-        },
-
-		{
-         "name": "Gotham",
-         "image": "https://i.postimg.cc/RZXLtYbw/Gotham.png",
-         "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20GOTHAM.w3u",
-         "info":"bY. Adri",
-         "import": false
-        }
 	]
 }
