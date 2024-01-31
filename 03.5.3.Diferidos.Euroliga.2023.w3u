@@ -9,6 +9,42 @@
 	[
 
 	{
+        "name": "JORNADA 24",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	 "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "Bayern VS Baskonia",
+              	"info": "30/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/ass4zh10nzju/Bayern_VS_Baskonia_300124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+		{
+              	"name": "Estrella Roja VS Valencia Basket",
+              	"info": "30/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/l65m70gmu2b2/Estrella_Roja_VS_Valencia_300124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Olympiacos Piraeus VS Alba Berlin",
+              	"info": "30/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/oha2jnls06md/Olympiacos_Piraeus_VS_ALBA_Berlin_300124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 23",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	 "info": "",
@@ -41,7 +77,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-				{
+		{
               	"name": "Anadolu Efes VS As Monaco",
               	"info": "26/01/24",
               	"online": "true",
