@@ -14,7 +14,7 @@
          "info":"",
          "import": false
         },
-		{
+	{
          "name": "CinE En eSPañOL",
          "image": "https://i.postimg.cc/Bvq8hN0V/Cine-espa-ol-New.png",
          "url": "https://af1cionados.vercel.app/MovIeS CasTeLlanO.w3u",
@@ -28,14 +28,21 @@
          "info":"",
          "import": false
         },
-		{
+	{
          "name": "CinE iNFantIL",
          "image": "https://i.postimg.cc/Bb3DPGZg/kids-zone-new.png",
          "url": "https://pastebin.com/eStxNb6x",
          "info":"",
          "import": false
         },
-		{
+	{
+         "name": "SeRieS iNFantIL",
+         "image": "https://i.postimg.cc/R0MLSDJb/Se-Rie-S-Infantiles.png",
+         "url": "",
+         "info":"",
+         "import": false
+        },
+	{
          "name": "CinE sUBtitULadO",
          "image": "https://i.postimg.cc/2yZk2LX6/Cine-Sub-New.png",
          "url": "https://af1cionados.vercel.app/CinE%20SuBTituLaDO.w3u",
