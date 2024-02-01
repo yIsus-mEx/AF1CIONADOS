@@ -8,104 +8,25 @@
 "stations":
     [
        	{
-        "name": "Ravens Va Chiefs",
+        "name": "Nitrocross Nx Calgary-Canada",
         "info":"[INGLES]",
         "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "https://tv.fsl-stream.im/baltimore-ravens-live-stream/",
+        "image": "https://i.postimg.cc/8kty1xwH/NX.png",
+        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239376&hd=4",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
         },
         {
-        "name": "Ravens Va Chiefs",
-        "info":"[INGLES]",
+        "name": "Mexico Vs Curazao",
+        "info":"[ESPN]",
         "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "https://markkystreams.com/video/nfl-01/",
+        "image": "https://i.postimg.cc/9Ff7GQT6/1.avif",
+        "url": "http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6446",
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "Ravens Va Chiefs",
-        "info":"[ESPAÑOL]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "http://polcalminei.online:2082/viktor22/newJdqR5ksgQ3YKYnew/372621",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Ravens Va Chiefs",
-        "info":"[ESPAÑOL]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "http://polcalminei.online:2082/viktor22/newJdqR5ksgQ3YKYnew/389758",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Ravens Va Chiefs",
-        "info":"[ESPAÑOL]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "http://polcalminei.online:2082/viktor22/newJdqR5ksgQ3YKYnew/372626",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Ravens Va Chiefs",
-        "info":"[ESPAÑOL]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "http://polcalminei.online:2082/movinew/uPEkpZfx4W3Rnew/372626",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "49ers Va Lions",
-        "info":"[INGLES]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "https://tv.fsl-stream.im/san-francisco-49ers-live-stream/",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "49ers Va Lions",
-        "info":"[INGLES]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "https://markkystreams.com/video/nfl-02/",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "49ers Va Lions",
-        "info":"[ESPAÑOL]",
-        "online":"true",
-        "image": "https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/01/27/17063839824670.jpg",
-        "url": "http://polcalminei.online:2082/movinew/uPEkpZfx4W3Rnew/372626",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Prueba Box",
-        "info":"",
-        "online":"true",
-        "image": "",
-        "url": "https://embedv.net/v/mMq75LmeX8xXPBY",
-        "userAgent": "",
         "embed": "",
         "isHost": "true"
         }
+        
     ]
 }
