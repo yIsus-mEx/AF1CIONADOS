@@ -7,62 +7,53 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
 	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
- 		"imageScale": "",
+ 		{		
+		"name": "Episodio 01",
  		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
- 				"url":"https://filemoon.sx/d/nk1h4onsor5l",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"",
-				"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
-				"url":"https://filemoon.sx/d/on8mxp27oh2s",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"",
-				"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
-				"url":"https://filemoon.sx/d/dblku3tdd9va",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"",
-				"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
-				"url":"https://filemoon.sx/d/y3ferjrfhf4w",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"",  
-				"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
-				"url":"https://filemoon.sx/d/ljqx29iy8xm0",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"",  
-				"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
-				"url":"https://filemoon.sx/d/wwd5t5z3c4n8",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
+ 		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+ 		"url":"https://filemoon.sx/d/nk1h4onsor5l",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://filemoon.sx/d/on8mxp27oh2s",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://filemoon.sx/d/dblku3tdd9va",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://filemoon.sx/d/y3ferjrfhf4w",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://filemoon.sx/d/ljqx29iy8xm0",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://filemoon.sx/d/wwd5t5z3c4n8",
+		"isHost":"true",
+		"online":"true"
 		}
 	]
 }
