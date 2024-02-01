@@ -1,0 +1,34 @@
+
+
+{
+"name": "Kids Zone",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://aficionados.vercel.app/Menu.Kids.Zone.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info":"Lista_AF1CIONADOS",
+"groups":
+    [
+        {
+         "name": "Peliculas Animadas Latino",
+         "image": "https://i.postimg.cc/rsWnrzyG/Kids-Zone-Lat-new.png",
+         "url": "https://aficionados.vercel.app/Cartoons.Peliculas.Animadas.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Peliculas Animadas Castellano",
+         "image": "https://i.postimg.cc/gjBVTKhR/Kids-Zone-Esp-new.png",
+         "url": "https://af1cionados.vercel.app/CiNe%20inFanTiL%20Espa%C3%B1ol.w3u",
+         "info":"",
+         "import": false
+        },
+	    {
+	    "name": "SeRieS Animadas Castellano",
+	    "image": "https://i.postimg.cc/R0MLSDJb/Se-Rie-S-Infantiles.png",
+	    "url": "https://af1cionados.vercel.app/SeRieS%20Animadas%20Castellano.w3u",
+	    "info": "",
+        "import": false
+	    }
+    ]
+}
