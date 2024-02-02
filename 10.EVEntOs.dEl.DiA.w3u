@@ -18,35 +18,14 @@
         "isHost": "true"
         },
         {
-        "name": "Mexico Vs Curazao",
-        "info":"[ESPN]",
+        "name": "Prueba",
+        "info":"",
         "online":"true",
-        "image": "https://i.postimg.cc/HLGGwjJ3/hq720-live.jpg",
-        "url": "http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6446",
+        "image": "",
+        "url": "https://embedv.net/v/mMq75LmeX8xXPBY",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Mexico Vs Curazao",
-        "info":"[ESPN]",
-        "online":"true",
-        "image": "https://i.postimg.cc/HLGGwjJ3/hq720-live.jpg",
-        "url": "https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "Mexico Vs Curazao",
-        "info":"[ESPN]",
-        "online":"true",
-        "image": "https://i.postimg.cc/HLGGwjJ3/hq720-live.jpg",
-        "url": "http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/57185",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
+        "isHost": "true"
         }
-        
     ]
 }
