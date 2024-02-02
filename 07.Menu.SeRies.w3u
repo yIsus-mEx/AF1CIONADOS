@@ -7,7 +7,8 @@
 "info": "Lista_AF1CIONADOS",
 "groups": 
 	[
-		{
+
+	{
       	"name": "30 Monedas",
       	"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
       	"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
@@ -21,28 +22,21 @@
       	"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
       	"import": false
     	},
+        {
+	"name": "Apaches",
+	"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+	"info": "bY. yIsus",
+	"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
+	"import": false
+	},
     	{
-		"name": "Apaches",
-		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
-		"import": false
-    	},
-    	{
-		"name": "El Arca",
-		"image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ARCA.w3u",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
-		"import": false
-		},
-        	{
-		"name": "Apaches",
-		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
-		"import": false
-		},
+	"name": "Arca, El",
+	"image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20EL%20ARCA.w3u",
+	"info": "bY. Adri",
+	"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
+	"import": false
+	},
 		{
 		"name": "Ashoka",
 		"image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
@@ -163,6 +157,13 @@
 		"import": false
 		},
 		{
+		"name": "Chicas del Cable, Las",
+		"image": "https://pics.filmaffinity.com/las_chicas_del_cable-235756879-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie CHICAS DEL CABLE%2C LAS.w3u",
+		"import": false
+		},
+		{
 		"name": "Citadel",
 		"image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
 		"url": "https://aficionados.vercel.app/Series.Citadel.w3u",
@@ -237,27 +238,6 @@
 		"image": "https://www17.pelisplushd.to/poster/los-farad.jpg",
 		"url": "https://aficionados.vercel.app/Series.Los.Farad.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-        "name": "Bridgerton",
-        "image": "https://i.postimg.cc/cCtynM4s/Bridgerton.webp",
-        "url": "https://aficionados.vercel.app/Series.Bridgerton.w3u",
-        "info":"bY. yIsus",
-        "import": false
-        },
-	    {
-		"name": "Caida de la casa Usher, La",
-		"image": "https://pics.filmaffinity.com/the_fall_of_the_house_of_usher-644509064-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie CAIDA DE LA CASA USHER%2C LA.w3u",
-		"import": false
-		},
-	    {
-		"name": "Caleidoscopio",
-		"image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20CALEIDOSCOPIO.w3u",
 		"import": false
 		},
 		{
