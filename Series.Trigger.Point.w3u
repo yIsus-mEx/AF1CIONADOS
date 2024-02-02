@@ -1,0 +1,68 @@
+{
+"name": "Trigger Point",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Series.Trigger.Point.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+ 				"url":"https://filemoon.sx/d/6ynn20z9aeji",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/jf0vmc2r1ql8",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/oq5wlvdz70e5",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/v83zmnn7smuj",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/v83zmnn7smuj",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/kx2twzf51rzj",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
