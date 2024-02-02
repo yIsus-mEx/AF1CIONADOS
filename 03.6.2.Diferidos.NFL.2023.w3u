@@ -8,6 +8,33 @@
 "groups":
     [
         {
+        "name": "NFL Finales de Conferencia",
+        "image": "https://i.postimg.cc/Sx7dbMQ3/GEd-jf7ac-AEp-Pf-G.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Kansas City Chiefs vs Baltimore Ravens",
+                "info": "28/01/24",
+                "image": "https://nfl-video.com/_pu/18/73363442.jpg",
+                "url":"https://filemoon.sx/d/lape7lukmrbw",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                },
+                {
+                "name": "San Francisco 49ers vs Detroit Lions",
+                "info": "28/01/24",
+                "image": "https://nfl-video.com/_pu/18/48700434.jpg",
+                "url":"https://filemoon.sx/d/z7uohxxa6vws",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
         "name": "NFL Divisional",
         "image": "https://i.ytimg.com/vi/GajWyZl5ySI/maxresdefault.jpg",
         "imageScale": "",
