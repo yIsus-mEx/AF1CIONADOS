@@ -9,12 +9,47 @@
 	[
 
 	{
+        "name": "JORNADA 25",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	 "info": "",
+        "stations":
+        	[
+            	{
+              	"name": "ALBA Berlin VS Valencia Basket",
+              	"info": "01/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/da46z2sf1xkg/Berlin_VS_Valencia_010224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Bayern Munich VS Olympiacos Piraeus",
+              	"info": "01/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/w035qrs3ia16/FC_Bayern_Basketball_VS_Olympiacos_Piraeus_010224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Real Madrid VS LDLA Asvel",
+              	"info": "31/01/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/t5s3f9mi0zwe/Madrid_VS_ASVEL_010224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 24",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	 "info": "",
         "stations":
         	[
-
             	{
               	"name": "Barca VS Bolonia",
               	"info": "31/01/24",
