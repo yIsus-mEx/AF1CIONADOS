@@ -7,7 +7,8 @@
 "info": "Lista_AF1CIONADOS",
 "groups": 
 	[
-		{
+
+	{
       	"name": "30 Monedas",
       	"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
       	"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
@@ -153,6 +154,13 @@
 		"image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20CHICA%20DE%20NIEVE.w3u",
+		"import": false
+		},
+		{
+		"name": "Chicas del Cable, Las",
+		"image": "https://pics.filmaffinity.com/las_chicas_del_cable-235756879-large.jpg",
+		"info": "bY. Adri",
+		"url": "",
 		"import": false
 		},
 		{
