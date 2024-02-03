@@ -9,11 +9,110 @@
 	[
 
 	{
+        "name": "JORNADA 26",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	 "info": "",
+        "stations":
+        	[
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 25",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	 "info": "",
         "stations":
         	[
+            	{
+              	"name": "Baskonia Basket VS Maccabi Tel Aviv",
+              	"info": "01/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/chlyuvmb78cj/Baskonia_VS_Maccabi_010224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
             	{
               	"name": "ALBA Berlin VS Valencia Basket",
               	"info": "01/02/24",
