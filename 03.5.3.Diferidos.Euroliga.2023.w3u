@@ -105,6 +105,51 @@
         "stations":
         	[
             	{
+              	"name": "Zalgiris VS Panathinaikos",
+              	"info": "02/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/plielmaiacfc/Zalguiris_VS_Panathinaikos_020224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Anadolu Efes VS Olimpia Milano",
+              	"info": "02/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/sqhfgzehdsx1/Efes_VS_Emporio_Milan_020224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Monaco VS Fenerbache",
+              	"info": "02/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/kytff69mntao/Monaco_VS_Fenerbahce_020124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Virtus VS Partizan Belgrado",
+              	"info": "02/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/h8xqgs3zglgz/Virtus_VS_PArtizan_020124.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
+              	"name": "Estrella Roja VS Barca",
+              	"info": "02/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/ksf7duqwt2eg/Estrella_Roja_VS_Barca_020224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+            	{
               	"name": "Baskonia Basket VS Maccabi Tel Aviv",
               	"info": "01/02/24",
               	"online": "true",
