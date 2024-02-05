@@ -84,5 +84,38 @@
          "info":"bY. yIsus",
          "import": false
         }
+        {
+        "name": "Vampire Hunter D Bloodlust",
+        "image": "https://i.postimg.cc/mryDL1DR/hunterD.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Vampire Hunter D Bloodlust",
+                "info":"[Latino]",
+                "image": "https://images2.imgbox.com/b1/ff/CNS0xrBb_o.jpg",
+                "url":"https://filemoon.top/e/8dao6ltjbaa5",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Vampire Hunter D Bloodlust",
+                "info":"[Español]",
+                "image": "https://images2.imgbox.com/b1/ff/CNS0xrBb_o.jpg",
+                "url":"https://filemoon.top/e/wg8npqq9whv2",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Vampire Hunter D Bloodlust",
+                "info":"[Vose.Sub]",
+                "image": "https://images2.imgbox.com/b1/ff/CNS0xrBb_o.jpg",
+                "url":"https://filemoon.top/e/ojs6mnax94b2",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
     ]
 }
