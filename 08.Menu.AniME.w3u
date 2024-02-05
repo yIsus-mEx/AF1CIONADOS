@@ -116,6 +116,23 @@
                 "online":"true"
                 }
             ]
+        },
+        {
+        "name": "Vampire Hunter D",
+        "image": "https://i.postimg.cc/NMybG3TY/vampireD.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Vampire Hunter D",
+                "info":"[Vose.Sub]",
+                "image": "https://www.gbhbl.com/wp-content/uploads/2016/09/vampire-hunter-d-cover.jpg",
+                "url":"https://ok.ru/video/1933589613226",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         }
     ]
 }
