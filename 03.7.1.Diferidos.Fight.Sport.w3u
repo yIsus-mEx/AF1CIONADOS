@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Dolidze vs Imavov",
+         "image": "https://i.postimg.cc/GmTc3Pk0/1280x720-20240125141654.jpg",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Dolidze vs Imavov",
+                "info":"[Preliminares]",
+                "image": "https://i.postimg.cc/GmTc3Pk0/1280x720-20240125141654.jpg",
+                "url":"https://filemoon.sx/d/6q7xovk1k0fq",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Dolidze vs Imavov",
+                "info":"[Estelares]",
+                "image": "https://i.postimg.cc/GmTc3Pk0/1280x720-20240125141654.jpg",
+                "url":"https://filemoon.sx/d/j3k15jtdgt9k",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "BKFC: Noah Cutter vs Donald Sanchez",
          "image": "https://i.postimg.cc/wBCSPyMR/bkfc.webp",
          "imageScale": "",
