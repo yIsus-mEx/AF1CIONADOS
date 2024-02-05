@@ -133,6 +133,23 @@
                 "online":"true"
                 }
             ]
+        },
+        {
+        "name": "Ninja Scroll,
+        "image": "https://i.postimg.cc/Dwd4HCty/Ninja-Scroll.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Ninja Scroll",
+                "info":"[Latino]",
+                "image": "https://www.ecartelera.com/carteles/6000/6061/001_m.jpg",
+                "url":"https://embedv.net/v/PlBVEZPB3m5Dv98",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         }
     ]
 }
