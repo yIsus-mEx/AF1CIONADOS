@@ -9,20 +9,20 @@
 	[
 
 	{
-      	"name": "30 Monedas",
-      	"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
-      	"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
-      	"info": "bY. aDri",
-      	"import": false
-    	},
-    	{
-      	"name": "Andor",
-      	"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
-      	"info": "bY. Adri",
-      	"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
-      	"import": false
-    	},
-        {
+    "name": "30 Monedas",
+    "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+    "url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
+    "info": "bY. aDri",
+    "import": false
+    },
+    {
+    "name": "Andor",
+    "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+    "info": "bY. Adri",
+    "url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
+    "import": false
+    },
+    {
 	"name": "Apaches",
 	"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
 	"info": "bY. yIsus",
@@ -245,6 +245,13 @@
 		"image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie FAUDA.w3u",
+		"import": false
+		},
+		{
+		"name": "Fargo",
+		"image": "https://pics.filmaffinity.com/Fargo_V_Miniserie_de_TV-822311248-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Series.Fargo.w3u",
 		"import": false
 		},
 		{
