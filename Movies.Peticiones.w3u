@@ -8,6 +8,33 @@
 "stations":
     [
         {
+        "name": "Past Lives",
+        "info":"[Vose.Sub][2023]",
+        "image": "https://i.postimg.cc/NG5Pm57K/past.jpg",
+        "url": "https://filemoon.sx/d/jfzlx4xg88gy",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
+        "name": "Burt Munro: Un Sueño una Leyenda",
+        "info":"[Castellano][2005]",
+        "image": "https://pics.filmaffinity.com/Burt_Munro_Un_sueano_una_leyenda-825421915-large.jpg",
+        "url": "https://embedv.net/v/l4vexvD4JeVO8B9",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
+        "name": "Burt Munro: Un Sueño una Leyenda",
+        "info":"[Latino][2005]",
+        "image": "https://pics.filmaffinity.com/Burt_Munro_Un_sueano_una_leyenda-825421915-large.jpg",
+        "url": "https://www.tokyvideo.com/es/video/el-amo-del-viento-2005-720p",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "The Killer",
         "info":"[Vose.Sub][2023]",
         "image": "https://images.saymedia-content.com/.image/t_share/MjAyMDcyNzkxMjk2NzEzOTUw/the-killer-2023-movie-review.jpg",
