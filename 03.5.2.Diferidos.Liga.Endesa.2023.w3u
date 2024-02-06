@@ -16,11 +16,83 @@
         "stations":
             [
                 {
-                "name": " VS ",
-                "info": "06/02/2024",
+                "name": "Covirán Granada VS BAXI Manresa",
+                "info": "04/02/2024",
                 "online": "true",
                 "image": "",
                 "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Monbus Obradoiro VS Dreamland Gran Canaria",
+                "info": "04/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Lenovo Tenerife VS Saski Baskonia",
+                "info": "04/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+                {
+                "name": "Barca VS Valencia Basket",
+                "info": "04/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/hy99k46z75ge/Barsa_VS_Valencia_040224.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+               {
+                "name": "Real Madrid VS Basquet Girona",
+                "info": "04/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/ciuh63kusnpi/Real_Madrid_VS_Basquet_Girona_040224.mp4",
+                "userAgent":"",
+                "isHost": "true"
+                },
+               {
+                "name": "Casademont Zaragoza VS Río Breogán",
+                "info": "03/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+               {
+                "name": "Joventut VS Zunder Palencia",
+                "info": "03/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+               {
+                "name": "UCAM Murcia VS Bilbao Basket",
+                "info": "03/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                },
+               {
+                "name": "Unicaja VS Morabanc Andorra",
+                "info": "03/02/2024",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/4o4375qkvs6o/Unicaja_VS_Marabanc_Andorra_030224.mp4",
                 "userAgent":"",
                 "isHost": "true"
                 }
