@@ -8,6 +8,23 @@
 "groups": 
     [
 
+	{
+        "name": "JORNADA 22",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "",
+                "info": "",
+                "online": "true",
+                "image": "",
+                "url": "",
+                "userAgent":"",
+                "isHost": "true"
+                }
+		]
+	},
 
 	{
         "name": "JORNADA 21",
