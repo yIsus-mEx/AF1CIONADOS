@@ -40,6 +40,23 @@
             			]
 			},
 			{
+        		"name": "FC Barcelona vs Real Madrid (Clasico)",
+        		"info":"[28-10-2023]",
+        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        		"imageScale": "",
+        		"stations":
+        			[
+				{
+        			"name": "FC Barcelona Vs Real Madrid [Clasico]",
+        			"info": "[28-10-2023]",
+        			"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        			"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+        			"online":"true",
+        			"isHost": "true"
+        			}
+				]
+        		},
+			{
         		"name": "Getafe vs Valencia",
         		"info":"[08-12-2023]",
         		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
