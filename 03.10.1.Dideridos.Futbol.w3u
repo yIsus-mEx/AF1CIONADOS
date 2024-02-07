@@ -41,11 +41,20 @@
 			},
 			{
         		"name": "Getafe vs Valencia",
-        		"info": "M LaLiga",
+        		"info":"",
         		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
-        		"url": "https://filemoon.sx/d/rdtgf3invur4",
-        		"online": "true",
-        		"isHost": "true"
+        		"imageScale": "",
+        		"stations":
+        			[
+				{
+        			"name": "Getafe vs Valencia",
+        			"info": "M LaLiga",
+        			"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
+        			"url": "https://filemoon.sx/d/rdtgf3invur4",
+        			"online": "true",
+        			"isHost": "true"
+				}
+				]
         		},
 			{
         		"name": "Real Madrid vs Almeria",
