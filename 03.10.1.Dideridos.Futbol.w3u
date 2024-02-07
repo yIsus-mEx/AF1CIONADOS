@@ -14,14 +14,14 @@
         "info":"",
         "groups":
             [
-				{
+			{
         		"name": "Riyadh Season Cup 2024",
         		"info":"",
         		"image": "https://i.postimg.cc/KvF8kDzz/riyadh-season-cup.png",
         		"imageScale": "",
         		"stations":
         			[
-						{
+				{
                 		"name": "Al Hilal vs Inter Miami",
 	            		"info":"[29-Ene-24]",
                 		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
@@ -29,7 +29,7 @@
                 		"isHost":"true",
                 		"online":"true"
                 		},
-						{
+				{
                 		"name": "Al Nassr Vs Inter Miami",
 	            		"info":"[01-Feb-24]",
                 		"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
@@ -37,16 +37,67 @@
                 		"isHost":"true",
                 		"online":"true"
                 		}
-            		]
-				},
+            			]
+			},
+			{
+        		"name": "Celta vs Real Madrid",
+        		"info":"[25-08-2023]",
+        		"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
+        		"imageScale": "",
+        		"stations":
+        			[
 				{
+        			"name": "Celta vs Real Madrid",
+        			"info":"Ingles",
+        			"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
+        			"url": "https://ok.ru/video/6621098085076",
+        			"online":"true",
+        			"isHost": "true"
+        			}
+				]
+			},
+			{
+        		"name": "FC Barcelona vs Real Madrid (Clasico)",
+        		"info":"[28-10-2023]",
+        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        		"imageScale": "",
+        		"stations":
+        			[
+				{
+        			"name": "FC Barcelona Vs Real Madrid [Clasico]",
+        			"info": "[28-10-2023]",
+        			"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        			"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+        			"online":"true",
+        			"isHost": "true"
+        			}
+				]
+        		},
+			{
+        		"name": "Getafe vs Valencia",
+        		"info":"[08-12-2023]",
+        		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
+        		"imageScale": "",
+        		"stations":
+        			[
+				{
+        			"name": "Getafe vs Valencia",
+        			"info": "[08-12-2023]",
+        			"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
+        			"url": "https://filemoon.sx/d/rdtgf3invur4",
+        			"online": "true",
+        			"isHost": "true"
+				}
+				]
+        		},
+			{
         		"name": "Real Madrid vs Almeria",
         		"info":"[Jornada 21]",
        			"image": "https://i.postimg.cc/Ls5D3PyK/madVSalm.png",
         		"imageScale": "",
         		"stations":
         			[
-						{
+				{
         				"name": "Real Madrid vs Almeria",
         				"info":"[1er Tiempo]",
         				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
@@ -124,8 +175,8 @@
 						{
 						"name": "RCD Mallorca VS Real Sociedad (IDA)",
 						"info":"[06-02-2024]",
-						"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-						"url":"",
+						"image": "https://i.postimg.cc/J440M44L/2024-02-06-Real-Mallorca-vs-Real-Sociedad.jpg",
+						"url":"https://filemoon.sx/d/zow3ti37np72/Semifinals_Copa_del_Rey_IDA_Mallorca_VS_Real_Sociedad_060224.mp4",
 						"isHost":"true",
 						"online":"true"
 						},
