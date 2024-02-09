@@ -185,13 +185,6 @@
 		"import": false
 		},
 		{
-		"name": "David Beckham, al rescate del equipo",
-		"url": "https://af1cionados.vercel.app/serie%20DAVID%20BECKHAM%2C%20AL%20RESCATE%20DEL%20EQUIPO.w3u",
-		"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
-		"info": "bY. aDri",
-		"import": false
-		},
-		{
 		"name": "Devils",
 		"image": "https://i.postimg.cc/vDRSJL33/DEVILS.png",
 		"url": "https://af1cionados.vercel.app/serie%20DEVILS.w3u",
@@ -280,6 +273,13 @@
 		"image": "https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
 		"url": "https://aficionados.vercel.app/Series.Griselda.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Halo",
+		"image": "https://pics.filmaffinity.com/halo_the_series-517902218-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie HALO.w3u",
 		"import": false
 		},
 		{
