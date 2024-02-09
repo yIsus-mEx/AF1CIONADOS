@@ -1,0 +1,36 @@
+{
+"name": "Masters of the Air",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Masters.of.the.Air.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "by. Falken",
+"groups":
+    [
+        {
+        "name": "Primera Temporada",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDBkOTA2YjEtYjJjZi00NzE1LTkwYTUtYTVkZGFiZDIxM2I5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"Part One",
+                "image": "https://m.media-amazon.com/images/M/MV5BZDBkOTA2YjEtYjJjZi00NzE1LTkwYTUtYTVkZGFiZDIxM2I5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+                "url": "https://filemoon.sx/d/nb5sceemmt0k",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 02",
+                "info":"Part Two",
+                "image": "https://m.media-amazon.com/images/M/MV5BZDBkOTA2YjEtYjJjZi00NzE1LTkwYTUtYTVkZGFiZDIxM2I5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+                "url": "https://filemoon.sx/d/asysszwaa51c",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}
