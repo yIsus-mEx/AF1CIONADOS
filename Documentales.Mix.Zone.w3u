@@ -7,6 +7,25 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
     [
+
+	{
+        	"name": "Fiz, puro maraton",
+        	"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+        	"imageScale": "",
+        	"info":"",
+		"stations":
+    		[
+				{
+				"name": "Fiz, puro maraton",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+				"url":"https://filemoon.sx/d/lfky6i7esqxm/Fiz_Puro_Maraton_2014.mkv",
+				"isHost":"true",
+				"online":"true"
+				}
+		]
+	},
+
         {
         "name": "DoCu Mix",
         "image": "https://i.postimg.cc/0N7kCdFg/Docu-Mix.png",
