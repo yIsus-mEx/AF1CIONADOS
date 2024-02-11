@@ -584,6 +584,13 @@
 		"import": false
 		},
 		{
+		"name": "The Walking Dead",
+		"image": "https://i.postimg.cc/Y2DbfzMB/twd.png",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Series.TWD.w3u",
+		"import": false
+		},
+		{
 		"name": "Tulsa King",
 		"image": "https://elcritico.com.ar/wp-content/uploads/2022/12/tulsa-king.jpg",
 		"url": "https://aficionados.vercel.app/Series.Tulsa.King.w3u",
