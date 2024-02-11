@@ -19,13 +19,43 @@
         },
         {
         "name": "San Francisco 49ers vs Kansas City Chiefs",
-        "info":"[MANUJAZ SPORTS]",
+        "info":"[LATINO]",
         "online":"true",
         "image": "https://cardswire.usatoday.com/wp-content/uploads/sites/60/2024/01/SB_KCvsSF.png?w=1024",
-        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239380&hd=4",
+        "url": "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
+        },
+        {
+        "name": "San Francisco 49ers vs Kansas City Chiefs",
+        "info":"[LATINO]",
+        "online":"true",
+        "image": "https://cardswire.usatoday.com/wp-content/uploads/sites/60/2024/01/SB_KCvsSF.png?w=1024",
+        "url": "https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "San Francisco 49ers vs Kansas City Chiefs",
+        "info":"[LATINO]",
+        "online":"true",
+        "image": "https://cardswire.usatoday.com/wp-content/uploads/sites/60/2024/01/SB_KCvsSF.png?w=1024",
+        "url": "https://paco@cdn.liljeinz.xyz/live16/live16_indice.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "San Francisco 49ers vs Kansas City Chiefs",
+        "info":"[INGLES]",
+        "online":"true",
+        "image": "https://cardswire.usatoday.com/wp-content/uploads/sites/60/2024/01/SB_KCvsSF.png?w=1024",
+        "url": "https://paco@hls.streambtw.com/live/stream_nfl1.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         }
     ]
 }
