@@ -9,6 +9,38 @@
     [
 
 		{
+		"name":"No me llame Ternera",
+		"image":"https://pics.filmaffinity.com/no_me_llame_ternera-164938634-large.jpg",
+		"stations":
+			[
+				{
+				"name": "No me llame Ternera",
+				"info":"[2023]",
+				"image": "https://pics.filmaffinity.com/no_me_llame_ternera-164938634-large.jpg",
+				"url":"",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name":"Concha Velasco, la artista total",
+		"image":"hhttps://pics.filmaffinity.com/concha_velasco_la_artista_total-290640008-large.jpg",
+		"stations":
+			[
+				{
+				"name": "Concha Velasco, la artista total",
+				"info":"[2023]",
+				"image": "https://pics.filmaffinity.com/concha_velasco_la_artista_total-290640008-large.jpg",
+				"url":"",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
 		"name":"Criptoestafas",
 		"image":"https://pics.filmaffinity.com/bitconned-659212072-large.jpg",
 		"stations":
