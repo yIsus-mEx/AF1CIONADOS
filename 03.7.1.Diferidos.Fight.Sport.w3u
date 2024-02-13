@@ -8,6 +8,23 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Hermansson vs Pyfer",
+         "image": "https://i.postimg.cc/jSRMgG6v/fig.jpg",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Hermansson vs Pyfer",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/jSRMgG6v/fig.jpg",
+                "url":"https://embedv.net/v/vQBYEbNBNBmEn1m",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Dolidze vs Imavov",
          "image": "https://i.postimg.cc/GmTc3Pk0/1280x720-20240125141654.jpg",
          "imageScale": "",
