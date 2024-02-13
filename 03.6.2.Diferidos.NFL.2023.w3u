@@ -8,6 +8,24 @@
 "groups":
     [
         {
+        "name": "NFL Super Bowl LVIII",
+        "image": "https://i.postimg.cc/ry1F0sQg/GE-j-XU5a4-AA6r-GD.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Kansas City Chiefs Vs San Francisco 49ers",
+                "info": "11/02/24",
+                "image": "https://i.postimg.cc/MG5mpqgG/132594491-superbowl-hero-graphic.jpg",
+                "url":"https://filemoon.sx/d/zpf49rhobj2z",
+                "userAgent" : "",
+                "online":"true",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
         "name": "NFL Finales de Conferencia",
         "image": "https://i.postimg.cc/c1nzCTs8/finales.png",
         "imageScale": "",
