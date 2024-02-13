@@ -1,43 +1,17 @@
 {
 "name": "NFL",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"image": "https://i.postimg.cc/Z50tccbq/SUPERBOWL-2024.png",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://aficionados.vercel.app/03.6.1.Diferidos.Menu.NFL.w3u",
 "telegram": "Lista_AF1CIONADOS",
 "info":"",
-"stations":
+"groups":
     [
           {
-          "name": "FINAL SUPERBOWL 2024",
-          "image": "https://i.postimg.cc/Z50tccbq/SUPERBOWL-2024.png",
-          "url": "https://filemoon.sx/d/0s1ra5s7kba5/Super_Bowl_2024_San_Francisco_49ers_VS_Kansas_City_Chiefs_110224_1Parte.mkv",
-          "info":"PARTE 1",
-        "embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-          "import": false
-          },
-         {
-          "name": "FINAL SUPERBOWL 2024",
-          "image": "https://i.postimg.cc/Z50tccbq/SUPERBOWL-2024.png",
-          "url": "https://filemoon.sx/d/qds11na570au/Super_Bowl_2024_San_Francisco_49ers_VS_Kansas_City_Chiefs_110224_2Parte.mkv",
-          "info":"PARTE 2",
-        "embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-          "import": false
-          },
-         {
-          "name": "FINAL SUPERBOWL 2024",
-          "image": "https://i.postimg.cc/Z50tccbq/SUPERBOWL-2024.png",
-          "url": "https://filemoon.sx/d/zpf49rhobj2z/Super_Bowl_2024_San_Francisco_49ers_VS_Kansas_City_Chiefs_110224.mp4",
-          "info":"COMPLETO",
-        "embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
+          "name": "NFL 2023",
+          "image": "https://i.postimg.cc/XvbL4F4G/NFL-2023-new.png",
+          "url": "https://aficionados.vercel.app/03.6.2.Diferidos.NFL.2023.w3u",
+          "info":"",
           "import": false
           }
      ]
