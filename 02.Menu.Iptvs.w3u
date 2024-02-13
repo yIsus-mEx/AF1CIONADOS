@@ -72,9 +72,9 @@
         },
 		{
         "name": "IPTV Europa 10",
-        "image": "https://i.postimg.cc/x8C8rfbt/Acualizando.png",
-        "url": "",
-        "info":"75 conex",
+        "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+        "url": "http://franarteaga26.chocoplus.xyz:8080/get.php?username=TomasClicKTv&password=TKm9apZJ2qHP&type=m3u_plus",
+        "info":"100 conex",
         "import": false
         },
 		{
@@ -86,8 +86,8 @@
         },
 		{
         "name": "IPTV Europa 12",
-        "image": "https://i.postimg.cc/x8C8rfbt/Acualizando.png",
-        "url": "",
+        "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+        "url": "http://franarteaga26.chocoplus.xyz:8080/get.php?username=OculusNet&password=QvwW2ZWaK2&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
@@ -100,8 +100,8 @@
         },
         {
         "name": "IPTV Europa 14",
-        "image": "https://i.postimg.cc/x8C8rfbt/Acualizando.png",
-        "url": "",
+        "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+        "url": "http://franarteaga26.chocoplus.xyz:8080/get.php?username=Montoya&password=YCbzmfft9e&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
