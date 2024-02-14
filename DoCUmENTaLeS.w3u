@@ -9,6 +9,48 @@
     [
 
 		{
+		"name": "AMBICION DESDEMEDIDA, C TANGANA",
+		"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
+		"info": "2023",
+		"stations":
+			[
+				{
+				"name": "CAPITULO 1",
+				"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
+				"url": "https://upstream.to/ghw8y1awbb3j",
+       				"info": "2023",
+       				"embed": "",
+       				"isHost": "true",
+       				"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+       				"import": false
+				},
+				{
+				"name": "CAPITULO 2",
+				"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
+				"url": "https://upstream.to/t4xmdvl5vzn2",
+       				"info": "2023",
+       				"embed": "",
+       				"isHost": "true",
+       				"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+       				"import": false
+				},
+				{
+				"name": "CAPITULO 3",
+				"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
+				"url": "https://upstream.to/3wooxw88hutp",
+       				"info": "2023",
+       				"embed": "",
+       				"isHost": "true",
+       				"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+       				"import": false
+				}
+			]
+		},
+
+		{
 		"name":"No me llame Ternera",
 		"image":"https://pics.filmaffinity.com/no_me_llame_ternera-164938634-large.jpg",
 		"stations":
