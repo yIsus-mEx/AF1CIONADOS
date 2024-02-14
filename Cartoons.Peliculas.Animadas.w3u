@@ -276,20 +276,27 @@
                 "name": "Cars 3",
                 "info":"2017",
                 "image": "https://es.web.img2.acsta.net/pictures/17/06/09/13/42/187933.jpg",
-                "url": "",
+                "url": "https://www.tokyvideo.com/es/video/cars-3-pelicula-en-latino",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
+                "isHost": "true"
+            	},
+				{
+                "name": "Cars 2",
+                "info":"2011",
+                "image": "https://i.pinimg.com/originals/5b/c3/2d/5bc32d811817d8c0448510fa5e840cd4.jpg",
+                "url": "https://www.tokyvideo.com/es/video/cars-2",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true",
                 "isHost": "true"
             	},
 				{
                 "name": "Cars",
                 "info":"2006",
                 "image": "https://m.media-amazon.com/images/M/MV5BMzE1NmE0Y2YtYjMxOC00MWJhLWFiZjAtYTA1MmE4OWZjZjMxXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
-                "url": "",
+                "url": "https://www.tokyvideo.com/es/video/cars-pelicula-en-latino",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
                 "isHost": "true"
             	},
 				{
@@ -315,11 +322,10 @@
                 "name": "Dumbo: La Pelicula",
                 "info":"2019",
                 "image": "https://pics.filmaffinity.com/Dumbo-807586129-mmed.jpg",
-                "url": "https://ia802608.us.archive.org/15/items/dumbo_20230522/Dumbo.mp4",
+                "url": "https://www.tokyvideo.com/es/video/cinerave-dumbo-j-c-2",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "Descubriendo a los Robinsons",
@@ -371,10 +377,10 @@
         "stations":
         	[
             	{
-                "name": "Elemental (Ts)",
+                "name": "Elemental",
                 "info":"2023",
                 "image": "https://pbs.twimg.com/media/FzEsZ1EaAAEv5t9.jpg",
-                "url": "https://www.linkbox.to/f-detail/ZnAzeGk0MDAyYnR40",
+                "url": "https://www.tokyvideo.com/es/video/elemental-9",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
                 "embed": "",
@@ -387,74 +393,67 @@
                 "url": "https://www.linkbox.to/f-detail/ZnAzeHk4MDAwcnht0",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
                 "isHost": "true"
             	},
 				{
                 "name": "El Dragón De La Tetera",
                 "info":"2021",
                 "image": "https://elcritico.com.ar/wp-content/uploads/2021/06/dragon-poster-2.jpg",
-                "url": "https://ia804704.us.archive.org/31/items/el-drg-0n-d-3-l-t-3t-3r/El%20Dr%40g0n%20D3%20L%40%20T3t3r%40.mp4",
+                "url": "https://www.tokyvideo.com/es/video/el-dragon-de-la-tetera-2021-audio-latino",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "Espías con Disfraz",
                 "info":"2019",
                 "image": "https://pics.filmaffinity.com/Espaias_con_disfraz-545630264-large.jpg",
-                "url": "https://ia803208.us.archive.org/8/items/peliculas_202003/Esp%C3%ADas%20con%20disfraz%20%282019%29.mp4",
+                "url": "https://www.tokyvideo.com/es/video/espias-con-disfraz-2",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "El Rey León: La Pelicula",
                 "info":"2019",
                 "image": "https://es.web.img3.acsta.net/pictures/19/07/09/11/22/4517830.jpg",
-                "url": "https://ia802602.us.archive.org/18/items/elreyleon_202305/elreyleon.mp4",
+                "url": "https://www.tokyvideo.com/es/video/el-rey-leon-2019-sh-2",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "El Grinch",
                 "info":"2018",
                 "image": "https://www.ecartelera.com.mx/carteles/13900/13957/003_m.jpg",
-                "url": "https://ia803208.us.archive.org/8/items/peliculas_202003/El%20Grinch%202018.mp4",
+                "url": "https://www.tokyvideo.com/es/video/el-grinch-2018-cinelatino",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "El Cascanueces y Los Cuatro Reinos",
                 "info":"2018",
                 "image": "https://pics.filmaffinity.com/El_cascanueces_y_los_cuatro_reinos-246152539-large.jpg",
-                "url": "https://ia803208.us.archive.org/8/items/peliculas_202003/El%20cascanueces%20y%20los%20cuatro%20reinos%20%282018%29.mp4",
+                "url": "https://www.tokyvideo.com/es/video/el-cascanueces-y-los-cuatro-reinos-2018",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "Emoji: La Pelicula",
                 "info":"2017",
                 "image": "https://pics.filmaffinity.com/Emoji_La_pelaicula-172311166-large.jpg",
-                "url": "https://ia903208.us.archive.org/8/items/peliculas_202003/Emoji%20la%20pelicula%20%282017%29.mp4",
+                "url": "https://www.tokyvideo.com/es/video/emoji-la-pelicula",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "El Origen de los Guardianes",
                 "info":"2012",
                 "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/56/29/20282576.jpg",
-                "url": "https://ia902703.us.archive.org/25/items/el-origen-de-los-guardianes_202306/ElOrigenDeLosGuardianes.mp4",
+                "url": "",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
                 "embed": "",
@@ -464,11 +463,10 @@
                 "name": "El Lórax",
                 "info":"2012",
                 "image": "https://m.media-amazon.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@._V1_.jpg",
-                "url": "https://ia601601.us.archive.org/13/items/el-lorax_202306/ElLorax.mp4",
+                "url": "https://www.tokyvideo.com/es/video/el-lorax",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "Enredados",
@@ -478,6 +476,15 @@
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
                 "embed": "",
+                "isHost": "true"
+            	},
+				{
+                "name": "El Rey Leon 3: Hakuna Matata",
+                "info":"2004",
+                "image": "https://elfinalde.s3-accelerate.amazonaws.com/2017/10/vptKDSQ2XpKO5kcxYdz2yLQw58u-721x1024.jpg",
+                "url": "https://www.tokyvideo.com/es/video/el-rey-leon-3",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true",
                 "isHost": "true"
             	},
 				{
@@ -504,11 +511,10 @@
                 "name": "El Rey Leon 2: El Tesoro de Simba",
                 "info":"1998",
                 "image": "https://www.ecartelera.com.mx/carteles/4600/4616/001_m.jpg",
-                "url": "https://ia803208.us.archive.org/8/items/peliculas_202003/El%20Rey%20leon%202%20el%20tesoro%20de%20simba.mp4",
+                "url": "https://www.tokyvideo.com/es/video/el-rey-leon-2-pelicula-completa-latino-hd-by-jessy",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
-                "isHost": ""
+                "isHost": "true"
             	},
 				{
                 "name": "El Jorobado de Notre Dame",
@@ -527,7 +533,6 @@
                 "url": "https://www.linkbox.to/f-detail/ZnAzeHk0MDB6d3Vp0",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true",
-                "embed": "",
                 "isHost": "true"
             	},
 				{
@@ -612,31 +617,28 @@
                 		"name": "Gato con Botas: El Ultimo Deseo",
                 		"info":"2022",
                 		"image": "https://versusmedia.mx/wp-content/uploads/2022/03/PussInBoots.jpg",
-                		"url": "https://ia902705.us.archive.org/21/items/el-gato-con-botas-2_202306/ElGatoConBotas2.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/gato-con-botas-el-ultimo-deseo-pelicula-en-latino",
                 		"embed": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			},
 						{
                 		"name": "Garfield 2",
                 		"info":"2006",
                 		"image": "https://es.web.img3.acsta.net/pictures/14/04/28/10/46/191508.jpg",
-                		"url": "https://ia802704.us.archive.org/22/items/garfield-2_202306/Garfield2.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/garfield-2-pelicula-en-latino-2",
                 		"embed": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			},
 						{
                 		"name": "Garfield",
                 		"info":"2004",
                 		"image": "https://es.web.img3.acsta.net/pictures/14/04/28/10/52/049944.jpg",
-                		"url": "https://ia902700.us.archive.org/3/items/garfield-la-pelicula_202306/GarfieldLaPelicula.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/cinerave-garfield-j-c",
                 		"embed": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			}
 					]
                 },
@@ -648,44 +650,40 @@
                 "stations":
                     [
                         {
-                		"name": "Hotel Transilvania 4",
+                		"name": "Hotel Transylvania 4",
                 		"info":"2022",
                 		"image": "https://es.web.img3.acsta.net/pictures/21/06/18/13/22/0727455.jpg",
-                		"url": "https://ia903208.us.archive.org/8/items/peliculas_202003/Hotel%20transylvania%204%20%282022%29.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/hotel-transylvania-4-full-hd-2022-cinelatino",
                 		"userAgent": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			},
 						{
-                		"name": "Hotel Transilvania 3",
+                		"name": "Hotel Transylvania 3",
                 		"info":"2018",
                 		"image": "https://mx.web.img2.acsta.net/pictures/18/07/11/16/41/5039635.jpg",
-                		"url": "https://ia903208.us.archive.org/8/items/peliculas_202003/Hotel%20Transilvania%203%20Unas%20vacaciones%20monstruosas%20%282018%29%20.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/hotel-transylvania-3-full-hd-2018-cinelatino",
                 		"userAgent": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			},
 						{
-                		"name": "Hotel Transilvania 2",
+                		"name": "Hotel Transylvania 2",
                 		"info":"2015",
                 		"image": "https://pics.filmaffinity.com/Hotel_Transilvania_2-144535509-large.jpg",
-                		"url": "https://ia803208.us.archive.org/8/items/peliculas_202003/Hotel%20Transilvania%202%20%282015%29%20.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/hotel-transylvania-2-full-hd-2015-cinelatino",
                 		"userAgent": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			},
 						{
-                		"name": "Hotel Transilvania",
+                		"name": "Hotel Transylvania",
                 		"info":"2012",
                 		"image": "https://es.web.img3.acsta.net/medias/nmedia/18/90/47/93/20254074.jpg",
-                		"url": "https://ia803208.us.archive.org/8/items/peliculas_202003/Hotel%20Transilvania%20%282012%29.mp4",
+                		"url": "https://www.tokyvideo.com/es/video/hotel-transylvania-full-hd-2012-cinelatino",
                 		"userAgent": "PlusMediaPlayer/0.0.9",
                 		"online":"true",
-                		"embed": "",
-                		"isHost": ""
+                		"isHost": "true"
             			},
 						{
                 		"name": "Hercules",
