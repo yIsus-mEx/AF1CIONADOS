@@ -19,6 +19,16 @@
         },
         {
         "name": "WRC Rally Sweden 2024",
+        "info":"[BTSPORT]",
+        "online":"true",
+        "image": "https://i.postimg.cc/T1QcG8NJ/sweden2024.jpg",
+        "url": "https://freestreams-live1.se/bt-sport-5/",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "WRC Rally Sweden 2024",
         "info":"[RALLY TV]",
         "online":"true",
         "image": "https://i.postimg.cc/T1QcG8NJ/sweden2024.jpg",
