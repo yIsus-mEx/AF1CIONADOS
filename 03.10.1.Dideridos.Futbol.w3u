@@ -97,7 +97,7 @@
         		"imageScale": "",
         		"stations":
         			[
-				{
+					{
         				"name": "Real Madrid vs Almeria",
         				"info":"[1er Tiempo]",
         				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
@@ -105,19 +105,20 @@
         				"isHost":"true",
         				"online":"true"
         				},
-						{
-						"name": "Real Madrid vs Almeria",
-						"info":"[2do Tiempo]",
-						"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-						"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
-						"isHost":"true",
-						"online":"true"
-						}
+					{
+					"name": "Real Madrid vs Almeria",
+					"info":"[2do Tiempo]",
+					"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+					"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
+					"isHost":"true",
+					"online":"true"
+					}
         			]
-				}
-			]
+			}
+		]
         },
-		{
+
+	{
        	"name": "Copa del Rey 2024",
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
@@ -165,6 +166,7 @@
 						}
        				]
 				},
+
 				{
 				"name": "SEMIFINALES",
 				"info":"",
@@ -207,8 +209,9 @@
        				]
 				}
 			]
-		},
-		{
+	},
+
+	{
         "name": "sUPERcOPA dE EsPAÑa 2024",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
@@ -241,7 +244,8 @@
                 }
             ]
         },
-		{
+
+	{
         "name": "sUPERcOPA dE EsPAÑa 2024 Femenina",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
@@ -250,7 +254,7 @@
         	[
 				{
                 "name": "Atletico vs Levante",
-	            "info":"[SemiFinal 1]",
+	        "info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
                 "url":"https://filemoon.sx/d/gc79kp960rep",
                 "isHost":"true",
@@ -273,23 +277,28 @@
                 "online":"true"
                 }
             ]
-		},
-		{
+	},
+
+	{
         "name": "Mundial Qatar 2022",
         "info":"",
         "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
         "imageScale": "",
         "stations":
         	[
-				{
+		{
                 "name": "Argentina Vs Francia",
-	            "info":"[18-Dic-22]",
+	        "info":"[18-Dic-22]",
                 "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
                 "url":"https://filemoon.sx/d/argc2dyg6olk",
                 "isHost":"true",
                 "online":"true"
                 }
-            ]
-		}
+            	]
+	}
+
 	]
 }
+
+
+
