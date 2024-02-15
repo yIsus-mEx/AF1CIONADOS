@@ -187,7 +187,7 @@
 		]
 	},
 
-{
+	{
        	"name": "Copa del Rey 2023/24",
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
@@ -200,7 +200,7 @@
 				"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
 				"imageScale": "",
 				"stations":
-        			[
+        				[
 						{
 						"name": "Atletico Madrid VS Sevilla",
 						"info":"[25-01-2024]",
@@ -233,7 +233,7 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       				]
+       					]
 				},
 
 				{
@@ -242,7 +242,7 @@
 				"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
 				"imageScale": "",
 				"stations":
-        			[
+        				[
 						{
 						"name": "RCD Mallorca VS Real Sociedad (IDA)",
 						"info":"[06-02-2024]",
@@ -275,7 +275,7 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       				]
+       					]
 				}
 			]
 	},
@@ -283,7 +283,7 @@
 	{
        	"name": "Champions League  2023/24",
         "info":"",
-        "image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+        "image": "https://www.shutterstock.com/es/image-vector/star-logo-icon-art-design-sign-2247981595",
         "imageScale": "",
         "groups":
         	[
