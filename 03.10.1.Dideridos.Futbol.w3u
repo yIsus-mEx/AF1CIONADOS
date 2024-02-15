@@ -44,7 +44,7 @@
         },
 
       {
-        "name": "Liga EA SPORT 2023/2024",
+        "name": "Liga EA SPORT 2023/24",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
         "info":"",
@@ -102,7 +102,7 @@
 	},
 
 	{
-       	"name": "Champions League 2024",
+       	"name": "Champions League  2023/24",
         "info":"",
         "image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
         "imageScale": "",
@@ -342,7 +342,7 @@
 	},
 
 	{
-       	"name": "Copa del Rey 2024",
+       	"name": "Copa del Rey 2023/24",
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
         "imageScale": "",
@@ -435,7 +435,7 @@
 	},
 
 	{
-        "name": "sUPERcOPA dE EsPAÑa 2024",
+        "name": "sUPERcOPA dE EsPAÑa 2022/23",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
@@ -469,13 +469,13 @@
         },
 
 	{
-        "name": "sUPERcOPA dE EsPAÑa 2024 Femenina",
-        "info":"",
+        "name": "sUPERcOPA dE EsPAÑa 2023/24",
+        "info":"[FEMENINA]",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
         "stations":
         	[
-				{
+		{
                 "name": "Atletico vs Levante",
 	        "info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
@@ -486,7 +486,7 @@
             	{
                 "name": "Barcelona vs Real Madrid",
                 "info":"[SemiFinal 2]",
-	            "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
                 "url":"https://filemoon.sx/d/7630xdpr0ut4",
                 "isHost":"true",
                 "online":"true"
@@ -494,7 +494,7 @@
             	{
                 "name": "Barcelona vs Levante",
                 "info":"[Final]",
-	            "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
                 "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
                 "isHost":"true",
                 "online":"true"
@@ -504,7 +504,7 @@
 
 	{
         "name": "Mundial Qatar 2022",
-        "info":"",
+        "info":"[DICIEMBRE 2022]",
         "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
         "imageScale": "",
         "stations":
