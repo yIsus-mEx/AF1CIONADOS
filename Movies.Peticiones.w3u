@@ -7,6 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+                {
+        "name": "Correo",
+        "info":"[Español][2023]",
+        "image": "",
+        "url": "https://filemoon.sx/d/u3eidrof05g1",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
         {
         "name": "Vive Dentro",
         "info":"[Vose.Sub][2023]",
