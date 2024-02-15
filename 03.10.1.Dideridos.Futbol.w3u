@@ -119,6 +119,246 @@
         },
 
 	{
+       	"name": "Champions League 2024",
+        "info":"",
+        "image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+        "imageScale": "",
+        "groups":
+        	[
+				{
+				"name": "OCTAVOS DE FINAL",
+				"info":"IDA",
+				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "FC Copenhague VS Manchester City",
+						"info":"[13-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/alz5o56pv99e/Octavos_Champions_League_FC_Copenhague_VS_Manchester_City_130224.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "RB Leipzig VS Real Madrid",
+						"info":"[13-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/6mfvd69r770s/Octavos_Champions_League_Leipzig_VS_Real_Madrid_130224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Lazio VS Bayern Munich",
+						"info":"[14-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/gvyijxuzoqvj/Octavos_Champions_League_Lazio_VS_Bayern_140224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Paris Saint Germain VS Real Sociedad",
+						"info":"[14-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/wcoehyk64hzd/Octavos_Champions_League_PSG_VS_Real_Sociedad_140224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSV EindHoven VS Borussia Dortmund",
+						"info":"[20-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Inter Milán VS Atlético de Madrid",
+						"info":"[20-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Nápoles VS FC Barcelona",
+						"info":"[21-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Porto VS Arsenal",
+						"info":"[21-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				},
+
+				{
+				"name": "OCTAVOS DE FINAL",
+				"info":"VUELTA",
+				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "Real Sociedad VS Paris Saint Germain",
+						"info":"[05-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Múnich VS Lazio",
+						"info":"[05-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Real Madrid VS RB Leipzig",
+						"info":"[06-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Manchester City VS FC Copenhague",
+						"info":"[06-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Arsenal VS Porto",
+						"info":"[12-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "FC Barcelona VS Napoles",
+						"info":"[12-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atletico de Madrid VS Inter Milán",
+						"info":"[13-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Borussia Dortmund VS PSV Eindhoven",
+						"info":"[13-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				},
+
+				{
+				"name": "SEMIFINALES",
+				"info":"IDA",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				},
+				{
+				"name": "SEMIFINALES",
+				"info":"VUELTA",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				}
+			]
+	},
+
+	{
        	"name": "Copa del Rey 2024",
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
