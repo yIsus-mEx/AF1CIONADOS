@@ -8,6 +8,26 @@
 "stations":
     [
        	{
+        "name": "NASCAR: Daytona",
+        "info":"[MANUJAZ SPORTS]",
+        "online":"true",
+        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2020/02/13/Duel-at-Daytona.jpg",
+        "url": "https://cdn.teacast.eu/ch45/tracks-v1a1/mono.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NASCAR: Daytona",
+        "info":"[MANUJAZ SPORTS]",
+        "online":"true",
+        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2020/02/13/Duel-at-Daytona.jpg",
+        "url": "https://corp.cdn.easybroadcast.fr/live/nasca/playlist.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
         "name": "WRC Rally Sweden 2024",
         "info":"[MANUJAZ SPORTS]",
         "online":"true",
