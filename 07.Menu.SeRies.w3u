@@ -321,7 +321,7 @@
 		"name": "Invasion",
 		"image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
 		"info": "bY. aDri",
-		"stations":
+		"import": false
 		},
 		{
 		"name": "Invasion Secreta",
