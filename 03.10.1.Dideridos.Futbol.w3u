@@ -7,6 +7,7 @@
 "info": "",
 "groups":
     [
+
         {
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
@@ -38,87 +39,156 @@
                 		"online":"true"
                 		}
             			]
-			},
-			{
-        		"name": "Celta vs Real Madrid",
-        		"info":"[25-08-2023]",
-        		"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
-        		"imageScale": "",
-        		"stations":
-        			[
-				{
-        			"name": "Celta vs Real Madrid",
-        			"info":"Ingles",
-        			"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
-        			"url": "https://ok.ru/video/6621098085076",
-        			"online":"true",
-        			"isHost": "true"
-        			}
-				]
-			},
-			{
-        		"name": "FC Barcelona vs Real Madrid (Clasico)",
-        		"info":"[28-10-2023]",
-        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
-        		"imageScale": "",
-        		"stations":
-        			[
-				{
-        			"name": "FC Barcelona Vs Real Madrid [Clasico]",
-        			"info": "[28-10-2023]",
-        			"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
-        			"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-        			"online":"true",
-        			"isHost": "true"
-        			}
-				]
-        		},
-			{
-        		"name": "Getafe vs Valencia",
-        		"info":"[08-12-2023]",
-        		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
-        		"imageScale": "",
-        		"stations":
-        			[
-				{
-        			"name": "Getafe vs Valencia",
-        			"info": "[08-12-2023]",
-        			"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
-        			"url": "https://filemoon.sx/d/rdtgf3invur4",
-        			"online": "true",
-        			"isHost": "true"
-				}
-				]
-        		},
-			{
-        		"name": "Real Madrid vs Almeria",
-        		"info":"[Jornada 21]",
-       			"image": "https://i.postimg.cc/Ls5D3PyK/madVSalm.png",
-        		"imageScale": "",
-        		"stations":
-        			[
-				{
-        				"name": "Real Madrid vs Almeria",
-        				"info":"[1er Tiempo]",
-        				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-        				"url":"https://vidhidepro.com/v/tfux5d4glt2u",
-        				"isHost":"true",
-        				"online":"true"
-        				},
-						{
-						"name": "Real Madrid vs Almeria",
-						"info":"[2do Tiempo]",
-						"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-						"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
-						"isHost":"true",
-						"online":"true"
-						}
-        			]
-				}
-			]
+			}
+		]
         },
+
+	{
+        "name": "Mundial Qatar 2022",
+        "info":"",
+        "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
+        "imageScale": "",
+        "stations":
+        	[
 		{
-       	"name": "Copa del Rey 2024",
+                "name": "Argentina Vs Francia",
+	        "info":"[18-Dic-22]",
+                "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
+                "url":"https://filemoon.sx/d/argc2dyg6olk",
+                "isHost":"true",
+                "online":"true"
+                }
+            	]
+	},
+
+	{
+        "name": "sUPERcOPA dE EsPAÑa 2022/23",
+        "info":"",
+        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "imageScale": "",
+        "stations":
+        	[
+				{
+                "name": "Real Madrid vs Atletico",
+                "info":"[SemiFinal 1]",
+                "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+                "url":"https://filemoon.sx/d/hzqu4c6uvet4",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Barcelona vs Osasuna",
+                "info":"[SemiFinal 2]",
+                "image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
+                "url":"https://filemoon.sx/d/r6gfh411yjc7",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "PARTIDO Real Madrid vs Barcelona",
+                "info":"[Final]",
+                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
+                "url":"https://filemoon.sx/d/hzindiudis1m/Supercopa_Espa_a_Partido_Real_Madrid_VS_Barcelona_Multi_140124.mp4",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+
+	{
+        "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
+        "info":"",
+        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "imageScale": "",
+        "stations":
+        	[
+		{
+                "name": "Atletico vs Levante",
+	        "info":"[SemiFinal 1]",
+                "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
+                "url":"https://filemoon.sx/d/gc79kp960rep",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Barcelona vs Real Madrid",
+                "info":"[SemiFinal 2]",
+	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+                "url":"https://filemoon.sx/d/7630xdpr0ut4",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Barcelona vs Levante",
+                "info":"[Final]",
+	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+                "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+	},
+
+      {
+        "name": "Liga EA SPORT 2023/24",
+        "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+		{
+        	"name": "Celta vs Real Madrid",
+        	"info":"Ingles[25-08-2023]",
+        	"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
+        	"url": "https://ok.ru/video/6621098085076",
+		"embed": "true",
+		"isHot": "true",
+        	"online":"true",
+        	"isHost": "true"
+		},
+		{
+        	"name": "FC Barcelona Vs Real Madrid [Clasico]",
+        	"info": "[28-10-2023]",
+        	"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        	"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+		"embed": "true",
+		"isHot": "true",
+        	"online":"true",
+        	"isHost": "true"
+        	},
+		{
+        	"name": "Getafe vs Valencia",
+        	"info": "[08-12-2023]",
+        	"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
+        	"url": "https://filemoon.sx/d/rdtgf3invur4",
+		"embed": "true",
+		"isHot": "true",
+        	"online": "true",
+        	"isHost": "true"
+        	},
+		{
+        	"name": "Real Madrid vs Almeria",
+		"info": "[PRIMER TIEMPO]",
+        	"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+        	"url":"https://vidhidepro.com/v/tfux5d4glt2u",
+ 		"embed": "true",
+		"isHot": "true",
+        	"online":"true"
+        	},
+		{
+		"name": "Real Madrid vs Almeria",
+		"info":"[SEGUNDO TIEMPOR]",
+		"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+		"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
+		"embed": "true",
+		"isHot": "true",
+		"online":"true"
+		}
+		]
+	},
+
+	{
+       	"name": "Copa del Rey 2023/24",
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
         "imageScale": "",
@@ -130,7 +200,7 @@
 				"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
 				"imageScale": "",
 				"stations":
-        			[
+        				[
 						{
 						"name": "Atletico Madrid VS Sevilla",
 						"info":"[25-01-2024]",
@@ -163,15 +233,16 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       				]
+       					]
 				},
+
 				{
 				"name": "SEMIFINALES",
 				"info":"",
 				"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
 				"imageScale": "",
 				"stations":
-        			[
+        				[
 						{
 						"name": "RCD Mallorca VS Real Sociedad (IDA)",
 						"info":"[06-02-2024]",
@@ -204,92 +275,253 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       				]
+       					]
 				}
 			]
-		},
-		{
-        "name": "sUPERcOPA dE EsPAÑa 2024",
+	},
+
+	{
+       	"name": "Champions League  2023/24",
         "info":"",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "image": "https://i.postimg.cc/3J2s8VRx/Logo-Champions-Azul.png",
         "imageScale": "",
-        "stations":
+        "groups":
         	[
 				{
-                "name": "Real Madrid vs Atletico",
-                "info":"[SemiFinal 1]",
-                "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
-                "url":"https://filemoon.sx/d/hzqu4c6uvet4",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Barcelona vs Osasuna",
-                "info":"[SemiFinal 2]",
-                "image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
-                "url":"https://filemoon.sx/d/r6gfh411yjc7",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "PARTIDO Real Madrid vs Barcelona",
-                "info":"[Final]",
-                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
-                "url":"https://filemoon.sx/d/hzindiudis1m/Supercopa_Espa_a_Partido_Real_Madrid_VS_Barcelona_Multi_140124.mp4",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-        },
-		{
-        "name": "sUPERcOPA dE EsPAÑa 2024 Femenina",
-        "info":"",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
-        "imageScale": "",
-        "stations":
-        	[
+				"name": "OCTAVOS DE FINAL (IDA)",
+				"info":"IDA",
+				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "FC Copenhague VS Manchester City",
+						"info":"[13-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/alz5o56pv99e/Octavos_Champions_League_FC_Copenhague_VS_Manchester_City_130224.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "RB Leipzig VS Real Madrid",
+						"info":"[13-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/6mfvd69r770s/Octavos_Champions_League_Leipzig_VS_Real_Madrid_130224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Lazio VS Bayern Munich",
+						"info":"[14-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/gvyijxuzoqvj/Octavos_Champions_League_Lazio_VS_Bayern_140224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Paris Saint Germain VS Real Sociedad",
+						"info":"[14-02-2024]",
+						"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+						"url":"https://filemoon.sx/d/wcoehyk64hzd/Octavos_Champions_League_PSG_VS_Real_Sociedad_140224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSV EindHoven VS Borussia Dortmund",
+						"info":"[20-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Inter Milán VS Atlético de Madrid",
+						"info":"[20-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Nápoles VS FC Barcelona",
+						"info":"[21-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Porto VS Arsenal",
+						"info":"[21-02-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				},
+
 				{
-                "name": "Atletico vs Levante",
-	            "info":"[SemiFinal 1]",
-                "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
-                "url":"https://filemoon.sx/d/gc79kp960rep",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Barcelona vs Real Madrid",
-                "info":"[SemiFinal 2]",
-	            "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
-                "url":"https://filemoon.sx/d/7630xdpr0ut4",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Barcelona vs Levante",
-                "info":"[Final]",
-	            "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
-                "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-		},
-		{
-        "name": "Mundial Qatar 2022",
-        "info":"",
-        "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
-        "imageScale": "",
-        "stations":
-        	[
+				"name": "OCTAVOS DE FINAL (VUELTA)",
+				"info":"VUELTA",
+				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "Real Sociedad VS Paris Saint Germain",
+						"info":"[05-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Múnich VS Lazio",
+						"info":"[05-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Real Madrid VS RB Leipzig",
+						"info":"[06-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Manchester City VS FC Copenhague",
+						"info":"[06-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Arsenal VS Porto",
+						"info":"[12-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "FC Barcelona VS Napoles",
+						"info":"[12-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atletico de Madrid VS Inter Milán",
+						"info":"[13-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Borussia Dortmund VS PSV Eindhoven",
+						"info":"[13-03-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				},
+
 				{
-                "name": "Argentina Vs Francia",
-	            "info":"[18-Dic-22]",
-                "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-                "url":"https://filemoon.sx/d/argc2dyg6olk",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-		}
+				"name": "SEMIFINALES (IDA)",
+				"info":"IDA",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				},
+				{
+				"name": "SEMIFINALES (VUELTA)",
+				"info":"VUELTA",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+       					]
+				}
+			]
+	}
+
 	]
 }
+
+
+
