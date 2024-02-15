@@ -7,6 +7,64 @@
 "info": "",
 "groups":
     [
+
+       {
+        "name": "Liga EA SPORT",
+        "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+		{
+        	"name": "Celta vs Real Madrid",
+        	"info":"Ingles[25-08-2023]",
+        	"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
+        	"url": "https://ok.ru/video/6621098085076",
+		"embed": "true",
+		"isHot": "true",
+        	"online":"true",
+        	"isHost": "true"
+		},
+		{
+        	"name": "FC Barcelona Vs Real Madrid [Clasico]",
+        	"info": "[28-10-2023]",
+        	"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        	"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+		"embed": "true",
+		"isHot": "true",
+        	"online":"true",
+        	"isHost": "true"
+        	},
+		{
+        	"name": "Getafe vs Valencia",
+        	"info": "[08-12-2023]",
+        	"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
+        	"url": "https://filemoon.sx/d/rdtgf3invur4",
+		"embed": "true",
+		"isHot": "true",
+        	"online": "true",
+        	"isHost": "true"
+        	},
+		{
+        	"name": "Real Madrid vs Almeria",
+        	": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+        	"url":"https://vidhidepro.com/v/tfux5d4glt2u",
+ 		"embed": "true",
+		"isHot": "true",
+        	"online":"true"
+        	},
+		{
+		"name": "Real Madrid vs Almeria",
+		"info":"[2do Tiempo]",
+		"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
+		"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
+		"embed": "true",
+		"isHot": "true",
+		"online":"true"
+		}
+        ]
+        },
+
         {
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
