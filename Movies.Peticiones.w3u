@@ -7,7 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-                {
+        {
+        "name": "Iron Man 2",
+        "info":"[Español][2010]",
+        "image": "https://i.postimg.cc/HxzCcjFb/iroman-2.webp",
+        "url": "https://upstream.to/suz7fm4i9cnq",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "Correo",
         "info":"[Español][2023]",
         "image": "https://pics.filmaffinity.com/El_correo-697115920-large.jpg",
