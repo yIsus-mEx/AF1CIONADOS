@@ -126,7 +126,7 @@
         "groups":
         	[
 				{
-				"name": "OCTAVOS DE FINAL",
+				"name": "OCTAVOS DE FINAL (IDA)",
 				"info":"IDA",
 				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
 				"imageScale": "",
@@ -200,7 +200,7 @@
 				},
 
 				{
-				"name": "OCTAVOS DE FINAL",
+				"name": "OCTAVOS DE FINAL (VUELTA)",
 				"info":"VUELTA",
 				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
 				"imageScale": "",
@@ -274,7 +274,7 @@
 				},
 
 				{
-				"name": "SEMIFINALES",
+				"name": "SEMIFINALES (IDA)",
 				"info":"IDA",
 				"image": "",
 				"imageScale": "",
@@ -315,7 +315,7 @@
        					]
 				},
 				{
-				"name": "SEMIFINALES",
+				"name": "SEMIFINALES (VUELTA)",
 				"info":"VUELTA",
 				"image": "",
 				"imageScale": "",
