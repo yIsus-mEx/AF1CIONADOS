@@ -7,7 +7,14 @@
 "info":"",
 "groups":
     [
-          {
+        {
+          "name": "Copa del Rey ACB         bY Ronki",
+          "image": "https://www.gigantes.com/wp-content/uploads/2024/01/copa.jpg",
+          "url": "https://aficionados.vercel.app/",
+          "info":"",
+          "import": false
+          },
+        {
           "name": "Liga Endesa               bY Ronki",
           "image": "https://i.postimg.cc/TPj86gWK/liga-endesa-new.png",
           "url": "https://aficionados.vercel.app/03.5.2.Diferidos.Liga.Endesa.2023.w3u",
