@@ -9,7 +9,7 @@
     [
 
       {
-        "name": "Liga EA SPORT",
+        "name": "Liga EA SPORT 2024",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
         "info":"",
@@ -24,7 +24,17 @@
 		"isHot": "true",
         	"online":"true",
         	"isHost": "true"
-		}
+		},
+		{
+        	"name": "FC Barcelona Vs Real Madrid [Clasico]",
+        	"info": "[28-10-2023]",
+        	"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        	"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+		"embed": "true",
+		"isHot": "true",
+        	"online":"true",
+        	"isHost": "true"
+        	}
 		]
 	},
 
