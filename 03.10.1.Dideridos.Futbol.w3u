@@ -8,7 +8,25 @@
 "groups":
     [
 
-
+      {
+        "name": "Liga EA SPORT",
+        "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+		{
+        	"name": "Celta vs Real Madrid",
+        	"info":"Ingles[25-08-2023]",
+        	"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
+        	"url": "https://ok.ru/video/6621098085076",
+		"embed": "true",
+		"isHot": "true",
+        	"online":"true",
+        	"isHost": "true"
+		}
+		]
+	},
 
         {
         "name": "Futbol mIx",
