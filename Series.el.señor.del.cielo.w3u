@@ -1,0 +1,44 @@
+{
+"name": "El Señor De Los Cielos",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Series.el.señor.del.cielo.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 09",
+ 		"image": "https://upload.wikimedia.org/wikipedia/en/f/f1/El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://upload.wikimedia.org/wikipedia/en/f/f1/El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg",
+ 				"url":"https://www.tokyvideo.com/es/video/el-senor-de-los-cielos-capitulo-1-temporada-9-gratis-online",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://upload.wikimedia.org/wikipedia/en/f/f1/El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg",
+				"url":"https://www.tokyvideo.com/es/video/el-senor-de-los-cielos-capitulo-2-temporada-9-gratis-online",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://upload.wikimedia.org/wikipedia/en/f/f1/El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg",
+				"url":"https://www.tokyvideo.com/es/video/el-senor-de-los-cielos-capitulo-3-temporada-9-gratis-online",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
