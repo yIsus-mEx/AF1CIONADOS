@@ -8,6 +8,40 @@
 "groups": 
     [
         {
+        "name": "WRC: Rally Suecia 2024",
+        "image": "https://i.postimg.cc/6q4LCL37/image.jpg",
+        "stations": 
+            [
+                {
+                "name": "Stage 00",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6q4LCL37/image.jpg",
+                "url": "https://embedv.net/v/wP2050e1dNaxdmy",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6q4LCL37/image.jpg",
+                "url": "https://embedv.net/v/qM1VOPNeqwnxo4k",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 01_2",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6q4LCL37/image.jpg",
+                "url": "https://embedv.net/v/KrdZ5kdMpXaxmX4",
+                "userAgent": "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "WRC: Rally MonteCarlo 2024",
         "image": "https://i.postimg.cc/NFTQwjtz/montecarlo2024.png",
         "stations": 
