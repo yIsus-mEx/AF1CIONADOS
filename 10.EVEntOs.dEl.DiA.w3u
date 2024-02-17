@@ -7,52 +7,12 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-       	{
-        "name": "NASCAR: Daytona",
-        "info":"[MANUJAZ SPORTS]",
-        "online":"true",
-        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2020/02/13/Duel-at-Daytona.jpg",
-        "url": "https://cdn.teacast.eu/ch45/tracks-v1a1/mono.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "NASCAR: Daytona",
-        "info":"[MANUJAZ SPORTS]",
-        "online":"true",
-        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2020/02/13/Duel-at-Daytona.jpg",
-        "url": "https://corp.cdn.easybroadcast.fr/live/nasca/playlist.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "NASCAR: Daytona",
-        "info":"[latino]",
-        "online":"true",
-        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2020/02/13/Duel-at-Daytona.jpg",
-        "url": "http://lobo-tv.live:8080/belpley/sYqKZQrTZa/10928",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "NASCAR: Daytona",
-        "info":"[latino]",
-        "online":"true",
-        "image": "https://www.mrn.com/wp-content/uploads/sites/17/2020/02/13/Duel-at-Daytona.jpg",
-        "url": "http://lobo-tv.live:8080/belpley/sYqKZQrTZa/200284",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
         {
         "name": "WRC Rally Sweden 2024",
         "info":"[MANUJAZ SPORTS]",
         "online":"true",
         "image": "https://i.postimg.cc/T1QcG8NJ/sweden2024.jpg",
-        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239384&hd=4",
+        "url": "https://vk.com/video_ext.php?oid=718161690&id=456239385&hd=4",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
