@@ -231,6 +231,27 @@
         "info":"500 conex",
         "import": false
         },
+        {
+        "name": "IPTV Latino 30",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://lobo-tv.live:8080/live/belpley/sYqKZQrTZa/195840.m3u8",
+        "info":"500 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV Latino 31",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://lobo-tv.live:8080/live/belpley/sYqKZQrTZa/195839.m3u8",
+        "info":"150 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV Latino 32",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://lobo-tv.live:8080/live/belpley/sYqKZQrTZa/2106730.m3u8",
+        "info":"500 conex",
+        "import": false
+        },
          {
         "name": "IPTV Latino 33",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
