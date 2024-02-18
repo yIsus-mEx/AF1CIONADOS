@@ -7,7 +7,18 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-        {
+        
+{
+        "name": "ILIA TOPURIA VS ALEXANDER VOLKANOVSKI",
+        "info":"0710",
+        "online":"true",
+        "image": "https://estaticos-cdn.prensaiberica.es/clip/99b87f4b-5edc-4459-a7bf-4ec0a4b10ce0_alta-libre-aspect-ratio_default_0.jpg",
+        "url": "acestream://72d53e3137787d48e5bcd19265695e136948975a",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },        
+{
         "name": "ILIA TOPURIA VS ALEXANDER VOLKANOVSKI",
         "info":"0710",
         "online":"true",
