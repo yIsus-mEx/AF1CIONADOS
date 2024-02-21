@@ -1,0 +1,70 @@
+
+
+{
+"name": "NASCAR TODO VELOCIDAD",
+"image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+"url": "https://af1cionados.vercel.app/Documentales.Nascar.todo.velocidad.(2024).w3u",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        "url": "https://embedv.net/v/vQBYEbNpJ7wEn1m",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        "url": "https://embedv.net/v/KNWlEDNWoNa5kbp",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        "url": "https://embedv.net/v/KrdZ5kdPWdoxmX4",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        "url": "https://embedv.net/v/wP2050er3Z2xdmy",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        "url": "https://embedv.net/v/8lKQxYVj4VlEDGY",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
