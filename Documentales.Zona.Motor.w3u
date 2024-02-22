@@ -1,0 +1,70 @@
+{
+"name": "Zona Motor",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Documentales.Zona.Motor.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+		{
+        "name": "Nascar: Full Speed",
+        "info":"",
+        "image": "https://i.postimg.cc/yxzVrX7H/Nas-Full-Speed.png",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "Eliminatorias o Fracaso",
+                "info":"[Episodio 01]",
+                "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
+                "url":"https://filemoon.sx/d/opae89bt6ly6",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Engranaje",
+                "info":"[Episodio 02]",
+                "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
+                "url":"https://filemoon.sx/d/9nksb7zaxvvv",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Un Ultimo Empujon",
+                "info":"[Episodio 03]",
+                "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
+                "url":"https://filemoon.sx/d/oqrd7ziiesdo",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "No en el Plan",
+                "info":"[Episodio 04]",
+                "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
+                "url":"https://filemoon.sx/d/ty6nawtbyykc",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Cruzando la Linea",
+                "info":"[Episodio 05]",
+                "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
+                "url":"https://filemoon.sx/d/swa9mos4wnu3",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}
