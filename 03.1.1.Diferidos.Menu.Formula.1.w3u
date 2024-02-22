@@ -8,6 +8,13 @@
 "groups":
     [
          {
+         "name": "F1 2024",
+         "image": "https://i.postimg.cc/xCdqQ2h1/F1-2024-new.png",
+         "url": "https://aficionados.vercel.app/Diferidos.F1.2024.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "F1 2023",
          "image": "https://i.postimg.cc/8C00V12S/F1-2023-new.png",
          "url": "https://aficionados.vercel.app/03.1.2.Diferidos.F1.2023.w3u",
