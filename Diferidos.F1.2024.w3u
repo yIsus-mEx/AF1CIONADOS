@@ -1,0 +1,40 @@
+{
+"name": "F1 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Diferidos.F1.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+		{
+        "name": "Bahrein Test de pretemporada 2024",
+        "info":"",
+        "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "Test Bahrein Dia 1 [Mañana]",
+                "info":"[Dazn F1]",
+                "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
+                "url":"https://lbx.to/f/nIT8vNQ",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Test Bahrein Dia 1 [Tarde]",
+                "info":"[Dazn F1]",
+                "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0ZXpjMDAwcHox0",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}
