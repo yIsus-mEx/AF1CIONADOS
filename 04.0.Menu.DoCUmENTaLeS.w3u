@@ -8,64 +8,71 @@
 "groups":
 	[
     	{
-        "name": "DoCUmENTaLeS",
-        "image": "https://gijn.org/wp-content/uploads/2020/10/Double-scaled.jpeg",
+        "name": "Zona DoCUmENTaLeS",
+        "image": "https://i.postimg.cc/KzLPDR3k/documentales.png",
         "url": "https://aficionados.vercel.app/DoCUmENTaLeS.w3u",
         "info":"bY. yIsus",
         "import": false
         },
         {
-        "name": "Futbol ZOne",
-        "image": "https://www.elindependiente.com/wp-content/uploads/2022/03/documentales-futbolistas.jpg",
+        "name": "Zona Futbol",
+        "image": "https://i.postimg.cc/nrqtxYjF/Zone-Futbol.png",
         "url": "https://aficionados.vercel.app/04.1.1.Documentales.FooTbaLL.w3u",
         "info":"bY. yIsus",
         "import": false
         },
 		{
-        "name": "FoRmuLa 1 ZOne",
-        "image": "https://i.ytimg.com/vi/0S_H8XeuJbk/maxresdefault.jpg",
+        "name": "Zona FoRmuLa 1",
+        "image": "https://i.postimg.cc/4dqB5D3y/Zone-F1.png",
         "url": "https://aficionados.vercel.app/04.2.1.Menu.Documentales.Formula.1.w3u",
         "info":"bY. yIsus",
         "import": false
         },
 		{
-        "name": "BoxiNg ZOne",
-        "image": "https://i.postimg.cc/0yMP85h8/boxing.png",
+        "name": "Zona BoxiNg",
+        "image": "https://i.postimg.cc/0NHLTHQR/Zone-boxing.png",
         "url": "https://pastebin.com/S0BPT0sB",
         "info":"bY. Tintxi",
         "import": false
         },
 		{
-        "name": "MMA ZOne",
-        "image": "https://i.postimg.cc/J44bkXyW/MmA.jpg",
+        "name": "Zona Fighting",
+        "image": "https://i.postimg.cc/c46jGGjD/zone-Fighting.png",
         "url": "https://pastebin.com/cr2t1Vg6",
         "info":"bY. Tintxi",
         "import": false
         },
 		{
-        "name": "MotoGP ZOne",
-        "image": "https://i.postimg.cc/y6SkB7HK/Documentales-Moto-GP-gratis.jpg",
+        "name": "Zona MotoGP",
+        "image": "https://i.postimg.cc/XJjTmGdh/Zone-Moto-GP.png",
         "url": "https://af1cionados.vercel.app/DoCu%20MotoGP.w3u",
         "info":"bY. AdriCai",
         "import": false
         },
 		{
-        "name": "NFL ZOne",
+        "name": "Zona NFL",
         "image": "https://i.postimg.cc/rwSzFtTD/NFL.png",
         "url": "https://aficionados.vercel.app/Documentales.NFL.w3u",
         "info":"bY. yIsus",
         "import": false
         },
 		{
-        "name": "Surfing ZOne",
-        "image": "https://i.postimg.cc/gkfgVqkF/Su-Rfi-Ng-m-Ix.jpg",
+        "name": "Zona Surfing",
+        "image": "https://i.postimg.cc/YqSthSDM/Surfing-zone.png",
         "url": "https://af1cionados.vercel.app/DoCu%20SuRfiNg.w3u",
         "info":"bY. AdriCai",
         "import": false
         },
+        {
+        "name": "Zona Motor",
+        "image": "https://i.postimg.cc/1zNyKYDt/Zona-Motor.png",
+        "url": "",
+        "info":"bY. yIsus",
+        "import": false
+        },
 		{
-        "name": "Mix ZOne",
-        "image": "https://media.primicias.ec/2019/10/30131040/Posters.jpeg",
+        "name": "Zona Mix",
+        "image": "https://i.postimg.cc/527gbsYf/Mix-Zone.png",
         "url": "https://aficionados.vercel.app/Documentales.Mix.Zone.w3u",
         "info":"bY. yIsus",
         "import": false
