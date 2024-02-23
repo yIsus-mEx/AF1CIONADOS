@@ -7,7 +7,7 @@
 "info": "",
 "groups":
     [
-		{
+	{
         "name": "Nascar: Full Speed",
         "info":"",
         "image": "https://i.postimg.cc/yxzVrX7H/Nas-Full-Speed.png",
@@ -19,7 +19,7 @@
                 "info":"[Episodio 01]",
                 "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
                 "url":"https://filemoon.sx/d/opae89bt6ly6",
-				"userAgent" : "",
+		"userAgent" : "",
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
@@ -29,7 +29,7 @@
                 "info":"[Episodio 02]",
                 "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
                 "url":"https://filemoon.sx/d/9nksb7zaxvvv",
-				"userAgent" : "",
+		"userAgent" : "",
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
@@ -39,7 +39,7 @@
                 "info":"[Episodio 03]",
                 "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
                 "url":"https://filemoon.sx/d/oqrd7ziiesdo",
-				"userAgent" : "",
+		"userAgent" : "",
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
@@ -49,7 +49,7 @@
                 "info":"[Episodio 04]",
                 "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
                 "url":"https://filemoon.sx/d/ty6nawtbyykc",
-				"userAgent" : "",
+		"userAgent" : "",
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
@@ -59,12 +59,78 @@
                 "info":"[Episodio 05]",
                 "image": "https://s9.opensubtitles.com/features/4/7/6/1776674.jpg",
                 "url":"https://filemoon.sx/d/swa9mos4wnu3",
-				"userAgent" : "",
+		"userAgent" : "",
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
                 }
             ]
-        }
-	]
+        },
+
+	{
+        "name": "Nascar todo velocidad",
+        "info":"2024",
+        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        "imageScale": "",
+        "stations":
+        	[
+		{
+		"name": "CAPITULO 1",
+        	"image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        	"url": "https://embedv.net/v/vQBYEbNpJ7wEn1m",
+       		"info": "2024",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+       		"name": "EPISODIO 2",
+       		"image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        	"url": "https://embedv.net/v/KNWlEDNWoNa5kbp",
+       		"info": "2024",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+       		"name": "EPISODIO 3",
+        	"image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+        	"url": "https://embedv.net/v/KrdZ5kdPWdoxmX4",
+       		"info": "2024",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+       		"name": "EPISODIO 4",
+	        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+	        "url": "https://embedv.net/v/wP2050er3Z2xdmy",
+	       	"info": "2024",
+	       	"embed": "",
+	       	"isHost": "true",
+	       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+	       	"import": false
+	       	},
+		{
+	       	"name": "EPISODIO 5",
+	        "image": "https://i.postimg.cc/YCLxP8hk/Nascar__todo_velocidad_(2024)(Documental).jpg",
+	        "url": "https://embedv.net/v/8lKQxYVj4VlEDGY",
+	       	"info": "2024",
+	       	"embed": "",
+	       	"isHost": "true",
+ 	      	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+	       	"import": false
+	       	}
+		]
+	}
+
+]
 }
