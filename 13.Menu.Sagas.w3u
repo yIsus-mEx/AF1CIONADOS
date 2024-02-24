@@ -8,11 +8,33 @@
 "groups": 
 	[
 
+
+	{
+	"name": "Harry Potter",
+	"url": "https://aficionados.vercel.app/saga HARRY POTTER.w3u",
+	"image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
+    	"info": "bY. yIsus",
+    	"import": false
+    	},
 	{
     	"name": "Hobbit, El",
     	"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
     	"url": "https://af1cionados.vercel.app/saga EL HOBBIT.w3u",
     	"info": "bY. aDri",
+    	"import": false
+    	},
+	{
+    	"name": "James Bond",
+    	"image": "https://pics.filmaffinity.com/dr_no_aka_james_bond-201686869-mmed.jpg",
+    	"url": "https://af1cionados.vercel.app/",
+    	"info": "bY. yIsus",
+    	"import": false
+    	},
+	{
+    	"name": "Matrix",
+    	"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+    	"url": "https://aficionados.vercel.app/saga MATRIX.w3u",
+    	"info": "bY. yIsus",
     	"import": false
     	},
 	{
@@ -23,6 +45,13 @@
     	"import": false
     	},
 	{
+    	"name": "Resident Evil",
+    	"image": "https://pics.filmaffinity.com/resident_evil-587544510-large.jpg",
+    	"url": "https://aficionados.vercel.app/saga.RESIDENT.EVIL.w3u",
+    	"info": "bY. yIsus",
+    	"import": false
+    	},
+	{
     	"name": "Señor de los Anillos, El",
     	"image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
     	"url": "https://af1cionados.vercel.app/saga EL SEÑOR DE LOS ANILLOS.w3u",
@@ -30,12 +59,12 @@
     	"import": false
     	},
 	{
-         "name": "MovIeS SaGAs",
-         "image": "https://i.postimg.cc/R0d07yzw/Sagas-New.png",
-         "url": "https://pastebin.com/Nau4kW8v",
-         "info":"",
-         "import": false
-        }
+	"name": "Volver al Futuro",
+	"url": "",
+	"image": "",
+    	"info": "bY. yIsus",
+    	"import": false
+    	}
 
 ]
 }
