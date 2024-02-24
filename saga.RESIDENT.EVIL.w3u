@@ -1,0 +1,65 @@
+
+{
+"name": "RESIDENT EVIL",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/",
+"image": "https://pics.filmaffinity.com/resident_evil-587544510-large.jpg",
+"telegram": "@yIsus_mEX",
+"info": "by yIsus_mEx",
+"stations":
+    [
+                {
+                "name": "Resident Evil: El Huésped Maldito",
+                "info":"[Latino][2002]",
+                "image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
+                "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Resident Evil 2: Apocalipsis",
+                "info":"[Latino][2004]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/9/w1280/goVSqAsY54LJZ29gNRM8Kq8lDlp.jpg",
+                "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20apocalypse.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Resident Evil 3: Extinción",
+                "info":"[Latino][2007]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/9/w1280/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg",
+                "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20extinction.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Resident Evil 4: La Resurrección",
+                "info":"[Latino][2010]",
+                "image": "https://es.web.img2.acsta.net/medias/nmedia/18/93/09/10/20235332.jpg",
+                "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20afterlife.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Resident Evil 5: La Venganza",
+                "info":"[Latino][2012]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/9/w1280/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg",
+                "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20retribution.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Resident Evil: Capítulo Final",
+                "info":"[Latino][2016]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/il1B9mM7Cn9ccavnilzUGKL1xzQ.jpg",
+                "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20the%20final%20chapter.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                }
+
+	]
+}
+
+
+
+
