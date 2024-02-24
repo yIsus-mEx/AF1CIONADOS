@@ -15,6 +15,26 @@
         "stations":
         	[
             	{
+                "name": "Test Bahrein Dia 2 [Mañana]",
+                "info":"[Dazn F1]",
+                "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
+                "url":"https://lbx.to/f/61OhYEr",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Test Bahrein Dia 2 [Tarde]",
+                "info":"[Dazn F1]",
+                "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
+                "url":"https://lbx.to/f/RAX4rlX",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
                 "name": "Test Bahrein Dia 1 [Mañana]",
                 "info":"[Dazn F1]",
                 "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
