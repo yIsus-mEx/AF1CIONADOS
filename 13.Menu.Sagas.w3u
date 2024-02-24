@@ -9,9 +9,23 @@
 	[
 
 	{
+    	"name": "Hobbit, El",
+    	"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+    	"url": "https://af1cionados.vercel.app/saga EL HOBBIT.w3u",
+    	"info": "bY. aDri",
+    	"import": false
+    	},
+	{
     	"name": "Piratas del Caribe",
     	"image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
     	"url": "https://af1cionados.vercel.app/saga PIRATAS DEL CARIBE.w3u",
+    	"info": "bY. aDri",
+    	"import": false
+    	},
+	{
+    	"name": "Señor de los Anillos, El",
+    	"image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
+    	"url": "",
     	"info": "bY. aDri",
     	"import": false
     	},
