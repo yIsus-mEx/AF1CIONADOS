@@ -81,6 +81,7 @@
 				}
 			]
 		},
+
 		{
 		"name":"Criptoestafas",
 		"image":"https://pics.filmaffinity.com/bitconned-659212072-large.jpg",
@@ -97,6 +98,7 @@
 				}
 			]
 		},
+
 		{
 		"name": "Grandes robos de la historia",
 		"image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
@@ -118,6 +120,33 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+
+		{
+		"name":"¿Puedo contarte un secreto?",
+		"image":"https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
+		"stations":
+			[
+				{
+				"name": "¿Puedo contarte un secreto? I",
+				"info":"[2024]",
+				"image": "https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
+				"url":"https://vidmoly.me/w/olopn0nxslt2",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "¿Puedo contarte un secreto? II",
+				"info":"[2024]",
+				"image": "https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
+				"url":"https://vidmoly.me/w/u8f9pyhxuu8u",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+
 		{
 		"name":"No me llame Ternera",
 		"image":"https://pics.filmaffinity.com/no_me_llame_ternera-164938634-large.jpg",
@@ -134,6 +163,7 @@
 				}
 			]
 		},
+
 		{
 		"name":"Telarañas, el segundo imperio Británico",
 		"image":"https://pics.filmaffinity.com/the_spider_s_web_britain_s_second_empire-853403216-large.jpg",
