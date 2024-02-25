@@ -1,0 +1,53 @@
+{
+"name": "Saint Young Men",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Anime.Saint.Young.Men.w3u",
+"image": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A14826-968112382.1361957622.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "by. Falken",
+"groups":
+    [
+        {
+        "name": "Saint Young Men Película",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDE4MzI0OGYtMjYwNS00YTc5LTlhZmYtYjRjMzM5NDgzYTA0XkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Seinto oniisan",
+                "info":"Las vacaciones de Jesús y Buda",
+                "image": "https://m.media-amazon.com/images/M/MV5BOTgyNjAyNzYtYTRmMC00YzJiLThkOGQtYWE1YjNjYTIzNDBlXkEyXkFqcGdeQXVyNTU3MTg3ODE@._V1_.jpg",
+                "url": "https://filemoon.sx/d/1avpukqax6k6",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "Saint Young Men OVAS",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGQ5ZjYxOGUtOTJiZi00ZTc1LTlkYmItODViYzYyYmE3MTA3XkEyXkFqcGdeQXVyNTUwNjUwNg@@._V1_.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Seinto oniisan",
+                "info":"OVA 01",
+                "image": "https://m.media-amazon.com/images/M/MV5BMGQ5ZjYxOGUtOTJiZi00ZTc1LTlkYmItODViYzYyYmE3MTA3XkEyXkFqcGdeQXVyNTUwNjUwNg@@._V1_.jpg",
+                "url": "https://filemoon.sx/d/f3iy98dohfoq",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Seinto oniisan",
+                "info":"OVA 02",
+                "image": "https://m.media-amazon.com/images/M/MV5BMGQ5ZjYxOGUtOTJiZi00ZTc1LTlkYmItODViYzYyYmE3MTA3XkEyXkFqcGdeQXVyNTUwNjUwNg@@._V1_.jpg",
+                "url": "https://filemoon.sx/d/d94n5dbr2qeb",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}
