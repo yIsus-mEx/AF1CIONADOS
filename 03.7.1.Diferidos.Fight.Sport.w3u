@@ -7,10 +7,26 @@
 "info": "",
 "groups":
     [
-
+        {
+         "name": "UFC Fight Night: Moreno vs Royval 2",
+         "image": "https://i.postimg.cc/Ss587xBf/UFC-Fight-Night-Moreno-vs-Royval-2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Moreno vs Royval 2",
+                "info":"[Latino]",
+                "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/UFC_Fight_Night_237_poster.jpg",
+                "url":"https://filemoon.sx/d/it7cwmsa10yo",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
         {
          "name": "UFC 298: Topuria vs Volkanovski",
-         "image": "https://i.postimg.cc/5N5tqS1T/2024-02-18-Topuria-VS-Volkanoski.png",
+         "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
          "imageScale": "",
          "info":"",
          "stations":
@@ -18,7 +34,7 @@
                 {
                 "name": "UFC 298: Topuria vs Volkanovski",
                 "info":"[Preliminares][Latino]",
-                "image": "https://i.postimg.cc/5N5tqS1T/2024-02-18-Topuria-VS-Volkanoski.png",
+                "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
                 "url":"https://embedv.net/v/8lKQxYVQMelEDGY",
                 "isHost":"true",
                 "online":"true"
