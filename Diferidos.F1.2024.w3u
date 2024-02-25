@@ -15,6 +15,16 @@
         "stations":
         	[
             	{
+                "name": "Test Bahrein Dia 3 [Parte 1]",
+                "info":"[Dazn F1]",
+                "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0ZjZnMDAweWN00",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
                 "name": "Test Bahrein Dia 2 [Mañana]",
                 "info":"[Dazn F1]",
                 "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
