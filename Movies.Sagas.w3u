@@ -9,7 +9,7 @@
     [
         {
         "name": "Harry Potter",
-        "image": "",
+        "image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
         "imageScale": "",
         "info":"",
         "stations":
@@ -88,9 +88,53 @@
                 }
             ]
         },
+
+        {
+        "name": "Hobbit, El",
+        "image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            	[
+	{
+	"name": "El Hobbit: Un viaje inesperado",
+        "image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+        "url": "https://upstream.to/b9ivjsierhkt",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Hobbit: La desolación de Smaug",
+        "image": "https://pics.filmaffinity.com/the_hobbit_the_desolation_of_smaug-498845622-large.jpg",
+        "url": "https://upstream.to/na2ixeqll3pz",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Hobbit: La batalla de los cinco ejércitos",
+        "image": "https://pics.filmaffinity.com/the_hobbit_the_battle_of_the_five_armies-282438316-large.jpg",
+        "url": "https://upstream.to/v7u3bvwuxvhl",
+       	"info": "2014",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
         {
         "name": "James Bond 007",
-        "image": "",
+        "image": "https://pics.filmaffinity.com/dr_no_aka_james_bond-201686869-mmed.jpg",
         "imageScale": "",
         "info":"",
         "stations":
@@ -308,7 +352,7 @@
         },
         {
         "name": "Matrix",
-        "image": "",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/3/w1280/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg",
         "imageScale": "",
         "info":"",
         "stations":
@@ -341,21 +385,21 @@
         },
         {
         "name": "Piratas Del Caribe",
-        "image": "",
+        "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
         "imageScale": "",
         "info":"",
         "stations":
             [
                 {
-	            "name": "La maldición de la Perla Negra",
+	        "name": "La maldición de la Perla Negra",
                 "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
                 "url": "https://embedv.net/v/0DogOGMD4D8xKjM",
        	        "info": "[2003][Castellano]",
        	        "isHost": "true",
        	        "online": "true",
-	            "userAgent":"PlusMediaPlayer/0.0.9"
+	        "userAgent":"PlusMediaPlayer/0.0.9"
        	        },
-	            {
+	        {
        	        "name": "El cofre del hombre muerto",
                 "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_man_s_chest-498963663-large.jpg",
                 "url": "https://embedv.net/v/qM1VOPN929mxo4k",
@@ -371,18 +415,18 @@
        	        "info": "2007",
        	        "isHost": "true",
        	        "online": "true",
-	            "userAgent":"PlusMediaPlayer/0.0.9"
+	        "userAgent":"PlusMediaPlayer/0.0.9"
        	        },
-	            {
+	        {
        	        "name": "En mareas misteriosas",
                 "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_on_stranger_tides-755499916-large.jpg",
                 "url": "https://embedv.net/v/04rQxWWd8dexb2N",
        	        "info": "2011",
        	        "isHost": "true",
        	        "online": "true",
-	            "userAgent":"PlusMediaPlayer/0.0.9"
+	        "userAgent":"PlusMediaPlayer/0.0.9"
        	        },
-	            {
+	        {
        	        "name": "La venganza de Salazar ",
                 "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_men_tell_no_tales-750385069-large.jpg",
                 "url": "https://embedv.net/v/PlBVEZ0kdkl5Dv9",
@@ -395,7 +439,7 @@
         },        
         {
         "name": "Resident Evil",
-        "image": "",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
         "imageScale": "",
         "info":"",
         "stations":
@@ -450,9 +494,53 @@
                 }
             ]
         },
+
+        {
+        "name": "Señor de los Anillos, El",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+	{
+	"name": "El señor de los anillos: La comunidad del anillo",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
+        "url": "https://upstream.to/pc4dy8k1h9ki",
+       	"info": "2001",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El señor de los anillos: Las dos torres",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_two_towers-450612576-large.jpg",
+        "url": "https://upstream.to/ce1qjhrhxli9",
+       	"info": "2002",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El señor de los anillos: El retorno del rey",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_return_of_the_king-178294596-large.jpg",
+        "url": "https://upstream.to/fbz2gqwt78m6",
+       	"info": "2003",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
         {
         "name": "Volver Al Futuro",
-        "image": "",
+        "image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
         "imageScale": "",
         "info":"",
         "stations":
