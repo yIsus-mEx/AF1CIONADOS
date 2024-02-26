@@ -49,6 +49,7 @@
 				}
 			]
 		},
+
 		{
 		"name":"Break Nation: La Electrónica Que Bailó Andalucía",
 		"image":"https://pics.filmaffinity.com/Break_Nation_La_electraonica_que_bailao_Andalucaia-218001604-large.jpg",
@@ -65,6 +66,7 @@
 				}
 			]
 		},
+
 		{
 		"name":"Concha Velasco, la artista total",
 		"image":"https://pics.filmaffinity.com/concha_velasco_la_artista_total-290640008-large.jpg",
@@ -103,6 +105,13 @@
 		"name": "Grandes robos de la historia",
 		"image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
 		"url": "https://af1cionados.vercel.app/DoCuSerie ROBOS HISTORICOS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Historias de Crimenes",
+		"image": "",
+		"url": "",
 		"info": "bY. Adri",
 		"import": false
 		},
