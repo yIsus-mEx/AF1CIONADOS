@@ -8,39 +8,46 @@
 "groups": 
 	[
 
-	{
-    "name": "30 Monedas",
-    "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
-    "url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
-    "info": "bY. aDri",
-    "import": false
-    },
-    {
-    "name": "Andor",
-    "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
-    "info": "bY. Adri",
-    "url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
-    "import": false
-    },
-    {
-	"name": "Apaches",
-	"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-	"info": "bY. yIsus",
-	"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
-	"import": false
-	},
+		{
+		"name": "30 Monedas",
+		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Andor",
+		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
+		"import": false
+		},
+		{
+		"name": "Apaches",
+		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+		"info": "bY. yIsus",
+		"url": "https://af1cionados.vercel.app/serie APACHES.w3u",
+		"import": false
+		},
     	{
-	"name": "Arca, El",
-	"image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
-	"url": "https://af1cionados.vercel.app/serie%20EL%20ARCA.w3u",
-	"info": "bY. Adri",
-	"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
-	"import": false
-	},
+		"name": "Arca, El",
+		"image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20ARCA.w3u",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
+		"import": false
+		},
 		{
 		"name": "Ashoka",
 		"image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
 		"url": "https://aficionados.vercel.app/Series.Ahsoka.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Avatar",
+		"image": "https://i.blogs.es/fba731/avatar-leyenda-aang-netflix-fecha-estreno-mexico-22-febrero-2024/450_1000.jpeg",
+		"url": "https://aficionados.vercel.app/Series.Avatar.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
