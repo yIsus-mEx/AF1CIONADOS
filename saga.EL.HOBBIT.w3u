@@ -1,0 +1,47 @@
+
+{
+"name": "EL HOBBIT",
+"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "El Hobbit: Un viaje inesperado",
+        "image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+        "url": "https://embedv.net/v/pVa4E8MLM7yOkzM",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Hobbit: La desolación de Smaug",
+        "image": "https://pics.filmaffinity.com/the_hobbit_the_desolation_of_smaug-498845622-large.jpg",
+        "url": "https://embedv.net/v/VqbX53gLgW15Qzp",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	{
+	"name": "El Hobbit: La batalla de los cinco ejércitos",
+        "image": "https://pics.filmaffinity.com/the_hobbit_the_battle_of_the_five_armies-282438316-large.jpg",
+        "url": "https://embedv.net/v/8ozgENLXLbo5mjA",
+       	"info": "2014",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
