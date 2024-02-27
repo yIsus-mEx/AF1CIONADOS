@@ -1,0 +1,47 @@
+
+{
+"name": "SEÑOR DE LOS ANILLOS, EL",
+"image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "El señor de los anillos: La comunidad del anillo",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
+        "url": "https://embedv.net/v/k3gG5q3o3jBE1N2",
+       	"info": "[2001]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El señor de los anillos: Las dos torres",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_two_towers-450612576-large.jpg",
+        "url": "https://embedv.net/v/4bQVOj7R7Q85wKm",
+       	"info": "[2002]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El señor de los anillos: El retorno del rey",
+        "image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_return_of_the_king-178294596-large.jpg",
+        "url": "https://embedv.net/v/m7WJxgJgJVB5Bze",
+       	"info": "[2003]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
