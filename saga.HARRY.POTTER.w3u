@@ -1,0 +1,100 @@
+{
+"name": "HARRY POTTER",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/saga.HARRY.POTTER.w3u",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
+"telegram": "@yIsus_mEx",
+"info": "by YIsus_mEx",
+"stations":
+	[
+                {
+                "name": "Harry Potter y La Piedra Filosofal",
+                "info":"[Latino][2001]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
+                "url":"https://archive.org/details/potter.-01",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y La Cámara Secreta",
+                "info":"[Latino][2002]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_chamber_of_secrets_harry_potter_2-420538488-mmed.jpg",
+                "url":"https://archive.org/details/potter.-02",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y El Prisionero de Azkaban",
+                "info":"[Latino][2004]",
+                "image": "https://pics.filmaffinity.com/Harry_Potter_y_el_prisionero_de_Azkaban-240791915-large.jpg",
+                "url":"https://archive.org/details/potter.-03",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y El Cáliz de Fuego",
+                "info":"[Latino][2005]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_goblet_of_fire_harry_potter_4-612673227-mmed.jpg",
+                "url":"https://archive.org/details/potter.-04",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y La Orden del Fénix",
+                "info":"[Latino][2007]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_order_of_the_phoenix_harry_potter_5-448254831-mmed.jpg",
+                "url":"https://archive.org/details/potter.-05",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y El Misterio del Príncipe",
+                "info":"[Latino][2009]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_half_blood_prince_harry_potter_6-140623436-mmed.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnA0NTRzMDA1OHJ60",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y Las Reliquias de la Muerte (parte 1)",
+                "info":"[Latino][2010]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-large.jpg",
+                "url":"https://archive.org/details/potter.-07",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                },
+                {
+                "name": "Harry Potter y Las Reliquias de la Muerte (parte 2)",
+                "info":"[Latino][2011]",
+                "image": "https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_ii-477385286-mmed.jpg",
+                "url":"https://archive.org/details/potter.-08",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+                }
+          
+	]
+}
