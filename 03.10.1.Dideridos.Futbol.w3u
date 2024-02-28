@@ -146,14 +146,6 @@
         		"online":"true"
         		},
 				{
-        		"name": "Celta vs Real Madrid",
-        		"info":"Ingles[25-08-2023]",
-        		"image": "https://phantom-marca.unidadeditorial.es/406943db95cfff0e3ed93619d82dc803/resize/828/f/jpg/assets/multimedia/imagenes/2023/08/24/16928860707313.jpg",
-        		"url": "https://ok.ru/video/6621098085076",
-				"isHot": "true",
-        		"online":"true"
-        		},
-				{
         		"name": "FC Barcelona Vs Real Madrid [Clasico]",
         		"info": "[28-10-2023]",
         		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
@@ -173,18 +165,18 @@
         		"name": "Real Madrid vs Almeria",
 				"info": "[PRIMER TIEMPO]",
         		"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-        		"url":"https://vidhidepro.com/v/tfux5d4glt2u",
+        		"url":"https://vidhidepro.com/f/tfux5d4glt2u",
 				"isHot": "true",
-				"userAgent": "PlusMediaPlayer/0.0.9",
+				"userAgent": "",
         		"online":"true"
         		},
 				{
 				"name": "Real Madrid vs Almeria",
 				"info":"[SEGUNDO TIEMPOR]",
 				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-				"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
+				"url":"https://vidhidepro.com/f/2lz5pcfhkfez",
 				"isHot": "true",
-				"userAgent": "PlusMediaPlayer/0.0.9",
+				"userAgent": "",
 				"online":"true"
 				}
 			]
