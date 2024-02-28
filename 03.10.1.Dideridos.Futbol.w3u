@@ -160,25 +160,7 @@
         		"url": "https://filemoon.sx/d/rdtgf3invur4",
 				"isHot": "true",
         		"online": "true"
-        		},
-				{
-        		"name": "Real Madrid vs Almeria",
-				"info": "[PRIMER TIEMPO]",
-        		"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-        		"url":"https://vidhidepro.com/f/tfux5d4glt2u",
-				"isHot": "true",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-        		"online":"true"
-        		},
-				{
-				"name": "Real Madrid vs Almeria",
-				"info":"[SEGUNDO TIEMPO]",
-				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
-				"url":"https://vidhidepro.com/d/2lz5pcfhkfez",
-				"isHot": "true",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"online":"true"
-				}
+        		}
 			]
 		},
 		{
