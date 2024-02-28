@@ -8,24 +8,23 @@
 "info": "by YIsus_mEx",
 "stations":
 	[
-                {
-                "name": " Volver al Futuro ",
-                "info":"[Latino][1985]",
-                "image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
-                "url":"https://archive.org/details/volver-al-futuro_202202",
-                "userAgent" : "",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": " Volver al Futuro II ",
-                "info":"[Latino][1989]",
-                "image": "https://i.postimg.cc/52gtvK51/Volver-al-Futuro-II.webp",
-                "url":"https://archive.org/details/volver-al-futuro-ii",
-                "userAgent" : "",
-                "isHost":"true",
-                "online":"true"
-                }
-            
-	]
+        {
+        "name": " Volver al Futuro ",
+        "info":"[Latino][1985]",
+        "image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
+        "url":"https://www.linkbox.to/f-detail/ZnAzemRzMDAxcm520",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": " Volver al Futuro II ",
+        "info":"[Latino][1989]",
+        "image": "https://i.postimg.cc/52gtvK51/Volver-al-Futuro-II.webp",
+        "url":"https://archive.org/details/volver-al-futuro-ii",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
 }
