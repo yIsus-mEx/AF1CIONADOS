@@ -142,6 +142,7 @@
         		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
         		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
 				"isHost":"true",
+				"userAgent": "",
         		"online":"true"
         		},
 				{
@@ -174,6 +175,7 @@
         		"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
         		"url":"https://vidhidepro.com/v/tfux5d4glt2u",
 				"isHot": "true",
+				"userAgent": "PlusMediaPlayer/0.0.9",
         		"online":"true"
         		},
 				{
@@ -182,6 +184,7 @@
 				"image": "https://i.postimg.cc/28dhbB7b/madVSalm.jpg",
 				"url":"https://vidhidepro.com/v/2lz5pcfhkfez",
 				"isHot": "true",
+				"userAgent": "PlusMediaPlayer/0.0.9",
 				"online":"true"
 				}
 			]
