@@ -7,7 +7,7 @@
 "telegram": "@yIsus_mEx",
 "info": "by YIsus_mEx",
 "stations":
-	[
+    [
         {
         "name": "Matrix",
         "info":"[Español][1999]",
@@ -24,7 +24,7 @@
         "url":"http://vod.tuxchannel.mx/peliculas4k/matrix.mkv",
        	"isHost": "",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
         {
         "name": "Matrix Reloaded",
@@ -60,7 +60,7 @@
         "url":"http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20revolutions.mkv",
        	"isHost": "",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
         {
         "name": "Matrix Resurrections",
@@ -69,7 +69,16 @@
         "url":"https://upstream.to/m30ykqpgc04e",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Resurrections",
+        "info":"[Latino][2021]",
+        "image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
+        "url":"https://www.tokyvideo.com/es/video/cinerave-matrix-4-resurrecciones-j-c",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
        	}
-	]
+    ]
 }
