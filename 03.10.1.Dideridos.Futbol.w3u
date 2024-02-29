@@ -136,40 +136,41 @@
         "info":"",
         "stations":
             [
-				{
+			{
         		"name": "Real Madrid vs Sevilla",
-        		"info":"",
+        		"info":"[25-02-2024]",
         		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
         		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
-				"isHost":"true",
-				"userAgent": "",
+			"isHost":"true",
+			"userAgent": "",
         		"online":"true"
         		},
-				{
+			{
         		"name": "FC Barcelona Vs Real Madrid [Clasico]",
         		"info": "[28-10-2023]",
         		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
         		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-				"isHot": "true",
+			"isHot": "true",
         		"online":"true"
-				},
-				{
+			},
+			{
         		"name": "Getafe vs Valencia",
         		"info": "[08-12-2023]",
         		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
         		"url": "https://filemoon.sx/d/rdtgf3invur4",
-				"isHot": "true",
+			"isHot": "true",
         		"online": "true"
         		}
 			]
 		},
+
 		{
-       	"name": "Copa del Rey 2023/24",
-        "info":"",
-        "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-        "imageScale": "",
-        "groups":
-        	[
+       		"name": "Copa del Rey 2023/24",
+        	"info":"",
+        	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+        	"imageScale": "",
+        	"groups":
+        		[
 				{
 				"name": "CUARTOS DE FINAL",
 				"info":"",
@@ -252,9 +253,26 @@
 						"online":"true"
 						}
        					]
+				},
+				{
+				"name": "FINAL",
+				"info":"[06-04-2024]",
+				"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "RCD Mallorca VS Athletic Bilbao",
+						"info":"[06-04-2024]",
+						"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+					]
 				}
 			]
-	},
+		},
 
 	{
        	"name": "Champions League  2023/24",
