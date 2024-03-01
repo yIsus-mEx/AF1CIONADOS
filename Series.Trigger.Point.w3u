@@ -7,7 +7,8 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
 	[
- 		{
+ 		
+		{
 		"name": "Temporada 01",
  		"image": "https://i.postimg.cc/RZ7tw1nF/Trigger-Point.png",
  		"imageScale": "",
@@ -59,6 +60,47 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
 				"url":"https://filemoon.sx/d/kx2twzf51rzj",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+ 				"url":"https://vidmoly.me/w/9x57bozu0lk7",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://vidmoly.me/w/fxrgy1juyeh1",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://vidmoly.me/w/uvscrojoh40w",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://vidmoly.me/w/f8r881hhcakc",
 				"isHost":"true",
 				"online":"true"
 				}
