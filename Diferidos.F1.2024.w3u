@@ -8,6 +8,114 @@
 "groups":
     [
 		{
+        "name": "Bahrein 2023 Bahrein [03-05.Mar23]",
+        "info":"",
+        "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"https://filemoon.sx/d/dfu9p21czbox",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"https://filemoon.sx/d/xghgll2cx444",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"https://filemoon.sx/d/cvsqphnd4khh",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Libres 02",
+                "info":"[ESPN]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"https://filemoon.sx/d/jeth2ymldw2b",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Libres 03",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Qualy",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Qualy",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/28ZXZtqM/Bahrein.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/L4qrYLw0/sakhir-2023.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "Bahrein Test de pretemporada 2024",
         "info":"",
         "image": "https://i.postimg.cc/K8NYk6Tx/f1-testing-2024.png",
