@@ -16,6 +16,13 @@
 		"import": false
 		},
 		{
+		"name": "Americans",
+		"image": "https://i.postimg.cc/SNvRxYx4/Americans-2013-Serie.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie AMERICANS.w3u",
+		"import": false
+		},
+		{
 		"name": "Andor",
 		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
 		"info": "bY. Adri",
@@ -208,7 +215,7 @@
 		{
 		"name": "Crowded Room",
 		"image": "https://pics.filmaffinity.com/the_crowded_room-909437741-large.jpg",
-		"url": "https://af1cionados.vercel.app/",
+		"url": "https://af1cionados.vercel.app/serie CROWDED ROOM.w3u",
 		"info": "bY. Adri",
 		"import": false
 		},
@@ -584,6 +591,13 @@
 		"import": false
 		},
 		{
+		"name": "PlayList",
+		"image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie PLAYLIST.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
 		"name": "Poker Face",
 		"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20POKER%20FACE.w3u",
@@ -713,6 +727,13 @@
 		"name": "WestWorld",
 		"url": "https://af1cionados.vercel.app/serie%20WESTWORLD.w3u",
 		"image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "White Lotus",
+		"url": "https://af1cionados.vercel.app/serie WHITE LOTUS.w3u",
+		"image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
 		"info": "bY. aDri",
 		"import": false
 		},

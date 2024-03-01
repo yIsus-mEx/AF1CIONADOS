@@ -9,6 +9,51 @@
 	[
 
 	{
+        "name": "JORNADA 27",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "Bolonia VS Valencia Basket",
+              	"info": "29/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/crkcsiaurdou/Bolonia_VS_Valencia_290224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Alba Berlin VS Maccabi Tel Aviv",
+              	"info": "29/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/ey7j2ya90dwb/Alba_Berlin_VS_Maccabi_290224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Partizan Belgrado VS Anadolu Efes",
+              	"info": "29/02/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/7do819trsytf/Partizan_VS_Anadolu_Efes_290224.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "01/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 26",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	 "info": "",

@@ -1,0 +1,70 @@
+
+
+{
+"name": "PIRATAS DEL CARIBE",
+"image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
+"url": "https://aficionados.vercel.app/saga PIRATAS DEL CARIBE.w3u",
+"info": "[2003][Castellano]",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+
+	[
+	{
+	"name": "La maldición de la Perla Negra",
+        "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
+        "url": "https://embedv.net/v/0DogOGMD4D8xKjM",
+       	"info": "[2003][Castellano]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "El cofre del hombre muerto",
+        "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_man_s_chest-498963663-large.jpg",
+        "url": "https://embedv.net/v/qM1VOPN929mxo4k",
+       	"info": "2006",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "En el fin del mundo",
+        "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_at_world_s_end_aka_pirates_of_the_caribbean_3-210557633-large.jpg",
+        "url": "https://embedv.net/v/MAlwEMYebeMEJ39",
+       	"info": "2007",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "En mareas misteriosas",
+        "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_on_stranger_tides-755499916-large.jpg",
+        "url": "https://embedv.net/v/04rQxWWd8dexb2N",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "La venganza de Salazar ",
+        "image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_men_tell_no_tales-750385069-large.jpg",
+        "url": "https://embedv.net/v/PlBVEZ0kdkl5Dv9",
+       	"info": "2017",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}

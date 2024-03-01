@@ -102,12 +102,58 @@
 		},
 
 		{
+		"name":"David Bisbal, El documental",
+		"image":"https://i.postimg.cc/vBdyNyZP/David-Bisbal-El-Documental-2023.png",
+		"stations":
+			[
+			{
+      			"name": "David Bisbal, El documental",
+      			"info": "[Español 2023]",
+      			"image": "https://i.postimg.cc/vBdyNyZP/David-Bisbal-El-Documental-2023.png",
+      			"url": "https://upstream.to/z50pumaeow55",
+      			"embed": "",
+      			"isHost": "true",
+      			"online": "true",
+      			"import": false
+    			}
+			]
+		},
+
+		{
+		"name":"Erase una vez un estudio",
+		"image":"https://pics.filmaffinity.com/once_upon_a_studio-161910896-large.jpg",
+		"stations":
+			[
+    			{
+      			"name": "Erase una vez un estudio",
+      			"image": "https://pics.filmaffinity.com/once_upon_a_studio-161910896-large.jpg",
+      			"url": "https://upstream.to/7ptei7fdpl0d",
+			"info": "2023",
+      			"embed": "",
+      			"isHost": "true",
+      			"online": "true",
+      			"userAgent": "PlusMediaPlayer/0.0.9",
+      			"import": false
+    			}
+			]
+		},
+
+		{
+		"name": "Gran estafa de los teleoperadores",
+		"image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
+		"url": "https://af1cionados.vercel.app/DoCuSeRie GRAN ESTAFA DE LOS TELEOPERADORES.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+
+		{
 		"name": "Grandes robos de la historia",
 		"image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
 		"url": "https://af1cionados.vercel.app/DoCuSerie ROBOS HISTORICOS.w3u",
 		"info": "bY. Adri",
 		"import": false
 		},
+
 		{
 		"name": "Historias de Crimenes",
 		"image": "https://pics.filmaffinity.com/una_historia_de_crimenes-210550889-large.jpg",
@@ -115,6 +161,26 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+
+		{
+		"name":"Kathrin Bigelow, Hollywood en accion",
+		"image":"https://pics.filmaffinity.com/kathryn_bigelow_hollywood_sous_adrenaline-806501527-large.jpg",
+		"stations":
+			[
+    			{
+      			"name": "Kathrin Bigelow, Hollywood en accion",
+      			"image": "https://pics.filmaffinity.com/kathryn_bigelow_hollywood_sous_adrenaline-806501527-large.jpg",
+      			"url": "https://upstream.to/2v8bjutnvu68",
+      			"info": "[2023]",
+      			"embed": "",
+      			"isHost": "true",
+      			"online": "true",
+      			"userAgent": "PlusMediaPlayer/0.0.9",
+      			"import": false
+			}
+			]
+    		},
+
 		{
 		"name": "Madoff, El Monstruo de Wall Street",
 		"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
@@ -122,10 +188,38 @@
 		"info": "bY. Adri",
 		"import": false
 		},
+
 		{
 		"name": "Matar Al Presidente",
 		"image": "https://pics.filmaffinity.com/Matar_al_presidente_Miniserie_de_TV-918151512-large.jpg",
 		"url": "https://af1cionados.vercel.app/DoCuSerie MATAR AL PRESIDENTE.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+
+		{
+		"name":"Merkel",
+		"image":"https://pics.filmaffinity.com/merkel-572914449-large.jpg",
+		"stations":
+			[
+   			{
+      			"name": "Merkel",
+      			"image": "https://pics.filmaffinity.com/merkel-572914449-large.jpg",
+      			"url": "https://upstream.to/5c77ju1qqpbm",
+     			 "info": "[2022]",
+      			"embed": "",
+      			"isHost": "true",
+      			"online": "true",
+      			"userAgent": "PlusMediaPlayer/0.0.9",
+      			"import": false
+			}
+			]
+    		},
+
+		{
+		"name": "Picaro, Pequeño Nicolas, El",
+		"image": "https://pics.filmaffinity.com/picaro_el_pequeno_nicolas-161657452-large.jpg",
+		"url": "https://af1cionados.vercel.app/DoCuSerie PICARO NICOLAS.w3u",
 		"info": "bY. Adri",
 		"import": false
 		},
@@ -189,5 +283,6 @@
 				}
 			]
 		}
+
 	]
 }
