@@ -7,6 +7,29 @@
 "info": "bY yIsus_mEX",
 "groups": 
 	[
+
+
+{
+"name": "Corredor del laberinto",
+"image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
+"url": "https://af1cionados.vercel.app/saga%20CORREDOR%20DEL%20LABERINTO.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
+{
+"name": "Crepusculo",
+"image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
+"url": "https://af1cionados.vercel.app/saga%20CREPUSCULO.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
+{
+"name": "Equalizer",
+"image": "https://i.postimg.cc/J0jn42pD/Equalizer-1-2014-Pelicula.jpg",
+"url": "https://af1cionados.vercel.app/saga%20EQUALIZER.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 		{
 		"name": "Harry Potter",
 		"url": "https://aficionados.vercel.app/saga.HARRY.POTTER.w3u",
@@ -35,6 +58,13 @@
     	"info": "bY. yIsus",
     	"import": false
     	},
+{
+"name": "Padre no hay mas que uno",
+"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno-289733769-large.jpg",
+"url": "https://af1cionados.vercel.app/saga%20PADRE%20NO%20HAY%20MAS%20QUE%20UNO.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 		{
     	"name": "Piratas del Caribe",
     	"image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
@@ -42,6 +72,13 @@
     	"info": "bY. aDri",
     	"import": false
     	},
+{
+"name": "[REC] Terror sin pausa",
+"image": "https://i.postimg.cc/t4hC0Jp8/REC-Terror-sin-pausa-2022-Pelicula.jpg",
+"url": "https://af1cionados.vercel.app/saga%20REC.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 		{
     	"name": "Resident Evil",
     	"image": "https://pics.filmaffinity.com/resident_evil-587544510-large.jpg",
@@ -56,6 +93,20 @@
     	"info": "bY. aDri",
     	"import": false
     	},
+{
+"name": "Solo en casa",
+"image": "https://pics.filmaffinity.com/home_alone-163260879-large.jpg",
+"url": "https://af1cionados.vercel.app/saga%20SOLO%20EN%20CASA.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
+{
+"name": "Star wars",
+"image": "https://pics.filmaffinity.com/star_wars-166209019-large.jpg",
+"url": "https://af1cionados.vercel.app/saga%20STAR%20WARS.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 		{
 		"name": "Volver al Futuro",
 		"url": "https://aficionados.vercel.app/saga.VOLVER.AL.FUTURO.w3u",
