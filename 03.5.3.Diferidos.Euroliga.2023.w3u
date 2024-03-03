@@ -8,13 +8,13 @@
 "groups": 
 	[
 
-	{
+		{
         "name": "JORNADA 27",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "Bolonia VS Valencia Basket",
               	"info": "29/02/24",
               	"online": "true",
@@ -23,7 +23,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Alba Berlin VS Maccabi Tel Aviv",
               	"info": "29/02/24",
               	"online": "true",
@@ -32,7 +32,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Partizan Belgrado VS Anadolu Efes",
               	"info": "29/02/24",
               	"online": "true",
@@ -41,19 +41,63 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
-              	"name": "",
+           		{
+              	"name": "Zalguiris vs Olympiacos",
+              	"info": "01/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/5ycu0c3ijly5",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Fenerbahce vs Baskonia",
+              	"info": "01/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/uh5czhag1hu6",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "ASVEL Lyon vs Milano",
+              	"info": "01/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/zosn1lejdohl",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "FC Barcelona vs As Monaco ",
+              	"info": "01/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/hh6077wba87u",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "FC Bayern Munich vs Estrella Roja Belgrado",
+              	"info": "01/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/unrecy8e6fel",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+				{
+              	"name": "Real Madrid vs Panathinaikos",
               	"info": "01/03/24",
               	"online": "true",
               	"image": "",
               	"url": "",
               	"userAgent":"",
-              	"isHost": "true"
+              	"isHost": ""
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "JORNADA 26",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	 "info": "",
