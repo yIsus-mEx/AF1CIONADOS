@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Rozenstruik vs Gaziev",
+         "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Rozenstruik vs Gaziev",
+                "info":"[Preliminares]",
+                "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
+                "url":"https://embedv.net/v/rabVOQQ1Q1NOKdW",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Rozenstruik vs Gaziev",
+                "info":"[Estelares]",
+                "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
+                "url":"https://embedv.net/v/4bQVOj7m7g35wKm",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Moreno vs Royval 2",
          "image": "https://i.postimg.cc/Ss587xBf/UFC-Fight-Night-Moreno-vs-Royval-2.png",
          "imageScale": "",
