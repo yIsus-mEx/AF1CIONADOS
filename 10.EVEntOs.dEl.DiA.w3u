@@ -7,84 +7,23 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-        
         {
-        "name": "América vs Chivas",
-        "info":"[Tudn]",
+        "name": "F1 GP Jeddah",
+        "info":"[Dazn F1]",
         "online":"true",
-        "image": "",
-        "url": "https://mrgamingstreams.com/soccer-1",
+        "image": "https://i.postimg.cc/Jzs3n432/ferrari-poster-saudi-arabian.png",
+        "url": "https://trans.mrgaminghoster.xyz/mrgamingf1es.m3u8",
         "userAgent": "",
         "embed": "",
         "isHost": "true"
         },
         {
-        "name": "América vs Chivas",
-        "info":"[Iphone]",
+        "name": "F1 GP Jeddah",
+        "info":"[Dazn F1]",
         "online":"true",
-        "image": "https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx305209.jpg",
-        "url": "https://mrgamingstreams.com/soccer-1",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Moreno vs Royval 2",
-        "info":"[Latino]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/UFC_Fight_Night_237_poster.jpg/220px-UFC_Fight_Night_237_poster.jpg",
-        "url": "http://disfruta.net:80/Justplay/CRYrHtUeVf/1074",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Moreno vs Royval 2",
-        "info":"[Latino]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/UFC_Fight_Night_237_poster.jpg/220px-UFC_Fight_Night_237_poster.jpg",
-        "url": "http://disfruta.net:80/Justplay/CRYrHtUeVf/1073",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Moreno vs Royval 2",
-        "info":"[Latino]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/UFC_Fight_Night_237_poster.jpg/220px-UFC_Fight_Night_237_poster.jpg",
-        "url": "http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/375",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Moreno vs Royval 2",
-        "info":"[Latino]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/UFC_Fight_Night_237_poster.jpg/220px-UFC_Fight_Night_237_poster.jpg",
-        "url": "http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/376",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Moreno vs Royval 2",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/UFC_Fight_Night_237_poster.jpg/220px-UFC_Fight_Night_237_poster.jpg",
-        "url": "https://freestreams-live1se.nu/ufc/",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "UFC Fight Night: Moreno vs Royval 2",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/UFC_Fight_Night_237_poster.jpg/220px-UFC_Fight_Night_237_poster.jpg",
-        "url": "https://freestreams-live1se.nu/ufc-sp/",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "image": "https://i.postimg.cc/Jzs3n432/ferrari-poster-saudi-arabian.png",
+        "url": "https://mrgamingstreams.com/f1",
+        "userAgent": "",
         "embed": "",
         "isHost": "true"
         }
