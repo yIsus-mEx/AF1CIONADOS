@@ -8,38 +8,52 @@
 "groups":
     [
          {
-         "name": "Open Australia 2024",
+         "name": "Australian Open 2024",
          "image": "https://i.postimg.cc/FzLq1YhZ/open-aust.png",
          "url": "https://aficionados.vercel.app/Diferidos.Tennis.Open.Australia.2024.w3u",
-         "info":"",
+         "info":"[VIC, Australia]",
          "import": false
         },
          {
-         "name": "Torneo Indian Wells 2024",
+         "name": "Open BNP Paribas 2024",
          "image": "https://i.postimg.cc/1XvwF3nK/2024-03-10-Torneo-Indian-Wells-2024.png",
          "url": "",
-         "info":"",
+         "info":"[Indian Wells, USA]",
+         "import": false
+        },
+         {
+         "name": "Barcelona Open Banc Sabadell 2024",
+         "image": "https://i.postimg.cc/hPtg859C/2024-04-10-Open-Barcelona-2024.jpg",
+         "url": "",
+         "info":"[Barcelona, España]",
+         "import": false
+        },
+         {
+         "name": "Mutua Madrid Open 2024",
+         "image": "https://i.postimg.cc/0QnFb9H9/2024-0-10-Open-Mutua-Madrid-2024.jpg",
+         "url": "",
+         "info":"[Madrid, España]",
          "import": false
         },
         {
          "name": "Open Roland Garros 2024",
          "image": "https://i.postimg.cc/kG98phtD/2024-05-10-Open-Roland-Garros-2024.jpg",
          "url": "",
-         "info":"",
+         "info":"[Paris, Francia]",
          "import": false
         },
         {
          "name": "Open Wimbledon 2024",
          "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
          "url": "",
-         "info":"",
+         "info":"[Londres, UK]",
          "import": false
         },
         {
-         "name": "Open United State 2024",
+         "name": "US Open 2024",
          "image": "https://i.postimg.cc/3NP7nzqD/2024-08-10-Open-US-2024.png",
          "url": "",
-         "info":"",
+         "info":"[Nueva York, USA]",
          "import": false
         }
 
