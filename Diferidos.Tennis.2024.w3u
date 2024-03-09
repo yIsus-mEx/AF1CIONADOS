@@ -8,7 +8,7 @@
 "groups":
     [
          {
-         "name": "Australia Open 2024",
+         "name": "Open Australia 2024",
          "image": "https://i.postimg.cc/FzLq1YhZ/open-aust.png",
          "url": "https://aficionados.vercel.app/Diferidos.Tennis.Open.Australia.2024.w3u",
          "info":"",
@@ -23,10 +23,25 @@
         },
         {
          "name": "Open Roland Garros 2024",
-         "image": "",
+         "image": "https://i.postimg.cc/kG98phtD/2024-05-10-Open-Roland-Garros-2024.jpg",
+         "url": "",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Open Wimbledon 2024",
+         "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
+         "url": "",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Open United State 2024",
+         "image": "https://i.postimg.cc/3NP7nzqD/2024-08-10-Open-US-2024.png",
          "url": "",
          "info":"",
          "import": false
         }
+
      ]
 }
