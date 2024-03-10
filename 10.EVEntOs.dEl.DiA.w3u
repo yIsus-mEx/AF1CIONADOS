@@ -55,7 +55,7 @@
         "url": "https://latifistreams.com/motorsport/motogp-qatar",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
         },
         {
         "name": "Indycar",
@@ -65,7 +65,7 @@
         "url": "https://latifistreams.com/motorsport/indy-st-pete",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
         },
         {
         "name": "Nascar",
