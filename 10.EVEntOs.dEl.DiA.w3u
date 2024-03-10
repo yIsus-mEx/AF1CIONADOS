@@ -52,20 +52,20 @@
         "info":"[Dazn]",
         "online":"true",
         "image": "https://i.postimg.cc/7LHhYJCG/Qatar-GP-3-2.webp",
-        "url": "http://home-playtv.com:8080/live/skyperu2021/APZXnTvQrC6v/199539.m3u8",
+        "url": "https://latifistreams.com/motorsport/motogp-qatar",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": ""
+        "isHost": "true"
         },
         {
         "name": "Indycar",
         "info":"[]",
         "online":"true",
         "image": "https://storage.googleapis.com/stateless-naptownbuzz-com/2024/03/4c4adbbd-2024-firestone-grand-prix-of-st.-petersburg.jpg",
-        "url": "",
+        "url": "https://latifistreams.com/motorsport/indy-st-pete",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": ""
+        "isHost": "true"
         },
         {
         "name": "Nascar",
