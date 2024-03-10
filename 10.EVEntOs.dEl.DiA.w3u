@@ -59,13 +59,23 @@
         },
         {
         "name": "Indycar",
-        "info":"[]",
+        "info":"[Skay F1]",
         "online":"true",
         "image": "https://storage.googleapis.com/stateless-naptownbuzz-com/2024/03/4c4adbbd-2024-firestone-grand-prix-of-st.-petersburg.jpg",
         "url": "https://freestreams-live1se.nu/skysportsf1-stream/",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
+        },
+        {
+        "name": "Indycar",
+        "info":"[ESPN]",
+        "online":"true",
+        "image": "https://storage.googleapis.com/stateless-naptownbuzz-com/2024/03/4c4adbbd-2024-firestone-grand-prix-of-st.-petersburg.jpg",
+        "url": "http://lobo-tv.live:8080/live/fenixplay/pZFHj9uMLQXz2S/155475.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         },
         {
         "name": "Nascar",
