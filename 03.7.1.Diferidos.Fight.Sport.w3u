@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC 299: O'Malley vs Vera 2",
+         "image": "https://i.postimg.cc/ZY2gKKzc/1280x720-20240309202411.jpg",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 299: O'Malley vs Vera 2",
+                "info":"[Preliminares][Latino]",
+                "image": "https://i.postimg.cc/ZY2gKKzc/1280x720-20240309202411.jpg",
+                "url":"https://embedv.net/v/dNjgOl4G0eqO9Wn",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 299: O'Malley vs Vera 2",
+                "info":"[Estelares][Latino]",
+                "image": "https://i.postimg.cc/ZY2gKKzc/1280x720-20240309202411.jpg",
+                "url":"https://embedv.net/v/P0poO1013PkEz17",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Rozenstruik vs Gaziev",
          "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
          "imageScale": "",
