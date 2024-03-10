@@ -8,41 +8,21 @@
 "stations":
     [
         {
-        "name": "UFC 299",
+        "name": "UFC 299: O'Malley vs Vera 2",
         "info":"[Eurosport]",
         "online":"true",
-        "image": "",
+        "image": "https://espnpressroom.com/us/files/2024/03/UFC_299_Miami_KA_3840x2160_v4-scaled.jpg",
         "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/1/ae93257fe8a14c5384349ce22bc5e2c4/hdntl=exp=1710088891~acl=/primary/1/ae93257fe8a14c5384349ce22bc5e2c4/*~data=hdntl~hmac=f3fc7b2c0f59f86a4a42d47c47a8572a0032d53d0f41e938316a8aa31bdf8457/start/1710032398/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:eng,spa,qis;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1710088891~acl=/primary/1/ae93257fe8a14c5384349ce22bc5e2c4/start/1710032398/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aeng%2Cspa%2Cqis%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=3f9267fd48c438bf892f1f7df89880b75f9c3882c0fba4ccd66e52dd71587764",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "UFC 299",
+        "name": "UFC 299: O'Malley vs Vera 2",
         "info":"[Eurosport]",
         "online":"true",
-        "image": "",
+        "image": "https://espnpressroom.com/us/files/2024/03/UFC_299_Miami_KA_3840x2160_v4-scaled.jpg",
         "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/1/ae93257fe8a14c5384349ce22bc5e2c4/hdntl=exp=1710088891~acl=/primary/1/ae93257fe8a14c5384349ce22bc5e2c4/*~data=hdntl~hmac=f3fc7b2c0f59f86a4a42d47c47a8572a0032d53d0f41e938316a8aa31bdf8457/start/1710032398/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:eng,spa,qis;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1710088891~acl=/primary/1/ae93257fe8a14c5384349ce22bc5e2c4/start/1710032398/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aeng%2Cspa%2Cqis%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=3f9267fd48c438bf892f1f7df89880b75f9c3882c0fba4ccd66e52dd71587764",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "Anthony Joshua vs Francis Ngannou",
-        "info":"[Dazn]",
-        "online":"true",
-        "image": "https://e00-us-marca.uecdn.es/assets/multimedia/imagenes/2024/03/04/17095600209717.jpg",
-        "url": "https://1stream.eu/title-game/boxing/anthony-joshua-vs-francis-ngannou-live-stream/8687",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "Anthony Joshua vs Francis Ngannou",
-        "info":"[Dazn]",
-        "online":"true",
-        "image": "https://e00-us-marca.uecdn.es/assets/multimedia/imagenes/2024/03/04/17095600209717.jpg",
-        "url": "https://buffstreams.app/title-game/boxing/anthony-joshua-vs-francis-ngannou-live-streams-links",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
