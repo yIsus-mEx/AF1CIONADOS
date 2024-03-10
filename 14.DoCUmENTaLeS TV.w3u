@@ -276,6 +276,25 @@
 		},
 
 		{
+		"name":"Social Dilema",
+		"image":"https://pics.filmaffinity.com/the_social_dilemma-384147385-large.jpg",
+		"stations":
+			[
+    			{
+      			"name": "Social Dilema",
+      			"image": "https://pics.filmaffinity.com/the_social_dilemma-384147385-large.jpg",
+      			"url": "https://filemoon.sx/d/d869vdjiwpk4/Social_Dilema__2020_Documental_.mp4",
+      			"info": "[2020]",
+      			"embed": "",
+      			"isHost": "true",
+      			"online": "true",
+      			"userAgent": "PlusMediaPlayer/0.0.9",
+      			"import": false
+			}
+			]
+    		},
+
+		{
 		"name":"Telarañas, el segundo imperio Británico",
 		"image":"https://pics.filmaffinity.com/the_spider_s_web_britain_s_second_empire-853403216-large.jpg",
 		"stations":
