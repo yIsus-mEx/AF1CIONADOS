@@ -9,6 +9,96 @@
     [
 
 	{
+        "name": "JORNADA 24",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+      		{
+              	"name": "",
+              	"info": "09/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "09/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "09/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Lenovo Tenerife VS Coviran Granada",
+              	"info": "09/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "10/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "10/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "10/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "10/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Baskonia VS Barca",
+              	"info": "10/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 23",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
         "info": "",
