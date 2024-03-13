@@ -21,6 +21,15 @@
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
                 },
+                {
+                "name": "Carrera",
+                "info":"[Round 01][Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/xCtWQCHq/1-StPete.png",
+                "url" :"https://embedme.xyz/d/q16rr7xxoj3c",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
 				{
                 "name": "Carrera",
                 "info":"[Round 01][Ingles]",
