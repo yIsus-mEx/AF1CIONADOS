@@ -1,0 +1,48 @@
+
+{
+"name": "EL PADRINO",
+"image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
+"url": "https://aficionados.vercel.app/saga EL PADRINO.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "EL PADRINO I",
+	"info": "[Español]",
+	"image": "https://pics.filmaffinity.com/the_godfather-488102675-large.jpg",
+        "url": "https://embedv.net/v/qM1VOPN3DBnxo4k",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "EL PADRINO II",
+        "image": "https://pics.filmaffinity.com/the_godfather_part_ii-617901053-large.jpg",
+        "url": "https://embedv.net/v/04rQxWWVK4Axb2N",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "EL PADRINO III",
+        "image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
+        "url": "https://embedv.net/v/njJYOd30Va7Ee9o",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+}
+
