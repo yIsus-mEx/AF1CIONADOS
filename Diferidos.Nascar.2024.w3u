@@ -1,0 +1,84 @@
+{
+"name": "Nascar 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Diferidos.Nascar.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+		{
+        "name": "R04 Shriners Children’s 500",
+        "info":"",
+        "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Shriners Children’s 500",
+                "info":"[DAZN]",
+                "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R03 Pennzoil 400",
+        "info":"",
+        "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Pennzoil 400",
+                "info":"[DAZN]",
+                "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R02 Ambetter Health 400",
+        "info":"",
+        "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Ambetter Health 400",
+                "info":"[DAZN]",
+                "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R01 Daytona 500",
+        "info":"",
+        "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "Daytona 500",
+                "info":"[Fox Sport]",
+                "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
+                "url":"",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}
