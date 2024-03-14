@@ -1,0 +1,52 @@
+{
+"name": "Shogun",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Series.Shogun.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+ 				"url":"https://moonembed.xyz/d/gbfpf202td70",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+				"url":"https://moonembed.xyz/d/9prcgf0damxf",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+				"url":"https://moonembed.xyz/d/h6z2simjhp6o",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+				"url":"https://moonembed.xyz/d/onxruuy6w1yy",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

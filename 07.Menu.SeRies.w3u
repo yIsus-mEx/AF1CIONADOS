@@ -206,6 +206,13 @@
 		"import": false
 		},
 		{
+		"name": "Constellation",
+		"image": "https://pics.filmaffinity.com/constellation-688391671-mmed.jpg",
+		"url": "https://aficionados.vercel.app/Series.Constellation.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Cristobal Balenciaga",
 		"image": "https://pics.filmaffinity.com/cristobal_balenciaga-794914050-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie CRISTOBAL BALENCIAGA.w3u",
@@ -679,6 +686,13 @@
 		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
 		"info": "bY. aDri",
 		"url": "https://af1cionados.vercel.app/serie%20SUITS%2C%20LA%20CLAVE%20DEL%20EXITO.w3u",
+		"import": false
+		},
+		{
+		"name": "Shogun",
+		"image": "https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+		"info": "bY. yIsus",
+		"url": "https://aficionados.vercel.app/Shogun.w3u",
 		"import": false
 		},
 	    {
