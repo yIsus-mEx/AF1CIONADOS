@@ -9,6 +9,33 @@
 	[
 
 	{
+        "name": "JORNADA 29",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "Maccabi Tel Aviv VS Crvezna",
+              	"info": "14/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/63o14365vnrk/Maccabi_VS_Crvezna_140324.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Alba Berlín VS Monaco",
+              	"info": "14/03/24",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/kvkzfl03sm9c/Berlin_VS_Monaco_140324.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 28",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
