@@ -9,6 +9,42 @@
     [
 
 	{
+        "name": "JORNADA 25",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+      		{
+              	"name": "Murcia VS Obradoiro",
+              	"info": "16/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/wbtzws0ouivn/Murcia_VS_Obradoiro_160324.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Andorra VS Tenerife",
+              	"info": "16/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/hpupchch3zq9/Andorra_VS_Tenerife_160324.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Baskonia VS Granada",
+              	"info": "16/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/tiqoy0v731h3/Baskonia_VS_Granada_160324.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 24",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
         "info": "",
