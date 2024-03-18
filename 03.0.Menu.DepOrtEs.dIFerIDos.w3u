@@ -49,6 +49,13 @@
          "info":"",
          "import": false
         },
+        {
+         "name": "Formula E",
+         "image": "https://i.postimg.cc/hPthvFgB/Logo-Formula-E.png",
+         "url": "https://aficionados.vercel.app/Diferidos.ForMUlA.E.w3u",
+         "info":"",
+         "import": false
+        },
 		{
          "name": "Basket Europeo",
          "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
@@ -95,13 +102,6 @@
          "name": "Football Mix",
          "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
          "url": "https://aficionados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "Formula E",
-         "image": "https://i.postimg.cc/hPthvFgB/Logo-Formula-E.png",
-         "url": "https://aficionados.vercel.app/Diferidos.ForMUlA.E.w3u",
          "info":"",
          "import": false
         },

@@ -9,14 +9,14 @@
     [
         {
         "name": "IndyCar Grand Prix of St. Petersburg",
-        "image": "https://i.postimg.cc/xCtWQCHq/1-StPete.png",
+        "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
         "stations":
             [
                 {
                 "name": "Carrera",
                 "info":"[Round 01][Latino]",
                 "online": "true",
-                "image": "https://i.postimg.cc/xCtWQCHq/1-StPete.png",
+                "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
                 "url" :"https://embedme.xyz/d/w8r5ep5gsvst",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
@@ -25,7 +25,7 @@
                 "name": "Carrera",
                 "info":"[Round 01][Español]",
                 "online": "true",
-                "image": "https://i.postimg.cc/xCtWQCHq/1-StPete.png",
+                "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
                 "url" :"https://embedme.xyz/d/q16rr7xxoj3c",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
@@ -34,7 +34,7 @@
                 "name": "Carrera",
                 "info":"[Round 01][Ingles]",
                 "online": "true",
-                "image": "https://i.postimg.cc/xCtWQCHq/1-StPete.png",
+                "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
                 "url" :"https://embedmoon.pro/e/xah3pnml54dw",
                 "userAgent" : "",
                 "isHost": "true"
