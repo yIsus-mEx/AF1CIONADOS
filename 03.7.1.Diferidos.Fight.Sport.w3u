@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Tuivasa vs Tybura",
+         "image": "",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Tuivasa vs Tybura",
+                "info":"[Latino]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Tuivasa vs Tybura",
+                "info":"[Español]",
+                "image": "",
+                "url":"https://fmembed.cc/d/mb2wxfovr2v0",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 299: O'Malley vs Vera 2",
          "image": "https://i.postimg.cc/wxkNvCMB/UFC299.png",
          "imageScale": "",
