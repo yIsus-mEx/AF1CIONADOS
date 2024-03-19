@@ -8,6 +8,33 @@
 "groups":
     [
 		{
+        "name": "R05 Food City 500",
+        "info":"",
+        "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Food City 500",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
+                "url":"https://fmembed.cc/d/6rnf93pqk8xr",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Food City 500",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
+                "url":"https://fmembed.cc/d/oktladtqtntz",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R04 Shriners Children’s 500",
         "info":"",
         "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",

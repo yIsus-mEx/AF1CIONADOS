@@ -1,75 +1,135 @@
-
 {
-"name": "Open BNP Paribas 2024",
+"name": "Open Australia 2024",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://aficionados.vercel.app/Diferidos.Tennis.Open.Indian.Wells.2024.w3u",
-"image": "https://i.postimg.cc/1XvwF3nK/2024-03-10-Torneo-Indian-Wells-2024.png",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"stations":
+"groups": 
     [
-		{
-		"name": "Arnaldi VS Alcaraz",
-		"image": "https://i.postimg.cc/BZMnZD2R/2024-03-05-Arnaldi-vs-Alcaraz.jpg",
-		"info": "05/03/2024",
-		"url": "https://filemoon.sx/d/88roidjnhg40",
-		"embed": "",
-		"isHot": "true",
-		"online": "true"
-		},
-		{
-		"name": "Djokovic VS Vukic",
-		"image": "https://i.postimg.cc/0Qq7Z7ZD/2024-03-09-Djokovic-vs-Vukic.jpg",
-		"info": "09/03/2024",
-		"url": "https://filemoon.sx/d/ezo7k29x3fpd",
-		"embed": "",
-		"isHot": "true",
-		"online": "true"
-		},
-		{
-		"name": "Auger-Aliassime VS Alcaraz",
-		"image": "https://i.postimg.cc/ZYDdq1S8/2024-03-10-Auger-Aliassime-VS-Alcaraz.jpg",
-		"info": "10/03/2024",
-		"url": "https://filemoon.sx/d/97x4a1yj0qyf",
-		"embed": "",
-		"isHot": "true",
-		"online": "true"
-		},
-		{
-		"name": "Djokovic VS Nardi",
-		"image": "https://i.postimg.cc/9fZ2HJ5J/2024-03-11-Djokovic-vs-Nardi.jpg",
-		"info": "11/03/2024",
-		"url": "https://filemoon.sx/d/3nux1dmlb1de",
-		"embed": "",
-		"isHot": "true",
-		"online": "true"
-		},
-		{
-		"name": "Marozsan VS Alcaraz",
-		"image": "https://i.postimg.cc/L6BB9spY/2024-03-12-Marozsan-VS-Alcaraz-Indian-Wells.jpg",
-		"info": "12/03/2024",
-		"url": "https://fmoonembed.pro/d/1h46udd8ks2p",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-		"isHot": "true",
-		"online": "true"
-		},
-		{
-		"name": "Zverev VS Alcaraz",
-		"image": "https://i.postimg.cc/tTgM9vW6/2024-03-14-Zverev-VS-Alcaraz-Indian-Wells.png",
-		"info": "14/03/2024",
-		"url": "https://filemoon.sx/d/1ck5cmycs0t4/Zverev_VS_Alcaraz_140324.mp4",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-		"isHot": "true",
-		"online": "true"
-		},
-		{
-		"name": "Alcaraz VS Sinner",
-		"image": "https://i.postimg.cc/529r7bYp/2024-03-17-Alcaraz-VS-Sinner-Indian-Wells.jpg",
-		"info": "17/03/2024",
-		"url": "https://filemoon.sx/d/o8898zu5mdhh/Semifinal_Indian_Wells_Sinner_VS_Alcaraz_170324_Deportes.mkv",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-		"isHot": "true",
-		"online": "true"
-		}
+        {
+        "name": "Segunda Ronda",
+        "image": "https://i.postimg.cc/7h1L3BCL/Round02.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Djokovic VS Vukic",
+                "image": "https://i.postimg.cc/y8FQCcMz/Djokovic-Round02.png",
+                "info": "09/03/2024",
+                "url": "https://filemoon.sx/d/ezo7k29x3fpd",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                },
+                {
+		        "name": "Arnaldi VS Alcaraz",
+		        "image": "https://i.postimg.cc/FFy7cRXH/Alcaraz-Round02.png",
+		        "info": "05/03/2024",
+		        "url": "https://filemoon.sx/d/88roidjnhg40",
+		        "isHot": "true",
+		        "online": "true"
+		        }
+            ]
+        },
+        {
+        "name": "Tercera Ronda",
+        "image": "https://i.postimg.cc/NFrrX7tJ/Round03.png",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Auger-Aliassime VS Alcaraz",
+                "image": "https://i.postimg.cc/rFHM3XSr/Alcaraz-Round03.png",
+                "info": "10/03/2024",
+                "url": "https://filemoon.sx/d/97x4a1yj0qyf",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                },
+                {
+                "name": "Djokovic VS Nardi",
+                "image": "https://i.postimg.cc/Y0dMpjhp/Djokovic-Round03.png",
+                "info": "11/03/2024",
+                "url": "https://filemoon.sx/d/3nux1dmlb1de",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Cuarta Ronda",
+        "image": "https://i.postimg.cc/gjXggk1M/Round04.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Marozsan VS Alcaraz",
+                "image": "https://i.postimg.cc/QtXQBxXB/Alcaraz-Round04.png",
+                "info": "12/03/2024",
+                "url": "https://fmoonembed.pro/d/1h46udd8ks2p",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Cuartos de Final",
+        "image": "https://i.postimg.cc/7Zf3vY9D/quarter-final.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Zverev VS Alcaraz",
+                "image": "https://i.postimg.cc/sg5k4wRk/alcaraz-quartos.png",
+                "info": "14/03/2024",
+                "url": "https://filemoon.sx/d/1ck5cmycs0t4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Semifinal",
+        "image": "https://i.postimg.cc/Wb3dfYpJ/semifinal.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Alcaraz VS Sinner",
+                "image": "https://i.postimg.cc/Z57T1JR8/Alcaraz-semifinal.png",
+                "info": "17/03/2024",
+                "url": "https://filemoon.sx/d/o8898zu5mdhh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        }
+        {
+        "name": "Final",
+        "image": "https://i.postimg.cc/sDjZpDZy/Final.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Alcaraz Vs Medvedev",
+                "info": "[17.03.24]",
+                "image": "https://i.postimg.cc/VkZ31RCT/Alcaraz-Final.png",
+                "url": "https://fmembed.cc/d/y3s5lsup1pp9",
+                "isHost": "true",
+                "online": "true"
+                }
+            ]
+        }
     ]
 }
