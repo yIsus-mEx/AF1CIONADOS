@@ -9,6 +9,24 @@
     [
 
 	{
+        "name": "JORNADA 26",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 25",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
         "info": "",
@@ -83,6 +101,15 @@
               	"online": "true",
               	"image": "",
               	"url": "https://filemoon.sx/d/pxmz2xeqpkv9/Sourne_Bilbao_VS_Juventut_Badalona_170324.mp4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Barca VS Breogan",
+              	"info": "17/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/3534o424lo84/Baloncesto_LigaEndesa_Barca_vs_Breo_17-03-2024.mkv",
               	"userAgent":"",
               	"isHost": "true"
               	}

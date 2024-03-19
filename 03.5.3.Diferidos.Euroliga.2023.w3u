@@ -9,6 +9,24 @@
 	[
 
 	{
+        "name": "JORNADA 30",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 29",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
