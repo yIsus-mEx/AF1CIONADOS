@@ -1,0 +1,68 @@
+{
+"name": "En Nombre De La Rosa",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://aficionados.vercel.app/Series.En.Nombre.De.La.Rosa.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/Kjz3cqgQ/Il-nome-della-Rosa.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://m.media-amazon.com/images/I/614JaHt8DqL._AC_UF1000,1000_QL80_.jpg",
+ 				"url":"https://filemoon.sx/d/lpd6ypeli5dt",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://m.media-amazon.com/images/I/614JaHt8DqL._AC_UF1000,1000_QL80_.jpg",
+				"url":"https://filemoon.sx/d/zccz9jxbuykp",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://m.media-amazon.com/images/I/614JaHt8DqL._AC_UF1000,1000_QL80_.jpg",
+				"url":"https://filemoon.sx/d/2pcsrih1ab98",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://m.media-amazon.com/images/I/614JaHt8DqL._AC_UF1000,1000_QL80_.jpg",
+				"url":"https://filemoon.sx/d/knl8pqdwfpjr",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://m.media-amazon.com/images/I/614JaHt8DqL._AC_UF1000,1000_QL80_.jpg",
+				"url":"https://filemoon.sx/d/acv625vmcioe",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://m.media-amazon.com/images/I/614JaHt8DqL._AC_UF1000,1000_QL80_.jpg",
+				"url":"https://filemoon.sx/d/qcwu33pvn33q",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
