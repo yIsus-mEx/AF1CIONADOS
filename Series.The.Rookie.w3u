@@ -344,6 +344,40 @@
 				"online":"true"
 				}
 			]
+		},
+		{
+		"name": "Temporada 03",
+ 		"image": "https://i.postimg.cc/kM6gVvL2/the-roookie-3.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/8PxXXVbb/the-rookie-3.png",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 04",
+ 		"image": "https://i.postimg.cc/7hbvrMd8/the-rookie-4.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/GmRCHYsY/the-roookie-4.png",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
 		}
 	]
 }
