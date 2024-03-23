@@ -11,7 +11,7 @@
         "name": "UFC Fight Night: Ribas vs Namajunas",
         "info":"[Eurosport]",
         "online":"true",
-        "image": "https://ibb.co/qR9CsVh",
+        "image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/programs/bcb75486-9442-4be9-8cae-0405f8789aeb/16x9/1280x720_20240313145745.jpg&showBadge=true&package=ESPN_PLUS",
         "url": "https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/x-discovery-token=Expires=1711286877&KeyName=primary&Signature=oLlYD-_BBDMhOcn_qxS41r558jI/start/1711231104/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1711286877~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/start/1711231104/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=81072ed4a54cb00f462af3d9311552da3485a1d5b7bc93b34fd0cd1f55a4af23",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
