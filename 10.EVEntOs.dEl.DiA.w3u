@@ -8,24 +8,24 @@
 "stations":
     [
         {
-        "name": "UFC Night: Tai Tuivasa Vs Marcin Tybura",
+        "name": "UFC Fight Night: Ribas vs Namajunas",
         "info":"[Eurosport]",
         "online":"true",
-        "image": "https://pbs.twimg.com/media/GIzwPl5WEAACvm5?format=jpg&name=900x900",
-        "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/1/fd2b6300ecf840f59e60435e360f94eb/hdntl=exp=1710683123~acl=/primary/1/fd2b6300ecf840f59e60435e360f94eb/*~data=hdntl~hmac=df76a1e05ddab00eb41f7855f3b0d73e2cd89c09956048a1c1a634fe5d2cf96c/start/1710622801/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:spa,eng,qis;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1710683123~acl=/primary/1/fd2b6300ecf840f59e60435e360f94eb/start/1710622801/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aspa%2Ceng%2Cqis%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=9a4925c21a3bb30bfc6c95a098b40ef854015632d03e8acf576b6b08f87386f1",
+        "image": "https://ibb.co/qR9CsVh",
+        "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "UFC Night: Tai Tuivasa Vs Marcin Tybura",
+        "name": "UFC Fight Night: Ribas vs Namajunas",
         "info":"[Eurosport]",
         "online":"true",
-        "image": "https://pbs.twimg.com/media/GIzwPl5WEAACvm5?format=jpg&name=900x900",
-        "url": "https://dplus-eu-cloudfront.prod-live.h264.io/primary/1/fd2b6300ecf840f59e60435e360f94eb/x-discovery-token=Expires=1710681374&KeyName=primary&Signature=bwWohenQfCPkSDGst6P80qrlpF0/start/1710622801/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:spa,eng,qis;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1710681374~acl=/primary/1/fd2b6300ecf840f59e60435e360f94eb/start/1710622801/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aspa%2Ceng%2Cqis%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=004829d0f28f84deb8b2c3b85ed2566d9b93bbdb7d973ad8acf01947211619d0",
+        "image": "https://ibb.co/qR9CsVh",
+        "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
-        }        
+        }      
     ]
 }
