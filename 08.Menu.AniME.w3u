@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "Scavengers Reign",
+         "image": "https://i.ibb.co/S6Rf4hv/portada.jpg",
+         "url": "https://aficionados.vercel.app/Anime.scavengers.reing.w3u",
+         "info":"bY. Falken",
+         "import": false
+        },
+        {
          "name": "Saint Young Men",
          "image": "https://m.media-amazon.com/images/M/MV5BZDE4MzI0OGYtMjYwNS00YTc5LTlhZmYtYjRjMzM5NDgzYTA0XkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_.jpg",
          "url": "https://aficionados.vercel.app/Anime.Saint.Young.Men.w3u",
