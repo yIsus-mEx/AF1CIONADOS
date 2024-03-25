@@ -8,7 +8,41 @@
 "groups":
     [
         {
-        "name": "IndyCar Grand Prix of St. Petersburg",
+        "name": "02 IndyCar Grand Prix $1 Million Challenge",
+        "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Round 01][Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+                "url" :"https://filemoon.sx/d/4jtjpn51ozcm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Round 01][Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": ""
+                },
+				{
+                "name": "Carrera",
+                "info":"[Round 01][Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+                "url" :"https://filemoon.sx/e/5y3gfgouxrgq",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "01 IndyCar Grand Prix of St. Petersburg",
         "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
         "stations":
             [

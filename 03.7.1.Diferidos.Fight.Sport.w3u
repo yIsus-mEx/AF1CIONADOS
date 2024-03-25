@@ -8,6 +8,23 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Ribas vs Namajunas",
+         "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Ribas vs Namajunas",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+                "url":"https://filemoon.sx/d/wluzloqlnue6",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Tuivasa vs Tybura",
          "image": "https://i.postimg.cc/1zJmCWpY/tuivasa-Vs-Tybura.png",
          "imageScale": "",
