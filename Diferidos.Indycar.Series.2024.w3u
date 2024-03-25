@@ -24,11 +24,11 @@
                 {
                 "name": "Carrera",
                 "info":"[Round 01][Español]",
-                "online": "true",
+                "online": "",
                 "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
                 "url" :"",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost": ""
+                "isHost": "true"
                 },
 				{
                 "name": "Carrera",
