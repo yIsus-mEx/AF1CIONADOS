@@ -29,16 +29,7 @@
 				"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
 				"online":"true",
 				"isHost": "true"
-				}
-			]
-        },
-		{
-        "name": "Riyadh Season Cup 2024",
-        "info":"",
-        "image": "https://i.postimg.cc/KvF8kDzz/riyadh-season-cup.png",
-        "imageScale": "",
-        "stations":
-        	[
+				},
 				{
            		"name": "Al Hilal vs Inter Miami",
 	       		"info":"[29-Ene-24]",
@@ -55,8 +46,8 @@
            		"isHost":"true",
            		"online":"true"
            		}
-        	]
-		},
+			]
+        },
 		{
         "name": "Mundial Qatar 2022",
         "info":"",
