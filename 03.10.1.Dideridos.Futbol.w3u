@@ -15,23 +15,14 @@
         "stations":
             [
 				{
-        		"name": "Amistoso España Vs Brasil 2024",
-        		"info":"",
-        		"image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
-        		"imageScale": "",
-        		"stations":
-        			[
-						{
-                		"name": "Amistoso España Vs Brasil 2024",
-	            		"info":"[26-Mar-24]",
-                		"image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
-                		"url":"https://filemoon.sx/d/ddv0uj5omy9a",
-                		"isHost":"true",
-                		"online":"true"
-                		}
-            		]
-				},
-				{
+                "name": "Amistoso España Vs Brasil 2024",
+	            "info":"[26-Mar-24]",
+                "image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
+                "url":"https://filemoon.sx/d/ddv0uj5omy9a",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
         		"name": "Riyadh Season Cup 2024",
         		"info":"",
         		"image": "https://i.postimg.cc/KvF8kDzz/riyadh-season-cup.png",
