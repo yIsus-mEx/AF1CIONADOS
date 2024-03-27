@@ -8,60 +8,40 @@
 "stations":
     [
         {
-        "name": "F1 GP Australia Melbourne",
-        "info":"[Android DaznF1]",
+        "name": "WRC Rally Kenya 2024",
+        "info":"[Android]",
         "online":"true",
-        "image": "https://i.postimg.cc/JncRsmgp/ferrari-poster-for-2024-australian.png",
-        "url": "https://vkvsd35.mycdn.me:443/hls/6151581403674.m3u8/sig/GUAnUUd7NZw/srcIp/177.228.127.13/urls/45.136.20.57/expires/1711708390808/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7012606552858/id/6151581403674/6151581403674_fullhd/index.m3u8",
+        "image": "https://pbs.twimg.com/media/GJgAk-7WwAA01xc.jpg",
+        "url": "https://vkvsd44.mycdn.me:443/hls/6167960750618.m3u8/sig/3atKje7mrOU/srcIp/177.228.108.45/urls/185.226.52.97/expires/1711980315949/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "F1 GP Australia Melbourne",
-        "info":"[Android DaznF1]",
+        "name": "WRC Rally Kenya 2024",
+        "info":"[Android]",
         "online":"true",
-        "image": "https://i.postimg.cc/JncRsmgp/ferrari-poster-for-2024-australian.png",
-        "url": "https://vkvsd35.mycdn.me/hls/6151581403674.m3u8/sig/3GkHA8oyopw/srcIp/37.14.45.69/urls/185.226.52.53/expires/1711638605147/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7012606552858/id/6151581403674/6151581403674_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Australia Melbourne",
-        "info":"[Iphone DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/JncRsmgp/ferrari-poster-for-2024-australian.png",
-        "url": "https://vkvsd9.mycdn.me:443/hls/6151581403674.m3u8/sig/fYa9yItAdgY/srcIp/177.228.127.13/urls/185.226.52.53/expires/1711708513000/clientType/14/srcAg/SAFARI_IPAD_IOS7/fromCache/1/mid/7012606552858/id/6151581403674/6151581403674_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Australia Melbourne",
-        "info":"[Iphone DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/JncRsmgp/ferrari-poster-for-2024-australian.png",
-        "url": "https://vkvsd90.mycdn.me/hls/6151581403674.m3u8/sig/-bdt9OQEpT4/srcIp/37.14.45.69/urls/185.226.53.55/expires/1711638684269/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7012606552858/id/6151581403674/6151581403674_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Ribas vs Namajunas",
-        "info":"[Eurosport]",
-        "online":"true",
-        "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+        "image": "https://pbs.twimg.com/media/GJgAk-7WwAA01xc.jpg",
         "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "UFC Fight Night: Ribas vs Namajunas",
-        "info":"[Eurosport]",
+        "name": "WRC Rally Kenya 2024",
+        "info":"[Iphone]",
         "online":"true",
-        "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+        "image": "https://pbs.twimg.com/media/GJgAk-7WwAA01xc.jpg",
+        "url": "https://vkvsd96.mycdn.me:443/hls/6167960750618.m3u8/sig/Ti58CqTlKIg/srcIp/177.228.108.45/urls/45.136.20.63/expires/1711980497019/clientType/14/srcAg/SAFARI_IPAD_IOS7/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "WRC Rally Kenya 2024",
+        "info":"[Iphone]",
+        "online":"true",
+        "image": "hhttps://pbs.twimg.com/media/GJgAk-7WwAA01xc.jpg",
         "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
