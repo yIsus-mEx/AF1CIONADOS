@@ -2,7 +2,7 @@
 "name": "MovIEs Principal",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"url": "https://aficionados.vercel.app/06.0.0.Menu.MovIEs.w3u",
+"url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
 "telegram": "Lista_AF1CIONADOS",
 "info":"Lista_AF1CIONADOS",
 "groups":
@@ -10,7 +10,7 @@
         {
          "name": "CinE En LaTinO",
          "image": "https://i.postimg.cc/y8DcmL7X/Cine-Latino2-new.png",
-         "url": "https://aficionados.vercel.app/06.1.0.CinE.LaTinO.w3u",
+         "url": "https://af1c1onados.vercel.app/06.1.0.CinE.LaTinO.w3u",
          "info":"",
          "import": false
         },
@@ -31,7 +31,7 @@
 	{
          "name": "CinE iNFantIL",
          "image": "https://i.postimg.cc/Bb3DPGZg/kids-zone-new.png",
-         "url": "https://aficionados.vercel.app/Menu.Kids.Zone.w3u",
+         "url": "https://af1c1onados.vercel.app/Menu.Kids.Zone.w3u",
          "info":"",
          "import": false
         },
@@ -45,14 +45,14 @@
         {
          "name": "CinE: Peticiones",
          "image": "https://i.postimg.cc/hP5NSRPp/cine-22.png",
-         "url": "https://aficionados.vercel.app/Movies.Peticiones.w3u",
+         "url": "https://af1c1onados.vercel.app/Movies.Peticiones.w3u",
          "info":"",
          "import": false
         },
         {
         "name": "Cine: Sagas",
         "image": "https://i.postimg.cc/R0d07yzw/Sagas-New.png",
-        "url": "https://aficionados.vercel.app/13.Menu.Sagas.w3u",
+        "url": "https://af1c1onados.vercel.app/13.Menu.Sagas.w3u",
         "import": false
         }
     ]
