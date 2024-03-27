@@ -8,6 +8,14 @@
 "stations":
     [
         {
+        "name": "WWE Elimination Chamber 2024",
+        "info":"Latino",
+        "image": "https://i.postimg.cc/vZw2G00x/elimination.png",
+        "url": "https://fmoonembed.pro/d/n1o0ordg4utz",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "NBA 73rd All Star Game 2024",
         "info":"[19.02.2024]",
         "image": "https://i.postimg.cc/LsLWKxYj/2024-02-19-NBA-73rd-All-Star-Game-24.jpg",
