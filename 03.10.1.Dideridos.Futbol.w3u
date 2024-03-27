@@ -7,22 +7,38 @@
 "info": "",
 "groups":
     [
-
-        {
+		{
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
         "imageScale": "",
         "info":"",
         "groups":
             [
-			{
+				{
+        		"name": "Amistoso España Vs Brasil 2024",
+        		"info":"",
+        		"image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
+        		"imageScale": "",
+        		"stations":
+        			[
+						{
+                		"name": "Amistoso España Vs Brasil 2024",
+	            		"info":"[26-Mar-24]",
+                		"image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
+                		"url":"https://filemoon.sx/d/ddv0uj5omy9a",
+                		"isHost":"true",
+                		"online":"true"
+                		}
+            		]
+				},
+				{
         		"name": "Riyadh Season Cup 2024",
         		"info":"",
         		"image": "https://i.postimg.cc/KvF8kDzz/riyadh-season-cup.png",
         		"imageScale": "",
         		"stations":
         			[
-				{
+						{
                 		"name": "Al Hilal vs Inter Miami",
 	            		"info":"[29-Ene-24]",
                 		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
@@ -30,7 +46,7 @@
                 		"isHost":"true",
                 		"online":"true"
                 		},
-				{
+						{
                 		"name": "Al Nassr Vs Inter Miami",
 	            		"info":"[01-Feb-24]",
                 		"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
@@ -38,31 +54,29 @@
                 		"isHost":"true",
                 		"online":"true"
                 		}
-            			]
-			}
-		]
+            		]
+				}
+			]
         },
-
-	{
+		{
         "name": "Mundial Qatar 2022",
         "info":"",
         "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
         "imageScale": "",
         "stations":
         	[
-		{
+				{
                 "name": "Argentina Vs Francia",
-	        "info":"[18-Dic-22]",
+	        	"info":"[18-Dic-22]",
                 "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
                 "url":"https://filemoon.sx/d/argc2dyg6olk",
                 "isHost":"true",
                 "online":"true"
                 }
-            	]
-	},
-
-	{
-        "name": "sUPERcOPA dE EsPAÑa 2022/23",
+            ]
+		},
+		{
+    	"name": "sUPERcOPA dE EsPAÑa 2022/23",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
@@ -94,17 +108,16 @@
                 }
             ]
         },
-
-	{
+		{
         "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
         "stations":
         	[
-		{
+				{
                 "name": "Atletico vs Levante",
-	        "info":"[SemiFinal 1]",
+	       		"info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
                 "url":"https://filemoon.sx/d/gc79kp960rep",
                 "isHost":"true",
@@ -113,7 +126,7 @@
             	{
                 "name": "Barcelona vs Real Madrid",
                 "info":"[SemiFinal 2]",
-	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+	        	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
                 "url":"https://filemoon.sx/d/7630xdpr0ut4",
                 "isHost":"true",
                 "online":"true"
@@ -121,81 +134,79 @@
             	{
                 "name": "Barcelona vs Levante",
                 "info":"[Final]",
-	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+	        	"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
                 "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
                 "isHost":"true",
                 "online":"true"
                 }
             ]
-	},
-
-      {
+		},
+		{
         "name": "Liga EA SPORT 2023/24",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
         "info":"",
         "stations":
             [
-			{
+				{
         		"name": "Atco Madrid vs FC Barcelona",
         		"info":"[17-03-2024]",
         		"image": "https://i.postimg.cc/vHVLLjZT/2024-03-17-Atletico-Madrid-VS-Barcelona.png",
         		"url": "https://filemoon.sx/d/vwsfovzwtkb6",
-			"isHost":"true",
-			"userAgent": "",
+				"isHost":"true",
+				"userAgent": "",
         		"online":"true"
         		},
-			{
+				{
         		"name": "Valencia vs Real Madrid",
         		"info":"[]",
         		"image": "https://i.postimg.cc/0Q5gxs1Z/2024-03-24-Valencia-vs-Real-Madrid.webp",
         		"url": "https://filemoon.sx/d/c8no6hevcuqb/Liga_EA_Sport_Valencia_VS_Real_Madrid_020324.mp4",
-			"isHost":"true",
-			"userAgent": "",
+				"isHost":"true",
+				"userAgent": "",
         		"online":"true"
         		},
-			{
+				{
         		"name": "Real Madrid vs Sevilla",
         		"info":"[25-02-2024]",
         		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
         		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
-			"isHost":"true",
-			"userAgent": "",
+				"isHost":"true",
+				"userAgent": "",
         		"online":"true"
         		},
-			{
+				{
         		"name": "FC Barcelona Vs Real Madrid [Clasico]",
         		"info": "[28-10-2023]",
         		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
         		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-			"isHot": "true",
+				"isHot": "true",
         		"online":"true"
-			},
-			{
+				},
+				{
         		"name": "Getafe vs Valencia",
         		"info": "[08-12-2023]",
         		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
         		"url": "https://filemoon.sx/d/rdtgf3invur4",
-			"isHot": "true",
+				"isHot": "true",
         		"online": "true"
         		}
 			]
 		},
-
 		{
-       		"name": "Copa del Rey 2023/24",
-        	"info":"",
-        	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-        	"imageScale": "",
-        	"groups":
-        		[
+       	"name": "Copa del Rey 2023/24",
+        "info":"",
+        "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+        "imageScale": "",
+        "groups":
+    		[
 				{
 				"name": "CUARTOS DE FINAL",
 				"info":"",
 				"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
 				"imageScale": "",
 				"stations":
-        				[
+        			[
 						{
 						"name": "Atletico Madrid VS Sevilla",
 						"info":"[25-01-2024]",
@@ -228,16 +239,15 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       					]
+       				]
 				},
-
 				{
 				"name": "SEMIFINALES",
 				"info":"",
 				"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
 				"imageScale": "",
 				"stations":
-        				[
+        			[
 						{
 						"name": "RCD Mallorca VS Real Sociedad (IDA)",
 						"info":"[06-02-2024]",
@@ -270,7 +280,7 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       					]
+       				]
 				},
 				{
 				"name": "FINAL",
@@ -278,7 +288,7 @@
 				"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
 				"imageScale": "",
 				"stations":
-        				[
+        			[
 						{
 						"name": "RCD Mallorca VS Athletic Bilbao",
 						"info":"[06-04-2024]",
@@ -291,8 +301,7 @@
 				}
 			]
 		},
-
-	{
+		{
        	"name": "Champions League  2023/24",
         "info":"",
         "image": "https://i.postimg.cc/NjC8PZdv/Logo-Champions-2.png",
@@ -305,7 +314,7 @@
 				"image": "https://i.postimg.cc/6pDVpZ3d/2024-02-07-Octavos-de-final-Champions-League.png",
 				"imageScale": "",
 				"stations":
-        				[
+        			[
 						{
 						"name": "FC Copenhague VS Manchester City",
 						"info":"[13-02-2024]",
@@ -370,16 +379,15 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       					]
+       				]
 				},
-
 				{
 				"name": "OCTAVOS DE FINAL (VUELTA)",
 				"info":"VUELTA",
 				"image": "https://i.postimg.cc/6pDVpZ3d/2024-02-07-Octavos-de-final-Champions-League.png",
 				"imageScale": "",
 				"stations":
-        				[
+        			[
 						{
 						"name": "Real Sociedad VS Paris Saint Germain",
 						"info":"[05-03-2024]",
@@ -444,16 +452,15 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       					]
+       				]
 				},
-
 				{
 				"name": "CUARTOS DE FINAL (IDA)",
 				"info":"IDA",
 				"image": "https://i.postimg.cc/X7WhyJB6/Logo-Champions-League-2024.png",
 				"imageScale": "",
 				"stations":
-        				[
+        			[
 						{
 						"name": "",
 						"info":"",
@@ -486,7 +493,7 @@
 						"isHost":"true",
 						"online":"true"
 						}
-       					]
+       				]
 				},
 				{
 				"name": "CUARTOS DE FINAL (VUELTA)",
@@ -597,8 +604,7 @@
 					]
 				}
 			]
-	}
-
+		}
 	]
 }
 
