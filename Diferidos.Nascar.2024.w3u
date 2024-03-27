@@ -8,6 +8,24 @@
 "groups":
     [
 		{
+        "name": "R06 EchoPark Automotive Grand Prix",
+        "info":"",
+        "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "R06 EchoPark Automotive Grand Prix",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
+                "url":"https://filemoon.sx/d/rh9hgyq4zov5",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R05 Food City 500",
         "info":"",
         "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
