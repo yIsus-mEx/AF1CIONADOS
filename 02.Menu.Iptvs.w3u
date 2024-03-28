@@ -241,7 +241,7 @@
         {
         "name": "IPTV 34",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://emuligl.info:8080/get.php?username=go69chia&password=f7ECa8Uf4x2t&type=m3u_plus",
+        "url": "http://emuligl.info:8080/get.php?username=nova&password=PTvMaLYxKYmd&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
@@ -285,13 +285,6 @@
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://live.lordstreams.co:8080/get.php?username=raulvpd&password=ToBMEhJFs6&type=m3u_plus",
         "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV Series y Movies",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://84423.xyz:8000/get.php?username=SamuraITVod&password=P9476gmd23&type=m3u_plus",
-        "info":"200 conex",
         "import": false
         },
 		{
