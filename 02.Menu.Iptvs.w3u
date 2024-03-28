@@ -287,6 +287,13 @@
         "info":"150 conex",
         "import": false
         },
+        {
+        "name": "IPTV Series y Movies",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://84423.xyz:8000/get.php?username=SamuraITVod&password=P9476gmd23&type=m3u_plus",
+        "info":"200 conex",
+        "import": false
+        },
 		{
         "name": "Pluto TV",
         "image": "https://i.postimg.cc/d19c10Dk/pluto-tv-new.png",
