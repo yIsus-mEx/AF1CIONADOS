@@ -15,6 +15,31 @@
         "groups":
             [
                 {
+                "name": "05.Tokyo E-Prix [2024]",
+                "image": "https://i.postimg.cc/zDdL6yYn/tokyo-2024.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "Tokyo E-Prix Carrera",
+                        "info":"Latino [30.03.23]",
+                        "image": "https://i.postimg.cc/zDdL6yYn/tokyo-2024.png",
+                        "url":"",
+                        "isHost":"true",
+                        "online":""
+                        },
+						{
+                        "name": "Tokyo E-Prix Carrera",
+                        "info":"Español [30.03.23]",
+                        "image": "https://i.postimg.cc/zDdL6yYn/tokyo-2024.png",
+                        "url":"https://bembed.net/v/4bQVOj7eRr95wKm",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
                 "name": "04.Sau Pablo E-Prix [2024]",
                 "image": "https://i.postimg.cc/5NGzDLG9/04-brasil.png",
                 "imageScale": "",
