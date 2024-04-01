@@ -657,7 +657,14 @@
 		"name": "Pombo",
 		"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
 		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20POMBO",
+		"url": "https://af1cionados.vercel.app/serie POMBO.w3u",
+		"import": false
+		},
+		{
+		"name": "Problema de los 3 cuerpos",
+		"image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie PROBLEMA DE LOS 3 CUERPOS.w3u",
 		"import": false
 		},
 		{
