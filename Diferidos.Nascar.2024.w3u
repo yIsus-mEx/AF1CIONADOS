@@ -8,6 +8,24 @@
 "groups":
     [
 		{
+        "name": "R07 Federated Auto Parts 400",
+        "info":"",
+        "image": "https://i.postimg.cc/Jn2MHqBs/federate-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Federated Auto Parts 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Jn2MHqBs/federate-400.png",
+                "url":"https://bembed.net/v/njJYOd3m0XqEe9o",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R06 EchoPark Automotive",
         "info":"",
         "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
@@ -15,7 +33,7 @@
         "stations":
             [
                 {
-                "name": "R06 EchoPark Automotive",
+                "name": "EchoPark Automotive",
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
                 "url":"https://filemoon.sx/d/rh9hgyq4zov5",
