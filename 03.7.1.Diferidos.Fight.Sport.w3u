@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Blanchfield vs Fiorot",
+         "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Blanchfield vs Fiorot",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+                "url":"",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "UFC Fight Night: Blanchfield vs Fiorot",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+                "url":"https://bembed.net/v/mMq75L8pjrV5XPB",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Ribas vs Namajunas",
          "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
          "imageScale": "",
