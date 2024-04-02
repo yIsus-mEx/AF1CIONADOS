@@ -8,6 +8,97 @@
 "groups": 
     [
 
+
+	{
+        "name": "JORNADA 27",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "Baskonia VS Zaragoza",
+              	"info": "30/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/njJYOd3mmw8Ee9o",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Breogan VS Bilbao",
+              	"info": "30/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/qA3WOmGee71xKkz",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Obradoiro VS Barsa",
+              	"info": "30/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/qM1VOPNppgVxo4k",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Real Madrid VS Manresa",
+              	"info": "30/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/KrdZ5kd99VbxmX4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Unicaja VS Girona",
+              	"info": "30/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/0DogOGMy1NMxKjM",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Zunder Palencia VS Tenerife",
+              	"info": "30/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/dNjgOl4eKQVO9Wn",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Ucam Murcia VS Morabanc Andorra",
+              	"info": "31/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/P0poO10dmypEz17",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Dreamland Gran Canaria VS Valencia Basket",
+              	"info": "31/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/kKJVORWlk0B53XD",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Coviran Granada VS Juventut Badalona",
+              	"info": "31/03/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/edVqE4r19NR5YWm",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
 	{
         "name": "JORNADA 26",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
