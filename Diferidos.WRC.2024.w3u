@@ -8,6 +8,40 @@
 "groups": 
     [
         {
+        "name": "WRC: Rally Kenya 2024",
+        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 00",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "",
+                "userAgent": "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "WRC: Rally Suecia 2024",
         "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
         "stations": 
