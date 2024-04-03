@@ -13,29 +13,173 @@
         "stations": 
             [
                 {
-                "name": "Stage 00",
-                "info": " [Español]",
-                "online": "",
-                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-                "url": "",
-                "userAgent": "",
-                "isHost": "true"
-                },
-                {
                 "name": "Stage 01",
                 "info": " [Español]",
-                "online": "",
+                "online": "true",
                 "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-                "url": "",
+                "url": "https://bembed.net/v/qA3WOmGem8gxKkz",
                 "userAgent": "",
                 "isHost": "true"
                 },
                 {
                 "name": "Stage 02",
                 "info": " [Español]",
-                "online": "",
+                "online": "true",
                 "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-                "url": "",
+                "url": "https://bembed.net/v/njJYOd3mXWQEe9o",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/dNjgOl4e3MkO9Wn",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/7QWN5eyPNRk59oR",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/nyg9EKDv08nObk4",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/MAlwEMY6r0WEJ39",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qM1VOPNpP0Jxo4k",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/eL2157d3zNmxrw4",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/PlBVEZ0WR9G5Dv9",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/njJYOd3m2a8Ee9o",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/vQBYEbNr2a4En1m",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/m7WJxgJM2Vr5Bze",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/KNWlEDNRzwK5kbp",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qL0YEyPD0ypxDRX",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/nyg9EKDv1QoObk4",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/k3gG5q370ejE1N2",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qL0YEyPD0KQxDRX",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qM1VOPNpPWGxo4k",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 19",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/eL2157d3zDRxrw4",
                 "userAgent": "",
                 "isHost": "true"
                 }
