@@ -30,6 +30,13 @@
 		"import": false
 		},
 		{
+		"name": "Antidisturbios",
+		"image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie ANTIDISTURBIOS.w3u",
+		"import": false
+		},
+		{
 		"name": "Apaches",
 		"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
 		"info": "bY. yIsus",
@@ -68,6 +75,13 @@
 		"name": "Bandidos De Hoy",
 		"image": "https://i.postimg.cc/zXM9RXvq/bandidos-de-hoy.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20BANDIDOS%20DE%20HOY.w3u",
+		"info": "bY. aDRi",
+		"import": false
+		},
+		{
+		"name": "Banshee",
+		"image": "https://pics.filmaffinity.com/banshee-604049136-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie BANSHEE.w3u",
 		"info": "bY. aDRi",
 		"import": false
 		},
