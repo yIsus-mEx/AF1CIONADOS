@@ -8,64 +8,124 @@
 "stations":
     [
         {
-        "name": "WRC Rally Kenya 2024",
-        "info":"[Acestream]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Acestream].[1080p]",
         "online":"true",
-        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-        "url": "8ef4e74336a0114d6def70de9d15cc4817d2f350",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "acestream://5789ca155323664edd293b848606688edf803f4d",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "WRC Rally Kenya 2024",
-        "info":"[Acestream]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Acestream].[1080p]",
         "online":"true",
-        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-        "url": "5f966c123759de46dff29c379266b7a403452033",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "WRC Rally Kenya 2024",
-        "info":"[Android]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Acestream].[720p]",
         "online":"true",
-        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-        "url": "https://vkvsd44.mycdn.me:443/hls/6167960750618.m3u8/sig/3atKje7mrOU/srcIp/177.228.108.45/urls/185.226.52.97/expires/1711980315949/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "WRC Rally Kenya 2024",
-        "info":"[Android]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
         "online":"true",
-        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-        "url": "https://vkvsd203.mycdn.me/hls/6167960750618.m3u8/sig/x8ei6mbFa6I/srcIp/37.14.45.69/urls/45.136.21.61/expires/1711979945564/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://tv.viptvpro.com:25443/live/HAJG6/k7bKPqg05y/139271.ts",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "WRC Rally Kenya 2024",
-        "info":"[Iphone]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
         "online":"true",
-        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-        "url": "https://vkvsd44.mycdn.me:443/hls/6167960750618.m3u8/sig/dnvKBE31qp8/srcIp/177.228.108.45/urls/45.136.20.63/expires/1711981184025/clientType/14/srcAg/SAFARI_IPHONE_IOS7/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/191359",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "WRC Rally Kenya 2024",
-        "info":"[Iphone]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
         "online":"true",
-        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
-        "url": "https://vkvsd203.mycdn.me/hls/6167960750618.m3u8/sig/pf5UDRcTtwc/srcIp/37.14.45.69/urls/45.136.20.63/expires/1711980006387/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7022814964506/id/6167960750618/6167960750618_fullhd/index.m3u8",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139270.ts",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
-        }      
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://l1iptv.xyz:80/dani79@dani79/dYcMjJV9bw/88483",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://home-playtv.com:8080/skyperu2021/APZXnTvQrC6v/59587",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/211007",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://home-playtv.com:8080/UNITY1/9vN3X6jeqg/59587",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://home-playtv.com:8080/tVRxKnkK6ZAp/X5zbfj7BcuR8/59587",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[DaznF1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "http://zeuspro.xyz:8080/live/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/115985.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        }          
     ]
 }
