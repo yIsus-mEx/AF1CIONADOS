@@ -8,6 +8,26 @@
 "stations":
     [
         {
+        "name": "WrestleMania XL",
+        "info":"[Ingles]",
+        "online":"true",
+        "image": "https://i.postimg.cc/c4ypcgjy/wrestle.png",
+        "url": "https://mrgamingstreams.com/wwe",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "WrestleMania XL",
+        "info":"[Ingles]",
+        "online":"true",
+        "image": "https://i.postimg.cc/c4ypcgjy/wrestle.png",
+        "url": "https://cdn.livetv774.me/webplayer2.php?t=ifr&c=2379583&lang=ru&eid=200322640&lid=2379583&ci=467&si=75",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
         "name": "UFC Fight Night: Allen vs Curtis 2",
         "info":"[Español]",
         "online":"true",
@@ -32,7 +52,7 @@
         "info":"[Ingles]",
         "online":"true",
         "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
-        "url": "https://cdn.livetv774.me/webplayer2.php?t=ifr&c=2379945&lang=ru&eid=200505012&lid=2379945&ci=3026&si=110",
+        "url": "https://mrgamingstreams.com/ppv-1",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
