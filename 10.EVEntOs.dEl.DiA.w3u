@@ -8,6 +8,36 @@
 "stations":
     [
         {
+        "name": "UFC Fight Night: Allen vs Curtis 2",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+        "url": "https://deporte.lat/194065/ufc.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC Fight Night: Allen vs Curtis 2",
+        "info":"[Ingles]",
+        "online":"true",
+        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+        "url": "https://v.markkystreams.com/video/ufc/",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC Fight Night: Allen vs Curtis 2",
+        "info":"[Ingles]",
+        "online":"true",
+        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+        "url": "https://cdn.livetv774.me/webplayer2.php?t=ifr&c=2379945&lang=ru&eid=200505012&lid=2379945&ci=3026&si=110",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
         "name": "F1 GP Suzuka 2024",
         "info":"[Acestream].[1080p]",
         "online":"true",
