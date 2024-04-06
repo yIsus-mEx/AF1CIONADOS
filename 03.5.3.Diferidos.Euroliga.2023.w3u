@@ -9,6 +9,96 @@
 	[
 
 	{
+        "name": "JORNADA 33",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "Monaco VS Zalguiris",
+              	"info": "04/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/edVqE4r1XDd5YWm",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Crvena VS Olympiaco",
+              	"info": "04/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/YWA8E9wP6No5GmM",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Barcelona VS Maccabi",
+              	"info": "04/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/ZMVoEr8pBVY59Pa",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Berlin VS Partizan",
+              	"info": "04/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/P0poO10dwrkEz17",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Fenerbahce VS Efes",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/VqbX53gjJDo5Qzp",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Bayer VS Panathinaikos",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/7QWN5eyPzZb59oR",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Milan VS Bolonia",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/4bQVOj7eYN95wKm",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Madrid VS Baskonia",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/3Q0lxBWvkV2Ej1J",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Valencia VS Lyon",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/4bQVOj7eYNo5wKm",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 32",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
