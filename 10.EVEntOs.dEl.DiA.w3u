@@ -28,6 +28,16 @@
         "isHost": "true"
         },
         {
+        "name": "WrestleMania XL",
+        "info":"[Ingles]",
+        "online":"true",
+        "image": "https://i.postimg.cc/c4ypcgjy/wrestle.png",
+        "url": "https://hls.streambtw.com/live/stream_wwe.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
         "name": "UFC Fight Night: Allen vs Curtis 2",
         "info":"[Español]",
         "online":"true",
