@@ -16,7 +16,7 @@
         	[
            	{
               	"name": "Monaco VS Zalguiris",
-              	"info": "",
+              	"info": "04/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/edVqE4r1XDd5YWm",
@@ -24,17 +24,8 @@
               	"isHost": "true"
               	},
            	{
-              	"name": "Fenerbahce VS Efes",
-              	"info": "",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://bembed.net/v/VqbX53gjJDo5Qzp",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
               	"name": "Crvena VS Olympiaco",
-              	"info": "",
+              	"info": "04/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/YWA8E9wP6No5GmM",
@@ -43,7 +34,7 @@
               	},
            	{
               	"name": "Barcelona VS Maccabi",
-              	"info": "",
+              	"info": "04/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/ZMVoEr8pBVY59Pa",
@@ -51,17 +42,8 @@
               	"isHost": "true"
               	},
            	{
-              	"name": "Bayer VS Panathinaikos",
-              	"info": "",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://bembed.net/v/7QWN5eyPzZb59oR",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
               	"name": "Berlin VS Partizan",
-              	"info": "",
+              	"info": "04/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/P0poO10dwrkEz17",
@@ -69,8 +51,26 @@
               	"isHost": "true"
               	},
            	{
+              	"name": "Fenerbahce VS Efes",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/VqbX53gjJDo5Qzp",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Bayer VS Panathinaikos",
+              	"info": "05/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/7QWN5eyPzZb59oR",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
               	"name": "Milan VS Bolonia",
-              	"info": "",
+              	"info": "05/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/4bQVOj7eYN95wKm",
@@ -79,7 +79,7 @@
               	},
            	{
               	"name": "Madrid VS Baskonia",
-              	"info": "",
+              	"info": "05/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/3Q0lxBWvkV2Ej1J",
@@ -88,7 +88,7 @@
               	},
            	{
               	"name": "Valencia VS Lyon",
-              	"info": "",
+              	"info": "05/04/2024",
               	"online": "true",
               	"image": "",
               	"url": "https://bembed.net/v/4bQVOj7eYNo5wKm",
