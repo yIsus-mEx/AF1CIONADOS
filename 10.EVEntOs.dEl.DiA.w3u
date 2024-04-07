@@ -8,34 +8,44 @@
 "stations":
     [
         {
-        "name": "WrestleMania XL",
-        "info":"[Español Enlace 3]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Android america]",
         "online":"true",
-        "image": "https://i.postimg.cc/c4ypcgjy/wrestle.png",
-        "url": "https://mrgamingstreams.com/wwe",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "https://vkvsd88.mycdn.me:443/hls/6215363922458.m3u8/sig/8_ap0m8Zztc/srcIp/177.228.108.45/urls/45.136.21.43/expires/1712921398104/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
         },
         {
-        "name": "WrestleMania XL",
-        "info":"[Español]",
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Iphone america]",
         "online":"true",
-        "image": "https://i.postimg.cc/c4ypcgjy/wrestle.png",
-        "url": "https://1.dlhd.sx/stream/stream-830.php",
-        "userAgent": "",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "WrestleMania XL",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://i.postimg.cc/c4ypcgjy/wrestle.png",
-        "url": "https://hls.streambtw.com/live/stream_wwe.m3u8",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "https://vkvsd88.mycdn.me:443/hls/6215363922458.m3u8/sig/-ECef9LWKTo/srcIp/177.228.108.45/urls/185.226.52.86/expires/1712921459002/clientType/14/srcAg/SAFARI_IPHONE_IOS7/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Android España]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "https://vkvsd174.mycdn.me/hls/6215363922458.m3u8/sig/-r6XbrYE9Dg/srcIp/37.14.45.69/urls/45.136.20.46/expires/1712920089775/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "F1 GP Suzuka 2024",
+        "info":"[Iphone España]",
+        "online":"true",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "url": "https://vkvsd161.mycdn.me/hls/6215363922458.m3u8/sig/E28__ye6_xQ/srcIp/37.14.45.69/urls/45.136.20.46/expires/1712920022557/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         },
         {
         "name": "UFC Fight Night: Allen vs Curtis 2",
