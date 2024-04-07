@@ -8,6 +8,105 @@
 "groups":
     [
 		{
+        "name": "F1 2024 Suzuka [04-06.Abr24]",
+        "info":"",
+        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Libres 02",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Libres 03",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+				{
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"https://bembed.net/v/pVa4E8MpKLyOkzM",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
+                "url":"https://bembed.net/v/JzkPxznp3Gkxbyd",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Australia [22-23.Mar24]",
         "info":"",
         "image": "https://i.postimg.cc/JncRsmgp/ferrari-poster-for-2024-australian.png",
