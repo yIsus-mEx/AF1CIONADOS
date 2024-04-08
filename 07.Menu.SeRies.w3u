@@ -778,11 +778,18 @@
 		"url": "https://af1c1onados.vercel.app/Series.Shogun.w3u",
 		"import": false
 		},
-	    {
+	    	{
 		"name": "Ted Lasso",
 		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie%20TED%20LASSO.w3u",
+		"import": false
+		},
+		{
+		"name": "Time Condena",
+		"image": "https://pics.filmaffinity.com/time-579075395-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie TIME CONDENA.w3u",
+		"info": "bY. aDri",
 		"import": false
 		},
 		{

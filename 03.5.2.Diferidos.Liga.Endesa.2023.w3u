@@ -8,6 +8,95 @@
 "groups": 
     [
 
+	{
+        "name": "JORNADA 28",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "Zaragoza VS Obradoiro",
+              	"info": "06/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/QNB7xA2p4M7E0WG",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Bilbao VS Gran Canaria",
+              	"info": "06/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/eL2157dDNRKxrw4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Breogan VS Palencia",
+              	"info": "06/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/nyg9EKDm2nBObk4",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Juventut VS Murcia",
+              	"info": "06/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/rabVOQQZremOKdW",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Andorra VS Granada",
+              	"info": "07/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/ZMVoEr8V7mq59Pa",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Barcelona VS Real madrid",
+              	"info": "07/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/k3gG5q3DgRkE1N2",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Tenerife VS Girona",
+              	"info": "07/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/KNWlEDNd98z5kbp",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Valencia VS Baskonia",
+              	"info": "07/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/4bQVOj7Dl8d5wKm",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Manresa VS Unicaja",
+              	"info": "07/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://bembed.net/v/PKN4OwnDy9BEDLj",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
 
 	{
         "name": "JORNADA 27",
