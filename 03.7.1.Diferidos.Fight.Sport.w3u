@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Allen vs Curtis 2",
+         "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Allen vs Curtis 2",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+                "url":"https://bembed.net/v/7QWN5ey083l59oR",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Allen vs Curtis 2",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+                "url":"https://bembed.net/v/njJYOd3Q9XnEe9o",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Blanchfield vs Fiorot",
          "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
          "imageScale": "",
