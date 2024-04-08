@@ -8,42 +8,10 @@
 "stations":
     [
         {
-        "name": "WWE Elimination Chamber 2024",
-        "info":"Latino",
-        "image": "https://i.postimg.cc/vZw2G00x/elimination.png",
-        "url": "https://fmoonembed.pro/d/n1o0ordg4utz",
-        "online":"true",
-        "isHost": "true"
-        },
-        {
         "name": "NBA 73rd All Star Game 2024",
         "info":"[19.02.2024]",
         "image": "https://i.postimg.cc/LsLWKxYj/2024-02-19-NBA-73rd-All-Star-Game-24.jpg",
         "url": "https://embedv.net/v/k3gG5q3LbydE1N2",
-        "online":"true",
-        "isHost": "true"
-        },
-        {
-        "name": "WWE Royal Rumble 2024",
-        "info":"Latino",
-        "image": "https://i.postimg.cc/3rCRphvQ/wwe.webp",
-        "url": "https://filemoon.sx/d/n5b5fsi8hnwj",
-        "online":"true",
-        "isHost": "true"
-        },
-        {
-        "name": "WWE The NXT Deadline 2023",
-        "info":"Latino",
-        "image": "https://solowrestling.mundodeportivo.com/uploads/RESEM125795deadline-nxt-resultados.jpg",
-        "url": "https://lbx.to/f/bAppxaP",
-        "online":"true",
-        "isHost": "true"
-        },
-		{
-        "name": "WWE Crown Jewel 2023",
-        "info":"[Latino]",
-        "image": "https://www.voxcatch.fr/wp-content/uploads/2023/11/WWE-Crown-Jewel-2023.jpg",
-        "url": "https://www.linkbox.to/f-detail/ZnA0NndzMDAwYmZ30",
         "online":"true",
         "isHost": "true"
         },
@@ -53,49 +21,6 @@
         "image": "https://i.postimg.cc/NMrrBkPy/skysports-new-zealand-south-africa-6262868.jpg",
         "url": "https://fviplions.com/f/y1uqq6nnw1xa",
         "online":"true",
-        "isHost": "true"
-        },
-		{
-        "name": "WWE Fastlane 2023",
-        "info":"Latino",
-        "image": "https://solowrestling.mundodeportivo.com/uploads/RESEM123395wwe-fastlane-2023.jpg",
-        "url": "https://www.linkbox.to/f-detail/ZnA0NWVvMDBpa2Zr0",
-        "online":"true",
-        "isHost": "true"
-        },
-		{
-        "name": "WWE Payback  2023",
-        "info":"Latino",
-        "image": "https://i.postimg.cc/NFYsntVp/payback.png",
-        "url": "https://www.linkbox.to/f-detail/ZnA0MmEwMDA0Zm5o0",
-        "online":"true",
-        "isHost": "true"
-        },
-		{
-        "name": "SummerSlam 2023",
-        "info":"Latino",
-        "image": "https://wrestlingnoticias.com.br/wp-content/uploads/2023/06/WWE-SummerSlam-2023-Poster-1200x675-1.jpg",
-        "url": "https://www.linkbox.to/f-detail/ZnA0MDhrMDAxM2p40",
-        "online":"true",
-        "embed": "",
-        "isHost": "true"
-        },
-		{
-        "name": "WrestleMania 39",
-        "info":"[Dia 1]",
-        "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
-        "url": "https://filemoon.sx/d/lldlpvkret3n",
-        "online":"true",
-        "embed": "",
-        "isHost": "true"
-        },
-		{
-        "name": "WrestleMania 39",
-        "info":"[Dia 2]",
-        "image": "https://s3.superluchas.com/2023/03/Cobertura-WWE-WrestleMania-39-Noche-2.jpg",
-        "url": "https://filemoon.sx/d/5juwy4pcgn50",
-        "online":"true",
-        "embed": "",
         "isHost": "true"
         },
 		{
