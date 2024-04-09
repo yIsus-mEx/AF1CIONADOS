@@ -8,194 +8,74 @@
 "stations":
     [
         {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Android america]",
+        "name": "Arsenal vs Bayern",
+        "info":"[Acestream]",
         "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "https://vkvsd88.mycdn.me:443/hls/6215363922458.m3u8/sig/8_ap0m8Zztc/srcIp/177.228.108.45/urls/45.136.21.43/expires/1712921398104/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
+        "image": "https://www.soyfutbol.com/__export/1712524111277/sites/debate/img/2024/04/07/arsenal_vs_bayern.jpg",
+        "url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Iphone america]",
+        "name": "Real Madrid Vs Manchester City ",
+        "info":"[Acestream]",
         "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "https://vkvsd88.mycdn.me:443/hls/6215363922458.m3u8/sig/-ECef9LWKTo/srcIp/177.228.108.45/urls/185.226.52.86/expires/1712921459002/clientType/14/srcAg/SAFARI_IPHONE_IOS7/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
+        "image": "https://www.soyfutbol.com/__export/1712677872402/sites/debate/img/2024/04/09/real_madrid_vs_machester_ciyy.jpg",
+        "url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Android España]",
+        "name": "Real Madrid Vs Manchester City ",
+        "info":"[Acestream]",
         "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "https://vkvsd174.mycdn.me/hls/6215363922458.m3u8/sig/-r6XbrYE9Dg/srcIp/37.14.45.69/urls/45.136.20.46/expires/1712920089775/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
+        "image": "https://www.soyfutbol.com/__export/1712677872402/sites/debate/img/2024/04/09/real_madrid_vs_machester_ciyy.jpg",
+        "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Iphone España]",
+        "name": "Real Madrid Vs Manchester City ",
+        "info":"[Acestream]",
         "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "https://vkvsd161.mycdn.me/hls/6215363922458.m3u8/sig/E28__ye6_xQ/srcIp/37.14.45.69/urls/45.136.20.46/expires/1712920022557/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7051178093338/id/6215363922458/6215363922458_fullhd/index.m3u8",
+        "image": "https://www.soyfutbol.com/__export/1712677872402/sites/debate/img/2024/04/09/real_madrid_vs_machester_ciyy.jpg",
+        "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "UFC Fight Night: Allen vs Curtis 2",
+        "name": "Real Madrid Vs Manchester City ",
+        "info":"[Acestream]",
+        "online":"true",
+        "image": "https://www.soyfutbol.com/__export/1712677872402/sites/debate/img/2024/04/09/real_madrid_vs_machester_ciyy.jpg",
+        "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Real Madrid Vs Manchester City ",
         "info":"[Español]",
         "online":"true",
-        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
-        "url": "https://deporte.lat/194065/ufc.php",
-        "userAgent": "",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "UFC Fight Night: Allen vs Curtis 2",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
-        "url": "https://v.markkystreams.com/video/ufc/",
+        "image": "https://www.soyfutbol.com/__export/1712677872402/sites/debate/img/2024/04/09/real_madrid_vs_machester_ciyy.jpg",
+        "url": "https://panda-live-733f75dad025.b-cdn.net/3d098a4b-4ce1-42cc-aafe-c80edef7aa34_src/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
         },
         {
-        "name": "UFC Fight Night: Allen vs Curtis 2",
-        "info":"[Ingles]",
+        "name": "Real Madrid Vs Manchester City ",
+        "info":"[Español]",
         "online":"true",
-        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
-        "url": "https://mrgamingstreams.com/ppv-1",
+        "image": "https://www.soyfutbol.com/__export/1712677872402/sites/debate/img/2024/04/09/real_madrid_vs_machester_ciyy.jpg",
+        "url": "https://live.vkplay.ru/app/embed/deportesgratis",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Acestream].[1080p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "acestream://5789ca155323664edd293b848606688edf803f4d",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Acestream].[1080p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[Acestream].[720p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://tv.viptvpro.com:25443/live/HAJG6/k7bKPqg05y/139271.ts",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "https://ltinversionistas.com/jactv/daznf1.php",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139270.ts",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://l1iptv.xyz:80/dani79@dani79/dYcMjJV9bw/88483",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://home-playtv.com:8080/skyperu2021/APZXnTvQrC6v/59587",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/211007",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://home-playtv.com:8080/UNITY1/9vN3X6jeqg/59587",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://home-playtv.com:8080/tVRxKnkK6ZAp/X5zbfj7BcuR8/59587",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "F1 GP Suzuka 2024",
-        "info":"[DaznF1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/V65Gh19f/suzuka-F1-2024.png",
-        "url": "http://zeuspro.xyz:8080/live/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/115985.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        }          
+        } 
     ]
 }
