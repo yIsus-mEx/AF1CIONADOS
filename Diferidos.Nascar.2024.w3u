@@ -8,6 +8,24 @@
 "groups":
     [
 		{
+        "name": "R08 Cookout 400",
+        "info":"",
+        "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Cookout 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
+                "url":"https://bembed.net/v/0DogOGM1lrKxKjM",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R07 Federated Auto Parts 400",
         "info":"",
         "image": "https://i.postimg.cc/Jn2MHqBs/federate-400.png",
