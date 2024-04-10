@@ -275,15 +275,15 @@
 				{
 				"name": "FINAL",
 				"info":"[06-04-2024]",
-				"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+				"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
 				"imageScale": "",
 				"stations":
         			[
 						{
-						"name": "RCD Mallorca VS Athletic Bilbao",
+						"name": "Athletic Bilbao VS RCD Mallorca",
 						"info":"[06-04-2024]",
-						"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-						"url":"",
+						"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
+						"url":"https://filemoon.sx/d/0ukf1k9f41uo/Final_Copa_del_Rey_Athletic_Bilbao_VS_Mallorca_060424.mkv",
 						"isHost":"true",
 						"online":"true"
 						}
@@ -472,6 +472,22 @@
 						"info":"[Español]",
 						"image": "https://i.postimg.cc/sgWXpRDv/arsenal.jpg",
 						"url":"https://bembed.net/v/MAlwEMYGLmbEJ39",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Paris Saint Germain Vs FC Barcelona",
+						"info":"[Español]",
+						"image": "https://i.postimg.cc/yNg3Kj7D/17125908752813-jpg.webp",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atco Madrid Vs Borussia Dortmund",
+						"info":"[Español]",
+						"image": "https://i.postimg.cc/sDTMZqXB/17125912847336-jpg.webp",
+						"url":"",
 						"isHost":"true",
 						"online":"true"
 						}
