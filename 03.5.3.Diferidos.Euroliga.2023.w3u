@@ -9,6 +9,60 @@
 	[
 
 	{
+        "name": "JORNADA 34",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "Anadolu VS Estrella Roja",
+              	"info": "11/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/h938zyay75wf/Baloncesto_EuroLeague_Anadolu_vs_EstrellaRoja_11-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Zalgiris VS Real Madrid",
+              	"info": "11/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/28tkz3m9q3wh/Baloncesto_EuroLeague_Zalgiris_vs_RMadrid_11-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Maccabi VS Milano",
+              	"info": "11/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/l985hlwfkehf/Maccabi_VS_EA7_Milano_110424.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Panathinaikos VS Berlin",
+              	"info": "11/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/wc5kzswfzcir/Panathinaikos_VS_Alba_Berlin_110424.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Monaco VS Bayern Munich",
+              	"info": "11/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/lkpofp4q26es/Monaco_VS_Bayern_110424.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 33",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
