@@ -29,6 +29,16 @@
         },
         {
         "name": "UFC 300",
+        "info":"[Español].[Eurosport]",
+        "online":"true",
+        "image": "https://pbs.twimg.com/media/GIn9J1ZXgAAATPn.jpg",
+        "url": "https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/x-discovery-token=Expires=1713099573&KeyName=primary&Signature=CGqvuF1kAGaCKidlkwIyHXyirtw/start/1713045279/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1713099573~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/start/1713045279/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=b88d93ede6e6898e93203db954facffb4bc39470df268e8319d1d4dcd2c3441d",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC 300",
         "info":"[America]",
         "online":"true",
         "image": "https://pbs.twimg.com/media/GIn9J1ZXgAAATPn.jpg",
