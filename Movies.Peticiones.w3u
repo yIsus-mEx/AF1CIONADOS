@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Talladega Nights: The Ballad of Ricky Bobby",
+        "info":"[Español][2006]",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzAzOTk1OTIyM15BMl5BanBnXkFtZTcwNDIzNTQzMQ@@._V1_.jpg",
+        "url": "https://filemoon.sx/d/m5dddv64jmtd",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
         "name": "Jovenes Ocultos 3 Sed de Sangre",
         "info":"[Español][2010]",
         "image": "https://musicart.xboxlive.com/7/9e731100-0000-0000-0000-000000000002/504/image.jpg",
