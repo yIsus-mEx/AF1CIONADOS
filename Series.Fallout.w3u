@@ -1,0 +1,84 @@
+{
+"name": "Fallout",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Fallout.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://www.flixcorn.com/uploads/Fallout737.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+ 				"url":"https://filemoon.sx/d/nbcjgjxxef5n",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/n76s4my3uqts",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/64x11trt6mb0",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/sm084txsq3e2",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/qef3lcvtru8w",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/9eiu1hemhja7",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/xvz5vpb5ao4w",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
+				"url":"https://filemoon.sx/d/syk5rdc3jwfb",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
