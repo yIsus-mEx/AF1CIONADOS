@@ -1,0 +1,126 @@
+{
+"name": "Tennis Open Miami 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Miami.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups": 
+    [
+        {
+        "name": "Segunda Ronda",
+        "image": "",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+		        "name": "Carballes VS Alcaraz",
+		        "image": "",
+		        "info": "24/03/2024",
+		        "url": "https://filemoon.sx/d/9b4xdobesyog",
+		        "isHot": "true",
+		        "online": "true"
+		        }
+            ]
+        },
+        {
+        "name": "Tercera Ronda",
+        "image": "",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+                {
+                "name": "Alcaraz VS Monfils",
+                "image": "",
+                "info": "[25/03/2024]",
+                "url": "https://filemoon.sx/d/9mv5d3jdvt0m",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Cuarta Ronda",
+        "image": "",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Alcaraz VS Musseti",
+                "image": "",
+                "info": "[26/03/2024]",
+                "url": "https://filemoon.sx/d/29w0hqm3oama",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Cuartos de Final",
+        "image": "https://i.postimg.cc/7Zf3vY9D/quarter-final.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Dimitrov Vs Alcaraz",
+                "image": "",
+                "info": "28/03/2024",
+                "url": "",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Semifinal",
+        "image": "https://i.postimg.cc/Wb3dfYpJ/semifinal.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Medveded Vs Sinner",
+                "image": "",
+                "info": "29/03/2024",
+                "url": "",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                },
+                {
+                "name": "Dimitrov Vs Zverev",
+                "image": "",
+                "info": "30/03/2024",
+                "url": "",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHot": "true",
+                "online": "true"
+                }
+            ]
+        },
+        {
+        "name": "Final",
+        "image": "https://i.postimg.cc/sDjZpDZy/Final.png",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+            [
+                {
+                "name": "Dimitrov Vs Sinner",
+                "info": "[31.03.24]",
+                "image": "",
+                "url": "",
+                "isHost": "true",
+                "online": "true"
+                }
+            ]
+        }
+    ]
+}
