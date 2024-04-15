@@ -15,10 +15,11 @@
  		"stations":
 			[
  				{
- 				"name": "Episodio 01",
+ 				"name": "Episodio 001",
  				"info":"",
  				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
- 				"url":"https://vidmoly.me/w/z84ntldd31an",
+				"url":"https://vidmoly.me/w/z84ntldd31an",
+				"userAgent": "PlusMediaPlayer/0.0.9",
  				"isHost":"true",
  				"online":"true"
 				},
