@@ -9,14 +9,14 @@
     [
         {
         "name": "Segunda Ronda",
-        "image": "",
+        "image": "https://i.postimg.cc/fT1pqrQ3/RONDA2.png",
         "imageScale": "",
         "info": "",
         "stations": 
             [
                 {
 		        "name": "Carballes VS Alcaraz",
-		        "image": "",
+		        "image": "https://i.postimg.cc/zBsyM7dJ/alc2.png",
 		        "info": "24/03/2024",
 		        "url": "https://filemoon.sx/d/9b4xdobesyog",
 		        "isHot": "true",
@@ -26,7 +26,7 @@
         },
         {
         "name": "Tercera Ronda",
-        "image": "",
+        "image": "https://i.postimg.cc/rw3hw0wK/RONDA3.png",
         "imageScale": "",
         "info": "",
         "stations":
@@ -44,7 +44,7 @@
         },
         {
         "name": "Cuarta Ronda",
-        "image": "",
+        "image": "https://i.postimg.cc/s2Z3MhP8/RONDA4.png",
         "imageScale": "",
         "info": "",
         "stations": 
@@ -62,7 +62,7 @@
         },
         {
         "name": "Cuartos de Final",
-        "image": "https://i.postimg.cc/7Zf3vY9D/quarter-final.png",
+        "image": "https://i.postimg.cc/FsgpQW2C/CUARTOS.png",
         "imageScale": "",
         "info": "",
         "stations": 
@@ -80,7 +80,7 @@
         },
         {
         "name": "Semifinal",
-        "image": "https://i.postimg.cc/Wb3dfYpJ/semifinal.png",
+        "image": "https://i.postimg.cc/9fRVS7rb/SEMIFINAL.png",
         "imageScale": "",
         "info": "",
         "stations": 
@@ -107,7 +107,7 @@
         },
         {
         "name": "Final",
-        "image": "https://i.postimg.cc/sDjZpDZy/Final.png",
+        "image": "https://i.postimg.cc/15vr7nxf/Final.png",
         "imageScale": "",
         "info": "",
         "stations": 
