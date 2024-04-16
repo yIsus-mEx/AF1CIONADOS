@@ -8,6 +8,24 @@
 "groups":
     [
 		{
+        "name": "R09 Autotrader EchoPark Automotive 400",
+        "info":"",
+        "image": "https://i.postimg.cc/MKLyYgw3/Auto-Trader-Echopark-Automotive-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "EchoPark Automotive 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/MKLyYgw3/Auto-Trader-Echopark-Automotive-400.png",
+                "url":"https://filemoon.sx/d/dn2utns0zhic",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R08 Cookout 400",
         "info":"",
         "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
