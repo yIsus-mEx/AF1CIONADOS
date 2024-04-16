@@ -9,6 +9,69 @@
     [
 
 	{
+        "name": "JORNADA 29",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "Obradoiro VS Manresa",
+              	"info": "13/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/bbd55q6yzhsf/Baloncesto_LigaEndesa_Obra_vs_Manresa_13-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Tenerife VS Bilbao",
+              	"info": "13/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/kee2vl9hrn5q/Baloncesto_LigaEndesa_Tenerife_vs_Bilbao_13-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Unicaja VS Zaragoza",
+              	"info": "13/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/x1za7665zj9b/Baloncesto_LigaEndesa_Unicaja_vs_Zaragoza_13-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Baskonia VS Breogan",
+              	"info": "14/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/564bk7fn70jb/Baloncesto_LigaEndesa_Baskonia_vs_Breo_14-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Girona VS Barca",
+              	"info": "14/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/mc515o9d4mxw/Baloncesto_LigaEndesa_Girona_vs_Barca_14-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Real Madrid VS Joventut",
+              	"info": "14/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/jepetiwliex2/Real_Madrid_VS_Juventut_140424.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+	]
+	},
+
+	{
         "name": "JORNADA 28",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
         "info": "",
