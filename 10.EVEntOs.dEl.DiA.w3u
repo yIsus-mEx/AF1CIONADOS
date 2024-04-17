@@ -7,6 +7,87 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Manchester City VS Real Madrid",
+        "info":"[TUDN]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/410dae65f3dad4eb8fb666b0dfc9dc93/resize/660/f/webp/assets/multimedia/imagenes/2024/04/08/17125975709301.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Manchester City VS Real Madrid",
+        "info":"[español]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/410dae65f3dad4eb8fb666b0dfc9dc93/resize/660/f/webp/assets/multimedia/imagenes/2024/04/08/17125975709301.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Manchester City VS Real Madrid",
+        "info":"[español]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/410dae65f3dad4eb8fb666b0dfc9dc93/resize/660/f/webp/assets/multimedia/imagenes/2024/04/08/17125975709301.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Manchester City VS Real Madrid",
+        "info":"[ingles]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/410dae65f3dad4eb8fb666b0dfc9dc93/resize/660/f/webp/assets/multimedia/imagenes/2024/04/08/17125975709301.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Bayern Munich VS Arsenal",
+        "info":"[TUDN]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/9fd4280348d6ef246ff290de28fa3b62/resize/660/f/webp/assets/multimedia/imagenes/2024/04/16/17132867060403.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Bayern Munich VS Arsenal",
+        "info":"[español]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/9fd4280348d6ef246ff290de28fa3b62/resize/660/f/webp/assets/multimedia/imagenes/2024/04/16/17132867060403.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Bayern Munich VS Arsenal",
+        "info":"[español]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/9fd4280348d6ef246ff290de28fa3b62/resize/660/f/webp/assets/multimedia/imagenes/2024/04/16/17132867060403.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Bayern Munich VS Arsenal",
+        "info":"[ingles]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/9fd4280348d6ef246ff290de28fa3b62/resize/660/f/webp/assets/multimedia/imagenes/2024/04/16/17132867060403.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
         {
         "name": "Barcelona vs PSG",
         "info":"[TUDN]",
