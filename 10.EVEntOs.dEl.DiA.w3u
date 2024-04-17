@@ -19,14 +19,14 @@
         "isHost": ""
         },
         {
-        "name": "PRUEBA",
+        "name": "PRUEBAS",
         "info":"",
         "online":"true",
         "image": "",
         "url": "https://ok.ru/videoembed/7901744993565/1714565056704/0/C4AVwHucu2duqchwPKMWvCdh4FM/00004FF08324562F0E0A0000018EE259672B0795?Ux2124679=20?white=1&autoplay=1",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
-        "isHost": ""
+        "isHost": "true"
         }
     ]
 }
