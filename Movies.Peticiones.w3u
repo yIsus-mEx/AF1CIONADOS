@@ -7,6 +7,18 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Civil War",
+        "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
+        "url": "https://filemoon.sx/d/o2rx1i7x5cnh",
+        "info": "[2024][Latino]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
         {
         "name": "Destino Tokio",
         "info":"[Español][1943]",
