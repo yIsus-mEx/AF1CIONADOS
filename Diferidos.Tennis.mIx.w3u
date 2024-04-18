@@ -7,6 +7,15 @@
 "info": "",
 "stations":
     [
+
+        {
+        "name": "Rafa Nadal VS Alex de Minaur",
+        "info": "Torneo Conde Godó 2024",
+        "image": "https://i.postimg.cc/gjgpBj9d/2024-04-17-Alex-de-Minaur-vs-Nadal.jpg",
+        "url": "https://filemoon.sx/d/nmqknrcau6k7/Open_Barcelona_Alex_de_Minaur_VS_Rafa_Nadal_170424.mkv",
+        "online": "true",
+        "isHost": "true"
+        },
         {
         "name": "Rafa Nadal VS Flavio Cobolli",
         "info": "Torneo Conde Godó 2024",
