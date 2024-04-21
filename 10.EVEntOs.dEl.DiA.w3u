@@ -37,6 +37,16 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
+        },
+        {
+        "name": "Ryan García y Devin Haney",
+        "info":"[DAzn]",
+        "online":"true",
+        "image": "https://i.postimg.cc/BZ5mWkz7/garcia.jpg",
+        "url": "https://losfwr04tf.azureedge.net:443/live/box1/chunks.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         }
     ]
 }
