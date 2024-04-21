@@ -70,6 +70,25 @@
 		},
 
 		{
+		"name": "Amy Winehouse, Fallen Star",
+		"image": "https://pics.filmaffinity.com/amy_winehouse_fallen_star-918473725-large.jpg",
+		"stations":
+			[
+   				{
+      				"name": "Amy Winehouse, Fallen Star",
+      				"image": "https://pics.filmaffinity.com/amy_winehouse_fallen_star-918473725-large.jpg",
+      				"url": "https://bembed.net/v/vQBYEbNa4d6En1m",
+      				"info": "[2012]",
+      				"embed": "",
+      				"isHost": "true",
+      				"online": "true",
+      				"userAgent": "PlusMediaPlayer/0.0.9",
+      				"import": false
+    				}
+			]
+		},
+
+		{
 		"name":"Break Nation: La Electrónica Que Bailó Andalucía",
 		"image":"https://pics.filmaffinity.com/Break_Nation_La_electraonica_que_bailao_Andalucaia-218001604-large.jpg",
 		"stations":
@@ -315,6 +334,25 @@
 				"isHost":"true",
 				"online":"true"
 				}
+			]
+		},
+
+		{
+		"name": "¿Quien nos protege?",
+		"image": "https://pics.filmaffinity.com/quien_nos_protege-487995669-large.jpg",
+		"stations":
+			[
+   				{
+      				"name": "¿Quien nos protege?",
+      				"image": "https://pics.filmaffinity.com/quien_nos_protege-487995669-large.jpg",
+      				"url": "",
+      				"info": "[2023]",
+      				"embed": "",
+      				"isHost": "true",
+      				"online": "true",
+      				"userAgent": "PlusMediaPlayer/0.0.9",
+      				"import": false
+    				}
 			]
 		},
 
