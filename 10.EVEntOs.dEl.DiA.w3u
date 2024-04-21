@@ -9,22 +9,32 @@
     [
 
         {
-        "name": "Manchester City VS Real Madrid",
-        "info":"[TUDN]",
+        "name": "F1 GP China 2024",
+        "info":"[DaznF1]",
         "online":"true",
-        "image": "https://phantom-marca.unidadeditorial.es/410dae65f3dad4eb8fb666b0dfc9dc93/resize/660/f/webp/assets/multimedia/imagenes/2024/04/08/17125975709301.jpg",
-        "url": "https://paco@ignores.top/js/manchester-city-vs-real-madrid/4/playlist.m3u8",
+        "image": "https://i.postimg.cc/7ht0N3B7/china.jpg",
+        "url": "https://rpn3.bozztv.com/ssh101/ssh101/ylsus/playlist.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         },
         {
-        "name": "PRUEBA",
-        "info":"",
+        "name": "F1 GP China 2024",
+        "info":"[F1Tv]",
         "online":"true",
-        "image": "",
-        "url": "https://ok.ru/videoembed/7901744993565/1714565056704/0/C4AVwHucu2duqchwPKMWvCdh4FM/00004FF08324562F0E0A0000018EE259672B0795?Ux2124679=20?white=1&autoplay=1",
-        "userAgent": "",
+        "image": "https://i.postimg.cc/7ht0N3B7/china.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "WRC Rally Croacia 2024",
+        "info":"[Rally Tv]",
+        "online":"true",
+        "image": "https://www.thesportsdb.com/images/media/event/poster/a2p8nw1643379770.jpg",
+        "url": "https://ssh101-fl.bozztv.com/ssh101/manujaz/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
         }
