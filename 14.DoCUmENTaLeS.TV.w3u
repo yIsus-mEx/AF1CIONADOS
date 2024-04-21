@@ -51,6 +51,25 @@
 		},
 
 		{
+		"name": "Amor, acoso y asesinato",
+		"image": "https://pics.filmaffinity.com/lover_stalker_killer-339534823-large.jpg",
+		"stations":
+			[
+   				{
+      				"name": "Amor, acoso y asesinato",
+      				"image": "https://pics.filmaffinity.com/lover_stalker_killer-339534823-large.jpg",
+      				"url": "https://upstream.to/vtwe8oscdchg",
+      				"info": "[2024]",
+      				"embed": "",
+      				"isHost": "true",
+      				"online": "true",
+      				"userAgent": "PlusMediaPlayer/0.0.9",
+      				"import": false
+    				}
+			]
+		},
+
+		{
 		"name":"Break Nation: La Electrónica Que Bailó Andalucía",
 		"image":"https://pics.filmaffinity.com/Break_Nation_La_electraonica_que_bailao_Andalucaia-218001604-large.jpg",
 		"stations":
