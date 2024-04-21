@@ -69,6 +69,36 @@
         "isHost": ""
         },
         {
+        "name": "Real Madrid Vs Barcelona",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sxRLQb1X/real.jpg",
+        "url": "https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Real Madrid Vs Barcelona",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sxRLQb1X/real.jpg",
+        "url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/GCijq_TxleQzwyZJZlRsl9iQKPtdZAKSCkreUiu165Fjw3TFVEOff9-pMXmTnT6tiHeZKLlACBpE4hlMa2ZvpQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "Real Madrid Vs Barcelona",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sxRLQb1X/real.jpg",
+        "url": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/GCijq_TxleQzwyZJZlRsl9iQKPtdZAKSCkreUiu165Fjw3TFVEOff9-pMXmTnT6tiHeZKLlACBpE4hlMa2ZvpQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
         "name": "1. Toros desde Sevilla FHD",
         "info":"[Feria de Abril]",
         "online":"true",
