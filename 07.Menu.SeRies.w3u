@@ -370,7 +370,7 @@
 		"import": false
 		},
 		{
-		"name": "Entrevias (Temp 3)",
+		"name": "Entrevias",
 		"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie ENTREVIAS.w3u",
 		"info": "bY. Adri",
@@ -388,6 +388,13 @@
 		"image": "https://pics.filmaffinity.com/miseducation-427256450-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://www.dl.dropboxusercontent.com/scl/fi/n9sy1x81s36b7k2r0c1v1/LA-ESCUELA-DE-LA-VIDA.txt?rlkey=dsstsa9bn44520z6i1hst5zeu"
+		},
+		{
+		"name": "Espabilados Los",
+		"image": "https://pics.filmaffinity.com/los_espabilados-720894546-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie ESPABILADOS LOS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
 		},
 		{
 		"name": "Espia, El (The Spy)",
@@ -800,6 +807,13 @@
 		"import": false
 		},
 		{
+		"name": "Paraiso",
+		"image": "https://pics.filmaffinity.com/paraiso-266004300-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie PARAISO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Parasyte, los grises",
 		"image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie PARASYTE LOS GRISES.w3u",
@@ -873,6 +887,13 @@
 		"image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://af1cionados.vercel.app/serie REINA ROJA.w3u",
+		"import": false
+		},
+		{
+		"name": "Reyes de la Noche",
+		"image": "https://pics.filmaffinity.com/reyes_de_la_noche-198570836-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie REYES DE LA NOCHE.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
