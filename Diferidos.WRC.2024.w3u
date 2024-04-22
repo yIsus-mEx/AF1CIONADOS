@@ -8,6 +8,193 @@
 "groups": 
     [
         {
+        "name": "WRC: Rally Croacia 2024",
+        "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/bxsn54f8q71v",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/1xd7ggmzvnrr",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/xl1uoou93v7g",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/5v2gfaj5uyh9",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/kg2wttqkzje6",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/0wgthr3lvmiq",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/z9nvon7d558a",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/9p8obdt8sp8b",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/2waufq56odud",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/xebffknltyv7",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/i3yp82fjlcp5",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/enpg70j5hd9n",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/94l11ksqr1ql",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/kj96zeh5m8mt",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/9zzvdcsvsdz1",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/71msm68twjnh",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/wgwv6cad4c6r",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 19",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/hogjrimiaj27",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 20",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/b9yqfk0jjgtm",
+                "userAgent": "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "WRC: Rally Kenya 2024",
         "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
         "stations": 
