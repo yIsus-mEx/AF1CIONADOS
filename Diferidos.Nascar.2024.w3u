@@ -8,6 +8,24 @@
 "groups":
     [
 		{
+        "name": "R10 GEICO 500 Talladega",
+        "info":"",
+        "image": "https://i.postimg.cc/d1Y9ttf8/Geico-500.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "GEICO 500 Talladega",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/d1Y9ttf8/Geico-500.png",
+                "url":"https://filemoon.sx/d/c1k1gkj91pri",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R09 Autotrader EchoPark Automotive 400",
         "info":"",
         "image": "https://i.postimg.cc/MKLyYgw3/Auto-Trader-Echopark-Automotive-400.png",
