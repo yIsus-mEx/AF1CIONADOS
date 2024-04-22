@@ -275,7 +275,7 @@
 		"import": false
 		},
     		{
-		"name": "Darkness, El caso final",
+		"name": "Darkness",
 		"image": "https://pics.filmaffinity.com/den_som_draeber_fanget_af_morket-982716227-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie DARKNESS.w3u",
 		"info": "bY. Adri",
@@ -364,6 +364,12 @@
 		"url": "https://af1c1onados.vercel.app/Series.Los.Enviados.w3u",
 		"info": "bY. Adri",
 		"import": false
+		},
+		{
+		"name": "Escuela de la vida, La",
+		"image": "https://pics.filmaffinity.com/miseducation-427256450-large.jpg",
+		"info": "bY. jOsEpiMbaTV",
+		"url": "https://www.dl.dropboxusercontent.com/scl/fi/n9sy1x81s36b7k2r0c1v1/LA-ESCUELA-DE-LA-VIDA.txt?rlkey=dsstsa9bn44520z6i1hst5zeu"
 		},
 		{
 		"name": "Espia, El (The Spy)",
@@ -590,6 +596,12 @@
 		"import": false
 		},
 		{
+		"name": "Lupin",
+		"image": "https://i.ibb.co/7WywgXF/images-3.jpg",
+		"info": "bY. jOsEpiMbaTV",
+		"url": "https://www.dl.dropboxusercontent.com/s/mogiexypyfc2rmk/LUPIN.txt"
+		},
+		{
 		"name": "Machos Alfa",
 		"image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
 		"url": "https://af1cionados.vercel.app/serie MACHOS ALFA.w3u",
@@ -770,6 +782,12 @@
 		"url": "https://af1c1onados.vercel.app/Series.Peaky.Blinders.w3u",
 		"info": "bY. yIsus",
 		"import": false
+		},
+		{
+		"name": "Plan del diablo, El",
+		"image": "https://i.ibb.co/SP6jVvx/El-plan-del-diablo-Netflix.jpg",
+		"info": "bY. jOsEpiMbaTV", 
+		"url": "https://www.dl.dropboxusercontent.com/scl/fi/ccn3okywxhzqqpsogck1s/EL-PLAN-DEL-DIABLO.txt?rlkey=o8igrntyiyqp5w3e8zf20jqap"
 		},
 		{
 		"name": "PlayList",
@@ -1001,6 +1019,12 @@
 		"url": "https://af1cionados.vercel.app/serie%20THE%20WINTER%20KING%20%5BVOSE%5D.w3u",
 		"info": "bY. aDri",
 		"import": false
+		},
+		{
+		"name": "Witcher, The",
+		"image": "https://pics.filmaffinity.com/the_witcher-737807462-large.jpg",
+		"info": "bY. jOsEpiMbaTV",
+		"url": "https://www.dl.dropboxusercontent.com/s/olb5iknx61mdu85/THE-WITCHER.txt"
 		},
 		{
 		"name": "Yellowstone",
