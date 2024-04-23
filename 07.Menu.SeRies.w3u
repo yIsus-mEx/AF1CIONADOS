@@ -21,10 +21,18 @@
 		"import": false
 		},
 		{
+		"name": "1899",
+		"image": "https://pics.filmaffinity.com/1899-620331296-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie 1899.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Agencia Lockwood",
 		"image": "https://pics.filmaffinity.com/lockwood_co-903524341-large.jpg",
 		"info": "bY. Adri",
-		"url": "https://www.dl.dropboxusercontent.com/s/591r2d01uc7tyq2/AGENCIA-LOCKWOOD.txt"
+		"url": "https://www.dl.dropboxusercontent.com/s/591r2d01uc7tyq2/AGENCIA-LOCKWOOD.txt",
+		"import": false
 		},
 		{
 		"name": "Alice in Borderland",
@@ -703,10 +711,24 @@
 		"import": false
 		},
 		{
+		"name": "Miercoles",
+		"image": "https://pics.filmaffinity.com/wednesday-938002261-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie MIERCOLES.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Monarch: legado de monstruos",
 		"image": "https://i.postimg.cc/T1qpG1tC/monarch2.png",
 		"url": "https://af1c1onados.vercel.app/Series.Monarch.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Monja guerrera, La",
+		"image": "https://pics.filmaffinity.com/warrior_nun-614959893-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie MONJA GUERRERA.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
@@ -908,6 +930,13 @@
 		"image": "https://pics.filmaffinity.com/ripley-500691186-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie RIPLEY.w3u",
 		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Sandman",
+		"image": "https://pics.filmaffinity.com/the_sandman-801503155-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SANDMAN.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
