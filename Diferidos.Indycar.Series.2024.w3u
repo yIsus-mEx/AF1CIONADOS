@@ -8,13 +8,47 @@
 "groups":
     [
         {
+        "name": "02 IndyCar Grand Prix Long Beach",
+        "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+                "url" :"https://filemoon.sx/d/6skbkxkktpzl",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+                "url" :"https://filemoon.sx/e/ta9hq4xpqud8",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "02 IndyCar Grand Prix $1 Million Challenge",
         "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
         "stations":
             [
                 {
                 "name": "Carrera",
-                "info":"[Round 01][Latino]",
+                "info":"[Latino]",
                 "online": "true",
                 "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
                 "url" :"https://filemoon.sx/d/4jtjpn51ozcm",
@@ -23,7 +57,7 @@
                 },
                 {
                 "name": "Carrera",
-                "info":"[Round 01][Español]",
+                "info":"[Español]",
                 "online": "true",
                 "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
                 "url" :"https://filemoon.sx/d/0i6v1m55jthh",
@@ -32,7 +66,7 @@
                 },
 				{
                 "name": "Carrera",
-                "info":"[Round 01][Ingles]",
+                "info":"[Ingles]",
                 "online": "true",
                 "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
                 "url" :"https://filemoon.sx/e/5y3gfgouxrgq",
@@ -48,7 +82,7 @@
             [
                 {
                 "name": "Carrera",
-                "info":"[Round 01][Latino]",
+                "info":"[Latino]",
                 "online": "true",
                 "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
                 "url" :"https://embedme.xyz/d/w8r5ep5gsvst",
@@ -57,7 +91,7 @@
                 },
                 {
                 "name": "Carrera",
-                "info":"[Round 01][Español]",
+                "info":"[Español]",
                 "online": "true",
                 "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
                 "url" :"https://embedme.xyz/d/q16rr7xxoj3c",
@@ -66,7 +100,7 @@
                 },
 				{
                 "name": "Carrera",
-                "info":"[Round 01][Ingles]",
+                "info":"[Ingles]",
                 "online": "true",
                 "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
                 "url" :"https://embedmoon.pro/e/xah3pnml54dw",
