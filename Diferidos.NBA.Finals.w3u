@@ -1,0 +1,164 @@
+{
+"name": "NBA Finals 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.NBA.Finals.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+		{
+        "name": "1ra Ronda Eliminatoria",
+        "info":"",
+        "image": "",
+        "imageScale": "",
+        "groups":
+            [
+                {
+                "name": "Cavaliers Vs Magics",
+                "info":"",
+                "image": "https://i.postimg.cc/rm8grbks/Cavaliers-vs.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Game 01",
+                        "info":"[Ingles]",
+                        "image": "https://basketball-video.com/_pu/59/10982917.png",
+                        "url":"https://filemoon.sx/e/ufx8tpoh3cyl",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+                },
+                {
+                "name": "Timberwolves Vs Suns",
+                "info":"",
+                "image": "https://i.postimg.cc/HnmJnDDv/timvssuns.png",
+                "imageScale": "",
+                "stations":
+                   [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/98074905.png",
+                       "url":"https://filemoon.sx/e/wxh8hszntrox",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                    ]
+                },
+                {
+                "name": "knicks vs 76ers",
+                "info":"",
+                "image": "https://i.postimg.cc/sDNV0dHF/knicks-vs-76ers.png",
+                "imageScale": "",
+                "stations":
+                   [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/90239418.png",
+                       "url":"https://filemoon.sx/e/1c5a23rke15w",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Lakers vs Nuggets",
+                "info":"",
+                "image": "https://i.postimg.cc/VNzHq59z/lakersvsnuggets.png",
+                "imageScale": "",
+                "stations":
+                   [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/82749978.png",
+                       "url":"https://filemoon.sx/e/bh52vb2azpak",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Heat vs Celtics",
+                "info":"",
+                "image": "https://i.postimg.cc/P56T8GZV/Heat-vs-Celtics.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/00998872.png",
+                       "url":"https://filemoon.sx/e/4kwtz3j107yx",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Mavericks vs Clippers",
+                "info":"",
+                "image": "https://i.postimg.cc/028TGW9T/Mavericks-vs-Clippers.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/61040875.png",
+                       "url":"https://filemoon.sx/e/2mx5j0brmu0e",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Pacers vs Bucks",
+                "info":"",
+                "image": "https://i.postimg.cc/Y2xVS6Qb/Pacers-vs-Bucks.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/11740703.png",
+                       "url":"https://filemoon.sx/e/eci26rkuuxub",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Pelicans vs Thunder",
+                "info":"",
+                "image": "https://i.postimg.cc/FHm0H6XB/Pelicans-vs-Thunder.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://basketball-video.com/_pu/59/46540835.png",
+                       "url":"https://filemoon.sx/e/d2ximx5gfo4y",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                }
+            ]
+        }
+    ]
+}
