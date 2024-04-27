@@ -1,0 +1,36 @@
+
+{
+"name": "Tennis Madrid Open",
+"image": "https://i.postimg.cc/0QnFb9H9/2024-0-10-Open-Mutua-Madrid-2024.jpg",
+"url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Madrid.Open.2024.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "Blanch VS Nadal",
+        "image": "",
+        "url": "https://filemoon.sx/d/3h3h29kcjins/ATP_Madrid_Open_Blanch_VS_Rafa_Nadal_250424.mkv",
+       	"info": "[25/04/2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alcaraz VS Shevchenko",
+        "image": "",
+        "url": "https://filemoon.sx/d/8gvilwwzzsa4/ATP_Madrid_Open_Aleksandr_Shevchenko_VS_Alcaraz_260424.mkv",
+       	"info": "[25/04/2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
