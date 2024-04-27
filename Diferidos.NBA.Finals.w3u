@@ -22,6 +22,15 @@
                 "stations":
                     [
                         {
+                        "name": "Game 03",
+                        "info":"[Ingles]",
+                        "image": "https://i.postimg.cc/QMDmvqbp/1.png",
+                        "url":"https://filemoon.sx/e/j1lbmak68tjv",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
                         "name": "Game 02",
                         "info":"[Ingles]",
                         "image": "https://i.postimg.cc/QMDmvqbp/1.png",
@@ -76,6 +85,15 @@
                 "stations":
                    [
                        {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/ysurpi3yf0ja",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
                        "name": "Game 02",
                        "info":"[Ingles]",
                        "image": "https://i.postimg.cc/PJNnYHvr/3.png",
@@ -102,6 +120,15 @@
                 "imageScale": "",
                 "stations":
                    [
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BbfwQG5V/4.png",
+                       "url":"https://filemoon.sx/e/imjplq7und99",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
                        {
                        "name": "Game 02",
                        "info":"[Ingles]",
