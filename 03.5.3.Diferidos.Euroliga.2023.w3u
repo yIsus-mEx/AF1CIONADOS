@@ -8,8 +8,72 @@
 "groups": 
 	[
 
+
 	{
-        "name": "PLAY OFF",
+        "name": "FINAL",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
+        "name": "3 y 4 PUESTO",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
+        "name": "SEMIFINALES",
+        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       	"info": "",
+        "stations":
+        	[
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
+        "name": "CUARTOS DE FINAL",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
@@ -58,7 +122,25 @@
               	"url": "https://filemoon.sx/d/hjm449tn2jc8/EuroLeague_PlayOff_Real_Madrid_VS_Baskonia_250424.mkv",
               	"userAgent":"",
               	"isHost": "true"
-              	}
+              	},
+           	{
+              	"name": "Monaco VS Fenerbache",
+              	"info": "26/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/af73x80s6y89/Baloncesto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_26-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Barca VS Olypimpiacos",
+              	"info": "26/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/af73x80s6y89/Baloncesto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_26-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
 		]
 	},
 
