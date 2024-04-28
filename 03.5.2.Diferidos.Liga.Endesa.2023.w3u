@@ -9,7 +9,43 @@
     [
 
 	{
-        "name": "JORNADA 29",
+        "name": "JORNADA 31",
+        "image": "https://i.postimg.cc/zDP2kvPn/21.png",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "Girona Basket VS Bilbao Basket",
+              	"info": "27/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/61u38x8lqg9r/Basquet_Girona_VS_Bilbao_Basket_270424.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Gran Canaria VS Joventut",
+              	"info": "27/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/9jk2h4yjqdi9/Baloncesto_LigaEndesa_GranCa_vs_Joventut_27-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Granada VS Breogan",
+              	"info": "27/04/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "https://filemoon.sx/d/tklnlg60h07e/Baloncesto_LigaEndesa_Granada_vs_Breo_27-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
+        "name": "JORNADA 30",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
         "info": "",
         "stations":
