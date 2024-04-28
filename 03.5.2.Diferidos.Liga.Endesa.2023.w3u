@@ -18,7 +18,7 @@
               	"name": "Girona Basket VS Bilbao Basket",
               	"info": "27/04/2024",
               	"online": "true",
-              	"image": "",
+              	"image": "https://phantom-marca.unidadeditorial.es/8a4775de6a4d7fe34d13d372e6da6c48/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142501286503.jpg",
               	"url": "https://filemoon.sx/d/61u38x8lqg9r/Basquet_Girona_VS_Bilbao_Basket_270424.mkv",
               	"userAgent":"",
               	"isHost": "true"
@@ -27,7 +27,7 @@
               	"name": "Gran Canaria VS Joventut",
               	"info": "27/04/2024",
               	"online": "true",
-              	"image": "",
+              	"image": "https://phantom-marca.unidadeditorial.es/f03c5c1f77c2163ee3487f5b357aaf45/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142504456325.jpg",
               	"url": "https://filemoon.sx/d/9jk2h4yjqdi9/Baloncesto_LigaEndesa_GranCa_vs_Joventut_27-04-2024.mkv",
               	"userAgent":"",
               	"isHost": "true"
@@ -36,8 +36,17 @@
               	"name": "Granada VS Breogan",
               	"info": "27/04/2024",
               	"online": "true",
-              	"image": "",
+              	"image": "https://phantom-marca.unidadeditorial.es/11360b467d8e19129b5b741befaa9702/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142362553839.jpg",
               	"url": "https://filemoon.sx/d/tklnlg60h07e/Baloncesto_LigaEndesa_Granada_vs_Breo_27-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Palencia VS Baskonia",
+              	"info": "27/04/2024",
+              	"online": "true",
+              	"image": "https://phantom-marca.unidadeditorial.es/f23d5b19aadf6c299d20aac45209510a/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142498010020.jpg",
+              	"url": "",
               	"userAgent":"",
               	"isHost": "true"
               	}
