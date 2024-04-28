@@ -10,10 +10,10 @@
 
         {
         "name": "GP JEREZ MOTOGP",
-        "info":"[M+ DAZN 1 FHD]",
+        "info":"[Español]",
         "online":"true",
         "image": "https://i.postimg.cc/DfcRtFPM/MOTOGP-JEREZ-2024.jpg",
-        "url": "http://508551897241373766.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/373766.ts",
+        "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
@@ -125,45 +125,6 @@
         "image": "https://i.postimg.cc/DfcRtFPM/MOTOGP-JEREZ-2024.jpg",
         "url": "http://15564930727228384.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/228384.ts",
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Nicolau vs Perez",
-        "info":"[Español]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/UFC_on_ESPN_55.jpg",
-        "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/f9382a676d27486a8d463e10a58d3640/hdntl=exp=1714307560~acl=/primary/2/f9382a676d27486a8d463e10a58d3640/*~data=hdntl~hmac=64153697007bf58631802055c68f4e43775269cc485e73b019a30551e0e8e00b/start/1714251600/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:spa,eng;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1714307560~acl=/primary/2/f9382a676d27486a8d463e10a58d3640/start/1714251600/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aspa%2Ceng%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=8c45d56618388eb9de91b68683394691a936cb49163a7b91c0773891959e7a04",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Nicolau vs Perez",
-        "info":"[Español]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/UFC_on_ESPN_55.jpg",
-        "url": "http://www.oha.to/play/3826316524/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "UFC Fight Night: Nicolau vs Perez",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/UFC_on_ESPN_55.jpg",
-        "url": "https://v.markkystreams.com/video/ufc/",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "UFC Fight Night: Nicolau vs Perez",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/UFC_on_ESPN_55.jpg",
-        "url": "https://sportsleading.online/live/stream_ufc1.m3u8",
         "embed": "",
         "isHost": ""
         },
