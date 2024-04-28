@@ -15,6 +15,31 @@
         "groups":
             [
                 {
+                "name": "R08 Monaco E-Prix [2024]",
+                "image": "https://i.postimg.cc/Y9m5pxRn/monaco.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "R08 Monaco E-Prix Carrera",
+                        "info":"Latino [27.04.23]",
+                        "image": "https://i.postimg.cc/Y9m5pxRn/monaco.png",
+                        "url":"",
+                        "isHost":"true",
+                        "online":""
+                        },
+						{
+                        "name": "R08 Monaco E-Prix Carrera",
+                        "info":"Español [27.04.23]",
+                        "image": "https://i.postimg.cc/Y9m5pxRn/monaco.png",
+                        "url":"https://filemoon.sx/d/9cot77d9fg4t",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
                 "name": "06-07.Missano E-Prix [2024]",
                 "image": "https://i.postimg.cc/C5m3RkRt/misano2024.png",
                 "imageScale": "",
