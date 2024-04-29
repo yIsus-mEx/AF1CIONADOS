@@ -8,16 +8,98 @@
 "stations":
     [
 
-
         {
-        "name": "IndyCar Gran Prix Barber Alabama",
-        "info":"[Ingles]",
+        "name": "1. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA FHD]",
         "online":"true",
-        "image": "https://i.postimg.cc/xC4zsbLM/barber-alabama.jpg",
-        "url": "https://sportsleading.online/live/stream_f1.m3u8",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://508551897241320782.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/320782.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "2. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA HD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://508551897241320781.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/320781.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "3. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA SD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://508551897241321076.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/321076.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "4. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA FHD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://89456777399320782.ofds0328.xyz:80/play/GTQD5D6Q7S/pkDWTH9FcWG/320782.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "5. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA HD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://89456777399320781.ofds0328.xyz:80/play/GTQD5D6Q7S/pkDWTH9FcWG/320781.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "6. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA SD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://89456777399320792.ofds0328.xyz:80/play/GTQD5D6Q7S/pkDWTH9FcWG/320792.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "7. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA FHD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://15564930727320782.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/320782.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "8. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA HD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://15564930727320781.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/320781.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "9. FC Barcelona VS Valencia CF",
+        "info":"[DAZN LALIGA SD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/1b2c5a7b4559e47d47d538bcb2bf8925/resize/660/f/webp/assets/multimedia/imagenes/2024/04/27/17142444546543.jpg",
+        "url": "http://15564930727320792.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/320792.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
         }
+
+
 
     ]
 }
