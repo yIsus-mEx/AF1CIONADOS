@@ -8,16 +8,9 @@
 "stations":
     [
 
+ 
 
-        {
-        "name": "IndyCar Gran Prix Barber Alabama",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://i.postimg.cc/xC4zsbLM/barber-alabama.jpg",
-        "url": "https://sportsleading.online/live/stream_f1.m3u8",
-        "embed": "",
-        "isHost": ""
-        }
+
 
     ]
 }
