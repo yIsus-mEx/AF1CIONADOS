@@ -8,6 +8,23 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Nicolau vs Perez",
+         "image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Nicolau vs Perez",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
+                "url":"https://filemoon.sx/d/9qzvsjif35jy",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 300: Pereira vs Hill",
          "image": "https://i.postimg.cc/FzMSzpMk/33.png",
          "imageScale": "",
