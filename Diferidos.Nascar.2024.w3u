@@ -8,6 +8,33 @@
 "groups":
     [
 		{
+        "name": "R11 Würth 400 Dover",
+        "info":"",
+        "image": "https://i.postimg.cc/kG8fjw5w/W-rth-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Würth 400 Dover",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/kG8fjw5w/W-rth-400.png",
+                "url":"https://filemoon.sx/d/oxbq8ravy9fr",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Würth 400 Dover",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/kG8fjw5w/W-rth-400.png",
+                "url":"https://filemoon.sx/e/qjk7htzv47og",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R10 GEICO 500 Talladega",
         "info":"",
         "image": "https://i.postimg.cc/d1Y9ttf8/Geico-500.png",
@@ -19,6 +46,15 @@
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/d1Y9ttf8/Geico-500.png",
                 "url":"https://filemoon.sx/d/c1k1gkj91pri",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "GEICO 500 Talladega",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/d1Y9ttf8/Geico-500.png",
+                "url":"https://filemoon.sx/e/bgstlvmb0c9h",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -40,6 +76,15 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "EchoPark Automotive 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/MKLyYgw3/Auto-Trader-Echopark-Automotive-400.png",
+                "url":"https://filemoon.sx/e/1z7o0r1btomi",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -55,6 +100,15 @@
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
                 "url":"https://bembed.net/v/0DogOGM1lrKxKjM",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Cookout 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
+                "url":"https://filemoon.sx/e/7m3q6fve8cda",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -76,6 +130,15 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "Federated Auto Parts 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/Jn2MHqBs/federate-400.png",
+                "url":"https://filemoon.sx/e/2oxlnxdkt2gu",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -91,6 +154,15 @@
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
                 "url":"https://filemoon.sx/d/rh9hgyq4zov5",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "EchoPark Automotive",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
+                "url":"https://filemoon.sx/e/01sw63p4eifq",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -121,6 +193,15 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "Food City 500",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
+                "url":"https://fmembed.cc/e/q8b2vfxm86gq",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -136,6 +217,15 @@
                 "info":"[DAZN]",
                 "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
                 "url":"https://moonembed.xyz/d/qdb026zke7bo",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Shriners Children’s 500",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
+                "url":"https://filemoon.sx/e/4x0mcyebgod9",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -157,6 +247,15 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "Pennzoil 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
+                "url":"https://filemoon.sx/e/9cnirtbcewry",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -175,6 +274,15 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "Ambetter Health 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
+                "url":"https://filemoon.sx/e/azml6xawuxc7",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -190,6 +298,16 @@
                 "info":"[Fox Sport]",
                 "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
                 "url":"https://moonembed.xyz/d/24jrkkna6ext",
+				"userAgent" : "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Daytona 500",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
+                "url":"https://filemoon.sx/e/im28ehizq53a",
 				"userAgent" : "",
                 "embed":"",
                 "isHost":"true",
