@@ -78,15 +78,6 @@
         "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "isHost": ""        
-        },
-        {
-        "name": "MotorSport 🏁",
-        "info":"Canal 09",
-        "online": "true",
-        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
-        "url": "https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost": ""        
         }
     ]
 }
