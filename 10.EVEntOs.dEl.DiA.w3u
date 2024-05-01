@@ -29,6 +29,28 @@
     	"online": "true",
     	"userAgent":"PlusMediaPlayer/0.0.9",
     	"import": false
+    	},
+	{
+	"name": "FC Barcelona VS Madrid CFF",
+    	"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=58s22jlmr42d1hek0pt5vex86_image-header_pRow_1713963147000",
+    	"url": "",
+    	"info": "[01/05/2024]",
+    	"embed": "",
+    	"isHost": "true",
+    	"online": "true",
+    	"userAgent":"PlusMediaPlayer/0.0.9",
+    	"import": false
+    	},
+	{
+	"name": "FC Barcelona VS Madrid CFF",
+    	"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=58s22jlmr42d1hek0pt5vex86_image-header_pRow_1713963147000",
+    	"url": "",
+    	"info": "[01/05/2024]",
+    	"embed": "",
+    	"isHost": "true",
+    	"online": "true",
+    	"userAgent":"PlusMediaPlayer/0.0.9",
+    	"import": false
     	}
 
     ]
