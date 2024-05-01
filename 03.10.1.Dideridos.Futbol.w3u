@@ -131,6 +131,7 @@
                 }
             ]
 		},
+
 		{
         "name": "Liga EA SPORT 2023/24",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
@@ -138,6 +139,15 @@
         "info":"",
         "stations":
             [
+			{
+        		"name": "FC Barcelona VS Valencia CF",
+        		"info":"[26-04-2024]",
+        		"image": "https://i.postimg.cc/HLf3G2yn/2024-04-29-FC-Barcelona-vs-Valencia-CF.jpg",
+        		"url": "https://filemoon.sx/d/h4eqwh8gp7nx/Liga_EA_Sport_FC_Barcelona_VS_Valencia_290424.mkv",
+			"isHost":"true",
+			"userAgent": "",
+        		"online":"true"
+        		},
 				{
         		"name": "Atco Madrid vs FC Barcelona",
         		"info":"[17-03-2024]",
