@@ -14,6 +14,7 @@
         "info": "",
         "stations":
             [
+
            	{
               	"name": "Girona Basket VS Bilbao Basket",
               	"info": "27/04/2024",
@@ -67,7 +68,17 @@
               	"url": "https://filemoon.sx/d/thromfgo3d7y/Baloncesto_LigaEndesa_RMadrid_vs_Obra_28-04-2024.mkv",
               	"userAgent":"",
               	"isHost": "true"
+              	},
+           	{
+              	"name": "Manresa VS Valencia Basket",
+              	"info": "28/04/2024",
+              	"online": "true",
+              	"image": "https://phantom-marca.unidadeditorial.es/dcfdfa7b60c100b0ad52ee283de75248/resize/660/f/webp/assets/multimedia/imagenes/2024/04/28/17143235185115.jpg",
+              	"url": "https://filemoon.sx/d/s7ii5drez11c/Baloncesto_LigaEndesa_Manresa_vs_Valencia_28-04-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
               	}
+
 		]
 	},
 
