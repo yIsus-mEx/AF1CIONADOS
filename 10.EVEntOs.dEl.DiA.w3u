@@ -51,7 +51,17 @@
     	"online": "true",
     	"userAgent":"PlusMediaPlayer/0.0.9",
     	"import": false
-    	}
+    	},
+	{
+	"name": "Borussia Dortmund VS Paris Saint Germain",
+	"info":"[Español]",
+	"image": "https://i.postimg.cc/SxtcqtN6/Semifinales-Champions-2024.png",
+	"url":"",
+	"isHost":"true",
+	"online":"true",
+    	"userAgent":"PlusMediaPlayer/0.0.9",
+    	"import": false
+	}
 
     ]
 }
