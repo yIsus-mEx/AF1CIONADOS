@@ -14,7 +14,7 @@
         "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
 		{
         "name": "Tauro Canal 2",
@@ -23,7 +23,7 @@
         "url": "http://50.7.144.138:8000/play/fe928827/ufAfU8s9bH/558672.ts.m3u558672?token=H0EMV0RQRl8UAAABUVMGAV5XWgkAUgYFAgJfCgAKAgdXUVdVAAoBUw5DFRZAFkBdBw48WFASDVEAD1APURQXRhcGFmleXEZfFFILBAdWAxpKQRdYWVUVXgUbREgKXBcJRlBSAgMaSEdTGU1RQQxTVDkHBkddU1JGD1kTVA8UF1wKPABTWlkKARRbGwURThBRFRNBC1pFWwgZFQRRF0pURwFBXhQHGkhHVQ5MWkcQSxpcQSZiFhwVAU1DA1YQUVpdRllGWwRNXEcaQ1BHbBBXSxIRBlBZVUVGDxVWGk8aWFIcPAdZWVYBBkIIVlpAQAgaVUFPE1lfWQ1BWBRnE1FREV5BVw8FCkYY",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
 		{
         "name": "Tauro Canal 3",
@@ -32,7 +32,7 @@
         "url": "https://paco@telemadrid-23-secure2.akamaized.net/master.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         }
 	]
 }
