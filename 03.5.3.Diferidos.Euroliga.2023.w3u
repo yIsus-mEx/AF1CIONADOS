@@ -74,7 +74,7 @@
         "groups":
         	[
            		{
-                "name": "Panathinaikos VS Maccabi Tel Aviv",
+                "name": "Panathinaikos VS Maccabi",
                 "info":"",
                 "image": "https://i.postimg.cc/6qy5sNF6/pana.png",
                 "imageScale": "",
@@ -82,7 +82,7 @@
                     [
 						{
 						"name": "Panathinaikos VS Maccabi",
-						"info": "23/04/2024",
+						"info": "[Juego.01][23/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
 						"url": "https://filemoon.sx/d/wc45luk9r9hy/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_23_04-2024.mkv",
@@ -91,7 +91,7 @@
 						},
 						{
 						"name": "Panathinaikos VS Maccabi",
-						"info": "25/04/2024",
+						"info": "[Juego.02][25/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
 						"url": "https://filemoon.sx/d/470gcomejc05/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_25-04-2024.mkv",
@@ -109,7 +109,7 @@
                     [
            				{
 						"name": "Monaco VS Fenerbache",
-						"info": "24/04/2024",
+						"info": "[Juego.01][24/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
 						"url": "https://filemoon.sx/d/9p9eqk6vn5xy/Balonceto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_24-04-2024.mkv",
@@ -118,7 +118,7 @@
 						},
 						{
 						"name": "Monaco VS Fenerbache",
-						"info": "26/04/2024",
+						"info": "[Juego.02][26/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
 						"url": "https://filemoon.sx/d/af73x80s6y89/Baloncesto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_26-04-2024.mkv",
@@ -136,7 +136,7 @@
                     [
            				{
 						"name": "Barca VS Olypimpiacos",
-						"info": "24/04/2024",
+						"info": "[Juego.01][24/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
 						"url": "https://filemoon.sx/d/n6unxmflz7vd/FC_Barcelona_VS_Olympiacos_240424.mkv",
@@ -145,7 +145,7 @@
 						},
 						{
 						"name": "Barca VS Olypimpiacos",
-						"info": "26/04/2024",
+						"info": "[Juego.02][26/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
 						"url": "https://filemoon.sx/d/c2nr3pous46k/EuroLeague_PlayOff_2_FC_Barcelona_VS_Olympiacos_260424.mkv",
@@ -163,7 +163,7 @@
                     [
 						{
 						"name": "Real Madrid VS Baskonia",
-						"info": "25/04/2024",
+						"info": "[Juego.01][25/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/1RMSFZH7/real.png",
 						"url": "https://filemoon.sx/d/hjm449tn2jc8/EuroLeague_PlayOff_Real_Madrid_VS_Baskonia_250424.mkv",
