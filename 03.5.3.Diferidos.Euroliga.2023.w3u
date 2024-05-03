@@ -7,15 +7,13 @@
 "info": "",
 "groups": 
 	[
-
-
-	{
+		{
         "name": "FINAL",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "",
               	"info": "",
               	"online": "true",
@@ -24,16 +22,15 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "3 y 4 PUESTO",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "",
               	"info": "",
               	"online": "true",
@@ -42,16 +39,15 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "SEMIFINALES",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "",
               	"info": "",
               	"online": "true",
@@ -60,7 +56,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "",
               	"info": "",
               	"online": "true",
@@ -69,88 +65,122 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "CUARTOS DE FINAL",
-        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+        "image": "https://i.postimg.cc/yNXMvrQf/post.png",
        	"info": "",
-        "stations":
+        "groups":
         	[
-           	{
-              	"name": "Panathinaikos VS Maccabi Tel Aviv",
-              	"info": "23/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/wc45luk9r9hy/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_23_04-2024.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
-              	"name": "Monaco VS Fenerbache",
-              	"info": "24/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/9p9eqk6vn5xy/Balonceto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_24-04-2024.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
-              	"name": "Barca VS Olypimpiacos",
-              	"info": "24/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/n6unxmflz7vd/FC_Barcelona_VS_Olympiacos_240424.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
-              	"name": "Panathinaikos VS Maccabi",
-              	"info": "25/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/470gcomejc05/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_25-04-2024.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
-              	"name": "Real Madrid VS Baskonia",
-              	"info": "25/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/hjm449tn2jc8/EuroLeague_PlayOff_Real_Madrid_VS_Baskonia_250424.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
-              	"name": "Monaco VS Fenerbache",
-              	"info": "26/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/af73x80s6y89/Baloncesto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_26-04-2024.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           	{
-              	"name": "Barca VS Olypimpiacos",
-              	"info": "26/04/2024",
-              	"online": "true",
-              	"image": "",
-              	"url": "https://filemoon.sx/d/c2nr3pous46k/EuroLeague_PlayOff_2_FC_Barcelona_VS_Olympiacos_260424.mkv",
-              	"userAgent":"",
-              	"isHost": "true"
-              	}
-		]
-	},
-
-	{
+           		{
+                "name": "Panathinaikos VS Maccabi Tel Aviv",
+                "info":"",
+                "image": "https://i.postimg.cc/6qy5sNF6/pana.png",
+                "imageScale": "",
+                "stations":
+                    [
+						{
+						"name": "Panathinaikos VS Maccabi",
+						"info": "23/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
+						"url": "https://filemoon.sx/d/wc45luk9r9hy/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_23_04-2024.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Panathinaikos VS Maccabi",
+						"info": "25/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
+						"url": "https://filemoon.sx/d/470gcomejc05/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_25-04-2024.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						}
+					]
+				},
+				{
+                "name": "Fenerbache VS Monaco",
+                "info":"",
+                "image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
+                "imageScale": "",
+                "stations":
+                    [
+           				{
+						"name": "Monaco VS Fenerbache",
+						"info": "24/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
+						"url": "https://filemoon.sx/d/9p9eqk6vn5xy/Balonceto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_24-04-2024.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Monaco VS Fenerbache",
+						"info": "26/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
+						"url": "https://filemoon.sx/d/af73x80s6y89/Baloncesto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_26-04-2024.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						}
+					]
+				},
+				{
+                "name": "Olypimpiacos VS Barca",
+                "info":"",
+                "image": "https://i.postimg.cc/6QzttJyv/barca.png",
+                "imageScale": "",
+                "stations":
+                    [
+           				{
+						"name": "Barca VS Olypimpiacos",
+						"info": "24/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
+						"url": "https://filemoon.sx/d/n6unxmflz7vd/FC_Barcelona_VS_Olympiacos_240424.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Barca VS Olypimpiacos",
+						"info": "26/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
+						"url": "https://filemoon.sx/d/c2nr3pous46k/EuroLeague_PlayOff_2_FC_Barcelona_VS_Olympiacos_260424.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						}
+					]
+				},
+				{
+                "name": "Real Madrid VS Baskonia",
+                "info":"",
+                "image": "https://i.postimg.cc/1RMSFZH7/real.png",
+                "imageScale": "",
+                "stations":
+                    [
+						{
+						"name": "Real Madrid VS Baskonia",
+						"info": "25/04/2024",
+						"online": "true",
+						"image": "https://i.postimg.cc/1RMSFZH7/real.png",
+						"url": "https://filemoon.sx/d/hjm449tn2jc8/EuroLeague_PlayOff_Real_Madrid_VS_Baskonia_250424.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						}
+					]
+				}
+           	]
+		},
+		{
         "name": "PLAY IN",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "Baskonia VS Virtus",
               	"info": "19/04/2024",
               	"online": "true",
@@ -159,7 +189,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Anadolu VS Virtus",
               	"info": "16/04/2024",
               	"online": "true",
@@ -168,7 +198,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Maccabi Tel Aviv VS Baskonia",
               	"info": "16/04/2024",
               	"online": "true",
@@ -177,16 +207,15 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "JORNADA 34",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "Anadolu VS Estrella Roja",
               	"info": "11/04/2024",
               	"online": "true",
@@ -195,7 +224,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Zalgiris VS Real Madrid",
               	"info": "11/04/2024",
               	"online": "true",
@@ -204,7 +233,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Maccabi VS Milano",
               	"info": "11/04/2024",
               	"online": "true",
@@ -213,7 +242,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Panathinaikos VS Berlin",
               	"info": "11/04/2024",
               	"online": "true",
@@ -222,7 +251,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Monaco VS Bayern Munich",
               	"info": "11/04/2024",
               	"online": "true",
@@ -231,7 +260,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Asvel VS Barca",
               	"info": "12/04/2024",
               	"online": "true",
@@ -240,7 +269,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Partizan VS Valencia",
               	"info": "12/04/2024",
               	"online": "true",
@@ -249,7 +278,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Virtus VS Baskonia",
               	"info": "12/04/2024",
               	"online": "true",
@@ -258,7 +287,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Olympiako VS Fenerbache",
               	"info": "12/04/2024",
               	"online": "true",
@@ -267,16 +296,15 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "JORNADA 33",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "Monaco VS Zalgiris",
               	"info": "04/04/2024",
               	"online": "true",
@@ -285,7 +313,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Crvena VS Olympiaco",
               	"info": "04/04/2024",
               	"online": "true",
@@ -294,7 +322,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Barcelona VS Maccabi",
               	"info": "04/04/2024",
               	"online": "true",
@@ -303,7 +331,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Berlin VS Partizan",
               	"info": "04/04/2024",
               	"online": "true",
@@ -312,7 +340,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Fenerbahce VS Efes",
               	"info": "05/04/2024",
               	"online": "true",
@@ -321,7 +349,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Bayer VS Panathinaikos",
               	"info": "05/04/2024",
               	"online": "true",
@@ -330,7 +358,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Milan VS Bolonia",
               	"info": "05/04/2024",
               	"online": "true",
@@ -339,7 +367,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Madrid VS Baskonia",
               	"info": "05/04/2024",
               	"online": "true",
@@ -348,7 +376,7 @@
               	"userAgent":"",
               	"isHost": "true"
               	},
-           	{
+           		{
               	"name": "Valencia VS Lyon",
               	"info": "05/04/2024",
               	"online": "true",
@@ -357,16 +385,15 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-		]
-	},
-
-	{
+			]
+		},
+		{
         "name": "JORNADA 32",
         "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
        	"info": "",
         "stations":
         	[
-           	{
+           		{
               	"name": "Bayern VS Barca",
               	"info": "28/03/2024",
               	"online": "true",
