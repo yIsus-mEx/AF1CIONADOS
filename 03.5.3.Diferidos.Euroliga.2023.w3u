@@ -97,6 +97,24 @@
 						"url": "https://filemoon.sx/d/470gcomejc05/Baloncesto_EuroLeague_PlayOff_Panathinaikos_vs_Maccabi_25-04-2024.mkv",
 						"userAgent":"",
 						"isHost": "true"
+						},
+						{
+						"name": "Panathinaikos VS Maccabi",
+						"info": "[Juego.03][30/04/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
+						"url": "https://filemoon.sx/d/wquwe6aee4a3",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Panathinaikos VS Maccabi",
+						"info": "[Juego.04][02/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
+						"url": "https://filemoon.sx/d/t1gqkn6qycy9",
+						"userAgent":"",
+						"isHost": "true"
 						}
 					]
 				},
@@ -122,6 +140,15 @@
 						"online": "true",
 						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
 						"url": "https://filemoon.sx/d/af73x80s6y89/Baloncesto_EuroLeague_PlayOff_Monaco_vs_Fenerbahce_26-04-2024.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Monaco VS Fenerbache",
+						"info": "[Juego.03][01/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
+						"url": "https://filemoon.sx/d/osvcmeg2r9gl",
 						"userAgent":"",
 						"isHost": "true"
 						}
@@ -151,6 +178,15 @@
 						"url": "https://filemoon.sx/d/c2nr3pous46k/EuroLeague_PlayOff_2_FC_Barcelona_VS_Olympiacos_260424.mkv",
 						"userAgent":"",
 						"isHost": "true"
+						},
+						{
+						"name": "Barca VS Olypimpiacos",
+						"info": "[Juego.03][30/04/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
+						"url": "https://filemoon.sx/d/fp15f4i8z6t9",
+						"userAgent":"",
+						"isHost": "true"
 						}
 					]
 				},
@@ -163,7 +199,7 @@
                     [
 						{
 						"name": "Real Madrid VS Baskonia",
-						"info": "[Juego.01][25/04/2024]",
+						"info": "[Juego.02][25/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/1RMSFZH7/real.png",
 						"url": "https://filemoon.sx/d/hjm449tn2jc8/EuroLeague_PlayOff_Real_Madrid_VS_Baskonia_250424.mkv",
