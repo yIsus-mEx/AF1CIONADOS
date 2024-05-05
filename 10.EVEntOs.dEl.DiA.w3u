@@ -8,9 +8,9 @@
 "stations":
     [
 
-{
-        "name": "Ufc 301",
-        "info":"",
+        {
+        "name": "UFC 301: Pantoja vs Erceg",
+        "info":"[Español]",
         "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/UFC_301_poster.jpg",
         "url": "https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/0797bd7c9b6b4de2b60e43070433bee2/x-discovery-token=Expires=1714922094&KeyName=primary&Signature=s7Et5o4tAEJtHMlIsQCiN8ce1xw/start/1714867200/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:eng,spa,qis;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1714922094~acl=/primary/2/0797bd7c9b6b4de2b60e43070433bee2/start/1714867200/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aeng%2Cspa%2Cqis%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=0899e0edb1f1bfd14f31732708f4f15e99e691e41b64150d1b50dd4b2e47df82",
         "userAgent": "PlusMediaPlayer/0.0.9",
@@ -18,11 +18,20 @@
         "isHost":""
         },
 
-{
+        {
         "name": "Box: Canelo vs Munguia",
-        "info":"",
+        "info":"[Español]",
         "image": "https://all.web.img.acsta.net/img/8f/de/8fdea0d40c5643d2195a37a3ea201153.jpg",
         "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1714911134~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=090ebf0cba0f7834dfb6273fbe2ae955e988a2b4b4cf8958a5c22b72b89543a6/start/1714856672/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1714911134~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/start/1714856672/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=b807648bad55a681e4ee423ee2be65b728d382bfb8138f27ec4ead9977843620",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Box: Canelo vs Munguia",
+        "info":"[Latino]",
+        "image": "https://all.web.img.acsta.net/img/8f/de/8fdea0d40c5643d2195a37a3ea201153.jpg",
+        "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
