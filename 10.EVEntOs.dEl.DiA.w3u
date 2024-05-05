@@ -7,16 +7,41 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
-
         {
-        "name": "FC BARCELONA vs ILLES BALEARS PALMA",
-        "info":"[Español]",
-        "image": "https://phantom-marca.unidadeditorial.es/f05bce87e3c9fbfd5e2687cfa1c349a6/resize/660/f/webp/assets/multimedia/imagenes/2024/05/04/17148512403756.jpg",
-        "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+        "name": "GP F1 Miami 2024",
+        "info":"[DAZNF1]",
+        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
+        "url": "https://canales.activao.com:90/DAZNF1/playlist.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
+        },
+        {
+        "name": "GP F1 Miami 2024",
+        "info":"[DAZNF1]",
+        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
+        "url": "https://vkvsd9.mycdn.me:443/hls/6570435152427.m3u8/sig/NRlThJ5DpMM/srcIp/104.28.196.111/urls/185.226.52.53/expires/1715397404313/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7901024561963/id/6570435152427/6570435152427_high/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "GP F1 Miami 2024",
+        "info":"[F1TV]",
+        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
+        "url": "https://ssh101-fl.bozztv.com/ssh101/f1latamracing/index.m3u8?David_mEx",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "GP F1 Miami 2024",
+        "info":"[F1TV]",
+        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
+        "url": "https://burnoutf1.com/F1/EnVivo/F1-LATAM-C2.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":"true"
         }
     ]
 }
