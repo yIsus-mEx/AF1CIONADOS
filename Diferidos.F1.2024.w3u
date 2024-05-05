@@ -20,34 +20,34 @@
                 "info":"[DAZN F1]",
                 "image": "",
                 "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Libres 01",
                 "info":"[F1Tv]",
                 "image": "",
                 "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Clasificacion Sprint",
                 "info":"[DAZN F1]",
                 "image": "https://phantom-marca.unidadeditorial.es/b1b90185e4c586c9e9428e2febc5cb99/resize/561/f/webp/assets/multimedia/imagenes/2024/05/04/17148508750969.jpg",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "url":"https://filemoon.sx/d/36x0da0twt8x",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Clasificacion Sprint",
                 "info":"[F1Tv]",
                 "image": "https://phantom-marca.unidadeditorial.es/b1b90185e4c586c9e9428e2febc5cb99/resize/561/f/webp/assets/multimedia/imagenes/2024/05/04/17148508750969.jpg",
                 "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -56,16 +56,16 @@
                 "info":"[DAZN F1]",
                 "image": "https://phantom-marca.unidadeditorial.es/26d39bf8dec8a4bfaddfd231f71c21cf/resize/660/f/webp/assets/multimedia/imagenes/2024/05/03/17147727390749.jpg",
                 "url":"https://filemoon.sx/d/lw5bilk9pdh3",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Carrera Sprint",
                 "info":"[F1Tv]",
                 "image": "https://phantom-marca.unidadeditorial.es/26d39bf8dec8a4bfaddfd231f71c21cf/resize/660/f/webp/assets/multimedia/imagenes/2024/05/03/17147727390749.jpg",
                 "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -74,16 +74,16 @@
                 "info":"[DAZN F1]",
                 "image": "https://phantom-marca.unidadeditorial.es/a45528a06ad8d76d55145dc28da8e1e4/resize/990/f/webp/assets/multimedia/imagenes/2024/05/03/17147727702069.jpg",
                 "url":"https://filemoon.sx/d/bz0o67tjpil2/PreviaClasificaci_nCarreraF1.Miami_2024.1080p.Espa_ol.DAZN.mkv",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Clasificacion",
                 "info":"[F1Tv]",
                 "image": "https://phantom-marca.unidadeditorial.es/a45528a06ad8d76d55145dc28da8e1e4/resize/990/f/webp/assets/multimedia/imagenes/2024/05/03/17147727702069.jpg",
                 "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":""
                 },
@@ -92,16 +92,16 @@
                 "info":"[DAZN F1]",
                 "image": "",
                 "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Carrera",
                 "info":"",
                 "image": "",
                 "url":"https://filemoon.sx/d/ni4zes6ko8if",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
