@@ -662,6 +662,13 @@
 		"import": false
 		},
 		{
+		"name": "Jaguar",
+		"image": "https://pics.filmaffinity.com/jaguar-386505647-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie JAGUAR.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
 		"name": "Juego de Tronos",
 		"image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
 		"info": "bY. aDri",
@@ -1086,6 +1093,13 @@
 		"import": false
 		},
 		{
+		"name": "Rumbo al Infierno",
+		"image": "https://pics.filmaffinity.com/jiok-617674681-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie RUMBOINFIERNO.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
 		"name": "Sandman",
 		"image": "https://pics.filmaffinity.com/the_sandman-801503155-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SANDMAN.w3u",
@@ -1131,6 +1145,13 @@
 		"image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie SLOW HORSES.w3u",
+		"import": false
+		},
+		{
+		"name": "Snowpiercer (Rompehielos)",
+		"image": "https://pics.filmaffinity.com/snowpiercer-148583846-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SNOWPIERCER.w3u",
+		"info": "bY. Adri",
 		"import": false
 		},
 		{
