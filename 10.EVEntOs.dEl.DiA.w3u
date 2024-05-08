@@ -73,7 +73,7 @@
         "info":"[LIGA CAMPEONES FHD]",
         "online":"true",
         "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
-        "url": "http://508551897241246282.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/246282.ts",
+        "url": "https://panda-live-4349d79a1480.b-cdn.net/11eb579f-3bfb-496b-a9fe-c341ab2c100e.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
@@ -83,7 +83,7 @@
         "info":"[LIGA CAMPEONES HD]",
         "online":"true",
         "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
-        "url": "http://508551897241165358.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/165358.ts",
+        "url": "https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420889137547313180/playlist.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
@@ -93,7 +93,17 @@
         "info":"[LIGA CAMPEONES SD]",
         "online":"true",
         "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
-        "url": "http://508551897241165359.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/165359.ts",
+        "url": "https://vkvsd184.mycdn.me/hls/6329619778182.m3u8/sig/iYWEekDY08g/srcIp/185.118.189.58/urls/185.226.53.54/expires/1715652122164/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6941074008966/id/6329619778182/video.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "10. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES SD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/c0hy-Aw7RyLWW-Rpojat29bwLXWXh3B1Oz6zvEweLp_LO-lXDzdNs-r0a4TKdqWSLM819tugjsUu4JGNgy3vFQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": ""
