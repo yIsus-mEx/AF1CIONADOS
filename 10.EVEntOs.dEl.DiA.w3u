@@ -7,41 +7,97 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
         {
-        "name": "GP F1 Miami 2024",
-        "info":"[DAZNF1]",
-        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
-        "url": "https://canales.activao.com:90/DAZNF1/playlist.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "name": "1. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES FHD]",
         "online":"true",
-        "isHost":""
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://15564930727246282.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/246282.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         },
         {
-        "name": "GP F1 Miami 2024",
-        "info":"[DAZNF1]",
-        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
-        "url": "https://vkvsd9.mycdn.me:443/hls/6570435152427.m3u8/sig/NRlThJ5DpMM/srcIp/104.28.196.111/urls/185.226.52.53/expires/1715397404313/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7901024561963/id/6570435152427/6570435152427_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "name": "2. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES HD]",
         "online":"true",
-        "isHost":""
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://15564930727165358.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/165358.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         },
         {
-        "name": "GP F1 Miami 2024",
-        "info":"[F1TV]",
-        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
-        "url": "https://ssh101-fl.bozztv.com/ssh101/f1latamracing/index.m3u8?David_mEx",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "name": "3. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES SD]",
         "online":"true",
-        "isHost":""
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://15564930727165359.ofds0328.xyz:80/play/vi619945/VPPEe@suq@/165359.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         },
         {
-        "name": "GP F1 Miami 2024",
-        "info":"[F1TV]",
-        "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
-        "url": "https://burnoutf1.com/F1/EnVivo/F1-LATAM-C2.php",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "name": "4. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES FHD]",
         "online":"true",
-        "isHost":"true"
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://89456777399246282.ofds0328.xyz:80/play/GTQD5D6Q7S/pkDWTH9FcWG/246282.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "5. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES HD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://89456777399165358.ofds0328.xyz:80/play/GTQD5D6Q7S/pkDWTH9FcWG/165358.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "6. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES SD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://89456777399165359.ofds0328.xyz:80/play/GTQD5D6Q7S/pkDWTH9FcWG/165359.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "7. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES FHD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://508551897241246282.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/246282.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "8. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES HD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://508551897241165358.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/165358.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "9. Real Madrid VS Bayern Munich",
+        "info":"[LIGA CAMPEONES SD]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+        "url": "http://508551897241165359.ofg0316.xyz:80/play/Txibon731LA/TxibonM123/165359.ts",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": ""
         }
+
     ]
 }
