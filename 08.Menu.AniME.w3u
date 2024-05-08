@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "YuYu Hakusho",
+         "image": "https://postimg.cc/yWkKQd3f",
+         "url": "https://af1c1onados.vercel.app/Anime.YuYu.Hakusho.w3u",
+         "info":"bY. Falken",
+         "import": false
+        }, 
+        {
          "name": "Initial D",
          "image": "https://i.postimg.cc/6pFw3PW2/Initial-D-Integrale-First-Stage.png",
          "url": "https://af1c1onados.vercel.app/Anime.Initial.D.w3u",
