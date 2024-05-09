@@ -320,6 +320,23 @@
 		},
 
 		{
+		"name":"Oppenheimer Destructor de Mundos",
+		"image":"https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg",
+		"stations":
+			[
+				{
+				"name": "Oppenheimer Destructor de Mundos",
+				"info":"[2023]",
+				"image": "https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg",
+				"url":"",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+
+		{
 		"name": "Picaro, Pequeño Nicolas, El",
 		"image": "https://pics.filmaffinity.com/picaro_el_pequeno_nicolas-161657452-large.jpg",
 		"url": "https://af1cionados.vercel.app/DoCuSerie PICARO NICOLAS.w3u",
