@@ -248,33 +248,7 @@
         "userAgent" : "",
         "online":"true",
         "isHost": "true"
-        },
-        {
-        "name": "Evil Dead",
-        "info":"[Castellano][1981]",
-        "image": "https://pics.filmaffinity.com/Posesiaon_infernal-598287728-large.jpg",
-        "url": "https://filemoon.sx/d/c9p6vzg3w09r",
-        "userAgent" : "",
-        "online":"true",
-        "isHost": "true"
-        },
-        {
-        "name": "Evil Dead 2",
-        "info":"[Castellano][1987]",
-        "image": "https://i.postimg.cc/zfPTSQ9r/IMG-20230509-171628.jpg",
-        "url": "https://filemoon.sx/d/kzzmnacg1kka",
-        "userAgent" : "",
-        "online":"true",
-        "isHost": "true"
-        },
-        {
-        "name": "Evil Dead 3",
-        "info":"[Castellano][1992]",
-        "image": "https://m.media-amazon.com/images/I/91A0ici0EHL._AC_UF894,1000_QL80_.jpg",
-        "url": "https://filemoon.sx/d/gqzcn8du6ikc",
-        "userAgent" : "",
-        "online":"true",
-        "isHost": "true"
         }
+
     ]
 }
