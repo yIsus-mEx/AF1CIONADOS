@@ -8,6 +8,40 @@
 "groups":
     [
         {
+        "name": "05 IndyCar Indianapolis Motor Speedway",
+        "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "",
+                "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+                "url" :"https://filemoon.sx/d/855ryvbyzp39",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+                "url" :"https://filemoon.sx/e/flcs60s57mcv",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "04 IndyCar Grand Prix Barbera Alabama",
         "image": "https://i.postimg.cc/6pccvGT9/alabama.png",
         "stations":
