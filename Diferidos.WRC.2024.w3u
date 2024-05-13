@@ -8,7 +8,104 @@
 "groups": 
     [
         {
-        "name": "WRC: Rally Croacia 2024",
+        "name": "WRC: R04 Rally Portugal 2024",
+        "image": "",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/7s1oo12njscm",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/vm29mgugcgg1",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/5r2l3ao5z1p8",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/dyk6ggj7odn2",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/guryptb6049b",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/gctlk9ebngyg",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/0ojvym0irbkt",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/snbiasrovpt2",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "",
+                "image": "",
+                "url": "",
+                "userAgent": "",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "",
+                "url": "https://filemoon.sx/d/lkbc57veckut",
+                "userAgent": "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "WRC: R04 Rally Croacia 2024",
         "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
         "stations": 
             [
@@ -195,7 +292,7 @@
             ]
         },
         {
-        "name": "WRC: Rally Kenya 2024",
+        "name": "WRC: R03 Rally Kenya 2024",
         "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
         "stations": 
             [
@@ -373,7 +470,7 @@
             ]
         },
         {
-        "name": "WRC: Rally Suecia 2024",
+        "name": "WRC: R02 Rally Suecia 2024",
         "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
         "stations": 
             [
@@ -560,7 +657,7 @@
             ]
         },
         {
-        "name": "WRC: Rally MonteCarlo 2024",
+        "name": "WRC: R01 Rally MonteCarlo 2024",
         "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
         "stations": 
             [

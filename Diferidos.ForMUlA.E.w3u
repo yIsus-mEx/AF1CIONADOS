@@ -15,6 +15,56 @@
         "groups":
             [
                 {
+                "name": "R10 Berlin E-Prix [2024]",
+                "image": "https://i.postimg.cc/RVdcp0FS/berlin.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "R10 Berlin E-Prix Carrera",
+                        "info":"Latino [11.05.24]",
+                        "image": "https://i.postimg.cc/RVdcp0FS/berlin.png",
+                        "url":"https://filemoon.sx/d/208fn0c0p39p",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "R10 Berlin E-Prix Carrera",
+                        "info":"Español [11.05.24]",
+                        "image": "https://i.postimg.cc/RVdcp0FS/berlin.png",
+                        "url":"https://filemoon.sx/d/fzrn03pyik1c",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
+                "name": "R09 Berlin E-Prix [2024]",
+                "image": "https://i.postimg.cc/RVdcp0FS/berlin.png",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "R09 Berlin E-Prix Carrera",
+                        "info":"Latino [10.05.24]",
+                        "image": "https://i.postimg.cc/RVdcp0FS/berlin.png",
+                        "url":"https://filemoon.sx/d/6rdppzj7d4sh",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+						{
+                        "name": "R09 Berlin E-Prix Carrera",
+                        "info":"Español [10.05.24]",
+                        "image": "https://i.postimg.cc/RVdcp0FS/berlin.png",
+                        "url":"https://filemoon.sx/d/r7r9v1epxk9p",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+					]
+                },
+                {
                 "name": "R08 Monaco E-Prix [2024]",
                 "image": "https://i.postimg.cc/Y9m5pxRn/monaco.png",
                 "imageScale": "",
@@ -23,7 +73,7 @@
                     [
                         {
                         "name": "R08 Monaco E-Prix Carrera",
-                        "info":"Latino [27.04.23]",
+                        "info":"Latino [27.04.24]",
                         "image": "https://i.postimg.cc/Y9m5pxRn/monaco.png",
                         "url":"https://filemoon.sx/d/w3vda9xni331",
                         "isHost":"true",
@@ -31,7 +81,7 @@
                         },
 						{
                         "name": "R08 Monaco E-Prix Carrera",
-                        "info":"Español [27.04.23]",
+                        "info":"Español [27.04.24]",
                         "image": "https://i.postimg.cc/Y9m5pxRn/monaco.png",
                         "url":"https://filemoon.sx/d/es1njq4f8uov",
                         "isHost":"true",
@@ -48,7 +98,7 @@
                     [
                         {
                         "name": "R06 Missano E-Prix Carrera",
-                        "info":"Latino [13.04.23]",
+                        "info":"Latino [13.04.24]",
                         "image": "https://i.postimg.cc/C5m3RkRt/misano2024.png",
                         "url":"https://filemoon.sx/d/a0wg90j7i160",
                         "isHost":"true",
@@ -56,7 +106,7 @@
                         },
 						{
                         "name": "R06 Missano E-Prix Carrera",
-                        "info":"Español [13.04.23]",
+                        "info":"Español [13.04.24]",
                         "image": "https://i.postimg.cc/C5m3RkRt/misano2024.png",
                         "url":"https://filemoon.sx/d/5n435qvn830n",
                         "isHost":"true",
@@ -64,7 +114,7 @@
                         },
                         {
                         "name": "R07 Missano E-Prix Carrera",
-                        "info":"Latino [14.04.23]",
+                        "info":"Latino [14.04.24]",
                         "image": "https://i.postimg.cc/C5m3RkRt/misano2024.png",
                         "url":"https://filemoon.sx/d/00avy20ngyu0",
                         "isHost":"true",
@@ -72,7 +122,7 @@
                         },
 						{
                         "name": "R07 Missano E-Prix Carrera",
-                        "info":"Español [14.04.23]",
+                        "info":"Español [14.04.24]",
                         "image": "https://i.postimg.cc/C5m3RkRt/misano2024.png",
                         "url":"https://filemoon.sx/d/z6zhtsroju5o",
                         "isHost":"true",
@@ -89,7 +139,7 @@
                     [
                         {
                         "name": "Tokyo E-Prix Carrera",
-                        "info":"Latino [30.03.23]",
+                        "info":"Latino [30.03.24]",
                         "image": "https://i.postimg.cc/zDdL6yYn/tokyo-2024.png",
                         "url":"https://filemoon.sx/d/8f87jcr3ebkq",
                         "isHost":"true",
@@ -97,7 +147,7 @@
                         },
 						{
                         "name": "Tokyo E-Prix Carrera",
-                        "info":"Español [30.03.23]",
+                        "info":"Español [30.03.24]",
                         "image": "https://i.postimg.cc/zDdL6yYn/tokyo-2024.png",
                         "url":"https://bembed.net/v/4bQVOj7eRr95wKm",
                         "isHost":"true",
@@ -114,7 +164,7 @@
                     [
                         {
                         "name": "Sau Pablo E-Prix Carrera",
-                        "info":"Latino [16.03.23]",
+                        "info":"Latino [16.03.24]",
                         "image": "https://i.postimg.cc/5NGzDLG9/04-brasil.png",
                         "url":"https://fmembed.cc/d/og9rdljy4kvw",
                         "isHost":"true",
@@ -122,7 +172,7 @@
                         },
 						{
                         "name": "Sau Pablo E-Prix Carrera",
-                        "info":"Español [16.03.23]",
+                        "info":"Español [16.03.24]",
                         "image": "https://i.postimg.cc/5NGzDLG9/04-brasil.png",
                         "url":"https://fmembed.cc/d/swj0d196r91e",
                         "isHost":"true",
@@ -139,7 +189,7 @@
                     [
                         {
                         "name": "Diriyah E-Prix Carrera",
-                        "info":"Latino [27.01.23]",
+                        "info":"Latino [27.01.24]",
                         "image": "https://i.postimg.cc/SKCBFLxW/02-03-dariyah.png",
                         "url":"https://filemoon.sx/d/to8h81kkwdt3",
                         "isHost":"true",
@@ -147,7 +197,7 @@
                         },
 						{
                         "name": "Diriyah E-Prix Carrera",
-                        "info":"Español [27.01.23]",
+                        "info":"Español [27.01.24]",
                         "image": "https://i.postimg.cc/SKCBFLxW/02-03-dariyah.png",
                         "url":"https://filemoon.sx/d/va8vq0s1mgci",
                         "isHost":"true",
@@ -164,7 +214,7 @@
                     [
                         {
                         "name": "Diriyah E-Prix Carrera",
-                        "info":"Latino [26.01.23]",
+                        "info":"Latino [26.01.24]",
                         "image": "https://i.postimg.cc/SKCBFLxW/02-03-dariyah.png",
                         "url":"https://filemoon.sx/d/1o0pr64sg3y7",
                         "isHost":"true",
@@ -172,7 +222,7 @@
                         },
 						{
                         "name": "Diriyah E-Prix Carrera",
-                        "info":"Español [26.01.23]",
+                        "info":"Español [26.01.24]",
                         "image": "https://i.postimg.cc/SKCBFLxW/02-03-dariyah.png",
                         "url":"https://filemoon.sx/d/uldikedf6wd6",
                         "isHost":"true",
@@ -189,7 +239,7 @@
                     [
                         {
                         "name": "MExico E-Prix Carrera",
-                        "info":"Latino [13.01.23]",
+                        "info":"Latino [13.01.24]",
                         "image": "https://i.postimg.cc/DzMB54gG/01-Mexico.png",
                         "url":"https://filemoon.sx/d/c43p1t5bgl5m",
                         "isHost":"true",
@@ -197,7 +247,7 @@
                         },
 						{
                         "name": "MExico E-Prix Carrera",
-                        "info":"Español [13.01.23]",
+                        "info":"Español [13.01.24]",
                         "image": "https://i.postimg.cc/DzMB54gG/01-Mexico.png",
                         "url":"https://filemoon.sx/d/y3w3dlcesykq",
                         "isHost":"true",
