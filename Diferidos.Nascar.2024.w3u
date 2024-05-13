@@ -8,6 +8,33 @@
 "groups":
     [
 		{
+        "name": "R13 GOODYEAR 400",
+        "info":"",
+        "image": "https://i.postimg.cc/QNBJf7Kj/GOODYEAR-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "GOODYEAR 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/QNBJf7Kj/GOODYEAR-400.png",
+                "url":"https://filemoon.sx/d/d3hpe6c03cts",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "GOODYEAR 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/QNBJf7Kj/GOODYEAR-400.png",
+                "url":"https://filemoon.sx/e/ip942pmr5ih0",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R12 AdventHealth 400",
         "info":"",
         "image": "https://i.postimg.cc/qMFkpZZW/kansas.png",
