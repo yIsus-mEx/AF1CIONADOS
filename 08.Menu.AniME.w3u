@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "Robot Dreams",
+         "image": "https://i.ibb.co/yfc0b1v/robotdreams.jpg",
+         "url": "https://af1c1onados.vercel.app/Anime.Robot.Dreams.w3u",
+         "info":"bY. Falken",
+         "import": false
+        },         
+        {
          "name": "YuYu Hakusho",
          "image": "https://i.postimg.cc/Dfczz4vK/0.png",
          "url": "https://af1c1onados.vercel.app/Anime.Yu.Yu.Hakusho.w3u",
