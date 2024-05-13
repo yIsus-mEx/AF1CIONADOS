@@ -1235,7 +1235,14 @@
 		"url": "https://af1c1onados.vercel.app/Series.Shogun.w3u",
 		"import": false
 		},
-	    	{
+		{
+		"name": "Star Trek",
+		"image": "https://i.postimg.cc/Ss5GrymQ/star-trek.png",
+		"url": "https://af1c1onados.vercel.app/Series.Stark.Trek.Menu.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+	    {
 		"name": "Ted Lasso",
 		"image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
 		"info": "bY. Adri",
