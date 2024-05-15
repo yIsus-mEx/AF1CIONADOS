@@ -834,6 +834,62 @@
  				"online":"true"
 				}
 			]
+		},
+		{
+		"name": "Temporada 06",
+ 		"image": "https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 				"url":"https://vtube.network/1lvl1aur9wa6.html",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 02",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 				"url":"https://vtube.network/szqgq9r7594z.html",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 				"url":"https://vtube.network/ynwq6bfzbcyx.html",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 04",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 				"url":"https://vtube.network/1jw6ww0wrn9y.html",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 05",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 				"url":"https://vtube.network/v3kxpnounhom.html",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 06",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/BQCwyt93/Rookie-S06.webp",
+ 				"url":"https://upstream.to/zkasdj634n4z",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
 		}
 	]
 }
