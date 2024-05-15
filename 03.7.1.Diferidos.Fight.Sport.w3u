@@ -8,6 +8,39 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Lewis vs Nascimento",
+         "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Lewis vs Nascimento",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+                "url":"https://filemoon.sx/d/abk7zhlrbebp",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Lewis vs Nascimento",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+                "url":"https://filemoon.sx/d/rwgbhab010x1",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Lewis vs Nascimento",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+                "url":"https://filemoon.sx/d/1aara8yc4nf2",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 301: Pantoja vs Erceg",
          "image": "https://i.postimg.cc/7ZLF2Q3N/ufc301.png",
          "imageScale": "",
