@@ -42,29 +42,47 @@
 			]
 		},
 		{
-        "name": "SEMIFINALES",
-        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+        "name": "FINAL FOUR",
+        "image": "https://i.postimg.cc/j2qq1X0Q/final-four.png",
        	"info": "",
-        "stations":
+        "groups":
         	[
            		{
-              	"name": "",
-              	"info": "",
-              	"online": "true",
-              	"image": "",
-              	"url": "",
-              	"userAgent":"",
-              	"isHost": "true"
-              	},
-           		{
-              	"name": "",
-              	"info": "",
-              	"online": "true",
-              	"image": "",
-              	"url": "",
-              	"userAgent":"",
-              	"isHost": "true"
-              	}
+                "name": "Panathinaikos VS Fenerbache",
+                "info":"",
+                "image": "https://i.postimg.cc/rF3cGcm9/1.png",
+                "imageScale": "",
+                "stations":
+                    [
+						{
+						"name": "Panathinaikos VS Fenerbache",
+						"info": "[Juego.01][24/05/2024]",
+						"online": "",
+						"image": "https://i.postimg.cc/rF3cGcm9/1.png",
+						"url": "",
+						"userAgent":"",
+						"isHost": "true"
+						}
+					]
+				},
+				{
+                "name": "Real Madrid VS Olympiacos",
+                "info":"",
+                "image": "https://i.postimg.cc/JhcLWkQT/2.png",
+                "imageScale": "",
+                "stations":
+                    [
+           				{
+						"name": "Real Madrid VS Olympiacos",
+						"info": "[Juego.01][24/05/2024]",
+						"online": "",
+						"image": "https://i.postimg.cc/JhcLWkQT/2.png",
+						"url": "",
+						"userAgent":"",
+						"isHost": "true"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -115,6 +133,15 @@
 						"url": "https://filemoon.sx/d/t1gqkn6qycy9",
 						"userAgent":"",
 						"isHost": "true"
+						},
+						{
+						"name": "Panathinaikos VS Maccabi",
+						"info": "[Juego.05][07/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/6qy5sNF6/pana.png",
+						"url": "https://filemoon.sx/d/8zntzcrn8aqx",
+						"userAgent":"",
+						"isHost": "true"
 						}
 					]
 				},
@@ -151,18 +178,36 @@
 						"url": "https://filemoon.sx/d/osvcmeg2r9gl",
 						"userAgent":"",
 						"isHost": "true"
+						},
+						{
+						"name": "Monaco VS Fenerbache",
+						"info": "[Juego.04][03/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
+						"url": "https://filemoon.sx/d/yb7jya8i9ri4",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Monaco VS Fenerbache",
+						"info": "[Juego.05][08/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/8ktW3qZq/ferna.png",
+						"url": "https://filemoon.sx/d/18k9gjsikrue",
+						"userAgent":"",
+						"isHost": "true"
 						}
 					]
 				},
 				{
-                "name": "Olypimpiacos VS Barca",
+                "name": "Olympiacos VS Barca",
                 "info":"",
                 "image": "https://i.postimg.cc/6QzttJyv/barca.png",
                 "imageScale": "",
                 "stations":
                     [
            				{
-						"name": "Barca VS Olypimpiacos",
+						"name": "Barca VS Olympiacos",
 						"info": "[Juego.01][24/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
@@ -171,7 +216,7 @@
 						"isHost": "true"
 						},
 						{
-						"name": "Barca VS Olypimpiacos",
+						"name": "Barca VS Olympiacos",
 						"info": "[Juego.02][26/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
@@ -180,11 +225,29 @@
 						"isHost": "true"
 						},
 						{
-						"name": "Barca VS Olypimpiacos",
+						"name": "Barca VS Olympiacos",
 						"info": "[Juego.03][30/04/2024]",
 						"online": "true",
 						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
 						"url": "https://filemoon.sx/d/fp15f4i8z6t9",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Barca VS Olympiacos",
+						"info": "[Juego.04][02/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
+						"url": "https://filemoon.sx/d/5g50qt0ie9cp",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Barca VS Olympiacos",
+						"info": "[Juego.05][08/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/6QzttJyv/barca.png",
+						"url": "https://filemoon.sx/d/0oh6fwwzipud",
 						"userAgent":"",
 						"isHost": "true"
 						}
@@ -203,6 +266,15 @@
 						"online": "true",
 						"image": "https://i.postimg.cc/1RMSFZH7/real.png",
 						"url": "https://filemoon.sx/d/hjm449tn2jc8/EuroLeague_PlayOff_Real_Madrid_VS_Baskonia_250424.mkv",
+						"userAgent":"",
+						"isHost": "true"
+						},
+						{
+						"name": "Real Madrid VS Baskonia",
+						"info": "[Juego.03][01/05/2024]",
+						"online": "true",
+						"image": "https://i.postimg.cc/1RMSFZH7/real.png",
+						"url": "https://filemoon.sx/d/bhatpad20v85",
 						"userAgent":"",
 						"isHost": "true"
 						}
