@@ -201,14 +201,6 @@
 		},
 
 		{
-		"name": "Soy Georgina",
-		"image": "https://pics.filmaffinity.com/soy_georgina-439088863-large.jpg",
-		"url": "https://af1cionados.vercel.app/DoCuSerie SOY GEORGINA.w3u",
-		"info": "bY AdriDeCai",
-		"import": false
-		},
-
-		{
 		"name": "Gran estafa de los teleoperadores",
 		"image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
 		"url": "https://af1cionados.vercel.app/DoCuSeRie GRAN ESTAFA DE LOS TELEOPERADORES.w3u",
@@ -250,6 +242,15 @@
 			}
 			]
    		},
+
+		{
+		"name": "Kevin Spacey, al descubierto",
+		"image": "https://pics.filmaffinity.com/spacey_unmasked-719072852-large.jpg",
+		"url": "https://af1cionados.vercel.app/DocuSerie KEVIN SPACEY.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+
 		{
 		"name": "Madoff, El Monstruo de Wall Street",
 		"image": "https://pics.filmaffinity.com/madoff_the_monster_of_wall_street-335572694-large.jpg",
@@ -434,6 +435,14 @@
 			}
 			]
     		},
+
+		{
+		"name": "Soy Georgina",
+		"image": "https://pics.filmaffinity.com/soy_georgina-439088863-large.jpg",
+		"url": "https://af1cionados.vercel.app/DoCuSerie SOY GEORGINA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
 
 		{
 		"name": "Surf Girl Hawaii [VOSE]",
