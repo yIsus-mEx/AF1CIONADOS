@@ -168,6 +168,51 @@
                 "online":"true"
                 }
 			]
+        },
+        {
+        "name": "Temporada 03",
+        "info":"",
+        "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "En el candelero",
+                "info":"Capitulo 01",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://filemoon.sx/d/74z5a0fkehn2",
+                "userAgent" : "",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Bajo la luz de la luna",
+                "info":"Capitulo 02",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://filemoon.sx/d/ytqf497h9pst",
+                "userAgent" : "",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Fuerzas de la naturaleza",
+                "info":"Capitulo 03",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://filemoon.sx/d/exgwps65tc93",
+                "userAgent" : "",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Viejas amistades",
+                "info":"Capitulo 04",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://filemoon.sx/d/y76otxayt1ca",
+                "userAgent" : "",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
         }
 	]
 }
