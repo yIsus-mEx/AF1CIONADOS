@@ -9,6 +9,33 @@
     [
 
 	{
+        "name": "PLAY OFF 2024",
+        "image": "https://phantom-marca.unidadeditorial.es/1b510a311ae8ffacfbde67b25219696d/resize/660/f/webp/assets/multimedia/imagenes/2024/05/12/17155448581373.jpg",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "Real Madrid VS Gran Canaria",
+              	"info": "15/05/2024",
+              	"online": "true",
+              	"image": "https://phantom-marca.unidadeditorial.es/f6f1e2a16a04322cf3c3f48f228f9808/resize/660/f/webp/assets/multimedia/imagenes/2024/05/16/17158519671895.jpg",
+              	"url": "https://filemoon.sx/d/jjt89veheh3l/Baloncesto_LigaEndesa_PlayOff_P1_RMadrid_Vs_GranCa.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	},
+           	{
+              	"name": "Unicaja VS Manresa",
+              	"info": "16/05/2024",
+              	"online": "true",
+              	"image": "https://phantom-marca.unidadeditorial.es/d49aa087fba63f6e36388d43e6bec242/resize/660/f/webp/assets/multimedia/imagenes/2024/05/15/17158067457509.jpg",
+              	"url": "https://filemoon.sx/d/ubec4uryfrpv/Baloncesto_LigaEndesa_PlayOff_P1_Unicaja_vs_Manresa_16-05-2024.mkv",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "JORNADA 34",
         "image": "https://i.postimg.cc/zDP2kvPn/21.png",
         "info": "",
