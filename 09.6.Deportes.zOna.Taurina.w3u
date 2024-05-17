@@ -14,22 +14,13 @@
         "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
 		{
         "name": "Tauro Canal 2",
         "info":"",
         "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
         "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":"truetrue"
-        },
-		{
-        "name": "Tauro Canal 3",
-        "info":"",
-        "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
-        "url": "https://webhdrunns.onlinehdhls.ru/lb/premium749/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
