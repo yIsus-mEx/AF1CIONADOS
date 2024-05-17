@@ -7,8 +7,106 @@
 "info": "",
 "groups":
     [
-
-	{
+        {
+        "name": "F1 2024 Imola [17-19.May24]",
+        "info":"",
+        "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"https://listeamed.net/v/njJYOd3jAG8Ee9o",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"https://listeamed.net/v/NMRLEpr9PlQ5XaG",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"https://listeamed.net/v/4bQVOj7PjpX5wKm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"https://listeamed.net/v/YWA8E9wrJyQ5GmM",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Miami [03-05.May24]",
         "info":"",
         "image": "https://i.postimg.cc/dQgDZLQR/miami.png",
