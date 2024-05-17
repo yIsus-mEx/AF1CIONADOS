@@ -127,6 +127,95 @@
 				"online":"true"
 				}
 			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+ 				"url":"https://filemoon.sx/d/g6962rdhsiij",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/a13fcsy7rtka",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/eu8maztaqqam",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/cujh4hj9i2fp",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/fdakuhhruqfl",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/asrx8s6w1nxq",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/yhimh3yic9ym",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/j8dukl56k8kk",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 09",
+				"info":"",  
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/8okh68na9bx6",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 10",
+				"info":"",  
+				"image":"https://www.reflectores.net/wp-content/uploads/2023/04/P_lpito_Serie_de_TV-987046502-large.jpg",
+				"url":"https://filemoon.sx/d/gmpi5otytpb0",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
 		}
 	]
 }
