@@ -441,6 +441,13 @@
 		"import": false
 		},
 		{
+		"name": "El Encargado",
+		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20ENCARGADO.w3u",
+		"import": false
+		},
+		{
 		"name": "El Mal",
 		"image": "https://pics.filmaffinity.com/El_mal_Evil_Serie_de_TV-874300610-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Mal.w3u",
@@ -455,16 +462,23 @@
 		"import": false
 		},
 		{
-		"name": "El Señor De Los Cielos",
-		"image": "https://i.postimg.cc/ydmcrKf7/cielos.png",
-		"url": "https://af1c1onados.vercel.app/Series.el.señor.del.cielo.w3u",
+		"name": "El Problema De Los 3 Cuerpos",
+		"image": "https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Problema.De.Los.3.Cuerpos.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
 		{
-		"name": "El Problema De Los 3 Cuerpos",
-		"image": "https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Problema.De.Los.3.Cuerpos.w3u",
+		"name": "El Rey Del Cachopo",
+		"image": "https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Rey.del.Cachopo.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "El Señor De Los Cielos",
+		"image": "https://i.postimg.cc/ydmcrKf7/cielos.png",
+		"url": "https://af1c1onados.vercel.app/Series.el.señor.del.cielo.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -473,13 +487,6 @@
 		"image": "https://images.justwatch.com/poster/189571985/s718/floor-is-lava.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Floor.lava.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Encargado, El",
-		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20ENCARGADO.w3u",
 		"import": false
 		},
 		{
