@@ -8,14 +8,14 @@
 "stations":
     [
         {
-        "name": "Tyson Fury vs Oleksandr Usykk",
+        "name": "Tyson Fury vs Oleksandr Usyk",
         "info":"[Ingles]",
         "online": "true",
         "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://dailytechs.online/iframe/dazn-ppv-1.php",
+        "url": "https://papahd.co/tyson-fury-vs-oleksandr-usyk-3",
         "userAgent" : "",
-        "embed": "true",
-        "isHost": ""        
+        "embed": "",
+        "isHost": "true"        
         },
         {
         "name": "Tyson Fury vs Oleksandr Usyk",
