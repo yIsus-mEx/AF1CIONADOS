@@ -8,11 +8,11 @@
 "stations":
     [
         {
-        "name": "Tyson Fury vs Oleksandr Usyk",
+        "name": "Tyson Fury vs Oleksandr Usykk",
         "info":"[Ingles]",
         "online": "true",
         "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://s2watch.link/4",
+        "url": "https://streamcenter.pro/embed/ch1.php",
         "userAgent" : "",
         "embed": "true",
         "isHost": ""        
@@ -22,7 +22,7 @@
         "info":"[Ingles]",
         "online": "true",
         "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://s2watch.link/4",
+        "url": "https://streamcenter.pro/embed/ch1.php",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"        
