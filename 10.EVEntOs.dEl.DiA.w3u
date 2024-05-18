@@ -151,7 +151,7 @@
         "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
         "url": "https://s1.sportea.link/live/embed.php?ch=es27",
         "userAgent" : "",
-        "embed": "",
+        "embed": "true",
         "isHost": "true"        
         }
         ]
