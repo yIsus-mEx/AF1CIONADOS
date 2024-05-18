@@ -8,13 +8,14 @@
 "stations":
     [
         {
-        "name": "Tyson Fury vs Oleksandr Usykk",
+        "name": "Tyson Fury vs Oleksandr Usyk",
         "info":"[Ingles]",
         "online": "true",
         "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
         "url": "https://s1.sportea.link/live/embed.php?ch=es27",
         "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost": "true"        
+        "embed": "true",
+        "isHost": ""        
         }
     ]
 }
