@@ -5,8 +5,15 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"stations":
+"groups":
     [
+
+        {
+        "name": "BOXEO Tyson Fury VS Oleksandr Usyk",
+        "info": "",
+        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
+        "stations": 
+        [
         {
         "name": "Tyson Fury vs Oleksandr Usyk",
         "info":"[Ingles]",
@@ -147,5 +154,57 @@
         "embed": "",
         "isHost": "true"        
         }
+        ]
+        },
+
+        {
+        "name": "UFC VEGAS 92 Barboza VS Murphy",
+        "info": "",
+        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
+        "stations": 
+        [
+        {
+        "name": "UFC Vegas 92 Barboza VS Murphy",
+        "info":"[Ingles]",
+        "online": "true",
+        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
+        "url": "",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"        
+        },
+        {
+        "name": "UFC Vegas 92 Barboza VS Murphy",
+        "info":"[Ingles]",
+        "online": "true",
+        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
+        "url": "",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"        
+        },
+        {
+        "name": "UFC Vegas 92 Barboza VS Murphy",
+        "info":"[Ingles]",
+        "online": "true",
+        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
+        "url": "",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"        
+        },
+        {
+        "name": "UFC Vegas 92 Barboza VS Murphy",
+        "info":"[Ingles]",
+        "online": "true",
+        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
+        "url": "",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"        
+        }
+        ]
+        }
+
     ]
 }
