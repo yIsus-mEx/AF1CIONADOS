@@ -1,0 +1,35 @@
+{
+"name": "Locomia",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Locomia.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Sexo Ibiza LOCOMIA",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Locomaia_Miniserie_de_TV-204391564-large.jpg",
+		"url":"https://filemoon.sx/d/5ocbjhm5kej8",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Rumba Samba Mambo",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Locomaia_Miniserie_de_TV-204391564-large.jpg",
+		"url":"https://filemoon.sx/d/zqdtdnc1r7o1",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Adiós Abanico Adiós",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Locomaia_Miniserie_de_TV-204391564-large.jpg",
+		"url":"https://filemoon.sx/d/a4sblzumxb14",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
