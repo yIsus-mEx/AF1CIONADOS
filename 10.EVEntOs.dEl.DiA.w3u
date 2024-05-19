@@ -7,274 +7,43 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
     [
-
         {
-        "name": "BOXEO Tyson Fury VS Oleksandr Usyk",
+        "name": "F1 R07 Imola Italia 2024",
         "info": "",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
+        "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
         "stations": 
-        [
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://eu01.flowstreams.pw/fury-usyk/index.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Acestream][Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "acestream://fcdd3f9e4c4e3a9463af1f69064bdcfcd446afd9",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Acestream+VPN][Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "http://127.0.0.1:6878/ace/m/c36cec317e8e53f9a135d237c5b4ea5585126609/fca18cb4644edfdc363e7d72d979d283.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Acestream+VPN][Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "http://127.0.0.1:6878/ace/m/c36cec317e8e53f9a135d237c5b4ea5585126609/afe856cfc2858c24e523f409118da064.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://plpl111.fdhgfdha.space/playlist/22444/redi1111vs.cloudcdn7.net/caxi.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://plpl12.teujyt.space/playlist/22467/jcvjcks.cloudcdn5.com/caxi.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://plpl3.bvxzwwfg56.space/playlist/22444/jcvjcks.cloudcdn5.com/caxi.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://hsfwyo48be.azureedge.net:443/live/box1/chunks.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://yqrstcg6zc.azureedge.net:443/streams/BOX/chunks.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://bszcyf72ji.azureedge.net:443/live/65b9e03a17acb/chunks.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://kiasgv05gs.azureedge.net/live/b1/chunks.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://twoflow.xyz/hls/fury/index.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://rivofutboltv.xyz/to273/2.php",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "true",
-        "isHost": ""        
-        },
-        {
-        "name": "Tyson Fury vs Oleksandr Usyk",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://liveevents.exeter.ac.uk/wp-content/uploads/2024/04/Ring-of-Fire-FURY-V-OLEKSANDR-USK.jpg",
-        "url": "https://s1.sportea.link/live/embed.php?ch=es27",
-        "userAgent" : "",
-        "embed": "true",
-        "isHost": "true"        
+            [
+                {
+                "name": "F1 R07 Imola Italia 2024",
+                "info":"[DaznF1]",
+                "online": "true",
+                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
+                "url": "https://paco@inst3.ignores.top/js/dazn-formula-1-dazn-f1/1/playlist.m3u8",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost": ""        
+                },
+                {
+                "name": "F1 R07 Imola Italia 2024",
+                "info":"[DaznF1]",
+                "online": "true",
+                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
+                "url": "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost": ""        
+                },
+                {
+                "name": "F1 R07 Imola Italia 2024",
+                "info":"[DaznF1]",
+                "online": "true",
+                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
+                "url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost": ""        
+                }
+            ]
         }
-        ]
-        },
-
-        {
-        "name": "UFC VEGAS 92 Barboza VS Murphy",
-        "info": "",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "stations": 
-        [
-        {
-        "name": "1 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Latino]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://paco@inst3.ignores.top/js/ufc-fight-night-prelims/4/playlist.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "2 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://1.dlhd.sx/embed/stream-409.php",
-        "userAgent" : "",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "3 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://1.dlhd.sx/embed/stream-409.php",
-        "userAgent" : "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "4 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://1.dlhd.sx/embed/stream-105.php",
-        "userAgent" : "",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "5 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://1.dlhd.sx/embed/stream-105.php",
-        "userAgent" : "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "6 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://1.dlhd.sx/embed/stream-31.php",
-        "userAgent" : "",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "7 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://1.dlhd.sx/embed/stream-31.php",
-        "userAgent" : "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "8 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://poscitechs.shop/live/stream-409.php",
-        "userAgent" : "",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "9 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[Ingles]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://poscitechs.shop/live/stream-409.php",
-        "userAgent" : "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-        "embed": "",
-        "isHost": "true"        
-        },
-        {
-        "name": "10 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[ESPAÑOL]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1716120659~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=6bda1b1158fd82da02e782f4ef1f95aa820a6f1289237ab203bda73c10d1984d/start/1716065932/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1716120659~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/start/1716065932/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=0e325cfee24227fbe05d15579e138179d36c3e6b9e4a27c8d1baf65e9348b315",
-        "userAgent" : "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-        "embed": "",
-        "isHost": ""        
-        },
-        {
-        "name": "11 UFC Vegas 92 Barboza VS Murphy",
-        "info":"[ESPAÑOL]",
-        "online": "true",
-        "image": "https://www.ole.com.ar/images/2024/05/17/gp96QPnY7_1290x760__1.jpg",
-        "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1716120659~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=6bda1b1158fd82da02e782f4ef1f95aa820a6f1289237ab203bda73c10d1984d/start/1716065932/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1716120659~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/start/1716065932/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=0e325cfee24227fbe05d15579e138179d36c3e6b9e4a27c8d1baf65e9348b315",
-        "userAgent" : "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-        "embed": "",
-        "isHost": "true"        
-        }
-        ]
-        }
-
     ]
 }
