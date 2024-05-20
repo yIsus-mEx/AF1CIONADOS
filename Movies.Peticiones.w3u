@@ -9,9 +9,18 @@
     [
 
         {
+        "name": "Maniac",
+        "image": "https://pics.filmaffinity.com/maniac-997708578-large.jpg",
+        "url": "https://listeamed.net/v/ao9rxoRkpoM5yGe",
+        "info": "[Español] [2012]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "13 Fantasmas",
         "image": "https://pics.filmaffinity.com/thirteen_ghosts_aka_thir13en_ghosts_aka_13_ghosts-625408527-large.jpg",
-        "url": "https://upstream.to/8vk79m6tn521",
+        "url": "https://listeamed.net/v/eL2157d6gmWxrw4",
         "info": "[Español] [2001]",
         "isHost": "true",
         "online": "true",
@@ -20,7 +29,7 @@
         {
         "name": "Celda, La",
         "image": "https://pics.filmaffinity.com/the_cell-190951656-large.jpg",
-        "url": "https://upstream.to/z4xchhtvs5be",
+        "url": "https://listeamed.net/v/27BaOn1kLR2EMDX",
         "info": "[Español] [2000]",
         "isHost": "true",
         "online": "true",
