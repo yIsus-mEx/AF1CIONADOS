@@ -242,11 +242,12 @@
 		"stations": 
 			[
     			{
-				"name": "Capítulo 01",
+				"name": "Capítulo 1",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "https://mixdrop.is/e/mdgl4mgkfxvd3k7",
+				"userAgent": "PlusMediaPlayer/0.0.9",
 				"embed": "",
-				"isHost": "true"
+				"isHost": ""
 				},
 				{
 				"name": "Capítulo 2",
