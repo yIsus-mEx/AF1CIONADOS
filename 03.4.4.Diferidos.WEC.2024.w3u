@@ -1,0 +1,37 @@
+
+{
+"name": "",
+"url": "",
+"image": "",
+"author": "",
+"telegram": "",
+"stations":
+[
+
+{
+"name": "Qatar WEC",
+"image": "",
+"url": "",
+"info": "",
+"userAgent": "",
+"embed": "",
+"online": "",
+"isHost": "",
+"import": false
+},
+{
+"name": "Imola WEC",
+"image": "",
+"url": "",
+"info": "",
+"userAgent": "",
+"embed": "",
+"online": "",
+"isHost": "",
+"import": false
+}
+
+
+}
+]
+}
