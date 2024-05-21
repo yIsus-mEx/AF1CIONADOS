@@ -1,8 +1,9 @@
 
 {
 "name": "Diferidos WEC",
+"url": "https://af1c1onados.vercel.app//03.4.3.Diferidos.Menu.WEC.w3u",
+"image": "https://storage.googleapis.com/fiawec-prod/assets/ressources/2024-FIAWEC-CALENDAR.png",
 "info": "",
-"image": "https://af1c1onados.vercel.app//03.4.3.Diferidos.Menu.WEC.w3u",
 "author": "",
 "telegram": "",
 "stations": 
@@ -10,9 +11,9 @@
 
 {
 "name": "WEC 2024",
-"info": "",
-"image": "",
-"url": ""
+"image": "https://storage.googleapis.com/fiawec-prod/assets/ressources/2024-FIAWEC-CALENDAR.png",
+"url": "https://af1c1onados.vercel.app/03.4.4.Diferidos.WEC.2024.w3u",
+"info": ""
 }
 
 ]
