@@ -40,6 +40,17 @@
 "online": "true",
 "isHost": "true",
 "import": false
+},
+{
+"name": "SPA FrancorChamps WEC",
+"image": "https://storage.googleapis.com/ecm-prod/assets/1/course/4863/wec-spa-a4-landscape_6662f6.jpeg",
+"url": "",
+"info": "",
+"userAgent": "",
+"embed": "",
+"online": "true",
+"isHost": "true",
+"import": false
 }
 
 ]
