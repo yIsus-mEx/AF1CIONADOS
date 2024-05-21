@@ -10,27 +10,37 @@
 
 {
 "name": "Qatar WEC",
-"image": "",
-"url": "",
+"image": "https://storage.googleapis.com/ecm-prod/assets/1/course/4861/qatar_cde7cf.png",
+"url": "https://filemoon.sx/d/z4mr2z03sbj9/Carrera_Qatar_1812KM_Carrera_020324.mkv",
 "info": "",
 "userAgent": "",
 "embed": "",
-"online": "",
-"isHost": "",
+"online": "true",
+"isHost": "true",
 "import": false
 },
 {
-"name": "Imola WEC",
-"image": "",
-"url": "",
+"name": "Imola WEC 1 Parte",
+"image": "https://storage.googleapis.com/ecm-prod/assets/1/course/4862/wec-imola-a4-landscape_80fac1.jpeg",
+"url": "https://filemoon.sx/d/7485th6fs69i/WEC_6_Horas_de_Imola_1__parte_200424.mkv",
 "info": "",
 "userAgent": "",
 "embed": "",
-"online": "",
-"isHost": "",
+"online": "true",
+"isHost": "true",
+"import": false
+},
+{
+"name": "Imola WEC 2 Parte",
+"image": "https://storage.googleapis.com/ecm-prod/assets/1/course/4862/wec-imola-a4-landscape_80fac1.jpeg",
+"url": "https://filemoon.sx/d/k4ug1ickc31t/WEC_6_Horas_de_Imola_2__parte_200424.mkv",
+"info": "",
+"userAgent": "",
+"embed": "",
+"online": "true",
+"isHost": "true",
 "import": false
 }
-
 
 }
 ]
