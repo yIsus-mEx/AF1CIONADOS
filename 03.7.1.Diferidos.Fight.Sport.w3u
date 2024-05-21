@@ -8,6 +8,23 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Barboza Vs Murphy",
+         "image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Barboza Vs Murphy",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
+                "url":"https://filemoon.sx/d/lmbic7v5ucwt",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Lewis vs Nascimento",
          "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
          "imageScale": "",
