@@ -1,0 +1,70 @@
+
+{
+"name": "WEC 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Diferidos.WEC.2024.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info":"",
+"groups":
+    [
+        {
+        "name": "R03 WEC SPA FrancorChamps 2024",
+        "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
+        "stations":
+            [
+                {
+                "name": "WEC SPA FrancorChamps",
+                "info": "",
+                "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
+                "url": "",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true",
+                "import": false
+                }
+            ]
+        },
+        {
+        "name": "R02 WEC Imola 2024",
+        "image": "",
+        "stations":
+            [
+                {
+                "name": "WEC Imola",
+                "info": "[Parte.01]",
+                "image": "https://i.postimg.cc/Pxv8qgNX/imola2024.png",
+                "url": "https://filemoon.sx/d/7485th6fs69i",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "WEC Imola",
+                "info": "[Parte.02]",
+                "image": "https://i.postimg.cc/Pxv8qgNX/imola2024.png",
+                "url": "https://filemoon.sx/d/ll4j7i18xd8g",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R01 WEC Qatar 2024",
+        "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+        "stations":
+            [
+                {
+                "name": "WEC Qatar",
+                "info": "",
+                "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+                "url": "https://filemoon.sx/d/z4mr2z03sbj9",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}

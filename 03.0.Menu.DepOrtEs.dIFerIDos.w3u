@@ -21,13 +21,13 @@
          "info":"",
          "import": false
         },
-	{
-	"name": "WEC",
-	"url": "https://af1c1onados.vercel.app/03.4.3.Diferidos.Menu.WEC.w3u",
-	"image": "https://storage.googleapis.com/fiawec-prod/assets/ressources/2024-FIAWEC-CALENDAR.png",
-	"info": "",
-	"import": false
-	},
+	    {
+	    "name": "WEC",
+	    "url": "https://af1c1onados.vercel.app/Diferidos.WEC.2024.w3u",
+	    "image": "https://storage.googleapis.com/fiawec-prod/assets/ressources/2024-FIAWEC-CALENDAR.png",
+	    "info": "",
+	    "import": false
+	    },
 	    {
         "name": "Motor GP",
         "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
