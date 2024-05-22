@@ -1,0 +1,84 @@
+{
+"name": "Devs",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Devs.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+ 				"url":"https://filemoon.sx/d/idab77jcga6m",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"https://filemoon.sx/d/jktt5b6yfsdd",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"https://filemoon.sx/d/dgls7axgqh9b",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"https://filemoon.sx/d/ykups6qhoayf",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"https://filemoon.sx/d/or8g6mjxlir8",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"https://filemoon.sx/d/022y92sajmoh",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
+				"url":"https://filemoon.sx/d/ei1j9zuwzuk5",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
