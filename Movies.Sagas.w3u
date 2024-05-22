@@ -592,6 +592,64 @@
 	]
 	},
 
+	{
+	"name": "Terminator",
+        "image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
+        "imageScale": "",
+        "info":"",
+        "stations":
+    		[
+                {
+                "name": "Terminator",
+                "info":"[Español][1984]",
+                "image": "https://pics.filmaffinity.com/the_terminator-778052251-large.jpg",
+                "url":"https://upstream.to/l6egldshpp0i",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Terminator, Juicio final",
+                "info":"[Español][1991]",
+                "image": "https://pics.filmaffinity.com/t2_terminator_2_judgment_day-825143697-large.jpg",
+                "url":"https://upstream.to/qu7h3ni1o3m5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Terminator, Rebelion de las maquinas",
+                "info":"[Español][2003]",
+                "image": "https://pics.filmaffinity.com/terminator_3_rise_of_the_machines_t3-788040850-large.jpg",
+                "url":"https://upstream.to/8rce13d7rcsc",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Terminator, Salvation",
+                "info":"[Español][2009]",
+                "image": "https://pics.filmaffinity.com/terminator_salvation_the_future_begins_terminator_4-225185375-large.jpg",
+                "url":"https://upstream.to/cde602dnm5jr",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Terminator, Genisys",
+                "info":"[Español][2015]",
+                "image": "https://pics.filmaffinity.com/terminator_genisys_aka_terminator_5-844929699-large.jpg",
+                "url":"https://upstream.to/1e18rqfmwszn",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Terminator, Destino oscuro",
+                "info":"[Español][2019]",
+                "image": "https://pics.filmaffinity.com/terminator_dark_fate-389391587-large.jpg",
+                "url":"https://upstream.to/kunpl9b8hqyu",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                }
+		]
+	},
+
         {
         "name": "Volver Al Futuro",
         "image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
