@@ -12,7 +12,8 @@
 		"info":"[1984]",
 		"image":"https://i.postimg.cc/vZyKTZNB/termi1.png",
 		"url":"http://bot.iamakintech.com/234556/Terminator_1_1984_Spanish_English_Subs_BDrip_1080p_x264_AC3_by_axis.mkv?hash=AgADOx",
-		"isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -20,6 +21,7 @@
 		"info":"[El Juicio Final][1991]",
 		"image":"https://i.postimg.cc/xdCtNJy0/termi2.png",
 		"url":"http://bot.iamakintech.com/234553/Terminator_2_el_juicio_final_1991_V_ExtendidaSpanish_English_Subs.mkv?hash=AgADOh",
+		"userAgent": "PlusMediaPlayer/0.0.9",
 		"isHost":"true",
 		"online":"true"
 		},
