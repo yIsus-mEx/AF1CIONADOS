@@ -8,23 +8,51 @@
 "info":"",
 "groups":
     [
+
         {
-        "name": "R03 WEC SPA FrancorChamps 2024",
-        "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
+        "name": "R01 WEC Qatar 2024",
+        "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
         "stations":
             [
                 {
-                "name": "WEC SPA FrancorChamps",
-                "info": "",
-                "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
-                "url": "",
+                "name": "WEC Qatar",
+                "info": "[Parte.01]",
+                "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+                "url": "https://filemoon.sx/d/ew0u1ttr5htb/Carrera_Qatar_1812KM_1_Prueba_Carrera_020324.mkv",
                 "userAgent": "",
                 "online": "true",
-                "isHost": "true",
-                "import": false
+                "isHost": "true"
+                },
+                {
+                "name": "WEC Qatar",
+                "info": "[Parte.02]",
+                "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+                "url": "https://filemoon.sx/d/dwz5c62ze03y/Carrera_Qatar_1812KM_2_Prueba_Carrera_020324.mkv",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "WEC Qatar",
+                "info": "[Parte.03]",
+                "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+                "url": "https://filemoon.sx/d/vs5eezdtclxl/Carrera_Qatar_1812KM_3_Prueba_Carrera_020324.mkv",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "WEC Qatar",
+                "info": "[Parte.04]",
+                "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+                "url": "https://filemoon.sx/d/f6hfiuyryekh/Carrera_Qatar_1812KM_4_Prueba_Carrera_020324.mkv",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true"
                 }
             ]
         },
+
         {
         "name": "R02 WEC Imola 2024",
         "image": "https://i.postimg.cc/Pxv8qgNX/imola2024.png",
@@ -50,21 +78,34 @@
                 }
             ]
         },
+
         {
-        "name": "R01 WEC Qatar 2024",
-        "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
+        "name": "R03 WEC SPA FrancorChamps 2024",
+        "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
         "stations":
             [
                 {
-                "name": "WEC Qatar",
-                "info": "",
-                "image": "https://i.postimg.cc/MKmfXbZQ/qatar2024.png",
-                "url": "https://filemoon.sx/d/z4mr2z03sbj9",
+                "name": "WEC SPA FrancorChamps",
+                "info": "[Parte.0]",
+                "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
+                "url": "https://filemoon.sx/d/kp1yk2iyxrok/Carrera_6H_Spa-Francorchamps_1_Parte_110524.mkv",
                 "userAgent": "",
                 "online": "true",
-                "isHost": "true"
+                "isHost": "true",
+                "import": false
+                },
+                {
+                "name": "WEC SPA FrancorChamps",
+                "info": "[Parte.02]",
+                "image": "https://i.postimg.cc/bwndXxGM/spa2024.png",
+                "url": "https://filemoon.sx/d/2o7y5nvev82n/Carrera_6H_Spa-Francorchamps_2_Parte_110524.mkv",
+                "userAgent": "",
+                "online": "true",
+                "isHost": "true",
+                "import": false
                 }
             ]
         }
+
     ]
 }
