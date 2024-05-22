@@ -417,7 +417,8 @@
 		"name": "Devs",
 		"image": "https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Devs.w3u",
-		"info": "bY. yIsus
+		"info": "bY. yIsus",
+		"import": false
 		},
 		{
 		"name": "Dia de Mañana, El",
