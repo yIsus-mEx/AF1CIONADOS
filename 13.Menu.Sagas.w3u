@@ -7,167 +7,173 @@
 "info": "bY yIsus_mEX",
 "groups": 
 	[
-	{
-	"name": "Corredor del laberinto",
-	"image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20CORREDOR%20DEL%20LABERINTO.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Crepusculo",
-	"image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20CREPUSCULO.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Dune",
-	"image": "https://pics.filmaffinity.com/dune-517778034-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga DUNE.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Equalizer",
-	"image": "https://i.postimg.cc/J0jn42pD/Equalizer-1-2014-Pelicula.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20EQUALIZER.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Evil Dead",
-	"image": "https://pics.filmaffinity.com/the_evil_dead-289583124-large.jpg",
-	"url": "https://af1c1onados.vercel.app/saga.EVIL.DEAD.w3u",
-	"info": "bY yIsus",
-	"import": false
-	},
-	{
-	"name": "Guardianes de la Galaxia",
-	"image": "https://i.postimg.cc/tJ6m3TD5/guardianes.png",
-	"url": "https://af1c1onados.vercel.app/Saga.Guardianes.de.la.Galaxia.w3u",
-	"info": "bY yIsus",
-	"import": false
-	},
-	{
-	"name": "Harry Potter",
-	"url": "https://af1c1onados.vercel.app/saga.HARRY.POTTER.w3u",
-	"image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
-    	"info": "bY. yIsus",
-    	"import": false
-   	 },
-	{
-    	"name": "Hobbit, El",
-    	"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
-    	"url": "https://af1c1onados.vercel.app/saga.EL.HOBBIT.w3u",
-    	"info": "bY. yIsus",
-    	"import": false
-    	},
-	{
-    	"name": "James Bond",
-    	"image": "https://pics.filmaffinity.com/dr_no_aka_james_bond-201686869-mmed.jpg",
-    	"url": "https://af1c1onados.vercel.app/saga.JAMES.BOND.w3u",
-    	"info": "bY. yIsus",
-    	"import": false
-    	},
-	{
-	"name": "Jovenes ocultos",
-	"image": "https://pics.filmaffinity.com/the_lost_boys-230422119-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga JOVENES OCULTOS.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-    	"name": "Matrix",
-    	"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
-    	"url": "https://af1c1onados.vercel.app/saga.MATRIX.w3u",
-    	"info": "bY. yIsus",
-    	"import": false
-    	},
-	{
-    	"name": "Millenium",
-    	"image": "https://pics.filmaffinity.com/man_som_hatar_kvinnor_millennium_i_aka_the_girl_with_the_dragon_tattoo-851927724-large.jpg",
-    	"url": "https://af1cionados.vercel.app/saga MILLENIUM.w3u",
-    	"info": "bY. yIsus",
-    	"import": false
-    	},
-	{
-	"name": "Padre no hay mas que uno",
-	"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno-289733769-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20PADRE%20NO%20HAY%20MAS%20QUE%20UNO.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Padrino, El",
-	"image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
-	"url": "https://af1c1onados.vercel.app/saga EL PADRINO.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-    	"name": "Piratas del Caribe",
-    	"image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
-    	"url": "https://af1c1onados.vercel.app/saga PIRATAS DEL CARIBE.w3u",
-    	"info": "bY. aDri",
-    	"import": false
-    	},
-	{
-	"name": "Rambo",
-	"image": "https://i.postimg.cc/rpvppv2W/rambo.png",
-	"url": "https://af1c1onados.vercel.app/saga.Rambo.w3u",
-	"info": "bY yIsus",
-	"import": false
-	},
-	{
-	"name": "Rebel Moon",
-	"image": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga REBEL MOON.w3u",
-	"info": "bY. aDri",
-	"import": false
-	},
-	{
-	"name": "[REC] Terror sin pausa",
-	"image": "https://i.postimg.cc/t4hC0Jp8/REC-Terror-sin-pausa-2022-Pelicula.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20REC.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-    	"name": "Resident Evil",
-    	"image": "https://pics.filmaffinity.com/resident_evil-587544510-large.jpg",
-    	"url": "https://af1c1onados.vercel.app/saga.RESIDENT.EVIL.w3u",
-    	"info": "bY. yIsus",
-    	"import": false
-    	},
-	{
-    	"name": "Señor de los Anillos, El",
-    	"image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
-    	"url": "https://af1c1onados.vercel.app/saga.SENOR.DE.LOS.ANILLOS.w3u",
-    	"info": "bY. aDri",
-    	"import": false
-    	},
-	{
-	"name": "Solo en casa",
-	"image": "https://pics.filmaffinity.com/home_alone-163260879-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20SOLO%20EN%20CASA.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Star wars",
-	"image": "https://pics.filmaffinity.com/star_wars-166209019-large.jpg",
-	"url": "https://af1cionados.vercel.app/saga%20STAR%20WARS.w3u",
-	"info": "bY AdriDeCai",
-	"import": false
-	},
-	{
-	"name": "Volver al Futuro",
-	"url": "https://af1c1onados.vercel.app/saga.VOLVER.AL.FUTURO.w3u",
-	"image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
-    	"info": "bY. yIsus",
-    	"import": false
-    	}
-
-]
+		{
+		"name": "Corredor del laberinto",
+		"image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20CORREDOR%20DEL%20LABERINTO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Crepusculo",
+		"image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20CREPUSCULO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Dune",
+		"image": "https://pics.filmaffinity.com/dune-517778034-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga DUNE.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Equalizer",
+		"image": "https://i.postimg.cc/J0jn42pD/Equalizer-1-2014-Pelicula.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20EQUALIZER.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Evil Dead",
+		"image": "https://pics.filmaffinity.com/the_evil_dead-289583124-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga.EVIL.DEAD.w3u",
+		"info": "bY yIsus",
+		"import": false
+		},
+		{
+		"name": "Guardianes de la Galaxia",
+		"image": "https://i.postimg.cc/tJ6m3TD5/guardianes.png",
+		"url": "https://af1c1onados.vercel.app/Saga.Guardianes.de.la.Galaxia.w3u",
+		"info": "bY yIsus",
+		"import": false
+		},
+		{
+		"name": "Harry Potter",
+		"url": "https://af1c1onados.vercel.app/saga.HARRY.POTTER.w3u",
+		"image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Hobbit, El",
+		"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga.EL.HOBBIT.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "James Bond",
+		"image": "https://pics.filmaffinity.com/dr_no_aka_james_bond-201686869-mmed.jpg",
+		"url": "https://af1c1onados.vercel.app/saga.JAMES.BOND.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Jovenes ocultos",
+		"image": "https://pics.filmaffinity.com/the_lost_boys-230422119-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga JOVENES OCULTOS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Matrix",
+		"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga.MATRIX.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Millenium",
+		"image": "https://pics.filmaffinity.com/man_som_hatar_kvinnor_millennium_i_aka_the_girl_with_the_dragon_tattoo-851927724-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga MILLENIUM.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Padre no hay mas que uno",
+		"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno-289733769-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20PADRE%20NO%20HAY%20MAS%20QUE%20UNO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Padrino, El",
+		"image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga EL PADRINO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Piratas del Caribe",
+		"image": "https://pics.filmaffinity.com/pirates_of_the_caribbean_the_curse_of_the_black_pearl-627724446-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga PIRATAS DEL CARIBE.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Rambo",
+		"image": "https://i.postimg.cc/rpvppv2W/rambo.png",
+		"url": "https://af1c1onados.vercel.app/saga.Rambo.w3u",
+		"info": "bY yIsus",
+		"import": false
+		},
+		{
+		"name": "Rebel Moon",
+		"image": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga REBEL MOON.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "[REC] Terror sin pausa",
+		"image": "https://i.postimg.cc/t4hC0Jp8/REC-Terror-sin-pausa-2022-Pelicula.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20REC.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Resident Evil",
+		"image": "https://pics.filmaffinity.com/resident_evil-587544510-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga.RESIDENT.EVIL.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Señor de los Anillos, El",
+		"image": "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg",
+		"url": "https://af1c1onados.vercel.app/saga.SENOR.DE.LOS.ANILLOS.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Solo en casa",
+		"image": "https://pics.filmaffinity.com/home_alone-163260879-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20SOLO%20EN%20CASA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Star wars",
+		"image": "https://pics.filmaffinity.com/star_wars-166209019-large.jpg",
+		"url": "https://af1cionados.vercel.app/saga%20STAR%20WARS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Terminator",
+		"image": "https://i.postimg.cc/pT4B5PPy/terminator.png",
+		"url": "https://af1c1onados.vercel.app/Saga.Terminator.w3u",
+		"info": "bY yIsus",
+		"import": false
+		},
+		{
+		"name": "Volver al Futuro",
+		"url": "https://af1c1onados.vercel.app/saga.VOLVER.AL.FUTURO.w3u",
+		"image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
+		"info": "bY. yIsus",
+		"import": false
+		}
+	]
 }

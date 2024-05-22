@@ -1,0 +1,59 @@
+{
+"name": "Saga Terminator",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.Terminator.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Terminator",
+		"info":"[1984]",
+		"image":"https://i.postimg.cc/vZyKTZNB/termi1.png",
+		"url":"http://bot.iamakintech.com/234556/Terminator_1_1984_Spanish_English_Subs_BDrip_1080p_x264_AC3_by_axis.mkv?hash=AgADOx",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Terminator 2",
+		"info":"[El Juicio Final][1991]",
+		"image":"https://i.postimg.cc/xdCtNJy0/termi2.png",
+		"url":"http://bot.iamakintech.com/234553/Terminator_2_el_juicio_final_1991_V_ExtendidaSpanish_English_Subs.mkv?hash=AgADOh",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Terminator 3",
+		"info":"[La Rebelion de Las Maquinas][2003]",
+		"image":"https://i.postimg.cc/8c9Vxgpv/termi3.png",
+		"url":"http://bot.iamakintech.com/234559/Terminator_3_La_rebelion_de_las_maquinas_2003_Spanish_English_Subs.mkv?hash=AgADOR",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Terminator 4",
+		"info":"[Salvation][2009]",  
+		"image":"https://i.postimg.cc/Gt7kCzVG/termi4.png",
+		"url":"http://bot.iamakintech.com/234555/Terminator_4_Salvation_2009_Spanish_English_Subs_BDrip_1080p_x264.mkv?hash=AgADOB",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Terminator 5",
+		"info":"[Genesis][2015]",  
+		"image":"https://i.postimg.cc/KjZdVvh4/termi5.png",
+		"url":"http://bot.iamakintech.com/234261/Terminator_5_Genesis_Spanish_English_Subs_HD_1080p_HEVC_AAC_by_Geot.mkv?hash=AgADNx",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Terminator 6",
+		"info":"[Destino Obscuro][2019]",  
+		"image":"https://i.postimg.cc/rmWnqdLQ/termi6.png",
+		"url":"http://bot.iamakintech.com/234561/Terminator_6_Destino_oscuro_2019_Spanish_English_Subs_HD_1080p_x264.mp4?hash=AgADYB",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
