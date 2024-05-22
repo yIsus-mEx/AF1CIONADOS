@@ -22,7 +22,7 @@
 		"image":"https://i.postimg.cc/xdCtNJy0/termi2.png",
 		"url":"http://bot.iamakintech.com/234553/Terminator_2_el_juicio_final_1991_V_ExtendidaSpanish_English_Subs.mkv?hash=AgADOh",
 		"userAgent": "PlusMediaPlayer/0.0.9",
-		"isHost":"true",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -30,7 +30,8 @@
 		"info":"[La Rebelion de Las Maquinas][2003]",
 		"image":"https://i.postimg.cc/8c9Vxgpv/termi3.png",
 		"url":"http://bot.iamakintech.com/234559/Terminator_3_La_rebelion_de_las_maquinas_2003_Spanish_English_Subs.mkv?hash=AgADOR",
-		"isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -38,7 +39,8 @@
 		"info":"[Salvation][2009]",  
 		"image":"https://i.postimg.cc/Gt7kCzVG/termi4.png",
 		"url":"http://bot.iamakintech.com/234555/Terminator_4_Salvation_2009_Spanish_English_Subs_BDrip_1080p_x264.mkv?hash=AgADOB",
-		"isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -46,7 +48,8 @@
 		"info":"[Genesis][2015]",  
 		"image":"https://i.postimg.cc/KjZdVvh4/termi5.png",
 		"url":"http://bot.iamakintech.com/234261/Terminator_5_Genesis_Spanish_English_Subs_HD_1080p_HEVC_AAC_by_Geot.mkv?hash=AgADNx",
-		"isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -54,7 +57,8 @@
 		"info":"[Destino Obscuro][2019]",  
 		"image":"https://i.postimg.cc/rmWnqdLQ/termi6.png",
 		"url":"http://bot.iamakintech.com/234561/Terminator_6_Destino_oscuro_2019_Spanish_English_Subs_HD_1080p_x264.mp4?hash=AgADYB",
-		"isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"",
 		"online":"true"
 		}
 	]
