@@ -694,7 +694,8 @@
 		"name": "Hazbin Hotel",
 		"image": "https://i.postimg.cc/kXWpSCWn/Hazbin-Hotel.png",
 		"info": "bY. Adri",
-		"url": "https://af1c1onados.vercel.app/Cartoons.Hazbin.Hotel.w3u"
+		"url": "https://af1c1onados.vercel.app/Cartoons.Hazbin.Hotel.w3u",
+		"import": false
 		},
 		{
 		"name": "Hechos polvo",
@@ -865,10 +866,18 @@
 		"import": false
 		},
 		{
+		"name": "Lugar para soñar, Un",
+		"image": "https://pics.filmaffinity.com/we_bought_a_zoo-134712924-large.jpg",
+		"info": "bY. aDri",
+		"url": "",
+		"import": false
+		},
+		{
 		"name": "Lupin",
 		"image": "https://i.ibb.co/7WywgXF/images-3.jpg",
 		"info": "bY. aDri",
-		"url": "https://af1c1onados.vercel.app/Series.Lupin.w3u"
+		"url": "https://af1c1onados.vercel.app/Series.Lupin.w3u",
+		"import": false
 		},
 		{
 		"name": "Machos Alfa",
