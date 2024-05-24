@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "El Barrio, El Documental",
+      "name": "El Barrio, El documental",
       "image": "https://es.web.img3.acsta.net/img/e2/27/e2271a000ddac375bf20ae9f749e6271.jpg",
       "stations": 
       [
@@ -168,10 +168,9 @@
           "info": "[Español 2024]",
           "image": "https://es.web.img3.acsta.net/img/e2/27/e2271a000ddac375bf20ae9f749e6271.jpg",
           "url": "https://dl.buzzheavier.com/1790821509748285440",
-          "embed": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
-          "online": "true",
-          "import": false
+          "online": "true"
         }
       ]
     },
