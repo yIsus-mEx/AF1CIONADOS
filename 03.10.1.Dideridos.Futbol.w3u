@@ -7,64 +7,66 @@
 "info": "",
 "groups":
     [
-		{
+	{
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
         "imageScale": "",
         "info":"",
         "stations":
             [
-				{
+		{
                 "name": "Amistoso España Vs Brasil 2024",
-	            "info":"[26-Mar-24]",
+	        "info":"[26-Mar-24]",
                 "image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
                 "url":"https://filemoon.sx/d/ddv0uj5omy9a",
                 "isHost":"true",
                 "online":"true"
                 },
-				{
-				"name": "Liverpool VS Manchester City",
-				"info":"[10.03.2024]",
-				"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
-				"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
-				"online":"true",
-				"isHost": "true"
-				},
-				{
-           		"name": "Al Hilal vs Inter Miami",
-	       		"info":"[29-Ene-24]",
-           		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
-           		"url":"https://filemoon.sx/d/86bxvlfbw49d",
-           		"isHost":"true",
-           		"online":"true"
-           		},
-				{
-           		"name": "Al Nassr Vs Inter Miami",
-	       		"info":"[01-Feb-24]",
-           		"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
-           		"url":"https://filemoon.sx/d/8s394se6nvua",
-           		"isHost":"true",
-           		"online":"true"
-           		}
-			]
-        },
 		{
+		"name": "Liverpool VS Manchester City",
+		"info":"[10.03.2024]",
+		"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
+		"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
+		"online":"true",
+		"isHost": "true"
+		},
+		{
+           	"name": "Al Hilal vs Inter Miami",
+	       	"info":"[29-Ene-24]",
+           	"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
+           	"url":"https://filemoon.sx/d/86bxvlfbw49d",
+           	"isHost":"true",
+           	"online":"true"
+           	},
+		{
+           	"name": "Al Nassr Vs Inter Miami",
+	       	"info":"[01-Feb-24]",
+           	"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
+           	"url":"https://filemoon.sx/d/8s394se6nvua",
+           	"isHost":"true",
+           	"online":"true"
+           	}
+		]
+        },
+
+	{
         "name": "Mundial Qatar 2022",
         "info":"",
         "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
         "imageScale": "",
         "stations":
         	[
-				{
+		{
                 "name": "Argentina Vs Francia",
-	        	"info":"[18-Dic-22]",
+	        "info":"[18-Dic-22]",
                 "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
                 "url":"https://filemoon.sx/d/argc2dyg6olk",
                 "isHost":"true",
                 "online":"true"
                 }
-            ]
-		},
+            	]
+	},
+
 		{
     	"name": "sUPERcOPA dE EsPAÑa 2022/23",
         "info":"",
@@ -72,7 +74,7 @@
         "imageScale": "",
         "stations":
         	[
-				{
+		{
                 "name": "Real Madrid vs Atletico",
                 "info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
@@ -98,16 +100,17 @@
                 }
             ]
         },
-		{
+
+	{
         "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
         "stations":
         	[
-				{
+		{
                 "name": "Atletico vs Levante",
-	       		"info":"[SemiFinal 1]",
+	       	"info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
                 "url":"https://filemoon.sx/d/gc79kp960rep",
                 "isHost":"true",
@@ -116,7 +119,7 @@
             	{
                 "name": "Barcelona vs Real Madrid",
                 "info":"[SemiFinal 2]",
-	        	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
                 "url":"https://filemoon.sx/d/7630xdpr0ut4",
                 "isHost":"true",
                 "online":"true"
@@ -124,21 +127,21 @@
             	{
                 "name": "Barcelona vs Levante",
                 "info":"[Final]",
-	        	"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
                 "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
                 "isHost":"true",
                 "online":"true"
                 }
-            ]
-		},
+            	]
+	},
 
-		{
+	{
         "name": "Liga EA SPORT 2023/24",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
         "info":"",
         "stations":
-            [
+            	[
 			{
         		"name": "FC Barcelona VS Valencia CF",
         		"info":"[26-04-2024]",
@@ -148,52 +151,53 @@
 			"userAgent": "",
         		"online":"true"
         		},
-				{
+			{
         		"name": "Atco Madrid vs FC Barcelona",
         		"info":"[17-03-2024]",
         		"image": "https://i.postimg.cc/vHVLLjZT/2024-03-17-Atletico-Madrid-VS-Barcelona.png",
         		"url": "https://filemoon.sx/d/vwsfovzwtkb6",
-				"isHost":"true",
-				"userAgent": "",
+			"isHost":"true",
+			"userAgent": "",
         		"online":"true"
         		},
-				{
+			{
         		"name": "Valencia vs Real Madrid",
         		"info":"[]",
         		"image": "https://i.postimg.cc/0Q5gxs1Z/2024-03-24-Valencia-vs-Real-Madrid.webp",
         		"url": "https://filemoon.sx/d/c8no6hevcuqb/Liga_EA_Sport_Valencia_VS_Real_Madrid_020324.mp4",
-				"isHost":"true",
-				"userAgent": "",
+			"isHost":"true",
+			"userAgent": "",
         		"online":"true"
         		},
-				{
+			{
         		"name": "Real Madrid vs Sevilla",
         		"info":"[25-02-2024]",
         		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
         		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
-				"isHost":"true",
-				"userAgent": "",
+			"isHost":"true",
+			"userAgent": "",
         		"online":"true"
         		},
-				{
+			{
         		"name": "FC Barcelona Vs Real Madrid [Clasico]",
         		"info": "[28-10-2023]",
         		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
         		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-				"isHot": "true",
+			"isHot": "true",
         		"online":"true"
-				},
-				{
+			},
+			{
         		"name": "Getafe vs Valencia",
         		"info": "[08-12-2023]",
         		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
         		"url": "https://filemoon.sx/d/rdtgf3invur4",
-				"isHot": "true",
+			"isHot": "true",
         		"online": "true"
         		}
 			]
 		},
-		{
+
+	{
        	"name": "Copa del Rey 2023/24",
         "info":"",
         "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
@@ -301,7 +305,42 @@
 				}
 			]
 		},
+
+	{
+       	"name": "Euorpa League  2023/24",
+        "info":"",
+        "image": "https://th.bing.com/th/id/OIP.X-IfYDKja7jbOhmB-ZUABwHaHa?pid=ImgDet&w=190&h=190&c=7",
+        "imageScale": "",
+        "stations":
+        	[
 		{
+                "name": "Roma VS B. Leverkusen",
+	        "info":"[Semifinal Europa League 2024]",
+                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/02/17146834304900.jpg",
+                "url":"https://filemoon.sx/d/5fktoj5x2i6i/EuropeLeague_Semis_IDA_Roma_VS_Bayern_04_Leverkusen_020524.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Olympic Maseille VS Atalanta",
+	        "info":"[Semifinal Europa League 2024]",
+                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/02/17146846854787.jpg",
+                "url":"https://filemoon.sx/d/wnvkb7aqcoif/EuropeLeague_Semis_IDA_Olympic_Marsella_VS_Atalanta_020524.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "B. Leverkusen VS Atalanta",
+	        "info":"[Final Europa League 2024]",
+                "image": "https://phantom-marca.unidadeditorial.es/040e612706680200248c050af88d5816/resize/660/f/webp/assets/multimedia/imagenes/2024/05/20/17162154803939.jpg",
+                "url":"https://filemoon.sx/d/dzduz2cvcov2/Final_Europa_League_Atalanta_VS_Leverkusen_220524_1080_50FPS.mkv",
+                "isHost":"true",
+                "online":"true"
+                }
+		]
+	},
+
+	{
        	"name": "Champions League  2023/24",
         "info":"",
         "image": "https://i.postimg.cc/NjC8PZdv/Logo-Champions-2.png",
