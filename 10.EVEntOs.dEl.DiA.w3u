@@ -79,10 +79,38 @@
     "import": false
     },
     {
-    "name": "Real Madrid VS Betis",
+    "name": "Nascar Xfinity Series BetMGM 300 Charlotte Motor Speedway",
+    "info": " iPhone 1080p",
+    "image": "https://www.charlottemotorspeedway.com/images/cms-betmgm-300-24_300x200.png",
+    "url": "https://vkvsd162.mycdn.me/hls/6441591179802.m3u8/sig/lTdbbi1TZ04/expires/1716741144701/srcIp/37.14.45.69/urls/45.136.21.46/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7187175451418/6441591179802_fullhd/index.m3u8",
+    "import": false
+    },
+    {
+    "name": "Nascar Xfinity Series BetMGM 300 Charlotte Motor Speedway",
+    "info": "Android 1080p",
+    "image": "https://www.charlottemotorspeedway.com/images/cms-betmgm-300-24_300x200.png",
+    "url": "https://vkvsd162.mycdn.me/hls/6441591179802.m3u8/sig/K8ySWD4J5IQ/srcIp/37.14.45.69/urls/45.136.21.46/expires/1717114150730/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7187175451418/id/6441591179802/6441591179802_fullhd/index.m3u8",
+    "import": false
+    },
+    {
+    "name": "Nascar Xfinity Series BetMGM 300 Charlotte Motor Speedway",
+    "info": "iPhone 720p",
+    "image": "https://www.charlottemotorspeedway.com/images/cms-betmgm-300-24_300x200.png",
+    "url": "https://vkvsd177.mycdn.me/hls/6441591179802.m3u8/sig/rW-IdlqHAmQ/srcIp/37.14.45.69/urls/185.226.52.87/expires/1717114208401/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7187175451418/id/6441591179802/6441591179802_high/index.m3u8",
+    "import": false
+    },
+    {
+    "name": "Nascar Xfinity Series BetMGM 300 Charlotte Motor Speedway",
     "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/f0111ffba19a43523de6605aa9bdb11c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165656612760.jpg",
+    "image": "https://www.charlottemotorspeedway.com/images/cms-betmgm-300-24_300x200.png",
     "url": "",
+    "import": false
+    },
+    {
+    "name": "Real Madrid VS Betis",
+    "info": "Android 720",
+    "image": "https://phantom-marca.unidadeditorial.es/f0111ffba19a43523de6605aa9bdb11c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165656612760.jpg",
+    "url": "https://vkvsd162.mycdn.me/hls/6441591179802.m3u8/sig/ZT9V7tbX-4A/srcIp/37.14.45.69/urls/45.136.21.46/expires/1717114150737/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7187175451418/id/6441591179802/6441591179802_high/index.m3u8",
     "import": false
     },
     {
