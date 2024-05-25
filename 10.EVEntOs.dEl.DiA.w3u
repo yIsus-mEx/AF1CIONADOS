@@ -9,62 +9,6 @@
     [
 
     {
-    "name": "FC Barcelona VS Olympique Lyon",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/1461bb6e4cd24cc3bd1ef27be0429298/resize/499/f/webp/assets/multimedia/imagenes/2024/05/25/17166527446332.jpg",
-    "url": "https://ztnr.rtve.es/ztnr/6712431.m3u8",
-    "import": false
-    },
-    {
-    "name": "FC Barcelona VS Olympique Lyon",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/1461bb6e4cd24cc3bd1ef27be0429298/resize/499/f/webp/assets/multimedia/imagenes/2024/05/25/17166527446332.jpg",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8",
-    "import": false
-    },
-    {
-    "name": "FC Barcelona VS Olympique Lyon",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/1461bb6e4cd24cc3bd1ef27be0429298/resize/499/f/webp/assets/multimedia/imagenes/2024/05/25/17166527446332.jpg",
-    "url": "https://www.oha.to/play/1151787191/index.m3u8",
-    "import": false
-    },
-    {
-    "name": "FC Barcelona VS Olympique Lyon",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/1461bb6e4cd24cc3bd1ef27be0429298/resize/499/f/webp/assets/multimedia/imagenes/2024/05/25/17166527446332.jpg",
-    "url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8",
-    "import": false
-    },
-    {
-    "name": "Almeria VS Cadiz CF",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/3b1a3d24939b2e608de9ee2c901c2ff1/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165641598888.jpg",
-    "url": "https://4e3691fe2bac.us-east-1.playback.live-video.net/api/video/v1/us-east-1.533267087015.channel.B9Uu1JUUhNx8.m3u8",
-    "import": false
-    },
-    {
-    "name": "Almeria VS Cadiz CF",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/3b1a3d24939b2e608de9ee2c901c2ff1/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165641598888.jpg",
-    "url": "http://inst3.ignores.top/js/almeria-vs-cadiz/3/playlist.m3u8",
-    "import": false
-    },
-    {
-    "name": "Rayo VS Athletic Bilbao",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/507745e0a4a1b685eccca1b6126e335d/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165737188859.jpg",
-    "url": "https://4e3691fe2bac.us-east-1.playback.live-video.net/api/video/v1/us-east-1.533267087015.channel.eSVGkwgudEPJ.m3u8",
-    "import": false
-    },
-    {
-    "name": "Rayo VS Athletic Bilbao",
-    "info": "",
-    "image": "https://phantom-marca.unidadeditorial.es/507745e0a4a1b685eccca1b6126e335d/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165737188859.jpg",
-    "url": "http://inst3.ignores.top/js/rayo-vallecano-vs-athletic-club/3/playlist.m3u8",
-    "import": false
-    },
-    {
     "name": "Toros Las Ventas",
     "info": "",
     "image": "https://www.las-ventas.com/assets/uploads/2024/05/23/0d79a26211bca9bb852400aa528370c394a465d522dfb371eb9844a31fcbe5a3.jpg",
