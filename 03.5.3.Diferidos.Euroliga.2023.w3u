@@ -8,12 +8,12 @@
 "groups": 
 	[
 		{
-        "name": "FINAL",
-        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
-       	"info": "",
-        "stations":
+        	"name": "FINAL",
+        	"image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       		"info": "",
+        	"stations":
         	[
-           		{
+           	{
               	"name": "",
               	"info": "",
               	"online": "true",
@@ -22,15 +22,16 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-			]
+		]
 		},
+
 		{
-        "name": "3 y 4 PUESTO",
-        "image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
-       	"info": "",
-        "stations":
+        	"name": "3 y 4 PUESTO",
+        	"image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+       		"info": "",
+        	"stations":
         	[
-           		{
+           	{
               	"name": "",
               	"info": "",
               	"online": "true",
@@ -39,13 +40,14 @@
               	"userAgent":"",
               	"isHost": "true"
               	}
-			]
+		]
 		},
+
 		{
-        "name": "FINAL FOUR",
-        "image": "https://i.postimg.cc/j2qq1X0Q/final-four.png",
-       	"info": "",
-        "groups":
+        	"name": "FINAL FOUR",
+        	"image": "https://i.postimg.cc/j2qq1X0Q/final-four.png",
+       		"info": "",
+        	"groups":
         	[
            	{
                 "name": "Panathinaikos VS Fenerbache",
@@ -54,37 +56,74 @@
                 "imageScale": "",
                 "stations":
                     [
-						{
-						"name": "Panathinaikos VS Fenerbache",
-						"info": "[Juego.01][24/05/2024]",
-						"online": "",
-						"image": "https://i.postimg.cc/rF3cGcm9/1.png",
-						"url": "https://filemoon.sx/d/y27o3j31mrcc/Baloncesto_EuroLeague_Final4_Panathinaikos_vs_Fenerbahce_24-05-2024.mkv",
-						"userAgent":"",
-						"isHost": "true"
-						}
-					]
-				},
 				{
+				"name": "Panathinaikos VS Fenerbache",
+				"info": "[Juego.01][24/05/2024]",
+				"online": "",
+				"image": "https://i.postimg.cc/rF3cGcm9/1.png",
+				"url": "https://filemoon.sx/d/y27o3j31mrcc/Baloncesto_EuroLeague_Final4_Panathinaikos_vs_Fenerbahce_24-05-2024.mkv",
+				"userAgent":"",
+				"isHost": "true"
+				}
+			]
+		},
+		{
                 "name": "Real Madrid VS Olympiacos",
                 "info":"",
                 "image": "https://i.postimg.cc/JhcLWkQT/2.png",
                 "imageScale": "",
                 "stations":
-                    [
-           				{
-						"name": "Real Madrid VS Olympiacos",
-						"info": "[Juego.01][24/05/2024]",
-						"online": "",
-						"image": "https://i.postimg.cc/JhcLWkQT/2.png",
-						"url": "https://filemoon.sx/d/7eb8pa99qt7p/Baloncesto_EuroLeague_Final4_RMadrid_vs_Olympiacos_24-05-2024.mkv",
-						"userAgent":"",
-						"isHost": "true"
-						}
-					]
+                    	[
+           			{
+				"name": "Real Madrid VS Olympiacos",
+				"info": "[Juego.01][24/05/2024]",
+				"online": "",
+				"image": "https://i.postimg.cc/JhcLWkQT/2.png",
+				"url": "https://filemoon.sx/d/7eb8pa99qt7p/Baloncesto_EuroLeague_Final4_RMadrid_vs_Olympiacos_24-05-2024.mkv",
+				"userAgent":"",
+				"isHost": "true"
 				}
 			]
 		},
+		{
+                "name": "Olympiacos VS Fenerbache",
+                "info":"",
+                "image": "",
+                "imageScale": "",
+                "stations":
+                    	[
+           			{
+				"name": "Olympiacos VS Fenerbache",
+				"info": "[Juego.01][26/05/2024]",
+				"online": "",
+				"image": "",
+				"url": "",
+				"userAgent":"",
+				"isHost": "true"
+				}
+			]
+		},
+		{
+                "name": "Real Madrid VS Panathinaikos",
+                "info":"",
+                "image": "",
+                "imageScale": "",
+                "stations":
+                    	[
+           			{
+				"name": "Real Madrid VS Panathinaikos",
+				"info": "[Juego.01][26/05/2024]",
+				"online": "",
+				"image": "",
+				"url": "",
+				"userAgent":"",
+				"isHost": "true"
+				}
+			]
+		}
+		]
+		},
+
 		{
         "name": "CUARTOS DE FINAL",
         "image": "https://i.postimg.cc/yNXMvrQf/post.png",
