@@ -7,6 +7,13 @@
 "info": "",
 "groups": 
 	[
+
+		{
+        	"name": "FINAL",
+        	"image": "",
+       		"info": "",
+        	"groups":
+        	[
 		{
         	"name": "Real Madrid VS Panathinaikos",
         	"image": "",
@@ -42,6 +49,8 @@
               		"isHost": "true",
 			"import": false
               		}
+		]
+		}
 		]
 		},
 
