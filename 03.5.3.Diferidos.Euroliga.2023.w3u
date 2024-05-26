@@ -12,12 +12,6 @@
         	"name": "FINAL",
         	"image": "https://phantom-marca.unidadeditorial.es/6e316ceeb8b33538d3e8ae04fad3235a/crop/0x0/2044x1363/resize/660/f/webp/assets/multimedia/imagenes/2024/05/25/17166592440342.jpg",
        		"info": "",
-        	"groups":
-        	[
-		{
-        	"name": "Real Madrid VS Panathinaikos",
-        	"image": "",
-       		"info": "[Final]",
         	"stations":
         	[
            		{
@@ -29,16 +23,7 @@
               		"userAgent":"",
               		"isHost": "true",
 			"import": false
-              		}
-		]
-		},
-
-		{
-        	"name": "Olympiacos VS Fenerbache",
-        	"image": "",
-       		"info": "[3 y 4 Puesto]",
-        	"stations":
-        	[
+			},
            		{
               		"name": "Olympiacos VS Fenerbache",
               		"info": "[26/05/2024]",
@@ -50,23 +35,14 @@
 			"import": false
               		}
 		]
-		}
-		]
 		},
 
 		{
         	"name": "FINAL FOUR",
         	"image": "https://i.postimg.cc/j2qq1X0Q/final-four.png",
        		"info": "",
-        	"groups":
+        	"stations":
         	[
-           	{
-                "name": "Panathinaikos VS Fenerbache",
-                "info":"",
-                "image": "https://i.postimg.cc/rF3cGcm9/1.png",
-                "imageScale": "",
-                "stations":
-                    [
 				{
 				"name": "Panathinaikos VS Fenerbache",
 				"info": "[Juego.01][24/05/2024]",
@@ -75,17 +51,8 @@
 				"url": "https://filemoon.sx/d/y27o3j31mrcc/Baloncesto_EuroLeague_Final4_Panathinaikos_vs_Fenerbahce_24-05-2024.mkv",
 				"userAgent":"",
 				"isHost": "true"
-				}
-			]
-		},
-		{
-                "name": "Real Madrid VS Olympiacos",
-                "info":"",
-                "image": "https://i.postimg.cc/JhcLWkQT/2.png",
-                "imageScale": "",
-                "stations":
-                    	[
-           			{
+				},
+				{
 				"name": "Real Madrid VS Olympiacos",
 				"info": "[Juego.01][24/05/2024]",
 				"online": "",
@@ -3366,4 +3333,4 @@
             		]
 		}
 	]
-}]}
+}
