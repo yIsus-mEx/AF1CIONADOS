@@ -13,15 +13,16 @@
        		"info": "[Final]",
         	"stations":
         	[
-           	{
-              	"name": "Real Madrid VS Panathinaikos",
-              	"info": "[26/05/2024]",
-              	"online": "true",
-              	"image": "",
-              	"url": "",
-              	"userAgent":"",
-              	"isHost": "true"
-              	}
+           		{
+              		"name": "Real Madrid VS Panathinaikos",
+              		"info": "[26/05/2024]",
+              		"online": "true",
+              		"image": "",
+              		"url": "",
+              		"userAgent":"",
+              		"isHost": "true",
+			"import": false
+              		}
 		]
 		},
 
@@ -31,15 +32,16 @@
        		"info": "[3 y 4 Puesto]",
         	"stations":
         	[
-           	{
-              	"name": "Olympiacos VS Fenerbache",
-              	"info": "[26/05/2024]",
-              	"online": "true",
-              	"image": "",
-              	"url": "",
-              	"userAgent":"",
-              	"isHost": "true"
-              	}
+           		{
+              		"name": "Olympiacos VS Fenerbache",
+              		"info": "[26/05/2024]",
+              		"online": "true",
+              		"image": "",
+              		"url": "",
+              		"userAgent":"",
+              		"isHost": "true",
+			"import": false
+              		}
 		]
 		},
 
