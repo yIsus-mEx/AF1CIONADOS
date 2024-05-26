@@ -8,6 +8,105 @@
 "groups":
     [
         {
+        "name": "F1 2024 Monaco [24-26.May24]",
+        "info":"",
+        "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/hrcoikk7r3ua",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/4u0gl9dlexm2",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/iguntq7cdoaa",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/u8wwgsyffbc2",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/qkipvm2e3msl",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/q3kfa329tjto",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/nsyh0svi9xm5",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"https://filemoon.sx/d/giq7tup22k7g",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv][MultiAudi]",
+                "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Imola [17-19.May24]",
         "info":"",
         "image": "https://i.postimg.cc/Dzjpk2bJ/Imola.png",
