@@ -8,14 +8,14 @@
 "groups": 
 	[
 		{
-        	"name": "FINAL",
+        	"name": "Real Madrid VS Panathinaikos",
         	"image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
-       		"info": "",
+       		"info": "[Final]",
         	"stations":
         	[
            	{
-              	"name": "",
-              	"info": "",
+              	"name": "Real Madrid VS Panathinaikos",
+              	"info": "[26/05/2024]",
               	"online": "true",
               	"image": "",
               	"url": "",
@@ -26,14 +26,14 @@
 		},
 
 		{
-        	"name": "3 y 4 PUESTO",
+        	"name": "Olympiacos VS Fenerbache",
         	"image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
-       		"info": "",
+       		"info": "[3 y 4 Puesto]",
         	"stations":
         	[
            	{
-              	"name": "",
-              	"info": "",
+              	"name": "Olympiacos VS Fenerbache",
+              	"info": "[26/05/2024]",
               	"online": "true",
               	"image": "",
               	"url": "",
@@ -84,44 +84,6 @@
 				"isHost": "true"
 				}
 			]
-		},
-		{
-                "name": "Olympiacos VS Fenerbache",
-                "info":"",
-                "image": "",
-                "imageScale": "",
-                "stations":
-                    	[
-           			{
-				"name": "Olympiacos VS Fenerbache",
-				"info": "[Juego.01][26/05/2024]",
-				"online": "",
-				"image": "",
-				"url": "",
-				"userAgent":"",
-				"isHost": "true"
-				}
-			]
-		},
-		{
-                "name": "Real Madrid VS Panathinaikos",
-                "info":"",
-                "image": "",
-                "imageScale": "",
-                "stations":
-                    	[
-           			{
-				"name": "Real Madrid VS Panathinaikos",
-				"info": "[Juego.01][26/05/2024]",
-				"online": "",
-				"image": "",
-				"url": "",
-				"userAgent":"",
-				"isHost": "true"
-				}
-			]
-		}
-		]
 		},
 
 		{
