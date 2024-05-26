@@ -5,55 +5,9 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"groups":
+"stations":
     [
-        {
-        "name": "F1 R07 Imola Italia 2024",
-        "info": "",
-        "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
-        "stations": 
-            [
-                {
-                "name": "F1 R07 Imola Italia 2024",
-                "info":"[DaznF1]",
-                "online": "true",
-                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
-                "url": "https://paco@inst3.ignores.top/js/dazn-formula-1-dazn-f1/1/playlist.m3u8",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHost": ""        
-                },
-                {
-                "name": "F1 R07 Imola Italia 2024",
-                "info":"[DazNF1]",
-                "online": "true",
-                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
-                "url": "acestream://d00223931b1854163e24c5c22475015d7d45c112",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHost": ""        
-                },
-                {
-                "name": "F1 R07 Imola Italia 2024",
-                "info":"[DazNF1]",
-                "online": "true",
-                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
-                "url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHost": ""        
-                },
-                {
-                "name": "F1 R07 Imola Italia 2024",
-                "info":"[F1Tv]",
-                "online": "true",
-                "image": "https://i.postimg.cc/j27mG4DW/italia.jpg",
-                "url": "https://ssh101-fl.bozztv.com/ssh101/f1latamracing/index.m3u8?David_mEx",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHost": ""        
-                }
-            ]
-        }
+
+
     ]
 }
