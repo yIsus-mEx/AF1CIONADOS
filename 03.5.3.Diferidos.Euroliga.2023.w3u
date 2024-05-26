@@ -3275,21 +3275,22 @@
         		}
             ]
 		},
+
 		{
-        "name": "JORNADA 1",
-        "image": "https://cope-cdnmed.cope.es/resources/jpg/8/2/1689674353128.jpg",
-        "info": "",
-        "stations":
-            [
+        	"name": "JORNADA 1",
+        	"image": "https://cope-cdnmed.cope.es/resources/jpg/8/2/1689674353128.jpg",
+        	"info": "",
+        	"stations":
+            		[
 				{
-       			"name": "Cvrena Zvezda vs Lyon-Villeurbanne",
-	        	"info": "05/10/23",
+       				"name": "Cvrena Zvezda vs Lyon-Villeurbanne",
+	        		"info": "05/10/23",
 				"online": "true",
-	        	"image": "https://i.postimg.cc/XNRRDnJH/CvVsLy.png",
-	        	"url": "https://upstream.to/e8paku3t4dyx",
+	        		"image": "https://i.postimg.cc/XNRRDnJH/CvVsLy.png",
+	        		"url": "https://upstream.to/e8paku3t4dyx",
 				"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
+        			"isHost": "true"
+        			},
 	       		{
  	       		"name": "Maccabi vs Partizán",
 	        	"info": "05/10/23",
@@ -3352,17 +3353,17 @@
 	        	"url": "https://upstream.to/shmgn0g7y3rd",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
-	       		{
- 	       		"name": "Baskonia vs Real Madrid",
-	        	"info": "06/10/23",
+        			},
+	       			{
+ 	       			"name": "Baskonia vs Real Madrid",
+	        		"info": "06/10/23",
 				"online": "true",
-	        	"image": "https://i.postimg.cc/fLpLJksn/Bas-Vs-Real.png",
-	        	"url": "https://upstream.to/i0bmtcjxmux0",
+	        		"image": "https://i.postimg.cc/fLpLJksn/Bas-Vs-Real.png",
+	        		"url": "https://upstream.to/i0bmtcjxmux0",
 				"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		}
-            ]
+        			"isHost": "true"
+        			}
+            		]
 		}
 	]
 }
