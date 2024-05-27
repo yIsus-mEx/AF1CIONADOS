@@ -8,6 +8,40 @@
 "groups":
     [
         {
+        "name": "06 IndyCar Indianapolis 500 ",
+        "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+                "url" :"https://filemoon.sx/d/27p2hbqs38yh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+                "url" :"https://ok.ru/video/7505747118739",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "05 IndyCar Road Rourse Sonsio",
         "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
         "stations":
