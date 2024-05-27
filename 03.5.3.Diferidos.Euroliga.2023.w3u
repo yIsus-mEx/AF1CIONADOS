@@ -7,55 +7,51 @@
 "info": "",
 "groups": 
 	[
+
 		{
         	"name": "FINAL",
-        	"image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+        	"image": "https://phantom-marca.unidadeditorial.es/e559c5e75ff471385a9dfadaf71c587a/resize/660/f/webp/assets/multimedia/imagenes/2024/05/26/17167539463608.jpg",
        		"info": "",
         	"stations":
         	[
-           	{
-              	"name": "",
-              	"info": "",
-              	"online": "true",
-              	"image": "",
-              	"url": "",
-              	"userAgent":"",
-              	"isHost": "true"
-              	}
+           		{
+              		"name": "Real Madrid VS Panathinaikos",
+              		"info": "[26/05/2024]",
+              		"online": "true",
+              		"image": "https://phantom-marca.unidadeditorial.es/e559c5e75ff471385a9dfadaf71c587a/resize/660/f/webp/assets/multimedia/imagenes/2024/05/26/17167539463608.jpg",
+              		"url": "",
+              		"userAgent":"",
+              		"isHost": "true",
+			"import": false
+			}
 		]
 		},
 
 		{
         	"name": "3 y 4 PUESTO",
-        	"image": "https://i.postimg.cc/9FSTgcsY/image.jpg",
+        	"image": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fvdmedia.as.com%2Fdiarioas%2Fimagenes%2F20245%2F26%2F20240526193545993_1716745512_asset_still.jpeg?auth=8649e309ded8af84761ceaf9dc6f96f6dc777ada9208d6990c681e5cda8c53a5&width=644&height=362&smart=true",
        		"info": "",
         	"stations":
         	[
-           	{
-              	"name": "",
-              	"info": "",
-              	"online": "true",
-              	"image": "",
-              	"url": "",
-              	"userAgent":"",
-              	"isHost": "true"
-              	}
+           		{
+              		"name": "Olympiacos VS Fenerbache",
+              		"info": "[26/05/2024]",
+              		"online": "true",
+              		"image": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fvdmedia.as.com%2Fdiarioas%2Fimagenes%2F20245%2F26%2F20240526193545993_1716745512_asset_still.jpeg?auth=8649e309ded8af84761ceaf9dc6f96f6dc777ada9208d6990c681e5cda8c53a5&width=644&height=362&smart=true",
+              		"url": "",
+              		"userAgent":"",
+              		"isHost": "true",
+			"import": false
+              		}
 		]
 		},
 
 		{
-        	"name": "FINAL FOUR",
-        	"image": "https://i.postimg.cc/j2qq1X0Q/final-four.png",
+        	"name": "SEMIFINALES",
+        	"image": "https://estaticos-cdn.prensaiberica.es/clip/c64af1c7-bc0c-43a9-90c5-d5353ab2795f_source-aspect-ratio_default_0.jpg",
        		"info": "",
-        	"groups":
+        	"stations":
         	[
-           	{
-                "name": "Panathinaikos VS Fenerbache",
-                "info":"",
-                "image": "https://i.postimg.cc/rF3cGcm9/1.png",
-                "imageScale": "",
-                "stations":
-                    [
 				{
 				"name": "Panathinaikos VS Fenerbache",
 				"info": "[Juego.01][24/05/2024]",
@@ -64,17 +60,8 @@
 				"url": "https://filemoon.sx/d/y27o3j31mrcc/Baloncesto_EuroLeague_Final4_Panathinaikos_vs_Fenerbahce_24-05-2024.mkv",
 				"userAgent":"",
 				"isHost": "true"
-				}
-			]
-		},
-		{
-                "name": "Real Madrid VS Olympiacos",
-                "info":"",
-                "image": "https://i.postimg.cc/JhcLWkQT/2.png",
-                "imageScale": "",
-                "stations":
-                    	[
-           			{
+				},
+				{
 				"name": "Real Madrid VS Olympiacos",
 				"info": "[Juego.01][24/05/2024]",
 				"online": "",
@@ -85,47 +72,9 @@
 				}
 			]
 		},
-		{
-                "name": "Olympiacos VS Fenerbache",
-                "info":"",
-                "image": "",
-                "imageScale": "",
-                "stations":
-                    	[
-           			{
-				"name": "Olympiacos VS Fenerbache",
-				"info": "[Juego.01][26/05/2024]",
-				"online": "",
-				"image": "",
-				"url": "",
-				"userAgent":"",
-				"isHost": "true"
-				}
-			]
-		},
-		{
-                "name": "Real Madrid VS Panathinaikos",
-                "info":"",
-                "image": "",
-                "imageScale": "",
-                "stations":
-                    	[
-           			{
-				"name": "Real Madrid VS Panathinaikos",
-				"info": "[Juego.01][26/05/2024]",
-				"online": "",
-				"image": "",
-				"url": "",
-				"userAgent":"",
-				"isHost": "true"
-				}
-			]
-		}
-		]
-		},
 
 		{
-        "name": "CUARTOS DE FINAL",
+        "name": "CUARTOS",
         "image": "https://i.postimg.cc/yNXMvrQf/post.png",
        	"info": "",
         "groups":
@@ -2408,7 +2357,7 @@
               	"isHost": "true"
               	},
               	{
-              	name": "Anadolu Efes vs Panathinaikos",
+              	"name": "Anadolu Efes vs Panathinaikos",
               	"info": "05/12/23",
               	"online": "true",
               	"image": "",
@@ -3302,21 +3251,22 @@
         		}
             ]
 		},
+
 		{
-        "name": "JORNADA 1",
-        "image": "https://cope-cdnmed.cope.es/resources/jpg/8/2/1689674353128.jpg",
-        "info": "",
-        "stations":
-            [
+        	"name": "JORNADA 1",
+        	"image": "https://cope-cdnmed.cope.es/resources/jpg/8/2/1689674353128.jpg",
+        	"info": "",
+        	"stations":
+            		[
 				{
-       			"name": "Cvrena Zvezda vs Lyon-Villeurbanne",
-	        	"info": "05/10/23",
+       				"name": "Cvrena Zvezda vs Lyon-Villeurbanne",
+	        		"info": "05/10/23",
 				"online": "true",
-	        	"image": "https://i.postimg.cc/XNRRDnJH/CvVsLy.png",
-	        	"url": "https://upstream.to/e8paku3t4dyx",
+	        		"image": "https://i.postimg.cc/XNRRDnJH/CvVsLy.png",
+	        		"url": "https://upstream.to/e8paku3t4dyx",
 				"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
+        			"isHost": "true"
+        			},
 	       		{
  	       		"name": "Maccabi vs Partizán",
 	        	"info": "05/10/23",
@@ -3379,17 +3329,17 @@
 	        	"url": "https://upstream.to/shmgn0g7y3rd",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
-	       		{
- 	       		"name": "Baskonia vs Real Madrid",
-	        	"info": "06/10/23",
+        			},
+	       			{
+ 	       			"name": "Baskonia vs Real Madrid",
+	        		"info": "06/10/23",
 				"online": "true",
-	        	"image": "https://i.postimg.cc/fLpLJksn/Bas-Vs-Real.png",
-	        	"url": "https://upstream.to/i0bmtcjxmux0",
+	        		"image": "https://i.postimg.cc/fLpLJksn/Bas-Vs-Real.png",
+	        		"url": "https://upstream.to/i0bmtcjxmux0",
 				"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		}
-            ]
+        			"isHost": "true"
+        			}
+            		]
 		}
 	]
 }
