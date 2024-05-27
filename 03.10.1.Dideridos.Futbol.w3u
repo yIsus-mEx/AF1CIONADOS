@@ -15,6 +15,22 @@
         "stations":
             [
 		{
+                "name": "FC Barcelona VS Olympique Lyon Final Champions Femenina 2024",
+	        "info":"[25-May-24]",
+                "image": "https://phantom-marca.unidadeditorial.es/daf0f9ecb7ce9e0a6c048c09d387ea7c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165635503656.jpg",
+                "url":"https://filemoon.sx/d/7ot7xz5w629z/Final_FC_Barcelona_-_Olympique_Lyonnais_UEFA_Women_s_Champions_League_250524.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Manchester City VS Manchester United Final FA Cup 2024",
+	        "info":"[25-May-24]",
+                "image": "https://phantom-marca.unidadeditorial.es/5a60ec713cd1e0b4d7074c1217f65921/resize/660/f/webp/assets/multimedia/imagenes/2024/05/25/17166564388600.jpg",
+                "url":"https://filemoon.sx/d/w46cmih4b8ez",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
                 "name": "Amistoso España Vs Brasil 2024",
 	        "info":"[26-Mar-24]",
                 "image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
@@ -24,7 +40,7 @@
                 },
 		{
 		"name": "Liverpool VS Manchester City",
-		"info":"[10.03.2024]",
+		"info":"[10-Mar-24]",
 		"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
 		"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
 		"online":"true",
