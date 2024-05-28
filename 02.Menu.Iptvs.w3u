@@ -392,6 +392,20 @@
         "info":"200 conex",
         "import": false
         },
+        {
+        "name": "IPTV 24/7",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://ncw.one:80/get.php?username=24hp2&password=ZZXcTk55RL&type=m3u_plus",
+        "info":"3000 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV 24/7",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://ncw.one:80/get.php?username=seRyb8hxqgven&password=Ryb8hxqgaH&type=m3u_plus",
+        "info":"150 conex",
+        "import": false
+        },
 		{
         "name": "Pluto TV",
         "image": "https://i.postimg.cc/d19c10Dk/pluto-tv-new.png",
