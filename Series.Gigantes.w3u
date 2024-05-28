@@ -1,0 +1,125 @@
+{
+"name": "Gigantes",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Gigantes.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/d13nzs3J/season01.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://es.web.img2.acsta.net/pictures/19/01/18/11/02/4787617.jpg",
+ 				"url":"https://filemoon.sx/d/7hhm3wlc7c0v",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://es.web.img2.acsta.net/pictures/19/01/18/11/02/4787617.jpg",
+				"url":"https://filemoon.sx/d/ekxdzh93xn3l",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://es.web.img2.acsta.net/pictures/19/01/18/11/02/4787617.jpg",
+				"url":"https://filemoon.sx/d/299h3fugozyh",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://es.web.img2.acsta.net/pictures/19/01/18/11/02/4787617.jpg",
+				"url":"https://filemoon.sx/d/dmohxuszwibw",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/01/18/11/02/4787617.jpg",
+				"url":"https://filemoon.sx/d/ph11lgo8jfjq",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/01/18/11/02/4787617.jpg",
+				"url":"https://filemoon.sx/d/5p5m1xxxc0hl",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://i.postimg.cc/nrQ2h3q5/season2.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/02/13/08/23/1546571.jpg",
+				"url":"https://filemoon.sx/d/l9gi52bg7y7j",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/02/13/08/23/1546571.jpg",
+				"url":"https://filemoon.sx/d/yob41j15r8gc",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/02/13/08/23/1546571.jpg",
+				"url":"https://filemoon.sx/d/mfrmwhwmcul3",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/02/13/08/23/1546571.jpg",
+				"url":"https://filemoon.sx/d/hgdkt58tbo5o",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/02/13/08/23/1546571.jpg",
+				"url":"https://filemoon.sx/d/f9dkiyhou7og",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/19/02/13/08/23/1546571.jpg",
+				"url":"https://filemoon.sx/d/knzkpepbp70z",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
