@@ -12,7 +12,7 @@
         "image": "https://i.postimg.cc/sDfFd8yT/this-is-football.png",
         "imageScale": "",
         "info":"",
-		"stations":
+	"stations":
     		[   
 			{
        			 "name": "Pelé, el rey del fútbol",
@@ -139,8 +139,39 @@
         		}
 			]
 		},
+
 		{
-		"name": "DAVID BECKHAM, AL RESCATE DEL EQUIPO",
+        	"name": "El Fichaje",
+        	"image": "https://pics.filmaffinity.com/el_fichaje-883343671-large.jpg",
+        	"imageScale": "",
+        	"info":"",
+		"stations":
+    			[
+        		{
+        		"name": "EPISODIO 1",
+        		"info":"Castellano",
+        		"image": "https://pics.filmaffinity.com/el_fichaje-883343671-large.jpg",
+        		"url": "https://filemoon.sx/d/w5y3ro40kcdc/El_fichaje_1X1_HDTV_XviD_Castellano.mp4",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "EPISODIO 2",
+        		"info":"Castellano",
+        		"image": "https://pics.filmaffinity.com/el_fichaje-883343671-large.jpg",
+        		"url": "https://filemoon.sx/d/w5os9lo9dyoc/El_fichaje_1X2_HDTV_XviD_Castellano.mp4",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		}
+			]
+		},
+
+		{
+		"name": "David Beckham, Al rescate del equipo",
 		"image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
 		"info": "",
 		"stations":
@@ -293,12 +324,12 @@
 			]
 		},
 		{
-        "name": "Barcelona, Matchday",
-        "image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
-        "imageScale": "",
-        "info":"",
+        	"name": "Barcelona, Matchday",
+        	"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        	"imageScale": "",
+        	"info":"",
 		"stations":
-    		[
+    			[
         		 {
         		"name": "Barcelona: El Clásico del Fútbol",
         		"info":"[E01]",
@@ -374,12 +405,12 @@
 			]
 		},
 		{
-        "name": "Simeone",
-        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
-        "imageScale": "",
-        "info":"",
+        	"name": "Simeone",
+        	"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simeone-1643121137.jpg",
+        	"imageScale": "",
+        	"info":"",
 		"stations":
-    		[
+    			[
         		{
         		"name": "T1 E1 - Es Mi Vida",
         		"info":"Castellano",
