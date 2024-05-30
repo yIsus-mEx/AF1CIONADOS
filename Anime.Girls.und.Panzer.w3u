@@ -1,0 +1,263 @@
+{
+    "name": "Girls und Panzer",
+    "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+    "url": "https://af1c1onados.vercel.app/Anime.Girls.und.Panzer.w3u",
+    "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+    "telegram": "Lista_AF1CIONADOS",
+    "info": "by. Falken",
+    "groups":
+        [
+            {
+            "name": "Serie",
+            "image": "https://i.ibb.co/4gdbBGt/garupan-series-cover.png",
+            "imageScale": "",
+            "info":"Subtitulado",
+            "stations":
+                [
+                    {
+                    "name": "Episodio 01",
+                    "info":"¡Tomaré la batalla en tanques!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/qzdgw284yofe",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 02",
+                    "info":"¡Voy a abordar el tanque!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/kve6w8c2lh92",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 03",
+                    "info":"¡Me uniré a la batalla!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/mjmnclh9xn7e",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 04",
+                    "info":"¡Daré mi mejor como comandante!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/ldf17mlgrn5m",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 05",
+                    "info":"¡Los Veteranos: La fuerza Sherman!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/hmi02dvmekbc",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 06",
+                    "info":"¡Alcanzando el clímax de nuestra primera batalla!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/trtivaa27vgt",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 07",
+                    "info":"¡Anzio, es la siguiente!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/1eks6mrfybvy",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 08",
+                    "info":"¡Contra Pravda!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/1gpipm16oazz",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 09",
+                    "info":"¡Esta es una situación desesperada!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/janknz08e9ha",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 10",
+                    "info":"¡Somos Compañeros de Clase!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/hvcwynv3ooi4",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 11",
+                    "info":"¡Es una batalla feroz!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/rnhtrf6i8vfm",
+                    "online": "true",
+                    "isHost": "true"
+                    },
+                    {
+                    "name": "Episodio 12",
+                    "info":"¡No podemos retroceder de esta batalla!",
+                    "image": "https://i.ibb.co/1LZNzpq/garupan-series-inner-cover.jpg",
+                    "url": "https://filemoon.sx/d/4psg4r2hiarr",
+                    "online": "true",
+                    "isHost": "true"
+                    }
+                ]
+            },
+            {
+                "name": "OVAS",
+                "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                "imageScale": "",
+                "info":"Subtitulado",
+                "stations":
+                    [
+                        {
+                        "name": "Episodio 01",
+                        "info":"Water War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/ol6ex44684hk",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 02",
+                        "info":"Survival War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/brvzpfmbzdxs",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 03",
+                        "info":"School Ship War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/fo684n8szy6g",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 04",
+                        "info":"Anglerfish War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/t2uo30jq12ea",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 05",
+                        "info":"Snow War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/t4fmsf6yv1jf",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 06",
+                        "info":"Banquet War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/bqvzooinibnv",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 07",
+                        "info":"This is the Real Anzio Battle!",
+                        "image": "https://i.ibb.co/ZNwtFDY/anzio.jpg",
+                        "url": "https://filemoon.sx/d/4x9sb62tzofr",
+                        "online": "true",
+                        "isHost": "true"
+                        },
+                        {
+                        "name": "Episodio 08",
+                        "info":"Alice War!",
+                        "image": "https://i.ibb.co/X3khjgt/ovas.jpg",
+                        "url": "https://filemoon.sx/d/g1o9xzecd0hf",
+                        "online": "true",
+                        "isHost": "true"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pelicula",
+                    "image": "https://i.ibb.co/bLQC0vy/film.jpg",
+                    "imageScale": "",
+                    "info":"Subtitulado",
+                    "stations":
+                        [
+                            {
+                            "name": "Girls und Panzer der Film",
+                            "info":"Luego del OVA 6",
+                            "image": "https://i.ibb.co/bLQC0vy/film.jpg",
+                            "url": "https://filemoon.sx/d/jylfqlj4ykqr",
+                            "online": "true",
+                            "isHost": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Girls und Panzer das Finale",
+                        "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                        "imageScale": "",
+                        "info":"Subtitulado",
+                        "stations":
+                            [
+                                {
+                                "name": "Parte 1",
+                                "info":"Subtitulado",
+                                "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                                "url": "https://filemoon.sx/d/mb1mlvsyxeq4",
+                                "online": "true",
+                                "isHost": "true"
+                                },
+                                {
+                                "name": "Parte 2",
+                                "info":"Subtitulado",
+                                "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                                "url": "https://filemoon.sx/d/45vmjl3glqbl",
+                                "online": "true",
+                                "isHost": "true"
+                                },
+                                {
+                                "name": "Parte 2 Especial",
+                                "info":"Subtitulado",
+                                "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                                "url": "https://filemoon.sx/d/19nu67zjuv00",
+                                "online": "true",
+                                "isHost": "true"
+                                },
+                                {
+                                "name": "Parte 3",
+                                "info":"Subtitulado",
+                                "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                                "url": "https://filemoon.sx/d/1w9tq0fszgkh",
+                                "online": "true",
+                                "isHost": "true"
+                                },
+                                {
+                                "name": "Parte 3 Especial",
+                                "info":"Subtitulado",
+                                "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                                "url": "https://filemoon.sx/d/oydngu8ri3r2",
+                                "online": "true",
+                                "isHost": "true"
+                                },
+                                {
+                                "name": "Parte 4",
+                                "info":"Subtitulado",
+                                "image": "https://i.ibb.co/d0BzRZm/finale.jpg",
+                                "url": "https://filemoon.sx/d/skbqudh1o612",
+                                "online": "true",
+                                "isHost": "true"
+                                }
+                            ]
+                        }
+        ]
+    }
