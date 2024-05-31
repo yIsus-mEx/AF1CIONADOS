@@ -7,7 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "WRC Cerdeña 2024",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/m2KrCsYF/cerde-a-2024.jpg",
+        "url": "https://vkvsd97.mycdn.me:443/hls/6470724815386.m3u8/sig/-HxM74s_POo/srcIp/177.228.109.117/urls/45.136.20.64/expires/1717595016664/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7202129980186/id/6470724815386/6470724815386_fullhd/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        }
 
     ]
 }
