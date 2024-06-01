@@ -9,22 +9,21 @@
     [
         {
         "name": "Champions League Borussia Dortmund vs Real Madrid",
+        "info":"[Latino]",
+        "online":"true",
+        "image": "https://i.postimg.cc/VNWtMhWt/realvsboru.png",
+        "url": "https://inst3.ignores.top/js/uefa-champions-league-final-borussia-dortmund-vs-real-madrid/4/playlist.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+       {
+        "name": "Champions League Borussia Dortmund vs Real Madrid",
         "info":"[Español]",
         "online":"true",
         "image": "https://i.postimg.cc/VNWtMhWt/realvsboru.png",
         "url": "https://stronstream.shop/embed/stream-435.php",
         "userAgent": "",
         "isHost": "true"
-        },
-        {
-        "name": "WRC Cerdeña 2024",
-        "info":"",
-        "online":"true",
-        "image": "https://i.postimg.cc/VNWtMhWt/realvsboru.png",
-        "url": "https://stronstream.shop/embed/stream-435.php",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": ""
         }
     ]
 }
