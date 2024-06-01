@@ -1,0 +1,103 @@
+{"name": "VERGUENZA",
+"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+"url": "https://af1c1onados.vercel.app/Series.Verguenza.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+	"stations":
+	[
+	      	{
+	      	"name": "CAPITULO 1",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/8csbujmfge1v/1x01_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 2",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/ctdgqd1mq4ef/1x02_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 3",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/9mcplxtgihbz/1x03_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 4",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/qa630pj2652k/1x04_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+		]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+		]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+	"stations":
+	[
+	      {
+	      	"name": "CAPITULO 1",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+	]
+	}
+
+]
+}
