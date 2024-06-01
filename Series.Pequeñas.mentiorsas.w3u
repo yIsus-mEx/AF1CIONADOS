@@ -5,9 +5,101 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"stations":
-	[
+"groups": [
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+	"info":
+		[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/nue7y9h8hidk",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/i6uuw4lh2km2",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/7ifr78v724hz",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/dy533igkpa0i",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/upuo0ip1wbeb",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 06",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/56uppdjn28o1",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 07",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"https://upstream.to/bl1ai8l3cs5r",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 08",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 09",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 10",
+ 				"info":"[Español][2022]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+		]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+	"info":
+		[
  				{
  				"name": "Episodio 01",
  				"info":"[Español][2024]",
@@ -39,7 +131,17 @@
  				"url":"https://filemoon.sx/d/0ff0h38fhnbu/Peque_as.Mentirosas.2x04.mkv",
  				"isHost":"true",
  				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"[Español][2024]",
+ 				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
 				}
+		]
+	}
 
   ]
 }
