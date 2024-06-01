@@ -16,7 +16,16 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
-       {
+        {
+        "name": "Champions League Borussia Dortmund vs Real Madrid",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/VNWtMhWt/realvsboru.png",
+        "url": "https://vkvsd198.mycdn.me:443/hls/6445504858789.m3u8/sig/hWfaOmqwDbU/srcIp/138.185.2.178/urls/45.136.22.55/expires/1717727205554/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7118237608869/id/6445504858789/6445504858789_fullhd/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+        {
         "name": "Champions League Borussia Dortmund vs Real Madrid",
         "info":"[Español]",
         "online":"true",
