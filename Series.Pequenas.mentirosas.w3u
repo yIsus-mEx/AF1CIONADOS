@@ -10,87 +10,98 @@
 	{
 	"name": "TEMPORADA 1",
 	"image": "https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
-	"info":
+	"info": "",
+	"stations":
 		[
  				{
  				"name": "Episodio 01",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/nue7y9h8hidk",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 02",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/i6uuw4lh2km2",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 03",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/7ifr78v724hz",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 04",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/dy533igkpa0i",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 05",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/upuo0ip1wbeb",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 06",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/56uppdjn28o1",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 07",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://upstream.to/bl1ai8l3cs5r",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 08",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 09",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 10",
- 				"info":"[Español][2022]",
+ 				"info":"[2022]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				}
 		]
 	},
@@ -98,47 +109,53 @@
 	{
 	"name": "TEMPORADA 2",
 	"image": "https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
-	"info":
+	"info": "",
+	"stations":
 		[
  				{
  				"name": "Episodio 01",
- 				"info":"[Español][2024]",
+ 				"info":"[2024]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://filemoon.sx/d/2gypjg8yc8pn/Peque_as.Mentirosas.2x01.mkv",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 02",
- 				"info":"[Español][2024]",
+ 				"info":"[2024]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://filemoon.sx/d/uaowwyeqayd8/Peque_as.Mentirosas.2x02.mkv",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 03",
- 				"info":"[Español][2024]",
+ 				"info":"[2024]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://filemoon.sx/d/kt50l15fsl5x/Peque_as.Mentirosas.2x03.mkv",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 04",
- 				"info":"[Español][2024]",
+ 				"info":"[2024]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"https://filemoon.sx/d/0ff0h38fhnbu/Peque_as.Mentirosas.2x04.mkv",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				},
  				{
  				"name": "Episodio 05",
- 				"info":"[Español][2024]",
+ 				"info":"[2024]",
  				"image":"https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
  				"url":"",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":"true",
+				"import": false
 				}
 		]
 	}
