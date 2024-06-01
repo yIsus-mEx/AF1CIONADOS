@@ -30,9 +30,18 @@
         "info":"[Español]",
         "online":"true",
         "image": "https://i.postimg.cc/VNWtMhWt/realvsboru.png",
-        "url": "https://stronstream.shop/embed/stream-435.php",
-        "userAgent": "",
-        "isHost": "true"
+        "url": "https://zona.gt/star/stream.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+        {
+        "name": "Champions League Borussia Dortmund vs Real Madrid",
+        "info":"[ingles]",
+        "online":"true",
+        "image": "https://i.postimg.cc/VNWtMhWt/realvsboru.png",
+        "url": "https://s@live.notebulk.xyz/vnzKRLov7xAhvSvRcf0HEg/1717288676/uk_bts1/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
         }
     ]
 }
