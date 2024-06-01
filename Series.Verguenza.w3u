@@ -55,6 +55,72 @@
        		"online": "true",
 	      	"userAgent":"PlusMediaPlayer/0.0.9",
        		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 5",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/wr141kknrj6y/1x05_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 6",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/k2g6czl356fb/1x06_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 7",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/l079nivoso9o/1x07_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 8",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/k7c7psjjv0yt/1x08_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 9",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/3wk9uz89mbwz/1x09_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+	      	{
+	      	"name": "CAPITULO 10",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/hlni6npfvg7t/1x10_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
        		}
 		]
 	},
@@ -66,14 +132,80 @@
 	"stations":
 	[
 	      {
-	      "name": "CAPITULO 1",
+	      	"name": "CAPITULO 1",
         	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
-        	"url": "",
+        	"url": "https://filemoon.sx/d/hu3rz4fo8tr4/2x01_Verg_enza.mkv",
        		"info": "[Español 2024]",
        		"embed": "",
        		"isHost": "true",
        		"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 2",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/admw98rt6orq/2x02_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 3",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/m0owc3sw2nfs/2x03_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 4",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/mlzqsvuyzdgc/2x04_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 5",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/ji8trv389g5o/2x05_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 6",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/5dw44clp0k0w/2x06_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      	{
+	      	"name": "CAPITULO 7",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/f9488rs1laek/2x07_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
        		"import": false
        		}
 		]
@@ -88,7 +220,62 @@
 	      {
 	      	"name": "CAPITULO 1",
         	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
-        	"url": "",
+        	"url": "https://filemoon.sx/d/80g6vtr906il/3x01_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 2",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/b5hs1w3xn86f/3x02_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 3",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/u0cxt133k2qg/3x03_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 4",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/dqrr2oy0x1bq/3x04_Verg_enza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 5",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/2lmlmx9xrtao/3x05_Verguenza.mkv",
+       		"info": "[Español 2024]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+	      {
+	      	"name": "CAPITULO 6",
+        	"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
+        	"url": "https://filemoon.sx/d/v1t1ejqbjz6p/3x06_Verguenza.mkv",
        		"info": "[Español 2024]",
        		"embed": "",
        		"isHost": "true",
