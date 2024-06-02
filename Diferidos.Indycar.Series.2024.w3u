@@ -8,6 +8,40 @@
 "groups":
     [
         {
+        "name": "07 IndyCar Chevrolet Detroit",
+        "image": "https://i.postimg.cc/mg6nVs51/indycar-detroid-2024.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/mg6nVs51/indycar-detroid-2024.png",
+                "url" :"https://filemoon.sx/d/6u0buh34euw4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/mg6nVs51/indycar-detroid-2024.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/mg6nVs51/indycar-detroid-2024.png",
+                "url" :"https://filemoon.sx/e/xy221j9bbcu7",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "06 IndyCar Indianapolis 500 ",
         "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
         "stations":
@@ -24,9 +58,9 @@
                 {
                 "name": "Carrera",
                 "info":"[Español]",
-                "online": "",
+                "online": "true",
                 "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
-                "url" :"",
+                "url" :"https://filemoon.sx/d/0786r2dph3mv",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
                 },
