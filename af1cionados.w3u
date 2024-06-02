@@ -6,85 +6,79 @@
 "telegram": "Lista_AF1CIONADOS",
 "info":"Agradecimientos Especiales a                                                                                                    *Lucas*  *Manujaz*  *AdrideCai*",
 "groups":
-[
-{
-"name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩ",
-"image": "https://i.postimg.cc/TwvMZVSb/PPV-Iive-new.png",
-"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/10.EVEntOs.dEl.DiA.w3u",
-"import": false
-},
-{
-"name": "ᗪᗴᑭᗝᖇ丅ᗴᔕ ᗩᑕᗴᔕ丅ᖇᗴᗩᗰ",
-"image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
-"url": "https://ids-boss.vercel.app/af1.txt",
-"info":"bY. lUCas",
-"import": false
-},
-{
-"name": "       乙ᗝᑎᗩ Ꭵᑭ丅ᐯ",
-"image": "https://i.postimg.cc/02CXhJ8P/IPTV-new.png",
-"url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
-"import": false
-},
-{
-"name": "        ᗪᎥᖴᗴᖇᎥᗪᗝᔕ",
-"image": "https://i.postimg.cc/sxdBhVKX/logo-diferidos.png",
-"url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
-"import": false
-},
-{
-"name": " ᗪᗝᑕᑌᗰᗴᑎ丅ᗩᒪᔕ",
-"image": "https://i.postimg.cc/VNFc93y4/documental.png",
-"url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
-"import": false
-},
-{
-"name": "      丅ᐯ ᔕᕼᗝᗯᔕ",
-"image": "https://i.postimg.cc/B6j2ZjmN/tv-show-new.png",
-"url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
-"import": false
-},
-{
-"name": "     丅ᕼᗴ ᗰᗝᐯᎥᗴᔕ",
-"image": "https://i.postimg.cc/g2m00TYr/movies-new.png",
-"url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
-"import": false
-},
-{
-"name": "     丅ᕼᗴ ᔕᗴᖇᎥᗴᔕ",
-"image": "https://i.postimg.cc/fTKYXW1M/series-new.png",
-"url": "https://af1cionados.vercel.app/Menu SeRies.w3u",
-"import": false
-},
-{
-"name": "            ᗩᑎᎥᗰᗴ",
-"image": "https://i.postimg.cc/9Fh26Dc7/Anime-new.png",
-"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/08.Menu.AniME.w3u",
-"import": false
-},
-{
-"name": "        ᗪᗴᑭᗝᖇ丅ᗴᔕ",
-"image": "https://i.postimg.cc/QMGy2J5L/logo-zona-deportiva-2.png",
-"url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
-"import": false
-},
-{
-"name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩ",
-"image": "https://i.postimg.cc/TwvMZVSb/PPV-Iive-new.png",
-"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/10.EVEntOs.dEl.DiA.w3u",
-"import": false
-},
-{
-"name": "ᗰᗩᑎᑌᒎᗩ乙 ᔕᑭᗝᖇ丅",
-"image": "https://i.postimg.cc/9QMxppDM/Manu-Ja2-New.png",
-"url": "https://af1c1onados.vercel.app/11.MANUJA2.MotoSport.w3u",
-"import": false
-},
-{
-"name": "丅ᗴᒪᗴǤᖇᗩᗰ Ƴ ᗰᗩᔕ",
-"image": "https://i.postimg.cc/d1N8KdMz/Telegram.png",
-"url": "https://af1c1onados.vercel.app/12.TelEGrAm.w3u",
-"import": false
-}
-]
+    [
+        {
+        "name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩ",
+        "image": "https://i.postimg.cc/TwvMZVSb/PPV-Iive-new.png",
+        "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
+        "import": false
+        },
+        {
+        "name": "ᗪᗴᑭᗝᖇ丅ᗴᔕ ᗩᑕᗴᔕ丅ᖇᗴᗩᗰ",
+        "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
+        "url": "https://ids-boss.vercel.app/af1.txt",
+        "info":"bY. lUCas",
+        "import": false
+        },
+        {
+        "name": "       乙ᗝᑎᗩ Ꭵᑭ丅ᐯ",
+        "image": "https://i.postimg.cc/02CXhJ8P/IPTV-new.png",
+        "url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
+        "import": false
+        },
+        {
+        "name": "        ᗪᎥᖴᗴᖇᎥᗪᗝᔕ",
+        "image": "https://i.postimg.cc/sxdBhVKX/logo-diferidos.png",
+        "url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
+        "import": false
+        },
+        {
+        "name": " ᗪᗝᑕᑌᗰᗴᑎ丅ᗩᒪᔕ",
+        "image": "https://i.postimg.cc/VNFc93y4/documental.png",
+        "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
+        "import": false
+        },
+        {
+        "name": "      丅ᐯ ᔕᕼᗝᗯᔕ",
+        "image": "https://i.postimg.cc/B6j2ZjmN/tv-show-new.png",
+        "url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
+        "import": false
+        },
+        {
+        "name": "     丅ᕼᗴ ᗰᗝᐯᎥᗴᔕ",
+        "image": "https://i.postimg.cc/g2m00TYr/movies-new.png",
+        "url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
+        "import": false
+        },
+        {
+        "name": "     丅ᕼᗴ ᔕᗴᖇᎥᗴᔕ",
+        "image": "https://i.postimg.cc/fTKYXW1M/series-new.png",
+        "url": "https://af1cionados.vercel.app/Menu SeRies.w3u",
+        "import": false
+        },
+        {
+        "name": "            ᗩᑎᎥᗰᗴ",
+        "image": "https://i.postimg.cc/9Fh26Dc7/Anime-new.png",
+        "url": "https://af1c1onados.vercel.app/08.Menu.AniME.w3u",
+        "import": false
+        },
+        {
+        "name": "        ᗪᗴᑭᗝᖇ丅ᗴᔕ",
+        "image": "https://i.postimg.cc/QMGy2J5L/logo-zona-deportiva-2.png",
+        "url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
+        "import": false
+        },
+        {
+        "name": "ᗰᗩᑎᑌᒎᗩ乙 ᔕᑭᗝᖇ丅",
+        "image": "https://i.postimg.cc/9QMxppDM/Manu-Ja2-New.png",
+        "url": "https://af1c1onados.vercel.app/11.MANUJA2.MotoSport.w3u",
+        "import": false
+        },
+        {
+        "name": "丅ᗴᒪᗴǤᖇᗩᗰ Ƴ ᗰᗩᔕ",
+        "image": "https://i.postimg.cc/d1N8KdMz/Telegram.png",
+        "url": "https://af1c1onados.vercel.app/12.TelEGrAm.w3u",
+        "import": false
+        }
+    ]
 }
