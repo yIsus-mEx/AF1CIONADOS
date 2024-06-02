@@ -15,6 +15,24 @@
         "url": "https://vkvsd35.mycdn.me:443/hls/6479760591386.m3u8/sig/bkm9TF4ffYw/srcIp/177.228.109.117/urls/185.226.53.55/expires/1717744908517/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
+        },
+        {
+        "name": "MotoGP Mugello (Italia)",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/ff2f2bc00e028eaa1ac466444de3967e/resize/660/f/webp/assets/multimedia/imagenes/2024/05/26/17167325666933.jpg",
+        "url": "https://paco@www.oha.to/play/2941093452/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+        {
+        "name": "Felix Auger Aliassime VS Carlos Alcaraz",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://phantom-marca.unidadeditorial.es/01afd38ce75aa276fba86315a6242e9a/resize/660/f/webp/assets/multimedia/imagenes/2024/06/02/17173159279224.jpg",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
         }
     ]
 }
