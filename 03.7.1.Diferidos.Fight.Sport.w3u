@@ -8,6 +8,31 @@
 "groups":
     [
         {
+         "name": "UFC 302: Makhachev vs Poirier",
+         "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 302: Makhachev vs Poirier",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+                "url":"https://filemoon.sx/d/uwhccx0guju9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 302: Makhachev vs Poirier",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+                "url":"https://filemoon.sx/d/6ppz5h8a59hx",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Barboza Vs Murphy",
          "image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
          "imageScale": "",
