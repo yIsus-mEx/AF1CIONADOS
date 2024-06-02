@@ -9,10 +9,10 @@
     [
         {
         "name": "UFC 302: Makhachev vs Poirier",
-        "info":"[Español]",
+        "info":"[MULTIAUDIO]",
         "online":"true",
         "image": "https://i.postimg.cc/cL8mrY4n/islam-makhachev-vs-dustin-poirier-a41oanvoglx91gzgakv3luogq.jpg",
-        "url": "https://vkvsd35.mycdn.me:443/hls/6479760591386.m3u8/sig/bkm9TF4ffYw/srcIp/177.228.109.117/urls/185.226.53.55/expires/1717744908517/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
+        "url": "https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/00e673ad516c4029b297fd2434947b4d/x-discovery-token=Expires=1717340958&KeyName=primary&Signature=j0eom2ZIs2V5YyRe1rvuzls9M9Y/start/1717286843/index.m3u8?aws.manifestfilter=audio_codec:AACL;audio_language:eng,spa,qis;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1717340958~acl=/primary/2/00e673ad516c4029b297fd2434947b4d/start/1717286843/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Baudio_language%3Aeng%2Cspa%2Cqis%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=1e77f95edaa4477cf47257568a33cba33159ffdf07b7a249decfb665ff3a73db",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
