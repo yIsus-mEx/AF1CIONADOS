@@ -97,6 +97,15 @@
         "isHost": "true"
         },
         {
+        "name": "Play Off Liga Endesa FC Barcelona VS Real Madrid",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://estaticos-cdn.prensaiberica.es/clip/c69f0a96-bba0-433f-a817-6f3123c4590c_16-9-discover-aspect-ratio_default_0.webp",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+        {
         "name": "TOROS DESDE LAS VENTAS",
         "info":"[Español]",
         "online":"true",
@@ -133,25 +142,6 @@
         "embed": "true",
         "image": "https://www.las-ventas.com/assets/uploads/2024/05/31/41398b555cf57b80a9b0f104fa4623578bea3d43ddde7cb9d7b9c4ff30802a1c.jpg",
         "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "",
-        "info":"[Español]",
-        "online":"true",
-        "embed": "true",
-        "image": "",
-        "url": "",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "Play Off Liga Endesa FC Barcelona VS Real Madrid",
-        "info":"[Español]",
-        "online":"true",
-        "image": "https://estaticos-cdn.prensaiberica.es/clip/c69f0a96-bba0-433f-a817-6f3123c4590c_16-9-discover-aspect-ratio_default_0.webp",
-        "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }
