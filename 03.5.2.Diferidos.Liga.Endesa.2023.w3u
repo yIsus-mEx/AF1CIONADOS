@@ -67,6 +67,15 @@
               	"url": "",
               	"userAgent":"",
               	"isHost": "true"
+              	},
+           	{
+              	"name": "UCAM Murcia VS Unicaja",
+              	"info": "03/06/2024",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
               	}
 		]
 	},
