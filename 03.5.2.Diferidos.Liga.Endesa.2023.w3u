@@ -9,6 +9,24 @@
     [
 
 	{
+        "name": "FINAL 2024",
+        "image": "",
+        "info": "",
+        "stations":
+            [
+           	{
+              	"name": "UCAM Murcia VS Real Madrid",
+              	"info": "",
+              	"online": "true",
+              	"image": "",
+              	"url": "",
+              	"userAgent":"",
+              	"isHost": "true"
+              	}
+		]
+	},
+
+	{
         "name": "SEMIFINALES 2024",
         "image": "https://phantom-marca.unidadeditorial.es/2b13a4afc94cc84b77d5da323eefaaa8/resize/990/f/webp/assets/multimedia/imagenes/2024/05/28/17168900386745.jpg",
         "info": "",
@@ -63,8 +81,8 @@
               	"name": "FC Barcelona VS Real Madrid",
               	"info": "02/06/2024",
               	"online": "true",
-              	"image": "",
-              	"url": "",
+              	"image": "https://phantom-marca.unidadeditorial.es/f7950125361e70eadc4802d1922512f9/resize/660/f/webp/assets/multimedia/imagenes/2024/06/02/17173575064729.jpg",
+              	"url": "https://filemoon.sx/d/j9yl05kyr0er",
               	"userAgent":"",
               	"isHost": "true"
               	},
