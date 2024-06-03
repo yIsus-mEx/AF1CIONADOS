@@ -7,7 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Victor Victoria",
+        "image": "https://scottross79.wordpress.com/wp-content/uploads/2021/03/victor-victoria-poster-reduced.jpg",
+        "url": "https://ok.ru/video/2426578275070",
+        "info": "[Español][1982]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "Dark and The Wicked",
         "image": "https://pics.filmaffinity.com/the_dark_and_the_wicked-335778981-large.jpg",
