@@ -16,9 +16,18 @@
         "online":"true",
         "isHost":"true"
         },
-		{
+        {
         "name": "Taur0 Canal",
         "info":"[Opcion.02]",
+        "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
+        "url": "https://fullchannels.online/canales.php?id=toros",
+        "userAgent": "",
+        "online":"true",
+        "isHost":"true"
+        },
+		{
+        "name": "Taur0 Canal",
+        "info":"[Opcion.03]",
         "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
         "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)",
         "userAgent": "PlusMediaPlayer/0.0.9",
@@ -27,7 +36,7 @@
         },
         {
         "name": "Taur0 Canal",
-        "info":"[Opcion.03]",
+        "info":"[Opcion.04]",
         "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
         "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
         "userAgent": "PlusMediaPlayer/0.0.9",
@@ -45,7 +54,7 @@
         },
         {
         "name": "TeleMadrid",
-        "info":"[Opcion.01]",
+        "info":"[Opcion.02]",
         "image": "https://i.postimg.cc/GthtMckK/telemadrid-new.png",
         "url": "https://tele-libre.com/en-vivo-online/telemadrid/embed2.php",
         "userAgent": "",
