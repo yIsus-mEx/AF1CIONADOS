@@ -8,6 +8,105 @@
 "groups":
     [
         {
+        "name": "F1 2024 Canada [07-09.Jun24]",
+        "info":"",
+        "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0bXdvMDA0cnh40",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0bXdvMDAwdTVt0",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0bXdvMDAwNjRm0",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0bXdzMDAwMDJk0",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv][MultiAudi]",
+                "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Monaco [24-26.May24]",
         "info":"",
         "image": "https://i.postimg.cc/mDYZ5kmG/f1-monaco-2024.png",
