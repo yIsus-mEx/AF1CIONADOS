@@ -1,0 +1,52 @@
+{
+"name": "Asi Nos Ven",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Asi.Nos.Ven.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+ 				"url":"https://filemoon.sx/d/tc0wucfdm2l3",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+				"url":"https://filemoon.sx/d/2tov87fftg12",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+				"url":"https://filemoon.sx/d/2apvh1fspz1r",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+				"url":"https://filemoon.sx/d/pi3ktzxo9io0",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
