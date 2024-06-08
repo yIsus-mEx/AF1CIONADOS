@@ -8,6 +8,33 @@
 "groups":
     [
 		{
+        "name": "R16 NASCAR Enjoy Illinois 300",
+        "info":"",
+        "image": "https://i.postimg.cc/Dz46TNDj/illinois2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Enjoy Illinois 300",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dz46TNDj/illinois2024.png",
+                "url":"https://filemoon.sx/d/fku4cvmw6x00",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "NASCAR Enjoy Illinois 300",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/Dz46TNDj/illinois2024.png",
+                "url":"https://filemoon.sx/e/6lftgb0rz4rn",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R15 NASCAR Coca-Cola 600",
         "info":"",
         "image": "https://i.postimg.cc/bJW3hb59/cocacola600.png",
