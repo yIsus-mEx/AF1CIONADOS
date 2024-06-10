@@ -8,7 +8,41 @@
 "groups":
     [
         {
-        "name": "07 IndyCar Chevrolet Detroit",
+        "name": "R08 IndyCar Road America",
+        "image": "https://i.postimg.cc/CxwFTSzp/roadamerica.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/CxwFTSzp/roadamerica.png",
+                "url" :"https://filemoon.sx/d/9uflcay51vag",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/CxwFTSzp/roadamerica.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "",
+                "image": "https://i.postimg.cc/CxwFTSzp/roadamerica.png",
+                "url" :"",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R07 IndyCar Chevrolet Detroit",
         "image": "https://i.postimg.cc/mg6nVs51/indycar-detroid-2024.png",
         "stations":
             [
@@ -42,7 +76,7 @@
             ]
         },
         {
-        "name": "06 IndyCar Indianapolis 500 ",
+        "name": "R06 IndyCar Indianapolis 500 ",
         "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
         "stations":
             [
@@ -76,7 +110,7 @@
             ]
         },
         {
-        "name": "05 IndyCar Road Rourse Sonsio",
+        "name": "R05 IndyCar Road Rourse Sonsio",
         "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
         "stations":
             [
@@ -110,7 +144,7 @@
             ]
         },
         {
-        "name": "04 IndyCar Grand Prix Barbera Alabama",
+        "name": "R04 IndyCar Grand Prix Barbera Alabama",
         "image": "https://i.postimg.cc/6pccvGT9/alabama.png",
         "stations":
             [
@@ -144,7 +178,7 @@
             ]
         },
         {
-        "name": "03 IndyCar Grand Prix Long Beach",
+        "name": "R03 IndyCar Grand Prix Long Beach",
         "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
         "stations":
             [
@@ -178,7 +212,7 @@
             ]
         },
         {
-        "name": "02 IndyCar Grand Prix $1 Million Challenge",
+        "name": "R02 IndyCar Grand Prix $1 Million Challenge",
         "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
         "stations":
             [
@@ -212,7 +246,7 @@
             ]
         },
         {
-        "name": "01 IndyCar Grand Prix of St. Petersburg",
+        "name": "R01 IndyCar Grand Prix of St. Petersburg",
         "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
         "stations":
             [
