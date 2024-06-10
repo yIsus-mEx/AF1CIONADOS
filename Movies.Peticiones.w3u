@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Combustion",
+        "image": "https://pics.filmaffinity.com/combustion-398475316-large.jpg",
+        "url": "https://upstream.to/ns1tcbcmrzj0",
+        "info": "[Español][2013]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "Victor Victoria",
         "image": "https://scottross79.wordpress.com/wp-content/uploads/2021/03/victor-victoria-poster-reduced.jpg",
