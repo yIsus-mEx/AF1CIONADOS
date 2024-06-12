@@ -8,6 +8,42 @@
 "groups":
     [
         {
+        "name": "Los Caraduras",
+        "image": "https://i.postimg.cc/9XRwJBmM/caraduras.png",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Los Caraduras",
+                "info":"[Español][1977]",
+                "image": "https://i.postimg.cc/HWqcK7nt/caraduras-I.png",
+                "url":"https://filemoon.sx/d/r6qbdojfzzpl",
+                "userAgent" : "",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Los Caraduras II",
+                "info":"[Español][1980]",
+                "image": "https://i.postimg.cc/ncfrTbSR/caraduras2.png",
+                "url":"https://filemoon.sx/d/kb1ssjb8mtw4",
+                "userAgent" : "",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Los Caraduras III",
+                "info":"[Español][1983]",
+                "image": "https://i.postimg.cc/WzLN9g8F/caraduras3.png",
+                "url":"https://filemoon.sx/d/vaucxe09dxve",
+                "userAgent" : "",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "Rambo",
         "image": "https://i.postimg.cc/rpvppv2W/rambo.png",
         "imageScale": "",
