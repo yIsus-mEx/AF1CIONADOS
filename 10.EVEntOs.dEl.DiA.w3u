@@ -7,52 +7,31 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-        {
-        "name": "WRC Cerdeña 2024",
+         {
+        "name": "Canal La 1",
         "info":"[Español]",
         "online":"true",
-        "image": "https://i.postimg.cc/YSDwCYbG/cerde-a-2024.jpg",
-        "url": "https://vkvsd35.mycdn.me:443/hls/6479760591386.m3u8/sig/bkm9TF4ffYw/srcIp/177.228.109.117/urls/185.226.53.55/expires/1717744908517/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_fullhd/index.m3u8",
+        "image": "https://i.postimg.cc/L6bDpW6G/euro2024.png",
+        "url": "https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "TOROS DESDE LAS VENTAS",
+        "name": "Canal La 2",
         "info":"[Español]",
         "online":"true",
-        "embed": "true",
-        "image": "https://www.las-ventas.com/assets/uploads/2024/05/31/41398b555cf57b80a9b0f104fa4623578bea3d43ddde7cb9d7b9c4ff30802a1c.jpg",
-        "url": "https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8",
+        "image": "https://i.postimg.cc/L6bDpW6G/euro2024.png",
+        "url": "https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "TOROS DESDE LAS VENTAS",
+        "name": "TeleDeporte",
         "info":"[Español]",
         "online":"true",
         "embed": "true",
-        "image": "https://www.las-ventas.com/assets/uploads/2024/05/31/41398b555cf57b80a9b0f104fa4623578bea3d43ddde7cb9d7b9c4ff30802a1c.jpg",
-        "url": "https://paco@www.oha.to/play/3473337162/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "TOROS DESDE LAS VENTAS",
-        "info":"[Español]",
-        "online":"true",
-        "embed": "true",
-        "image": "https://www.las-ventas.com/assets/uploads/2024/05/31/41398b555cf57b80a9b0f104fa4623578bea3d43ddde7cb9d7b9c4ff30802a1c.jpg",
-        "url": "https://paco@telemadrid-23-secure2.akamaized.net/master.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "TOROS DESDE LAS VENTAS",
-        "info":"[Español]",
-        "online":"true",
-        "embed": "true",
-        "image": "https://www.las-ventas.com/assets/uploads/2024/05/31/41398b555cf57b80a9b0f104fa4623578bea3d43ddde7cb9d7b9c4ff30802a1c.jpg",
-        "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+        "image": "https://i.postimg.cc/L6bDpW6G/euro2024.png",
+        "url": "https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }
