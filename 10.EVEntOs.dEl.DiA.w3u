@@ -39,13 +39,22 @@
         "info":"[Español]",
         "online":"true",
         "image": "https://i.postimg.cc/hGFgvg0m/lemans2024.png",
-        "url": "https://inst3.ignores.top/js/24-hours-of-le-mans-main-race/2/playlist.m3u8",
+        "url": "https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/768d16962342470596daa635f458dd02/hdntl=exp=1718514664~acl=/primary/2/768d16962342470596daa635f458dd02/*~data=hdntl~hmac=7f4efc3018efaa49be011e4206ed3222395f27476b2995988bbfe1349949f9e1/start/1718456187/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1718514664~acl=/primary/2/768d16962342470596daa635f458dd02/start/1718456187/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=b1ff00a1ded18b2de931aa0b92dc32cf91bf4ccd888dfc1cf11f22b2fed57d44",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
         "name": "24Hrs LEmans",
         "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/hGFgvg0m/lemans2024.png",
+        "url": "https://inst3.ignores.top/js/24-hours-of-le-mans-main-race/2/playlist.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+        {
+        "name": "24Hrs LEmans",
+        "info":"[Ingles]",
         "online":"true",
         "image": "https://i.postimg.cc/hGFgvg0m/lemans2024.png",
         "url": "https://latifistreams.com/motorsport/24hrs-of-le-mans",
