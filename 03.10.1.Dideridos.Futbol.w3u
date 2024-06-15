@@ -7,6 +7,73 @@
 "info": "",
 "groups":
     [
+
+	{
+        "name": "Eurocopa Alemania 2024",
+        "info":"2024",
+        "image": "https://th.bing.com/th/id/OIP.4eddb5TdICvQ0N_TjWvyiwAAAA?rs=1&pid=ImgDetMain",
+        "imageScale": "",
+        "stations":
+        	[
+		{
+                "name": "Alemania VS Escocia",
+	        "info":"[14-06-2024]",
+                "image": "https://phantom-marca.unidadeditorial.es/fca5092199000a9fdecc54c2e74e41dd/resize/655/f/webp/assets/multimedia/imagenes/2024/06/14/17184007019187.jpg",
+                "url":"https://filemoon.sx/d/bzlpy4bgjrkl/Eurocopa_2024_Alemania_VS_Escocia_140624_1080_50FPS.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Hungria VS Suiza",
+	        "info":"[15-06-2024]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "España VS Croacia",
+	        "info":"[15-06-2024]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Italia VS Albania",
+	        "info":"[15-06-2024]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Polonia VS Paises Bajos,
+	        "info":"[16-06-2024]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Eslovenia VS Dinamarca",
+	        "info":"[16-06-2024]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Serbia VS Inglaterra",
+	        "info":"[16-06-2024]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            	]
+	},
+
 	{
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
