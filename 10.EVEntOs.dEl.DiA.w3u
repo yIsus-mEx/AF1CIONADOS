@@ -33,6 +33,24 @@
         "url": "https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
+        },
+        {
+        "name": "24Hrs LEmans",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/hGFgvg0m/lemans2024.png",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
+        {
+        "name": "24Hrs LEmans",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/hGFgvg0m/lemans2024.png",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
         }
     ]
 }
