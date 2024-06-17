@@ -182,37 +182,73 @@
                 "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
                 "url":"https://vtube.network/9mybjf4u1qzo.html",
                 "userAgent" : "",
-				"isHost": "true",
+		"isHost": "true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Bajo la luz de la luna",
                 "info":"Capitulo 02",
                 "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
                 "url":"https://vtube.network/mw8kbs2c4khk.html",
                 "userAgent" : "",
-				"isHost": "true",
+		"isHost": "true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Fuerzas de la naturaleza",
                 "info":"Capitulo 03",
                 "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
                 "url":"https://vtube.network/o1da0zx5dqq9.html",
                 "userAgent" : "",
-				"isHost": "true",
+		"isHost": "true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Viejas amistades",
                 "info":"Capitulo 04",
                 "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
                 "url":"https://vtube.network/7o3z4p6u22g1.html",
                 "userAgent" : "",
-				"isHost": "true",
+		"isHost": "true",
+                "online":"true"
+                },
+		{
+                "name": "Tick Tock",
+                "info":"Capitulo 05",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://vtube.network/tn094gytc490.html",
+                "userAgent" : "",
+		"isHost": "true",
+                "online":"true"
+                },
+		{
+                "name": "Mister Bridgerton",
+                "info":"Capitulo 06",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://vtube.network/2dxmu0xgw4ie.html",
+                "userAgent" : "",
+		"isHost": "true",
+                "online":"true"
+                },
+		{
+                "name": "De la mano",
+                "info":"Capitulo 07",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://vtube.network/qsu94vy3qlhk.html",
+                "userAgent" : "",
+		"isHost": "true",
+                "online":"true"
+                },
+		{
+                "name": "La Luz",
+                "info":"Capitulo 08",
+                "image": "https://i.postimg.cc/HkC73kQ9/EN-US-Bridgerton-S3.webp",
+                "url":"https://vtube.network/r2oibrgefltp.html",
+                "userAgent" : "",
+		"isHost": "true",
                 "online":"true"
                 }
-			]
+	]
         }
 	]
 }
