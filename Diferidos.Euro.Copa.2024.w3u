@@ -36,7 +36,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Escocia Vs Suiza",
@@ -44,7 +44,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Suiza Vs Alemania",
@@ -52,7 +52,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Escocia Vs Hungría",
@@ -60,7 +60,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				}
 			]
 		},
@@ -93,7 +93,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "España Vs Italia",
@@ -101,7 +101,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Albania Vs España",
@@ -109,7 +109,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Croacia Vs Italia",
@@ -117,7 +117,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				}
 			]
 		},
@@ -150,7 +150,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Dinamarca Vs Inglaterra",
@@ -158,7 +158,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Inglaterra Vs Eslovenia",
@@ -166,7 +166,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Dinamarca Vs Serbia",
@@ -174,7 +174,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				}
 			]
 		},
@@ -207,7 +207,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Países Bajos Vs Francia",
@@ -215,7 +215,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Países Bajos Vs Austria",
@@ -223,7 +223,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Francia Vs Polonia",
@@ -231,7 +231,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				}
 			]
 		},
@@ -264,7 +264,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Bélgica Vs Rumanía",
@@ -272,7 +272,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Eslovaquia Vs Rumanía",
@@ -280,7 +280,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Ucrania Vs Bélgica",
@@ -288,7 +288,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				}
 			]
 		},
@@ -305,7 +305,7 @@
  				"image":"https://i.postimg.cc/SxWTcBs7/11.png",
  				"url":"",
  				"isHost":"true",
- 				"online":"true"
+ 				"online":""
 				},
 				{
 				"name": "Portugal Vs República Checa",
@@ -313,7 +313,7 @@
 				"image":"https://i.postimg.cc/GhnS933h/12.png",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Georgia Vs República Checa",
@@ -321,7 +321,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Turquía Vs Portugal",
@@ -329,7 +329,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "Georgia Vs Portugal",
@@ -337,7 +337,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				},
 				{
 				"name": "República Checa Vs Turquía",
@@ -345,7 +345,7 @@
 				"image":"",
 				"url":"",
 				"isHost":"true",
-				"online":"true"
+				"online":""
 				}
 			]
 		}
