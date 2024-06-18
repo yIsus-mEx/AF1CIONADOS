@@ -8,6 +8,39 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Perez vs Taira",
+         "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Perez vs Taira",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+                "url":"https://filemoon.sx/d/my7h6fhytret",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Perez vs Taira",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+                "url":"https://filemoon.sx/d/29fsd3w88cpd",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Perez vs Taira",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+                "url":"https://filemoon.sx/d/saquoptw4suh",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Cannonier vs Imavov",
          "image": "https://i.postimg.cc/fbndZ477/ufc.png",
          "imageScale": "",
