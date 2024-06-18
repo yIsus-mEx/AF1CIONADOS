@@ -4,209 +4,98 @@
 "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
-"info": "",
+"info": "Lista_AF1CIONADOS",
 "groups":
     [
-
-	{
-        "name": "Eurocopa Alemania 2024",
-        "info":"[2024]",
-        "image": "https://th.bing.com/th/id/OIP.4eddb5TdICvQ0N_TjWvyiwAAAA?rs=1&pid=ImgDetMain",
-        "imageScale": "",
-        "stations":
-        	[
 		{
-                "name": "Alemania VS Escocia",
-	        "info":"[14.06.2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/fca5092199000a9fdecc54c2e74e41dd/resize/655/f/webp/assets/multimedia/imagenes/2024/06/14/17184007019187.jpg",
-                "url":"https://filemoon.sx/d/bzlpy4bgjrkl/Eurocopa_2024_Alemania_VS_Escocia_140624_1080_50FPS.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
+		"name": "Eurocopa Alemania 2024",
+		"image": "https://th.bing.com/th/id/OIP.4eddb5TdICvQ0N_TjWvyiwAAAA?rs=1&pid=ImgDetMain",
+		"url": "https://af1c1onados.vercel.app/Diferidos.Euro.Copa.2024.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
 		{
-                "name": "Hungria VS Suiza",
-	        "info":"[15.06.2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/b09eae6719cdc24ab6c85f4afc87d706/resize/561/f/webp/assets/multimedia/imagenes/2024/06/15/17184628712790.jpg",
-                "url":"https://filemoon.sx/d/tylf1yt6hfv7/Eurocopa_2024_Hungria_VS_Suiza_150624_1080_50FPS.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "España VS Croacia",
-	        "info":"[15.06.2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/ae89ba2119e13ffba4128359c94273cc/resize/660/f/webp/assets/multimedia/imagenes/2024/06/15/17184771781191.jpg",
-                "url":"https://filemoon.sx/d/rwwcjdoiiang/Eurocopa_2024_Espa_a_VS_Croacia_150624_1080_50FPS.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Italia VS Albania",
-	        "info":"[15.06.2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/b9a4c6de949e0ab0b26fd9c382f300a9/crop/0x0/2005x1336/resize/660/f/webp/assets/multimedia/imagenes/2024/06/15/17184819413360.jpg",
-                "url":"https://filemoon.sx/d/0wb8etuf4uml/Eurocopa_2024_Italia_VS_Albania_150624_1080_50FPS.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Polonia VS Paises Bajos",
-	        "info":"[16.06.2024]",
-                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/16/17185506571104.jpg",
-                "url":"https://filemoon.sx/d/km3fjv2ypxp4/Eurocopa_2024_Polonia_VS_Paises_Bajos_160624_1080.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Eslovenia VS Dinamarca",
-	        "info":"[16.06.2024]",
-                "image": "https://img.asmedia.epimg.net/resizer/v2/M2XIR5UGNJ6PBCDU6NMO4VEFCU.jpg?auth=aecc50ffc3bb0606dbf3e61a348cd1d9135a3d43df58bc81da2e4ff5ec47a20f&width=644&height=362&focal=1799%2C629",
-                "url":"https://filemoon.sx/d/k6vt4posq1zy/Eurocopa_2024_Eslovenia_VS_Dinamarca_160624_1080.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Serbia VS Inglaterra",
-	        "info":"[16.06.2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/0fc3c3faf4b42fd35704758b645fc54b/resize/660/f/webp/assets/multimedia/imagenes/2024/06/16/17185725075589.jpg",
-                "url":"https://filemoon.sx/d/jmckir454o8q/Eurocopa_2024_Serbia_Vs_Inglaterrra_160624_1080_50FPS.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Rumania VS Ucrania",
-	        "info":"[17.06.2024]",
-                "image": "https://img.asmedia.epimg.net/resizer/v2/BNJRS4POZSI7IOF4MXWHM2Z444.jpg?auth=016097b99b8d1fef3c370017d35cd91663157c7af285d408027aea09c58b0e45&width=644&height=362&smart=true",
-                "url":"https://filemoon.sx/d/2iqyrxrl45xe/Eurocopa_2024_Rumania_VS_Ucrania_170624_1080.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Belgica VS Eslovaquia",
-	        "info":"[17.06.2024]",
-                "image": "https://img.asmedia.epimg.net/resizer/v2/RRBOR2JMWSBSPP3Q4SY5GWKKVY.jpg?auth=d060d59179735693397e1ca90264d5c55396779aa6dffb250a4f5adf25017c4a&width=644&height=362&focal=1393%2C701",
-                "url":"https://filemoon.sx/d/f54iaauqez6v/Eurocopa_2024_Belgica_VS_Eslovaquia_170624_1080.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Austria VS Francia",
-	        "info":"[17.06.2024]",
-                "image": "https://img.asmedia.epimg.net/resizer/v2/HKHVZ6PLRMBRHTYLSQI3ORHVPU.jpg?auth=4eac6c1b1ccbd6c378dc8619c951cab516da935703b5838bc6bafdd5bd4202df&width=644&height=362&focal=2642%2C993",
-                "url":"https://filemoon.sx/d/qjff0p2xq0hj/Eurocopa_2024_Austria_VS_Francia_170624_1080.mkv",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Turquia VS Georgia",
-	        "info":"[18.06.2024]",
-                "image": "",
-                "url":"",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Portugal VS Chequia",
-	        "info":"[18.06.2024]",
-                "image": "",
-                "url":"",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "",
-	        "info":"[19.06.2024]",
-                "image": "",
-                "url":"",
-                "isHost":"true",
-                "online":"true"
-                }
-            	]
-	},
-
-	{
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
         "imageScale": "",
         "info":"",
         "stations":
             [
-
-		{
+				{
                 "name": "Olympiacos VS Fenerbache Final Conference League 2024",
-	        "info":"[29-May-24]",
+	        	"info":"[29-May-24]",
                 "image": "https://phantom-marca.unidadeditorial.es/751c4f58df8eaa783e8f51a01045d218/resize/660/f/webp/assets/multimedia/imagenes/2024/05/29/17169824426520.jpg",
                 "url":"https://filemoon.sx/d/ptkuc8kzfiaj/Final_Europa_Conference_League_Olympiacos_VS_Fenerbahce_290524.mkv",
                 "isHost":"true",
                 "online":"true"
                 },
-		{
+				{
                 "name": "FC Barcelona VS Olympique Lyon Final Champions Femenina 2024",
-	        "info":"[25-May-24]",
+	        	"info":"[25-May-24]",
                 "image": "https://phantom-marca.unidadeditorial.es/daf0f9ecb7ce9e0a6c048c09d387ea7c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165635503656.jpg",
                 "url":"https://filemoon.sx/d/7ot7xz5w629z/Final_FC_Barcelona_-_Olympique_Lyonnais_UEFA_Women_s_Champions_League_250524.mkv",
                 "isHost":"true",
                 "online":"true"
                 },
-		{
+				{
                 "name": "Manchester City VS Manchester United Final FA Cup 2024",
-	        "info":"[25-May-24]",
+	        	"info":"[25-May-24]",
                 "image": "https://phantom-marca.unidadeditorial.es/5a60ec713cd1e0b4d7074c1217f65921/resize/660/f/webp/assets/multimedia/imagenes/2024/05/25/17166564388600.jpg",
                 "url":"https://filemoon.sx/d/w46cmih4b8ez",
                 "isHost":"true",
                 "online":"true"
                 },
-		{
+				{
                 "name": "Amistoso España Vs Brasil 2024",
-	        "info":"[26-Mar-24]",
+	       		 "info":"[26-Mar-24]",
                 "image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
                 "url":"https://filemoon.sx/d/ddv0uj5omy9a",
                 "isHost":"true",
                 "online":"true"
                 },
-		{
-		"name": "Liverpool VS Manchester City",
-		"info":"[10-Mar-24]",
-		"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
-		"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
-		"online":"true",
-		"isHost": "true"
+				{
+				"name": "Liverpool VS Manchester City",
+				"info":"[10-Mar-24]",
+				"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
+				"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
+				"online":"true",
+				"isHost": "true"
+				},
+				{
+           		"name": "Al Hilal vs Inter Miami",
+	       		"info":"[29-Ene-24]",
+           		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
+           		"url":"https://filemoon.sx/d/86bxvlfbw49d",
+           		"isHost":"true",
+           		"online":"true"
+           		},
+				{
+				"name": "Al Nassr Vs Inter Miami",
+				"info":"[01-Feb-24]",
+				"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
+				"url":"https://filemoon.sx/d/8s394se6nvua",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
 		},
 		{
-           	"name": "Al Hilal vs Inter Miami",
-	       	"info":"[29-Ene-24]",
-           	"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
-           	"url":"https://filemoon.sx/d/86bxvlfbw49d",
-           	"isHost":"true",
-           	"online":"true"
-           	},
-		{
-           	"name": "Al Nassr Vs Inter Miami",
-	       	"info":"[01-Feb-24]",
-           	"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
-           	"url":"https://filemoon.sx/d/8s394se6nvua",
-           	"isHost":"true",
-           	"online":"true"
-           	}
-		]
-        },
-
-	{
         "name": "Mundial Qatar 2022",
         "info":"",
         "image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
         "imageScale": "",
         "stations":
         	[
-		{
+				{
                 "name": "Argentina Vs Francia",
-	        "info":"[18-Dic-22]",
+	        	"info":"[18-Dic-22]",
                 "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
                 "url":"https://filemoon.sx/d/argc2dyg6olk",
                 "isHost":"true",
                 "online":"true"
                 }
-            	]
-	},
-
+            ]
+		},
 		{
     	"name": "sUPERcOPA dE EsPAÑa 2022/23",
         "info":"",
@@ -214,7 +103,7 @@
         "imageScale": "",
         "stations":
         	[
-		{
+				{
                 "name": "Real Madrid vs Atletico",
                 "info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
@@ -240,17 +129,16 @@
                 }
             ]
         },
-
-	{
+		{
         "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
         "stations":
         	[
-		{
+				{
                 "name": "Atletico vs Levante",
-	       	"info":"[SemiFinal 1]",
+	       		"info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
                 "url":"https://filemoon.sx/d/gc79kp960rep",
                 "isHost":"true",
@@ -259,7 +147,7 @@
             	{
                 "name": "Barcelona vs Real Madrid",
                 "info":"[SemiFinal 2]",
-	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+	        	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
                 "url":"https://filemoon.sx/d/7630xdpr0ut4",
                 "isHost":"true",
                 "online":"true"
@@ -267,15 +155,14 @@
             	{
                 "name": "Barcelona vs Levante",
                 "info":"[Final]",
-	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+	        	"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
                 "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
                 "isHost":"true",
                 "online":"true"
                 }
-            	]
-	},
-
-	{
+            ]
+		},
+		{
         "name": "Liga EA SPORT 2023/24",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
