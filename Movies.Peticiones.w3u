@@ -7,12 +7,20 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
         {
         "name": "Cara a Cara",
         "image": "https://m.media-amazon.com/images/I/61Dv807JBvL._AC_UF894,1000_QL80_.jpg",
         "url": "https://ok.ru/video/4031053695667",
         "info": "[Español][1997]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "T-34",
+        "image": "https://pics.filmaffinity.com/t_34-559651330-large.jpg",
+        "url": "https://upstream.to/8krshahf2brd",
+        "info": "[Español][2018]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -216,33 +224,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Celda, La",
-        "image": "https://pics.filmaffinity.com/the_cell-190951656-large.jpg",
-        "url": "https://listeamed.net/v/27BaOn1kLR2EMDX",
-        "info": "[Español] [2000]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Mary Poppins",
-        "image": "https://pics.filmaffinity.com/mary_poppins-798780385-large.jpg",
-        "url": "https://filemoon.sx/d/9bam9t7a6s9a/Mary_Poppins__1964_Pelicula_.mp4",
-        "info": "[Español] [1964]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "One Day",
-        "image": "https://pics.filmaffinity.com/One_Day_Siempre_el_mismo_daia-871097561-large.jpg",
-        "url": "https://filemoon.sx/d/ywp1kh97x5g6",
-        "info": "[Español].[2011]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "One Day",
         "image": "https://pics.filmaffinity.com/One_Day_Siempre_el_mismo_daia-871097561-large.jpg",
         "url": "https://filemoon.sx/d/xshg7et6cmpa",
@@ -270,72 +251,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Sin City Ciudad del pecado",
-        "image": "https://pics.filmaffinity.com/sin_city_frank_miller_s_sin_city-677469240-large.jpg",
-        "url": "https://filemoon.sx/d/r5psxpw4vyzi",
-        "info": "[2005]",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "import": false
-        },
-        {
-        "name": "Sin City Una dama por la que matar",
-        "image": "https://pics.filmaffinity.com/sin_city_a_dame_to_kill_for_sin_city_2-788175705-large.jpg",
-        "url": "https://filemoon.sx/d/eh6jnrp8pzzi",
-        "info": "[2014]",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "import": false
-        },
-        {
-        "name": "Tras la pared",
-        "image": "https://pics.filmaffinity.com/un_peu_beaucoup_aveuglement-962116609-large.jpg",
-        "url": "https://filemoon.sx/d/ijtli8h7nzj6",
-        "info": "[2015]",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "import": false
-        },
-        {
-        "name": "Pared con pared",
-        "image": "https://pics.filmaffinity.com/pared_con_pared-477471720-large.jpg",
-        "url": "https://upstream.to/u1uny6fevq5w",
-        "info": "[2024]",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "import": false
-        },
-        {
-        "name": "Paseo por las nubes, Un",
-        "image": "https://pics.filmaffinity.com/a_walk_in_the_clouds-243656334-large.jpg",
-        "url": "https://upstream.to/wd7o0hw4zbn5",
-        "info": "[1995]",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "import": false
-        },
-        {
-        "name": "Un amor",
-        "image": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
-        "url": "https://listeamed.net/v/7QWN5ey632m59oR",
-        "info": "[2023]",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "import": false
-        },
-        {
         "name": "Zindagi Milegi Dobara",
         "image": "https://pics.filmaffinity.com/zindagi_na_milegi_dobara-308043676-large.jpg",
         "url": "https://filemoon.sx/d/8q183vktayga",
@@ -356,24 +271,6 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "import": false
-        },
-        {
-        "name": "Destino Tokio",
-        "info":"[Español][1943]",
-        "image": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2018/01/28/15/110792591.jpg",
-        "url": "https://filemoon.sx/d/6cyddrvrn408",
-        "userAgent" : "",
-        "online":"true",
-        "isHost": "true"
-        },
-        {
-        "name": "Talladega Nights: The Ballad of Ricky Bobby",
-        "info":"[Español][2006]",
-        "image": "https://m.media-amazon.com/images/M/MV5BNzAzOTk1OTIyM15BMl5BanBnXkFtZTcwNDIzNTQzMQ@@._V1_.jpg",
-        "url": "https://filemoon.sx/d/m5dddv64jmtd",
-        "userAgent" : "",
-        "online":"true",
-        "isHost": "true"
         },
         {
         "name": "Vive Dentro",
