@@ -8,6 +8,105 @@
 "groups":
     [
         {
+        "name": "F1 2024 España [21-23.Jun24]",
+        "info":"",
+        "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/9k26tf3jjj6x",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv][MultiAudi]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/lu8ayjco12ma",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Canada [07-09.Jun24]",
         "info":"",
         "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
