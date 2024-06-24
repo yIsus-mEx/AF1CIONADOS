@@ -15,8 +15,48 @@
  		"stations":
 			[
  				{
- 				"name": "",
- 				"info":"[-Junio-24]",
+ 				"name": "Argentina VS Canada",
+ 				"info":"[21-Junio-24]",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/8059c8abe96dd87230db7e7ff81ff727/resize/660/f/webp/assets/multimedia/imagenes/2024/06/21/17189241619396.jpg",
+ 				"url":"https://filemoon.sx/d/31ft52f4a1r4/Copa_America_Argentina_VS_Canada_200624.mkv",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Peru VS Chile",
+ 				"info":"[22-Junio-24]",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/4e8eb473a11d403ecf0113625e5291b6/resize/660/f/webp/assets/multimedia/imagenes/2024/06/22/17190127094984.jpg",
+ 				"url":"https://filemoon.sx/d/sk6nujizf1ww/Copa_America_Peru_VS_Chile_210424_1080.mkv",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Peru VS Canada",
+ 				"info":"[26-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Chile VS Argentina",
+ 				"info":"[26-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Canada VS Chile",
+ 				"info":"[30-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Argentina VS Peru",
+ 				"info":"[30-Junio-24]",
  				"image":"",
  				"url":"",
  				"isHost":"true",
@@ -33,8 +73,48 @@
  		"stations":
 			[
   				{
- 				"name": "",
- 				"info":"[-Junio-24]",
+ 				"name": "Ecuador VS Venezuela",
+ 				"info":"[23-Junio-24]",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/e327f4ad85313b3c7ad9c82811c6241c/resize/660/f/webp/assets/multimedia/imagenes/2024/06/22/17190894989180.jpg",
+ 				"url":"https://filemoon.sx/d/26fk6vnzg0zq/Copa_America_Ecuador_VS_Venezuela_220624_1080.mkv",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Mexico VS Jamaica",
+ 				"info":"[23-Junio-24]",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/0d287982d4cb2f7c980571be672e98a0/resize/660/f/webp/assets/multimedia/imagenes/2024/06/23/17191002539712.jpg",
+ 				"url":"https://filemoon.sx/d/8v9do1st9ohd/Copa_America_Mexico_VS_Jamaica_220624_1080.mkv",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Ecuador VS Jamaica",
+ 				"info":"[27-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Venezuela VS Mexico",
+ 				"info":"[27-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Mexico VS Ecuador",
+ 				"info":"[01-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Jamaica VS Venezuela",
+ 				"info":"[01-Julio-24]",
  				"image":"",
  				"url":"",
  				"isHost":"true",
@@ -50,9 +130,49 @@
  		"info":"",
  		"stations":
 			[
- 				{
- 				"name": "",
- 				"info":"[-Junio-24]",
+  				{
+ 				"name": "Estados Unidos VS Bolivia",
+ 				"info":"[24-Junio-24]",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/461ae756070a3ea6b7f554fe9846a64f/resize/660/f/webp/assets/multimedia/imagenes/2024/06/23/17191774250474.jpg",
+ 				"url":"https://filemoon.sx/d/258g55bhz0kt/Copa_America_Estados_Unidos_VS_Bolivia_230624.mkv",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Uruguay VS Panama",
+ 				"info":"[24-Junio-24]",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/81a8ffb897a2b03bd24da48dc89dee07/resize/660/f/webp/assets/multimedia/imagenes/2024/06/24/17191831175988.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Panama VS Estados Unidos",
+ 				"info":"[28-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Uruguay VS Bolivia",
+ 				"info":"[28-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Estados Unidos VS Uruguay",
+ 				"info":"[02-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Bolivia VS Panama",
+ 				"info":"[02-Julio-24]",
  				"image":"",
  				"url":"",
  				"isHost":"true",
@@ -69,8 +189,48 @@
  		"stations":
 			[
   				{
- 				"name": "",
- 				"info":"[-Junio-24]",
+ 				"name": "Colombia VS Paraguay",
+ 				"info":"[25-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Brasil VS Costa Rica",
+ 				"info":"[25-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Colombia VS Costa Rica",
+ 				"info":"[29-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Paraguay VS Brasil",
+ 				"info":"[29-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Costa Rica VS Paraguay",
+ 				"info":"[03-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Brasi VS Colombia",
+ 				"info":"[03-Julio-24]",
  				"image":"",
  				"url":"",
  				"isHost":"true",
