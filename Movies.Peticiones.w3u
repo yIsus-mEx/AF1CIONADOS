@@ -7,7 +7,25 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        
+        {
+        "name": "En Tierra de Santos y Pecadores",
+        "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
+        "url": "https://filemoon.sx/d/w36jpd5by9f0",
+        "info": "[Vose.Sub][2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "En Tierra de Santos y Pecadores",
+        "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
+        "url": "https://filemoon.sx/d/q1sfsivlf1tf",
+        "info": "[Latino][2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "Vida de Brian, La",
         "image": "https://pics.filmaffinity.com/monty_python_s_life_of_brian-402192024-large.jpg",
