@@ -8,6 +8,39 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Whittaker vs Aliskerov",
+         "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Whittaker vs Aliskerov",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+                "url":"",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "UFC Fight Night: Whittaker vs Aliskerov",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+                "url":"https://filemoon.sx/d/gqh5364swqxd",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Whittaker vs Aliskerov",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+                "url":"https://filemoon.sx/d/2oqth5218k3b",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Perez vs Taira",
          "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
          "imageScale": "",

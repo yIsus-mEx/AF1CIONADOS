@@ -8,6 +8,40 @@
 "groups":
     [
         {
+        "name": "R09 IndyCar Laguna Seca",
+        "image": "https://i.postimg.cc/nLzyK40Q/laguna-seca.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/nLzyK40Q/laguna-seca.png",
+                "url" :"https://filemoon.sx/d/c9tewc2csbnw",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/nLzyK40Q/laguna-seca.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/nLzyK40Q/laguna-seca.png",
+                "url" :"https://filemoon.sx/e/th5kvkyvfejw",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R08 IndyCar Road America",
         "image": "https://i.postimg.cc/CxwFTSzp/roadamerica.png",
         "stations":
