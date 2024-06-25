@@ -8,6 +8,87 @@
 "groups":
     [
 		{
+        "name": "R19 NASCAR Usa Today 301",
+        "info":"",
+        "image": "https://i.postimg.cc/0ykk3H86/NASCAR-USA-TODAY-301.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Usa Today 301",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/0ykk3H86/NASCAR-USA-TODAY-301.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Usa Today 301",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/0ykk3H86/NASCAR-USA-TODAY-301.png",
+                "url":"https://filemoon.sx/e/ajytvtcqrtby",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R18 NASCAR Iowa Corn 350",
+        "info":"",
+        "image": "https://i.postimg.cc/jSHxkY0Y/Iowa-Corn-350.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Iowa Corn 350",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/jSHxkY0Y/Iowa-Corn-350.png",
+                "url":"https://filemoon.sx/d/afefnwq39ghy",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "NASCAR Iowa Corn 350",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/jSHxkY0Y/Iowa-Corn-350.png",
+                "url":"https://filemoon.sx/e/qidilpw8wx6f",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R17 NASCAR Toyota Save Mart 350",
+        "info":"",
+        "image": "https://i.postimg.cc/Rhhhjs1Q/NASCAR-Toyota-Mart-350.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Toyota Save Mart 350",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Rhhhjs1Q/NASCAR-Toyota-Mart-350.png",
+                "url":"https://filemoon.sx/d/3f0v94oo8yha",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "NASCAR Toyota Save Mart 350",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/Rhhhjs1Q/NASCAR-Toyota-Mart-350.png",
+                "url":"https://filemoon.sx/e/ym52sqz20jwb",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R16 NASCAR Enjoy Illinois 300",
         "info":"",
         "image": "https://i.postimg.cc/Dz46TNDj/illinois2024.png",
