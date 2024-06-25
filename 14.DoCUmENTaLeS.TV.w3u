@@ -334,6 +334,25 @@
         }
       ]
     },
+
+    {
+      "name": "NOAM CHOMSKY Requiem por el sueño americano",
+      "image": "https://pics.filmaffinity.com/requiem_for_the_american_dream-619472469-large.jpg",
+      "stations": [
+        {
+          "name": "NOAM CHOMSKY Requiem por el sueño americano",
+          "image": "https://pics.filmaffinity.com/requiem_for_the_american_dream-619472469-large.jpg",
+          "url": "https://filemoon.sx/d/ffarf50iwwnw/Requiem_for_the_american_dream._Noam_Chomsky._Espa_ol.mp4",
+          "info": "[2015]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
     {
       "name": "Oppenheimer Destructor de Mundos",
       "image": "https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg",
@@ -428,6 +447,7 @@
       "info": "bY AdriDeCai",
       "import": false
     },
+
     {
       "name": "Social Dilema",
       "image": "https://pics.filmaffinity.com/the_social_dilemma-384147385-large.jpg",
