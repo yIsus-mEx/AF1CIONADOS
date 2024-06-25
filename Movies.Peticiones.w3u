@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Vida de Brian, La",
+        "image": "https://pics.filmaffinity.com/monty_python_s_life_of_brian-402192024-large.jpg",
+        "url": "https://upstream.to/007a1nipih0t",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "Cara a Cara",
         "image": "https://m.media-amazon.com/images/I/61Dv807JBvL._AC_UF894,1000_QL80_.jpg",
