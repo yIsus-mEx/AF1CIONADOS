@@ -1,0 +1,179 @@
+
+"name": "Tennis Wimbledon",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.US.2024.w3u",
+"image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Open US 2024",
+        "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+        "imageScale": "",
+        "info":"",
+        "groups":
+            [
+                {
+                "name": "Primera Ronda",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+		]
+                },
+
+                {
+                "name": "Segunda Ronda",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+		        ]
+                },
+
+                {
+                "name": "Tercera Ronda",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+		        ]
+                },
+
+                {
+                "name": "Octavos",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+			]
+		},
+
+                {
+                "name": "Cuartos",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+			]
+		},
+
+                {
+                "name": "Semifinales Masculinas",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+			]
+		},
+
+                {
+                "name": "Semifinales Femeninas",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+			]
+		},
+
+                {
+                "name": "Finales",
+                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
+                "imageScale": "",
+                "info":"",
+                "stations":
+                    [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"h",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+		          }
+            ]
+        }
+    ]
+}
