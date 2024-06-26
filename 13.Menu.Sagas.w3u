@@ -7,6 +7,14 @@
 "info": "bY yIsus_mEX",
 "groups": 
 	[
+
+		{
+		"name": "Caraduras, Los",
+		"image": "https://i.postimg.cc/9XRwJBmM/caraduras.png",
+		"url": "https://af1c1onados.vercel.app/Saga.Los.Caraduras.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
 		{
 		"name": "Corredor del laberinto",
 		"image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
@@ -92,10 +100,10 @@
 		"import": false
 		},
 		{
-		"name": "Los Caraduras",
-		"image": "https://i.postimg.cc/9XRwJBmM/caraduras.png",
-		"url": "https://af1c1onados.vercel.app/Saga.Los.Caraduras.w3u",
-		"info": "bY. yIsus",
+		"name": "Mad Max",
+		"url": "https://af1c1onados.vercel.app/saga.MAD.MAX.w3u",
+		"image": "https://pics.filmaffinity.com/mad_max-632940430-large.jpg",
+		"telegram": "@yIsus_mEx",
 		"import": false
 		},
 		{
