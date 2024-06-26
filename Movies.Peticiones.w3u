@@ -7,7 +7,24 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Extinction",
+        "image": "https://pics.filmaffinity.com/Extinction-163886271-large.jpg",
+        "url": "https://filemoon.sx/d/xa80sjulsbu4",
+        "info": "[Español][2015]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Un Lugar Maravilloso",
+        "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/83/91/20165847.jpg",
+        "url": "https://filemoon.sx/d/37i5lfe5yw93",
+        "info": "[Español-Vose.Sub][2004]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "Estrella Azul, La",
         "image": "https://pics.filmaffinity.com/la_estrella_azul-666029724-large.jpg",
