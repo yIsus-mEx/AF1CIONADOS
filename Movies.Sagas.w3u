@@ -8,7 +8,7 @@
 "groups":
     [
         {
-        "name": "Los Caraduras",
+        "name": "Caraduras, Los",
         "image": "https://i.postimg.cc/9XRwJBmM/caraduras.png",
         "imageScale": "",
         "info":"",
@@ -456,6 +456,14 @@
                 "online":"true"
                 },
                 {
+                "name": "Matrix",
+                "info":"[Español][1999]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/3/w1280/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg",
+                "url":"https://filemoon.sx/d/cq9d6w6c65jq/Matrix__1999_Pelicula_.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
                 "name": "Matrix Reloaded",
                 "info":"[Latino][2003]",
                 "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/5/w1280/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
@@ -464,10 +472,34 @@
                 "online":"true"
                 },
                 {
+                "name": "Matrix Reloaded",
+                "info":"[Español][2003]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/5/w1280/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
+                "url":"https://filemoon.sx/d/khhdcrd1e9pz/Matrix_Reloaded__2003_Pelicula_.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
                 "name": "Matrix Revolutions",
                 "info":"[Latino][2003]",
                 "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/11/w1280/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
                 "url":"http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20revolutions.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Matrix Revolutions",
+                "info":"[Español][2003]",
+                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/11/w1280/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+                "url":"https://filemoon.sx/d/g5kqe2egv2dm/Matrix_Revolution__2003_Pelicula_.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Matrix Resurrection",
+                "info":"[Español][2021]",
+                "image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
+                "url":"https://filemoon.sx/d/wt6vzjt9q459/Matrix_Resurrections__2021_Pelicula_.mp4",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "online":"true"
                 }
