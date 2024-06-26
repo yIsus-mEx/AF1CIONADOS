@@ -7,7 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-        
+
+        {
+        "name": "Furiosa",
+        "image": "https://pics.filmaffinity.com/furiosa_a_mad_max_saga-599306128-large.jpg",
+        "url": "http://bot.iamakintech.com/260459/Furiosa+de+la+saga+Mad+Max+%282024%29.mkv?hash=AgAD5B",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "En Tierra de Santos y Pecadores",
         "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
