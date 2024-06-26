@@ -1,5 +1,5 @@
 {
-"name": "Euro 2024",
+"name": "EuroCopa 2024",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://af1c1onados.vercel.app/Diferidos.Euro.Copa.2024.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
@@ -348,6 +348,82 @@
 				"online":""
 				}
 			]
+		},
+
+ 		{
+		"name": "OCTAVOS",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Suiza VS Italia",
+ 				"info":"[29-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Alemania VS Dinamarca",
+ 				"info":"[29-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Inglaterra VS Eslovaquia",
+ 				"info":"[30-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "España VS Georgia",
+ 				"info":"[30-Junio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Francia VS Belgica",
+ 				"info":"[01-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Portugal VS Eslovenia",
+ 				"info":"[01-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Rumania VS Paises Bajos",
+ 				"info":"[02-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Austria VS Turquia",
+ 				"info":"[02-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
 		}
+
+
 	]
 }
