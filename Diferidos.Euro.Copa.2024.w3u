@@ -60,7 +60,7 @@
 				"image":"https://i.postimg.cc/CMfQh2f2/02.png",
 				"url":"https://filemoon.sx/d/jg762j8fl734/Eurocopa_2024_Escocia_VS_Hungria_230624.mkv",
 				"isHost":"true",
-				"online":""
+				"online":"true"
 				}
 			]
 		},
@@ -109,7 +109,7 @@
 				"image":"https://i.postimg.cc/KYz0dp2J/04.png",
 				"url":"https://filemoon.sx/d/meha7yt5hf0u/Eurocopa_2024_Albania_VS_Espa_a_240624_UHD.mkv",
 				"isHost":"true",
-				"online":""
+				"online":"true"
 				},
 				{
 				"name": "Croacia Vs Italia",
@@ -117,7 +117,7 @@
 				"image":"https://i.postimg.cc/LsbxRk4R/03.png",
 				"url":"https://filemoon.sx/d/4fxuw0w6w7h5/Eurocopa_2024_Croacia_VS_Italia_240624.mkv",
 				"isHost":"true",
-				"online":""
+				"online":"true"
 				}
 			]
 		},
@@ -163,7 +163,7 @@
 				{
 				"name": "Inglaterra Vs Eslovenia",
 				"info":"[25-Junio-2024]",  
-				"image":"https://img.asmedia.epimg.net/resizer/v2/XGMVUMJ4IK3ZAB5CXZHPTMMHPE.jpg?auth=d133c480824ca53abfc815dc1d7da36943f8e54dd50adaa2b8df6b38ee7b09f7&width=644&height=362&focal=1867%2C532",
+				"image":"https://i.postimg.cc/wT3BH44N/1.png",
 				"url":"https://filemoon.sx/d/ofll755zzbyx/Eurocopa_2024_Inglaterra_VS_Eslovenia_250624.mkv",
 				"isHost":"true",
 				"online":""
@@ -171,7 +171,7 @@
 				{
 				"name": "Dinamarca Vs Serbia",
 				"info":"[25-Junio-2024]",  
-				"image":"https://img.asmedia.epimg.net/resizer/v2/RAUQBPK2PFCILGR3YSUCZMMRFY.jpg?auth=61e805627a69fbc489d94ccb3efa3cb5c7b074e2c2435210283002e6fd785eb7&width=644&height=362&focal=3030%2C1773",
+				"image":"https://i.postimg.cc/q7gf6Wnc/2.png",
 				"url":"https://filemoon.sx/d/08v1uz63nnad/Eurocopa_2024_Dinamarca_VS_Serbia_250624.mkv",
 				"isHost":"true",
 				"online":""
@@ -220,7 +220,7 @@
 				{
 				"name": "Países Bajos Vs Austria",
 				"info":"[25-Junio-2024]",  
-				"image":"https://img.asmedia.epimg.net/resizer/v2/XIMA3GJGX7A5YTHDZUMESTA7ZM.jpg?auth=45f4bdeaae3e5db517461a376acbff5601e7da4b267c0e06ac611bde0ddafa3b&width=644&height=362&focal=2431%2C584",
+				"image":"https://i.postimg.cc/rFqPtv2d/3.png",
 				"url":"https://filemoon.sx/d/x5c73kkn155c/Eurocopa_2024_Paises_Bajos_VS_Austris_250624.mkv",
 				"isHost":"true",
 				"online":""
@@ -228,7 +228,7 @@
 				{
 				"name": "Francia Vs Polonia",
 				"info":"[25-Junio-2024]",  
-				"image":"",
+				"image":"https://i.postimg.cc/GpS4k0fb/4.png",
 				"url":"",
 				"isHost":"true",
 				"online":""
@@ -277,7 +277,7 @@
 				{
 				"name": "Eslovaquia Vs Rumanía",
 				"info":"[26-Junio-2024]",  
-				"image":"",
+				"image":"https://i.postimg.cc/SNNppXst/5.png",
 				"url":"",
 				"isHost":"true",
 				"online":""
@@ -285,7 +285,7 @@
 				{
 				"name": "Ucrania Vs Bélgica",
 				"info":"[26-Junio-2024]",  
-				"image":"",
+				"image":"https://i.postimg.cc/63wmLS41/6.png",
 				"url":"",
 				"isHost":"true",
 				"online":""
@@ -334,7 +334,7 @@
 				{
 				"name": "Georgia Vs Portugal",
 				"info":"[26-Junio-2024]",  
-				"image":"",
+				"image":"https://i.postimg.cc/TPc9GPhC/7.png",
 				"url":"",
 				"isHost":"true",
 				"online":""
@@ -342,7 +342,7 @@
 				{
 				"name": "República Checa Vs Turquía",
 				"info":"[26-Junio-2024]",  
-				"image":"",
+				"image":"https://i.postimg.cc/65RbgtV1/8.png",
 				"url":"",
 				"isHost":"true",
 				"online":""
@@ -352,7 +352,7 @@
 
  		{
 		"name": "OCTAVOS",
- 		"image": "",
+ 		"image": "https://i.postimg.cc/L5mkWFmG/octavos.png",
  		"imageScale": "",
  		"info":"",
  		"stations":
