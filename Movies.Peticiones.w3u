@@ -7,6 +7,43 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Por tus muertos",
+        "image": "https://pics.filmaffinity.com/por_tus_muertos-727983337-large.jpg",
+        "url": "",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Menudas Piezas",
+        "image": "https://pics.filmaffinity.com/menudas_piezas-781090336-large.jpg",
+        "url": "",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Campo de Batalla: La Tierra",
+        "image": "https://pics.filmaffinity.com/battlefield_earth-447193993-large.jpg",
+        "url": "",
+        "info": "[Español][2000]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Cuatro Plumas, Las",
+        "image": "https://pics.filmaffinity.com/the_four_feathers-351848918-large.jpg",
+        "url": "",
+        "info": "[Español][2002]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "Extinction",
         "image": "https://pics.filmaffinity.com/Extinction-163886271-large.jpg",
