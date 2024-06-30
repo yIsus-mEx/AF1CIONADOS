@@ -1762,11 +1762,18 @@
 		"import": false
 		},
 		{
-         	"name": "Yu Yu Hakusho",
-         	"image": "https://pics.filmaffinity.com/Yu_Yu_Hakusho_Serie_de_TV-786199017-large.jpg",
-         	"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Series.Yu.Yu.Hakusho.w3u",
-         	"info":"bY. yIsus",
-         	"import": false
-        	}
+        "name": "Your Honor",
+        "image": "https://i.postimg.cc/jdwM1gKF/0.png",
+        "url": "https://af1c1onados.vercel.app/Series.Your.Honor.w3u",
+        "info":"bY. yIsus",
+        "import": false
+        },
+		{
+        "name": "Yu Yu Hakusho",
+        "image": "https://pics.filmaffinity.com/Yu_Yu_Hakusho_Serie_de_TV-786199017-large.jpg",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Series.Yu.Yu.Hakusho.w3u",
+        "info":"bY. yIsus",
+        "import": false
+        }
 	]
 }
