@@ -113,6 +113,21 @@
       ]
     },
     {
+      "name": "Chava: El ciclista del pueblo",
+      "image": "https://pics.filmaffinity.com/Chava_El_ciclista_del_pueblo-676133012-large.jpg",
+      "stations": [
+        {
+          "name": "Chava: El ciclista del pueblo",
+          "info": "[2024]",
+          "image": "https://pics.filmaffinity.com/Chava_El_ciclista_del_pueblo-676133012-large.jpg",
+          "url": "https://filemoon.sx/d/3ojgmnhpisiv",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "Colgar las alas (Iker Casillas)",
       "image": "https://pics.filmaffinity.com/colgar_las_alas-307527699-large.jpg",
       "url": "https://af1cionados.vercel.app/DocuSerie COLGAR LAS ALAS.w3u",
@@ -135,19 +150,11 @@
       ]
     },
     {
-      "name": "Chava: El ciclista del pueblo",
-      "image": "https://pics.filmaffinity.com/Chava_El_ciclista_del_pueblo-676133012-large.jpg",
-      "stations": [
-        {
-          "name": "Chava: El ciclista del pueblo",
-          "info": "[2024]",
-          "image": "https://pics.filmaffinity.com/Chava_El_ciclista_del_pueblo-676133012-large.jpg",
-          "url": "https://filemoon.sx/d/3ojgmnhpisiv",
-          "embed": "",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
+      "name": "(Contra) Indicado",
+      "image": "https://pics.filmaffinity.com/un_well-921082835-large.jpg",
+      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/main/DoCuSerie%20CONTRAINDICADO.w3u",
+      "info": "bY AdriDeCai",
+      "import": false
     },
     {
       "name": "Crims, de Carles Porta",
@@ -247,6 +254,13 @@
       "image": "https://pics.filmaffinity.com/una_historia_de_crimenes-210550889-large.jpg",
       "url": "https://af1cionados.vercel.app/DocuSerie HISTORIA DE CRIMENES.w3u",
       "info": "bY. Adri",
+      "import": false
+    },
+    {
+      "name": "Julian Assange",
+      "image": "https://pics.filmaffinity.com/underground_the_julian_assange_story-276533063-mmed.jpg",
+      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/main/DoCuSerie%20JULIAN%20ASSANGE.w3u",
+      "info": "bY AdriDeCai",
       "import": false
     },
     {
