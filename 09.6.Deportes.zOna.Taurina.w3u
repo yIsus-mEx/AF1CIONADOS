@@ -47,7 +47,7 @@
         "name": "Taur0 Canal",
         "info":"[Opcion.05]",
         "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
-        "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+        "url": "https://media1.ultrik.com/live/torole1.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
@@ -56,10 +56,10 @@
         "name": "TeleMadrid",
         "info":"[Opcion.01]",
         "image": "https://i.postimg.cc/GthtMckK/telemadrid-new.png",
-        "url": "https://tele-libre.com/en-vivo-online/telemadrid/embed.php",
-        "userAgent": "",
+        "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "TeleMadrid",

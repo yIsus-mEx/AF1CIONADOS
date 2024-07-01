@@ -1,0 +1,177 @@
+{
+"name": "Deportes En Vivo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Deportes.En.Vivo.w3u",
+""image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+    [
+      {
+        "name": "Eurosport 1 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-1-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Eurosport 2 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-2-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Dazn F1 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 1 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 2 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 3 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-3-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 4 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-4-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn LaLIga 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-laliga/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },  
+      {
+        "name": "DAZN Combat",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-combat/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },  
+      {
+        "name": "DAZN Fast+",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-fast-plus/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "DAZN Rise",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-rise/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "DAZN Women's Football",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-womens-football/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SPOTV1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/spotv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "SPOTV2",
+        "info": "",
+        "online": "true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/spotv2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "PRUEBA 02",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/25gXK9XF/Fiba-2023-new.png",
+        "url": "https://maindots.co/dtvpl2.html?id=1059&lang=1",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+      },
+      {
+        "name": "Acestream",
+        "info":"",
+        "image": "https://torrentfreak.com/images/ace-stream.jpg",
+        "url": "acestream://3587ac1f2121cf86070e83763ec0e7a5e0f04522"
+      }
+    ]
+}
