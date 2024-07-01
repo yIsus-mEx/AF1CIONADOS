@@ -7,6 +7,105 @@
 "info": "",
 "groups":
     [
+         {
+        "name": "F1 2024 Austria [28-30.Jun24]",
+        "info":"",
+        "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/spb798irnh2p",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/65kkilmw6hbm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion Sprint",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/8lgadkyj8n5t",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion Sprint",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/hc3flr10rws5",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera Sprint",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/fn1o4av7nze6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera Sprint",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/7qgshs5g23qb",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/15wp60zuxg24",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/1csmysgdwv36",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/2tcjxengsxg9",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/0il2ftj6ndl8",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
         {
         "name": "F1 2024 España [21-23.Jun24]",
         "info":"",
