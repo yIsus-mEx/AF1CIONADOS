@@ -392,16 +392,16 @@
  				{
  				"name": "Francia VS Belgica",
  				"info":"[01-Julio-24]",
- 				"image":"",
- 				"url":"",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/225d6a3c9f520f0703a22725a73914fa/resize/660/f/webp/assets/multimedia/imagenes/2024/07/01/17198579092281.jpg",
+ 				"url":"https://filemoon.sx/d/aeicebydvuxh/Futbol_Eurocopa2024_8vosFinal_Francia_vs_Belgica_01-07-2024.mkv",
  				"isHost":"true",
  				"online":"true"
 				},
  				{
  				"name": "Portugal VS Eslovenia",
  				"info":"[01-Julio-24]",
- 				"image":"",
- 				"url":"",
+ 				"image":"https://phantom-marca-us.unidadeditorial.es/f590b1ca13f60e365745375bbcf2d176/resize/660/f/webp/assets/multimedia/imagenes/2024/07/02/17198713843842.jpg",
+ 				"url":"https://filemoon.sx/d/lhph42mtly6w/Eurocopa_2024_Octavos_Portugal_VS_Eslovenia_010724_UHD.mkv",
  				"isHost":"true",
  				"online":"true"
 				},
@@ -422,8 +422,109 @@
  				"online":"true"
 				}
 			]
-		}
+		},
 
+ 		{
+		"name": "CUARTOS",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Alemania VS España",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Alemania VS España",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+ 		{
+		"name": "SEMIFINALES",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+ 		{
+		"name": "FINAL",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		}
 
 	]
 }
