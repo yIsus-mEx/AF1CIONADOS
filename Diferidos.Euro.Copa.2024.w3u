@@ -422,8 +422,93 @@
  				"online":"true"
 				}
 			]
-		}
+		},
 
+ 		{
+		"name": "CUARTOS",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Alemania VS España",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Portugal VS Francia",
+ 				"info":"[05-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Inglaterra VS Suiza",
+ 				"info":"[06-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "",
+ 				"info":"[06-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+ 		{
+		"name": "SEMIFINALES",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "",
+ 				"info":"[09-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "",
+ 				"info":"[09-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+ 		{
+		"name": "FINAL",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "",
+ 				"info":"[14-Julio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		}
 
 	]
 }

@@ -22,9 +22,17 @@
                 "stations":
                     [
                         {
-                        "name": "",
-                        "info":"[]",
-                        "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
+                        "name": "Carlos Alcaraz VS Mark Lajal",
+                        "info":"[01-07-2024]",
+                        "image": "https://img.asmedia.epimg.net/resizer/v2/L7JZBZOYICK5W26ECONS6KJERI.jpg?auth=00db1f94445fa8c506b7da1222ebec160a2c0aa4668896a6cf9230bb2a4ba5e5&width=644&height=362&focal=1306%2C1274",
+                        "url":"https://filemoon.sx/d/y96hephy7z68/Winbledon_Alcaraz_VS_Lajal_010724.mkv",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Vit Kopriva VS Novak Djokovic",
+                        "info":"[02-07-2024]",
+                        "image": "https://img.asmedia.epimg.net/resizer/v2/FMJS43HGV54DJXDWVYVF6UWFYM.jpg?auth=e1b8b040fabfdf3f843ae7e4d11bc4238952c68d9c37b3036e8b5070a3239887&width=644&height=362&focal=1704%2C739",
                         "url":"",
                         "isHost":"true",
                         "online":"true"
