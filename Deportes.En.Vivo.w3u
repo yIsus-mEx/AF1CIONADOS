@@ -168,6 +168,386 @@
         "isHost": ""
       }, 
       {
+        "name": "FS1 🇺🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/fox-sports-1/?embed=1,
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "FS2 🇺🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/fox-sports-2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "LaLiga HyperMotion",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/laliga-hypermotion/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "LaLiga Live HyperMotion",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/laliga-live-hypermotion/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Rally TV",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/rally-tv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Red Bull TV",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/red-bull-tv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports F1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/skysports-f1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports Football",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/sky-sports-football/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports Golf,
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/sky-sports-golf/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports Calcio",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/sky-sport-calcio/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Motorsport",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-motorsport/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Football",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-football/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport La Liga",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-laliga/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Premier",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-premier-league/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Golf",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-golf/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Rugby",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-rugby/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Tennis",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-tennis/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 2",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 3",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-3/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 4",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-4/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 2",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 3",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn3/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 4",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn4/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 5",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn5/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "WWE Network",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/wwe-network/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Fox Sports 3",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://dlhd.so/embed/stream-789.php",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
         "name": "",
         "info":"",
         "online":"true",
