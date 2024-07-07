@@ -8,6 +8,16 @@
 "stations":
     [
 
+	    {
+        "name": "Robin Hood, Principe de los ladrones",
+        "image": "https://pics.filmaffinity.com/robin_hood_prince_of_thieves-748168448-large.jpg",
+       	"url": "https://upstream.to/r7bam82rwdan",
+       	"info":"[Español 2003]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
 	     {
         "name": "A Writer’s Odyssey",
         "image": "https://shoutfactory.com/cdn/shop/products/AWO_BR_PS_72dpi_600x600.png",
