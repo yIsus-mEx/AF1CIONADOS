@@ -30,9 +30,9 @@
         "info":"[Opcion.03]",
         "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
         "url": "https://media1.ultrik.com/live/torole1.m3u8",
-        "userAgent": "",
+        "userAgent": "true",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
 		{
         "name": "Taur0 Canal",
