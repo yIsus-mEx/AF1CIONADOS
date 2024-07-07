@@ -237,6 +237,92 @@
  				"online":"true"
 				}
 			]
+		},
+
+		{
+		"name": "CUARTOS",
+ 		"image": "https://i.postimg.cc/hvnthDKb/d.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+  				{
+ 				"name": "Argentina VS Ecuador",
+ 				"info":"[05-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Venezuela VS Canada",
+ 				"info":"[06-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Colombia VS Panamá",
+ 				"info":"[07-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Uruguay VS Brasil",
+ 				"info":"[07-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+		{
+		"name": "SEMIFINALES",
+ 		"image": "https://i.postimg.cc/hvnthDKb/d.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+  				{
+ 				"name": "Argentina VS Canadá",
+ 				"info":"[10-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+  				{
+ 				"name": "Uruguay VS Colombia",
+ 				"info":"[11-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+		{
+		"name": "FINAL",
+ 		"image": "https://i.postimg.cc/hvnthDKb/d.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+  				{
+ 				"name": " VS ",
+ 				"info":"[14-JuLio-24]",
+ 				"image":"",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
 		}
 
 	]
