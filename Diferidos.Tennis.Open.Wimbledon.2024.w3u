@@ -15,7 +15,7 @@
         "groups":
             [
                 {
-                "name": "Primera Ronda",
+                "name": "Primeras Rondas",
                 "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
                 "imageScale": "",
                 "info":"",
@@ -36,17 +36,7 @@
                         "url":"https://filemoon.sx/d/9p60urhhzkwu/Winbledon_Kopriva_VS_Djokovic_020724.mkv",
                         "isHost":"true",
                         "online":"true"
-                        }
-		]
-                },
-
-                {
-                "name": "Segunda Ronda",
-                "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
+                        },
                         {
                         "name": "Carlos Alcaraz VS Aleksandar Vukic",
                         "info":"[03-07-2024]",
@@ -62,22 +52,12 @@
                         "url":"https://filemoon.sx/d/8nj4tfl6kk4y/Wimbledon_2024_Djockovic_VS_Fearnley_040724.mkv",
                         "isHost":"true",
                         "online":"true"
-                        }
-		        ]
-                },
-
-                {
-                "name": "Tercera Ronda",
-                "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
+                        },
                         {
                         "name": "Carlos Alcaraz VS Frances Tiafoe",
                         "info":"[05-07-2024]",
-                        "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
-                        "url":"",
+                        "image": "https://img.asmedia.epimg.net/resizer/v2/AW24WRC5ANOCCAHTG5BU7BQK6U.jpg?auth=5faef34953f5bae5e09dc66e2d90f4e631a52cf0bbca6196b059c98628c79fc0&width=644&height=362&focal=1582%2C1076",
+                        "url":"https://filemoon.sx/d/jhsy45j4qajq/Wimbledon_2024_Alcaraz_VS_Tiafoe_050724.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
@@ -102,8 +82,8 @@
                         {
                         "name": "Carlos Alcaraz VS Ugo Humbert",
                         "info":"[07-07-2024]",
-                        "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
-                        "url":"",
+                        "image": "https://img.asmedia.epimg.net/resizer/v2/NGAEGOZSCXGMAWEX2FG5AAUHBU.jpg?auth=8958549c83b46309dcb446c61d3becabf0db9417345da9e8be9d95738e4a1ded&width=644&height=362&focal=2730%2C1681",
+                        "url":"https://filemoon.sx/d/09wx6lnjx1mx/Wimbledon_2024_Alcaraz_VS_Humbert_070724.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
