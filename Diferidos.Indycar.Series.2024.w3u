@@ -8,6 +8,40 @@
 "groups":
     [
         {
+        "name": "R10 IndyCar Mid-Ohio",
+        "image": "https://i.postimg.cc/7hmhx7J2/Mid-Ohio-2024.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7hmhx7J2/Mid-Ohio-2024.png",
+                "url" :"https://filemoon.sx/d/1o1wugm9cuej",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/7hmhx7J2/Mid-Ohio-2024.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7hmhx7J2/Mid-Ohio-2024.png",
+                "url" :"https://filemoon.sx/e/mqrn24r8vpkg",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R09 IndyCar Laguna Seca",
         "image": "https://i.postimg.cc/nLzyK40Q/laguna-seca.png",
         "stations":
