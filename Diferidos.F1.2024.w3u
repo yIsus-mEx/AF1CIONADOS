@@ -7,7 +7,106 @@
 "info": "",
 "groups":
     [
-         {
+        {
+        "name": "F1 2024 Silverstone [05-07.Jul24]",
+        "info":"",
+        "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/bvs7e3b9lyqt",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/6e114ildfkzs",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/fkwx21bhaq4s",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/gsev46yc14t4",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/l01qq2a4mhuf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/kbt1wrz9hf0t",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Austria [28-30.Jun24]",
         "info":"",
         "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
