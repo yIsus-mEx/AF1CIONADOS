@@ -23,8 +23,8 @@
         "url": "https://fullchannels.online/canales.php?id=toros",
         "userAgent": "",
         "online":"true",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
         },
         {
         "name": "Taur0 Canal",
@@ -42,8 +42,8 @@
         "url": "https://dlhd.so/tele/stream-749.php",
         "userAgent": "",
         "online":"true",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
         },
         {
         "name": "TeleMadrid",
