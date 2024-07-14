@@ -8,6 +8,56 @@
 "groups":
     [
         {
+         "name": "Fight Night: Cortez vs Namajunas",
+         "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Cortez vs Namajunas",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+                "url":"https://filemoon.sx/d/ngxys7b1dlqe",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Fight Night: Cortez vs Namajunas",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+                "url":"https://filemoon.sx/d/lbebo7vltcxv",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Fight Night: Cortez vs Namajunas",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+                "url":"",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
+         "name": "BKFC Fight Night: Peralta vs Warr",
+         "image": "https://i.postimg.cc/d1CSHtZb/BKFCFight-Night-Pechanga-Peralta-Warr.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "BKFC Fight Night: Peralta vs Warr",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/d1CSHtZb/BKFCFight-Night-Pechanga-Peralta-Warr.png",
+                "url":"https://filemoon.sx/d/qvcts3z2sti3",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 303: Pereira vs Procházka 2",
          "image": "https://i.postimg.cc/bN3wBP7M/303.png",
          "imageScale": "",
