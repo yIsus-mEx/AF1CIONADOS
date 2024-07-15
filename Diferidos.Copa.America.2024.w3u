@@ -308,6 +308,24 @@
 		},
 
 		{
+		"name": "3 y 4 PUESTO",
+ 		"image": "https://i.postimg.cc/hvnthDKb/d.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+  				{
+ 				"name": "Canada VS Uruguay",
+ 				"info":"[14-JuLio-24]",
+ 				"image":"",
+ 				"url":"https://filemoon.sx/d/wqvej7q0772w/Copa_America_2024_Canada_VS_Uruguay_140724.mkv",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+			]
+		},
+
+		{
 		"name": "FINAL",
  		"image": "https://i.postimg.cc/hvnthDKb/d.png",
  		"imageScale": "",
