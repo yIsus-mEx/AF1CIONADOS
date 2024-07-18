@@ -9,6 +9,13 @@
 	[
 
 		{
+		"name": "Alien",
+		"image": "https://pics.filmaffinity.com/alien-657278575-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/saga%20ALIEN.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Bad Boys",
 		"image": "https://i.postimg.cc/cLZPcJgH/bad.png",
 		"url": "https://af1c1onados.vercel.app/Saga.Bad.Boys.w3u",
