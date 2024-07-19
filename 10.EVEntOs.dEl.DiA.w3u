@@ -8,38 +8,38 @@
 "stations":
     [
          {
-        "name": "Canal La 1",
-        "info":"[Español]",
+        "name": "WRC Tet Rally Latvia 2024 Dia 1",
+        "info":"[Español iPhone 1080p]",
         "online":"true",
-        "image": "https://i.postimg.cc/L6bDpW6G/euro2024.png",
-        "url": "https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
+        "url": "https://vkvsd230.mycdn.me/hls/6691128347162.m3u8/sig/gkW3qRBOA0I/srcIp/37.14.45.69/urls/185.226.53.96/expires/1721825147868/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7350927043354/id/6691128347162/6691128347162_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "Canal La 2",
-        "info":"[Español]",
+        "name": "WRC Tet Rally Latvia 2024 Dia 1",
+        "info":"[Español Android 1080p]",
         "online":"true",
-        "image": "https://i.postimg.cc/L6bDpW6G/euro2024.png",
-        "url": "https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
+        "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "TeleDeporte",
-        "info":"[Español]",
+        "name": "WRC Tet Rally Latvia 2024 Dia 1",
+        "info":"[Español iPhone 720p]",
         "online":"true",
-        "image": "https://i.postimg.cc/L6bDpW6G/euro2024.png",
-        "url": "https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
+        "url": "https://vkvsd230.mycdn.me/hls/6691128347162.m3u8/sig/gkW3qRBOA0I/srcIp/37.14.45.69/urls/185.226.53.96/expires/1721825147868/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7350927043354/id/6691128347162/6691128347162_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "Nascar: Chicago Grant Park",
-        "info":"[Español]",
+        "name": "WRC Tet Rally Latvia 2024 Dia 1",
+        "info":"[Español Android 720p]",
         "online":"true",
-        "image": "https://www.nascar.com/wp-content/uploads/sites/7/2022/07/19/COM-CHI-StreetRace-hero.jpg",
-        "url": "https://paco@inst1.ignores.top/js/nascar-cup-series-grant-park-165-chicago-street-course/4/playlist.m3u8",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
+        "url": "https://vkvsd230.mycdn.me/hls/6691128347162.m3u8/sig/gkW3qRBOA0I/srcIp/37.14.45.69/urls/185.226.53.96/expires/1721825147868/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7350927043354/id/6691128347162/6691128347162_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }
