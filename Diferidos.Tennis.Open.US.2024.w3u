@@ -1,5 +1,5 @@
 
-"name": "Tennis Wimbledon",
+"name": "Tennis 0PEN US 2024",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.US.2024.w3u",
 "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
@@ -15,12 +15,52 @@
         "groups":
             [
                 {
-                "name": "Primera Ronda",
+                "name": "Primeras Rondas",
                 "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
                 "imageScale": "",
                 "info":"",
                 "stations":
                     [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
                         {
                         "name": "",
                         "info":"[]",
@@ -33,48 +73,20 @@
                 },
 
                 {
-                "name": "Segunda Ronda",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-		        ]
-                },
-
-                {
-                "name": "Tercera Ronda",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-		        ]
-                },
-
-                {
                 "name": "Octavos",
                 "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
                 "imageScale": "",
                 "info":"",
                 "stations":
                     [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
                         {
                         "name": "",
                         "info":"[]",
@@ -100,6 +112,14 @@
                         "url":"",
                         "isHost":"true",
                         "online":"true"
+                        },
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
                         }
 			]
 		},
@@ -111,6 +131,14 @@
                 "info":"",
                 "stations":
                     [
+                        {
+                        "name": "",
+                        "info":"[]",
+                        "image": "",
+                        "url":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
                         {
                         "name": "",
                         "info":"[]",
@@ -172,8 +200,10 @@
                         "online":"true"
                         }
                     ]
-		          }
+		}
+
             ]
         }
+
     ]
 }
