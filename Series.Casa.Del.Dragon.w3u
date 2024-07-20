@@ -227,7 +227,8 @@
  			"info":"[Español]",
  			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
  			"url":"https://big.fileditchstuff.me/b35/MwCVMpVOJZcOmzQUHyoS.mkv",
- 			"isHost":"true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"isHost":"",
  			"online":"true"
 			},
 			{
@@ -243,7 +244,8 @@
  			"info":"[Español]",
  			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
  			"url":"https://big.fileditchstuff.me/b36/DyQBWGajqdJkJrTslaHz.mkv",
- 			"isHost":"true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"isHost":"",
  			"online":"true"
 			},
 			{
@@ -276,7 +278,8 @@
  			"info":"[Español]",
  			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
  			"url":"http://bot.iamakintech.com/AgADqB275992",
- 			"isHost":"true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"isHost":"",
  			"online":"true"
 			},
 			{
@@ -284,13 +287,14 @@
  			"info":"[Español]",
  			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
  			"url":"http://bot.iamakintech.com/AgAD7B275989",
- 			"isHost":"true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"isHost":"",
  			"online":"true"
 			},
 			{
  			"name": "Episodio 05",
  			"info":"[Latino]",
- 			"image":"",
+ 			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
  			"url":"",
  			"userAgent": "",
 			"isHost":"true",
