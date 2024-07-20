@@ -8,6 +8,17 @@
 "stations":
     [
 
+        {
+        "name": "Civil War",
+        "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
+        "url": "https://filemoon.sx/d/5es42rtjrzs8",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
 	    {
         "name": "Di que si",
         "image": "https://pics.filmaffinity.com/yes_man-597620171-large.jpg",
