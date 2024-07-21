@@ -8,6 +8,26 @@
 "stations":
     [
         {
+        "name": "La Taberna Fantastica",
+        "image": "https://i.postimg.cc/KYG8nkpn/taberna.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0cTR3MDAwcTMz0",
+        "info": "[1991][Movie]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "La Taberna Fantastica",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1991/7/w1280/sH6EJhNpOjRzEQL9KDyiaxtlzo6.jpg",
+        "url": "https://filemoon.sx/d/l8r550q0nkij",
+        "info": "[1991][Teatro]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "El Ultimo Late Night",
         "image": "https://pics.filmaffinity.com/El_aultimo_late_night-258028056-large.jpg",
         "url": "https://filemoon.sx/d/bxlkohcuba3o",
