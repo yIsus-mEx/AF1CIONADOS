@@ -7,7 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Beaten to Death",
+        "image": "https://i.postimg.cc/D01t2yXW/Beatento-Death-Slip3-D.png",
+        "url": "https://filemoon.sx/d/6upsvx48ucdk",
+        "info": "[2023][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Civil War",
         "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
