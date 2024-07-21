@@ -8,6 +8,105 @@
 "groups":
     [
         {
+        "name": "F1 2024 Hungria [19-21.Jul24]",
+        "info":"",
+        "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/bet1lbq3uclf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/oqqmifo33kr2",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/vh3h0ibfrglx",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/ym8pj62jj5c6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/ogj8c852882j",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/pnrndie92aux",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/gy6dmm70iqnw",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/ffxxlahnfcjl",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Silverstone [05-07.Jul24]",
         "info":"",
         "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
