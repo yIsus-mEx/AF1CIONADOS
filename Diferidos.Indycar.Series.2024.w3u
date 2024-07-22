@@ -8,7 +8,32 @@
 "groups":
     [
         {
-        "name": "R12 IndyCar Ohio",
+        "name": "R12 IndyCar Toronto",
+        "image": "https://i.postimg.cc/tC4KByr8/toronto.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/tC4KByr8/toronto.png",
+                "url" :"https://filemoon.sx/d/b44hzal4rs1k",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/tC4KByr8/toronto.png",
+                "url" :"",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R11 Race 01 IndyCar Ohio",
         "image": "https://i.postimg.cc/jj08XKgw/race02.png",
         "stations":
             [
@@ -33,7 +58,7 @@
             ]
         },
         {
-        "name": "R11 IndyCar Ohio",
+        "name": "R11 Race 02 IndyCar Ohio",
         "image": "https://i.postimg.cc/fyCn4yPr/race01.png",
         "stations":
             [

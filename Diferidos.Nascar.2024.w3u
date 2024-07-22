@@ -8,6 +8,60 @@
 "groups":
     [
 		{
+        "name": "R23 NASCAR Brickyard 400",
+        "info":"",
+        "image": "https://i.postimg.cc/bNBqbL0X/NASCAR-Brickyard-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Brickyard 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/bNBqbL0X/NASCAR-Brickyard-400.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Brickyard 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/bNBqbL0X/NASCAR-Brickyard-400.png",
+                "url":"https://filemoon.sx/e/0pf8yizxgjkb",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R22 NASCAR The Great American Getaway 400",
+        "info":"",
+        "image": "https://i.postimg.cc/9MGbhxpv/GREAT-AMERICAN-GETAWAY-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR The Great American Getaway 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/9MGbhxpv/GREAT-AMERICAN-GETAWAY-400.png",
+                "url":"https://filemoon.sx/d/fkzfmtynmy1e",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR The Great American Getaway 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/9MGbhxpv/GREAT-AMERICAN-GETAWAY-400.png",
+                "url":"https://filemoon.sx/e/muat10rdydkl",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R21 NASCAR Grant Park 165",
         "info":"",
         "image": "https://i.postimg.cc/tgHxjPv2/NASCAR-Grant-Park-165.png",

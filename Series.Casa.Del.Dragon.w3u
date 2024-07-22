@@ -299,6 +299,24 @@
  			"userAgent": "",
 			"isHost":"true",
  			"online":"true"
+			},
+			{
+ 			"name": "Episodio 06",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
+ 			"url":"https://filemoon.sx/d/21p09y21aejx#",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"isHost":"true",
+ 			"online":"true"
+			},
+			{
+ 			"name": "Episodio 06",
+ 			"info":"[Latino]",
+ 			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
+ 			"url":"https://filemoon.sx/d/ssgkuinn2st0",
+ 			"userAgent": "",
+			"isHost":"true",
+ 			"online":"true"
 			}
 		]
 	}
