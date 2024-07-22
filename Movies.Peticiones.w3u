@@ -7,6 +7,17 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Matusalen",
+        "image": "https://pics.filmaffinity.com/matusalen-219429490-large.jpg",
+        "url": "https://filemoon.sx/d/6wz4i20g7t4i",
+        "info": "[2023][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "La Taberna Fantastica",
         "image": "https://i.postimg.cc/KYG8nkpn/taberna.jpg",
