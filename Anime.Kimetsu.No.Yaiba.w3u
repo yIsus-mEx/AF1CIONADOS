@@ -499,6 +499,79 @@
         		"online":"true"
         		}
 			]
+		},
+		{
+        "name": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+        	[
+        		{
+        		"name": "Para vencer a Muzan Kibutsuji",
+        		"info":"Capitulo 01",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/xbbptvllqqpy",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "El dolor de Giyu Tomioka, el Pilar del Agua",
+        		"info":"Capitulo 02",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/71n05c9hcwse",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Tanjiro participa en el entrenamiento de los Pilares",
+        		"info":"Capitulo 03",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/ryp4y3wsq52y",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Me trae una sonrisa",
+        		"info":"Capitulo 04",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/eqmftj7hrpz4",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Hasta terminé comiendo demonios",
+        		"info":"Capitulo 05",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/1zyb0b7ae740",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "El más fuerte en la Compañía Cazademonios",
+        		"info":"Capitulo 06",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/sefxjjp1yifl",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Gyomei Himejima, el Pilar de la Roca",
+        		"info":"Capitulo 07",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/bqjpbvv120kx",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "La movilización de los Pilares",
+        		"info":"Capitulo 08",
+        		"image": "https://pics.filmaffinity.com/Kimetsu_no_Yaiba_Hashira_Training_Arc_Serie_de_TV-938758180-large.jpg",
+        		"url":"https://filemoon.sx/d/p5a91vpinn02",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+			]
 		}
 	]
 }
