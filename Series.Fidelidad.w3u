@@ -1,0 +1,68 @@
+{
+"name": "Fidelidad",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Fidelidad.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/JhjgJGQY/fide.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+ 				"url":"https://filemoon.sx/d/7uc1rzxz3svb",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://filemoon.sx/d/mt8m1fsshpou",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://filemoon.sx/d/sb3x0fhz5qpm",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://filemoon.sx/d/nbv4wqfgwbtw",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://filemoon.sx/d/0ns18d7v2vpq",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://filemoon.sx/d/dbmgn56doa2a",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
