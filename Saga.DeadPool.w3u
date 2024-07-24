@@ -1,0 +1,30 @@
+
+{
+"name": "DeadPool",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.DeadPool.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+        {
+        "name": "DeadPool",
+        "info":"[Español][2016]",
+        "image": "https://i.postimg.cc/yx8Zh7QR/deadpool.png",
+        "url":"https://filemoon.sx/d/r47ljecdx6bw",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "DeadPool II",
+        "info":"[Español][2018]",
+        "image": "https://i.postimg.cc/8C5pps0x/deadpool2.png",
+        "url":"https://filemoon.sx/d/g2luqp5iamwb",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}
