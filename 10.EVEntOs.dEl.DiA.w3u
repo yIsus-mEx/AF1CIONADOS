@@ -8,38 +8,38 @@
 "stations":
     [
          {
-        "name": "10:30 Horas ERC Rally di Roma Capitale 2024 - Qualifying - Fumone",
+        "name": "ERC Rally di Roma Capitale 2024 Dia 2",
         "info":"[Español iPhone 1080p]",
         "online":"true",
         "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd199.mycdn.me/hls/6722193721882.m3u8/sig/saPiL--H13M/srcIp/37.14.45.69/urls/45.136.20.85/expires/1722437851762/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7371871365914/id/6722193721882/6722193721882_fullhd/index.m3u8",
+        "url": "https://vkvsd60.mycdn.me/hls/6726188993050.m3u8/sig/OCWmbeD8JWw/srcIp/37.14.45.69/urls/45.136.20.34/expires/1722513836939/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7374251240218/id/6726188993050/6726188993050_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "10:30 Horas ERC Rally di Roma Capitale 2024 - Qualifying - Fumone",
+        "name": "ERC Rally di Roma Capitale 2024 Dia 2",
         "info":"[Español Android 1080p]",
         "online":"true",
         "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd192.mycdn.me/hls/6722193721882.m3u8/sig/FUlWe1sAKaA/srcIp/37.14.45.69/urls/185.226.53.83/expires/1722437769227/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7371871365914/id/6722193721882/6722193721882_fullhd/index.m3u8",
+        "url": "https://vkvsd60.mycdn.me/hls/6726188993050.m3u8/sig/FCZA4yQW6Do/expires/1722140982316/srcIp/37.14.45.69/urls/45.136.21.44/clientType/14/srcAg/CHROME_ANDROID/mid/7374251240218/6726188993050_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "10:30 Horas ERC Rally di Roma Capitale 2024 - Qualifying - Fumone",
+        "name": "ERC Rally di Roma Capitale 2024 Dia 2",
         "info":"[Español iPhone 720p]",
         "online":"true",
         "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd199.mycdn.me/hls/6722193721882.m3u8/sig/saPiL--H13M/srcIp/37.14.45.69/urls/45.136.20.85/expires/1722437851762/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7371871365914/id/6722193721882/6722193721882_high/index.m3u8",
+        "url": "https://vkvsd60.mycdn.me/hls/6726188993050.m3u8/sig/OCWmbeD8JWw/srcIp/37.14.45.69/urls/45.136.20.34/expires/1722513836939/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7374251240218/id/6726188993050/6726188993050_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         },
         {
-        "name": "10:30 Horas ERC Rally di Roma Capitale 2024 - Qualifying - Fumone",
+        "name": "ERC Rally di Roma Capitale 2024 Dia 2",
         "info":"[Español Android 720p]",
         "online":"true",
         "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd192.mycdn.me/hls/6722193721882.m3u8/sig/FUlWe1sAKaA/srcIp/37.14.45.69/urls/185.226.53.83/expires/1722437769227/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7371871365914/id/6722193721882/6722193721882_high/index.m3u8",
+        "url": "https://vkvsd82.mycdn.me/hls/6726188993050.m3u8/sig/T8lGaKu1P3g/srcIp/37.14.45.69/urls/185.226.52.65/expires/1722513954446/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7374251240218/id/6726188993050/6726188993050_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }
