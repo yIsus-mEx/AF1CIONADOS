@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Motor NHRA Orlando Daytona Beach",
+        "info":"[Español Acestream]",
+        "online":"true",
+        "image": "https://i.postimg.cc/0ysyWVtS/Orlando-Daytona-Beach.jpg",
+        "url": "acestream://4b7679f907d41cd2ae25923a1f2b8a2f129cfe77",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": ""
+        },
          {
         "name": "ERC Rally di Roma Capitale 2024 Dia 3",
         "info":"[Español iPhone 1080p]",
