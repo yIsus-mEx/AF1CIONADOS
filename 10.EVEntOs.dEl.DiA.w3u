@@ -42,7 +42,13 @@
         "url": "https://vkvsd82.mycdn.me/hls/6726188993050.m3u8/sig/T8lGaKu1P3g/srcIp/37.14.45.69/urls/185.226.52.65/expires/1722513954446/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7374251240218/id/6726188993050/6726188993050_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
-        }
+        },
+{
+                    "name": "UFC",
+                    "info": "",
+                    "image": "",
+                    "url": "acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef "
+                }
 
     ]
 }
