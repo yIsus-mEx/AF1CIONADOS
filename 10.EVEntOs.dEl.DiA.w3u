@@ -8,84 +8,12 @@
 "stations":
     [
 
-        {
-        "name": "Motor NHRA Orlando Daytona Beach",
-        "info":"[Ingles USA][Acestream]",
-        "online":"true",
-        "image": "https://i.postimg.cc/4NBBxSrv/Daytona-Orlando.jpg",
-        "url": "acestream://4b7679f907d41cd2ae25923a1f2b8a2f129cfe77",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "DENSO NHRA Drag Racing Sonoma Nationals",
-        "info":"[Español iPhone 1080p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/4db4FQRW/Manujaz-NHRA.jpg",
-        "url": "https://vkvsd178.mycdn.me/hls/6734404192794.m3u8/sig/9rIGuXFM4oI/srcIp/37.14.45.69/urls/45.136.20.85/expires/1722657244785/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7379243379482/id/6734404192794/6734404192794_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "DENSO NHRA Drag Racing Sonoma Nationals",
-        "info":"[Español Android 1080p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/4db4FQRW/Manujaz-NHRA.jpg",
-        "url": "https://vkvsd178.mycdn.me/hls/6734404192794.m3u8/sig/OYB9GDW7v98/srcIp/37.14.45.69/urls/45.136.22.63/expires/1722657181283/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7379243379482/id/6734404192794/6734404192794_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "DENSO NHRA Drag Racing Sonoma Nationals",
-        "info":"[Español iPhone 720p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/4db4FQRW/Manujaz-NHRA.jpg",
-        "url": "https://vkvsd178.mycdn.me/hls/6734404192794.m3u8/sig/9rIGuXFM4oI/srcIp/37.14.45.69/urls/45.136.20.85/expires/1722657244785/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7379243379482/id/6734404192794/6734404192794_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "DENSO NHRA Drag Racing Sonoma Nationals",
-        "info":"[Español Android 720p]",
-        "online":"true",
-        "image": "https://i.postimg.cc/4db4FQRW/Manujaz-NHRA.jpg",
-        "url": "https://vkvsd192.mycdn.me/hls/6734404192794.m3u8/sig/h7cwYtkEbOI/expires/1722284501477/srcIp/37.14.45.69/urls/45.136.22.63/clientType/14/srcAg/CHROME_ANDROID/mid/7379243379482/6734404192794_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
          {
-        "name": "ERC Rally di Roma Capitale 2024 Dia 3",
-        "info":"[Español iPhone 1080p]",
+        "name": "",
+        "info":"[]",
         "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd76.mycdn.me/hls/6730744793626.m3u8/sig/UM5uqD7DL7w/expires/1722228555875/srcIp/37.14.45.69/urls/45.136.20.60/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7377017121562/6730744793626_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "ERC Rally di Roma Capitale 2024 Dia 3",
-        "info":"[Español Android 1080p]",
-        "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd76.mycdn.me/hls/6730744793626.m3u8/sig/Ieo2UnM1kVM/srcIp/37.14.45.69/urls/185.226.53.95/expires/1722601431324/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7377017121562/id/6730744793626/6730744793626_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "ERC Rally di Roma Capitale 2024 Dia 3",
-        "info":"[Español iPhone 720p]",
-        "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd76.mycdn.me/hls/6730744793626.m3u8/sig/UM5uqD7DL7w/expires/1722228555875/srcIp/37.14.45.69/urls/45.136.20.60/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7377017121562/6730744793626_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "ERC Rally di Roma Capitale 2024 Dia 3",
-        "info":"[Español Android 720p]",
-        "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd76.mycdn.me/hls/6730744793626.m3u8/sig/Ieo2UnM1kVM/srcIp/37.14.45.69/urls/185.226.53.95/expires/1722601431324/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7377017121562/id/6730744793626/6730744793626_high/index.m3u8",
+        "image": "",
+        "url": "",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }
