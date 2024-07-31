@@ -7,39 +7,13 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
          {
-        "name": "WRC Tet Rally Latvia 2024 Dia 1",
-        "info":"[Español iPhone 1080p]",
+        "name": "",
+        "info":"[]",
         "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd230.mycdn.me/hls/6691128347162.m3u8/sig/gkW3qRBOA0I/srcIp/37.14.45.69/urls/185.226.53.96/expires/1721825147868/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7350927043354/id/6691128347162/6691128347162_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Tet Rally Latvia 2024 Dia 1",
-        "info":"[Español Android 1080p]",
-        "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
+        "image": "",
         "url": "",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Tet Rally Latvia 2024 Dia 1",
-        "info":"[Español iPhone 720p]",
-        "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd230.mycdn.me/hls/6691128347162.m3u8/sig/gkW3qRBOA0I/srcIp/37.14.45.69/urls/185.226.53.96/expires/1721825147868/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7350927043354/id/6691128347162/6691128347162_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Tet Rally Latvia 2024 Dia 1",
-        "info":"[Español Android 720p]",
-        "online":"true",
-        "image": "https://img.asmedia.epimg.net/resizer/v2/F34E4MJWE5FOPGA3VQYDQL2ACE.jpg?auth=e3c56688d0b0f9c85ba0f43a9636546f44dd5246dbfca6ca33cda9a46181f8a1&width=644&height=362&smart=true",
-        "url": "https://vkvsd230.mycdn.me/hls/6691128347162.m3u8/sig/gkW3qRBOA0I/srcIp/37.14.45.69/urls/185.226.53.96/expires/1721825147868/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7350927043354/id/6691128347162/6691128347162_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }

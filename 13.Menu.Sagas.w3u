@@ -9,6 +9,13 @@
 	[
 
 		{
+		"name": "A todo Gas",
+		"image": "https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga FASTandFURIOUS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Alien",
 		"image": "https://pics.filmaffinity.com/alien-657278575-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/saga%20ALIEN.w3u",
@@ -100,6 +107,13 @@
 		"import": false
 		},
 		{
+		"name": "Horizon, An American Saga",
+		"image": "https://pics.filmaffinity.com/horizon_an_american_saga_chapter_1-671080904-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/saga%20HORIZON%20AMERICAN.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "I Spit on Your Grave",
 		"image": "https://i.postimg.cc/0j80Htv2/0.png",
 		"url": "https://af1c1onados.vercel.app/Saga.I.Spit.on.Your.Grave.w3u",
@@ -144,7 +158,7 @@
 		{
 		"name": "Mision Imposible",
 		"image": "https://pics.filmaffinity.com/mission_impossible-107188957-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/saga%20MISION%20IMPOSIBLE.w3u",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga%20MISION%20IMPOSIBLE.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
