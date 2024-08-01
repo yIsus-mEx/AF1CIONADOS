@@ -512,13 +512,14 @@
         		}
 			]
 		},
+
 		{
-        "name": "Capitanes Del Mundo",
-        "image": "https://pics.filmaffinity.com/captains_of_the_world-329091694-mmed.jpg",
-        "imageScale": "",
-        "info":"",
+        	"name": "Capitanes Del Mundo",
+        	"image": "https://pics.filmaffinity.com/captains_of_the_world-329091694-mmed.jpg",
+        	"imageScale": "",
+        	"info":"",
 		"stations":
-    		[
+    			[
         		{
         		"name": "E1 - Grandes Expectativas",
         		"info":"Castellano",
@@ -574,6 +575,105 @@
         		"isHost": "true"
         		}
 			]
+		},
+
+		{
+		"name": "LaLiga Mas alla del Gol",
+		"image": "https://pics.filmaffinity.com/laliga_mas_alla_del_gol-946086125-large.jpg",
+        	"imageScale": "",
+        	"info":"",
+		"stations":
+			[
+	      		{
+	      		"name": "1. Asalto a los poderosos",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcu58vz_cW_unmr0SO4WLMv_APPj1mdG-juEcAMeM8rqKfAbQIQJfCoNzqsj6oGsiftG0gIggzly2UVu29yQwpSclAC1YZa3weCFKVBLpHWwk3S6nP0LOjmC.jpg?r=1db",
+        		"url": "https://filemoon.sx/d/qcpazdk3rcye/LALIGA__M_s_all__del_gol_S01E01_Asalto_a_los_poderosos.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "2. El primer clásico",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd5sb3ZbegB6F4oGl-O2eroFliT6D69XwHMUaiM-lTK85SjFofvLGgXcsNAQVzCAXXOybc1aCeW8yVI86tePvuU5ww-H3E5CBP0jOnqWHwxPCDTelxHxU0te.jpg?r=be4",
+        		"url": "https://filemoon.sx/d/31h9occo635a/LALIGA__M_s_all__del_gol_S01E02_El_primer_cl_sico.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "3. Rey del Norte",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfgFdLf5cImigct7RgLFva0cTtqQIsmu37t4Jlvamgy6GU7ZzimUY0VfwdFLnEkepC0aO8mIlfCMnJ3gKf5Zn24_ej_yPFpVclxjwgarTgmRmnv0sBl1o7u-.jpg?r=13c",
+        		"url": "https://filemoon.sx/d/891ek9kp5sav/LALIGA__M_s_all__del_gol_S01E03_Rey_del_Norte.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "4. Un invitado sorpresa",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaVT5ufX9jXJJ6ziJEf6pVgRK2ZpWL0QPkYIrzret8oDqZqnwO9W9nQvT7h3Jdj3PPf3DAq2Dmuf68KH3vOnaLE0UeXOkoq8jnzhGGeGrQnP2hivec5QiDFv.jpg?r=ea8",
+        		"url": "https://filemoon.sx/d/6ndz1mz518n5/LALIGA__M_s_all__del_gol_S01E04_Un_invitado_sorpresa.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "5. La lucha de los centenarios",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYfzuKaTJIWWuF9T0SFVOPNQj3ZD2oX3wp_jg_vh-vLrJ09ND-taVhdQJQT68yuEfetJTI_DFhgAjEck3jDj2sANZ2okMBrytA_DdXSc_kxlOVGWJKdtu5NC.jpg?r=9f8",
+        		"url": "https://filemoon.sx/d/wufd534bhelv/LALIGA_M_s_all__del_gol_S01E05_La_lucha_de_los_centenarios.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "6. Maneras de competir",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUA7wGnIPl_cIU_1A3CEoasKC4JJqxSMRnvoL1PhXroybE3rT4GsM89j5eMBihwyswkbyTaCGaxpX0ueBahXZ5YinTIrLE5cHnJ_ougz-FyrCeh8U-vtamjH.jpg?r=8ab",
+        		"url": "https://filemoon.sx/d/6x3toj9u4i9r/LALIGA__M_s_all__del_gol_S01E06_Maneras_de_competir.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "7. Nunca rendirse",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWKeZ40vINeaO01TV9W9hqbniwIQYwxbgYSBSdduFu5iTquJVGCFewMBcx4oS2-CHqfw3XzbmzB8yAc81fxWwK-7GHbxEvB-_9GaArKYfWxI86daMsO_QjDW.jpg?r=31f",
+        		"url": "https://filemoon.sx/d/zm14f08r2wqs/LALIGA__M_s_all__del_gol_S01E07_Nunca_rendirse.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+       			"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			},
+	      		{
+	      		"name": "8. El desenlace",
+        		"image": "https://occ-0-358-360.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZPDXbKsrjeFxHGQ9p6IZGvanGYM9I0FfimbjcfSBkEyGRgg_-eOVkUXqdth29oygakcY0PK653-BRj-0uJ6gYED8dpDlSlJ7BdS1vsWwFRW4IPCJpjLx2DW.jpg?r=654",
+        		"url": "https://filemoon.sx/d/jpxu04xzwzq4/LALIGA__M_s_all__del_gol_S01E08_El_desenlace.mp4",
+       			"info": "[Español 2024]",
+       			"embed": "",
+       			"isHost": "true",
+		       	"online": "true",
+	      		"userAgent":"PlusMediaPlayer/0.0.9",
+       			"import": false
+       			}
+			]
 		}
+
     ]
 }
