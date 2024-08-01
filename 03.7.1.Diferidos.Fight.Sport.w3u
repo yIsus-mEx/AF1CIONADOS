@@ -8,6 +8,72 @@
 "groups":
     [
         {
+         "name": "UFC 304: Edwards vs Muhammad 2",
+         "image": "https://i.postimg.cc/YSpmj53r/304.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 304: Edwards vs Muhammad 2",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                "url":"https://filemoon.sx/d/7ndq2pa8092i",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 304: Edwards vs Muhammad 2",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                "url":"https://filemoon.sx/d/h8dxmft0loyi",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 304: Edwards vs Muhammad 2",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                "url":"",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Lemos vs Jandiroba",
+         "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Lemos vs Jandiroba",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+                "url":"https://filemoon.sx/d/ce9mhw4tiket",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Lemos vs Jandiroba",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+                "url":"https://filemoon.sx/d/h550qcbj0av8",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Lemos vs Jandiroba",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+                "url":"https://filemoon.sx/d/3c9qtzo6aj81",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "Fight Night: Cortez vs Namajunas",
          "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
          "imageScale": "",
