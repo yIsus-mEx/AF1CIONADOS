@@ -1,0 +1,66 @@
+{
+"name": "Real Madrid, la leyenda blanca",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/04.1.6 Documentales.FooTball.Real.Madrid.Leyenda.Blanca.w3u",
+"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"stations":
+          [
+        		{
+        		"name": "Real Madrid: Orígenes",
+        		"info":"[E01]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-1-origenes-video_4b711e095.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Proyección",
+        		"info":"[E02]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-2-proyeccion-video_e3abd8f27.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Factor Humano",
+        		"info":"[E03]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-3-factor-humano-video_da8169d36.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: El Espíritu De La Quinta",
+        		"info":"[E04]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-4-el-espiritu-de-la-quinta-video_f4717e752.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Renacimiento",
+        		"info":"[E05]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-5-renacimiento-video_079097388.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Eterno",
+        		"info":"[E06]",
+        		"image": "https://pics.filmaffinity.com/real_madrid_la_leyenda_blanca-234926021-mmed.jpg",
+        		"url":"https://www.documaniatv.com/deporte/real-madrid-la-leyenda-blanca-6-eterno-video_34b601742.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+          
+          ]
+}
