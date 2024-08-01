@@ -317,6 +317,24 @@
  			"userAgent": "",
 			"isHost":"true",
  			"online":"true"
+			},
+			{
+ 			"name": "Episodio 07",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
+ 			"url":"https://www.linkbox.to/f-detail/ZnA0cXhzMDAwb3Vq0",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"isHost":"true",
+ 			"online":"true"
+			},
+			{
+ 			"name": "Episodio 07",
+ 			"info":"[Latino]",
+ 			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
+ 			"url":"https://www.linkbox.to/f-detail/ZnA0cXhzMDAwY3h60",
+ 			"userAgent": "",
+			"isHost":"true",
+ 			"online":"true"
 			}
 		]
 	}
