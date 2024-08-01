@@ -1,0 +1,85 @@
+{
+"name": "Barcelona Matchday",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/04.1.7 Documentales.FooTball.Barcelona.Matchday.w3u",
+"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"stations":
+          [
+          
+        		 {
+        		"name": "Barcelona: El Clásico del Fútbol",
+        		"info":"[E01]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-1-el-clasico-del-futbol-video_21a728cd2.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Territorio Enemigo",
+        		"info":"[E02]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-2-territorio-enemigo-video_206572ec8.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: La Maldición de Cuartos",
+        		"info":"[E03]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-3-la-maldicion-de-cuartos-video_7d3a0d299.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Los vecinos",
+        		"info":"[E04]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-4-los-vecinos-video_f3f0cf2a0.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Match Point",
+        		"info":"[E05]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-5-match-point-video_ce10fb3c8.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Una Noche Europea",
+        		"info":"[E06]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-6-una-noche-europea-video_ad85c0e2d.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+       	 		{
+        		"name": "Real Madrid: 18 Días de Tormenta",
+        		"info":"[E07]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-7-18-dias-de-tormenta-video_6b8919773.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+        		{
+        		"name": "Real Madrid: Un Nuevo Comienzo",
+        		"info":"[E08]",
+        		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/7/6/1574951059667.jpg",
+        		"url":"https://www.documaniatv.com/deporte/dia-de-partido-fc-barcelona-8-un-nuevo-comienzo-video_55e86b295.html",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+          
+          ]
+}
