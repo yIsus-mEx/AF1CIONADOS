@@ -8,6 +8,114 @@
 "groups":
     [
         {
+        "name": "F1 2024 Belgica [26-28.Jul24]",
+        "info":"",
+        "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/ck3w9bjcaf3b",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/kgwr5emaklv7",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/uluivkxbtuwj",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/kajcmsthun8n",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/0pds4k7whrxk",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/bnpgm2db62fe",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/kwr8j91cxxp6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/coduzc85odnq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/f9j49h6qyoud",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Hungria [19-21.Jul24]",
         "info":"",
         "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
