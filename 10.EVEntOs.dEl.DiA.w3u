@@ -8,15 +8,16 @@
 "stations":
     [
 
-         {
-        "name": "",
-        "info":"[]",
+        {
+        "name": "WRC Secto Rally Finlandia 2024",
+        "info":"[Acestream]",
         "online":"true",
-        "image": "",
-        "url": "",
+        "image": "https://i.postimg.cc/0jdCwPyL/Screenshot-2024-08-03-at-14-10-49-FIA-WRC-2024-Rally-de-Finlandia-evento-info-v-deos.png",
+        "url": "acestream://5e0e6a40231e770201f860bf5531a236e2094497",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost": ""
         }
+
 
     ]
 }
