@@ -7,13 +7,20 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Savageland ",
+        "image": "https://image.tmdb.org/t/p/original/1pW7H0WkgSzlgNGzFHeKDDh1Yi2.jpg",
+        "url": "https://filemoon.sx/d/4v0kfmzmzjfb",
+        "info": "[2015][Vose.Sub]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "White Girl",
         "image": "https://i.postimg.cc/NGKVCsF0/white.png",
         "url": "https://filemoon.sx/d/k6txmn3l9e7h",
         "info": "[2018][MultiAudio]",
-        "embed": "",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
