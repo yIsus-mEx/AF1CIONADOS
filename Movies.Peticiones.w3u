@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "All The Gods In The Sky",
+        "image": "https://cineuropa.org/Galleries/364/336/poster_en_big.jpg",
+        "url": "https://filemoon.sx/d/rxi76hf1f0ek",
+        "info": "[2018][Vose.Sub]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Savageland",
         "image": "https://image.tmdb.org/t/p/original/1pW7H0WkgSzlgNGzFHeKDDh1Yi2.jpg",
         "url": "https://filemoon.sx/d/4v0kfmzmzjfb",
