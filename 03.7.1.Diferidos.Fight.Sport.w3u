@@ -8,6 +8,39 @@
 "groups":
     [
         {
+         "name": "Fight Night: Sandhagen vs Nurmagomedov",
+         "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Sandhagen vs Nurmagomedov",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+                "url":"https://filemoon.sx/d/1z3hubhshxoi",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Fight Night: Sandhagen vs Nurmagomedov",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+                "url":"https://filemoon.sx/d/mzuhwulk7rno",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Fight Night: Sandhagen vs Nurmagomedov",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+                "url":"",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
          "name": "UFC 304: Edwards vs Muhammad 2",
          "image": "https://i.postimg.cc/YSpmj53r/304.png",
          "imageScale": "",
