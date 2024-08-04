@@ -8,45 +8,37 @@
 "groups":
     [
 		{
-		"name": "Eurocopa Alemania 2024",
-		"image": "https://i.postimg.cc/SNMRfhMP/Euro2024-new.png",
-		"url": "https://af1c1onados.vercel.app/Diferidos.Euro.Copa.2024.w3u",
-		"info": "bY. aDri",
-		"import": false
-		},
-
-		{
-		"name": "Copa America EEUU 2024",
-		"image": "https://i.postimg.cc/W3DTb7M7/copa-america-2024-new.png",
-		"url": "https://af1c1onados.vercel.app/Diferidos.Copa.America.2024.w3u",
-		"info": "bY. aDri",
-		"import": false
-		},
-
-		{
-        	"name": "Futbol mIx",
-        	"image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
-       	 	"imageScale": "",
-        	"info":"",
-        	"stations":
-            		[
-			{
-                	"name": "Olympiacos VS Fenerbache Final Conference League 2024",
+        "name": "Futbol mIx",
+        "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                "name": "Real Madrid vs FC Barcelona Tour Usa",
+	        	"info":"[03-Ago-24]",
+                "image": "https://i.postimg.cc/d1SkkGgB/image.jpg",
+                "url":"https://filemoon.sx/d/92h4i3s6s54q",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Olympiacos VS Fenerbache Final Conference League 2024",
 	        	"info":"[29-May-24]",
-                	"image": "https://phantom-marca.unidadeditorial.es/751c4f58df8eaa783e8f51a01045d218/resize/660/f/webp/assets/multimedia/imagenes/2024/05/29/17169824426520.jpg",
-                	"url":"https://filemoon.sx/d/ptkuc8kzfiaj/Final_Europa_Conference_League_Olympiacos_VS_Fenerbahce_290524.mkv",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "FC Barcelona VS Olympique Lyon Final Champions Femenina 2024",
+                "image": "https://phantom-marca.unidadeditorial.es/751c4f58df8eaa783e8f51a01045d218/resize/660/f/webp/assets/multimedia/imagenes/2024/05/29/17169824426520.jpg",
+                "url":"https://filemoon.sx/d/ptkuc8kzfiaj/Final_Europa_Conference_League_Olympiacos_VS_Fenerbahce_290524.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "FC Barcelona VS Olympique Lyon Final Champions Femenina 2024",
 	        	"info":"[25-May-24]",
-                	"image": "https://phantom-marca.unidadeditorial.es/daf0f9ecb7ce9e0a6c048c09d387ea7c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165635503656.jpg",
-                	"url":"https://filemoon.sx/d/7ot7xz5w629z/Final_FC_Barcelona_-_Olympique_Lyonnais_UEFA_Women_s_Champions_League_250524.mkv",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
+                "image": "https://phantom-marca.unidadeditorial.es/daf0f9ecb7ce9e0a6c048c09d387ea7c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165635503656.jpg",
+                "url":"https://filemoon.sx/d/7ot7xz5w629z/Final_FC_Barcelona_-_Olympique_Lyonnais_UEFA_Women_s_Champions_League_250524.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
                 "name": "Manchester City VS Manchester United Final FA Cup 2024",
 	        	"info":"[25-May-24]",
                 "image": "https://phantom-marca.unidadeditorial.es/5a60ec713cd1e0b4d7074c1217f65921/resize/660/f/webp/assets/multimedia/imagenes/2024/05/25/17166564388600.jpg",
@@ -87,6 +79,20 @@
 				"online":"true"
 				}
 			]
+		},
+		{
+		"name": "Eurocopa Alemania 2024",
+		"image": "https://i.postimg.cc/SNMRfhMP/Euro2024-new.png",
+		"url": "https://af1c1onados.vercel.app/Diferidos.Euro.Copa.2024.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Copa America EEUU 2024",
+		"image": "https://i.postimg.cc/W3DTb7M7/copa-america-2024-new.png",
+		"url": "https://af1c1onados.vercel.app/Diferidos.Copa.America.2024.w3u",
+		"info": "bY. aDri",
+		"import": false
 		},
 		{
         "name": "Mundial Qatar 2022",
