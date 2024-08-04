@@ -251,16 +251,6 @@
        	"isHost":"true",
        	"online":"true"
        	},
-        {
-        "name": "Robin Hood, Principe de los ladrones",
-        "image": "https://pics.filmaffinity.com/robin_hood_prince_of_thieves-748168448-large.jpg",
-       	"url": "https://upstream.to/r7bam82rwdan",
-       	"info":"[Español 2003]",
-       	"embed":"",
-       	"isHost":"true",
-       	"online":"true",
-       	"import": false
-       	},
 	    {
         "name": "A Writer’s Odyssey",
         "image": "https://shoutfactory.com/cdn/shop/products/AWO_BR_PS_72dpi_600x600.png",
@@ -299,33 +289,6 @@
         "isHost":"true",
         "online":"true" 
 	    },
-        {
-        "name": "Equalizer 1",
-        "image": "https://image.tmdb.org/t/p/w300/mSHUWWeu7aiA7nzbMsjRB9HYseN.jpg",
-        "url": "https://filemoon.sx/e/9ikinlm0ez1u",
-        "info": "[Español][2014]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": ""
-        },
-        {
-        "name": "Equalizer 2",
-        "image": "https://image.tmdb.org/t/p/original/zMdzUIiWXuXAYjlxdSkwG6KlAmU.jpg",
-        "url": "https://filemoon.sx/e/0vzc1njfv49k",
-        "info": "[Español][2018]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": ""
-        },
-        {
-        "name": "Equalizer 3",
-        "image": "https://image.tmdb.org/t/p/w300/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg",
-        "url": "https://vudeo.ws/embed-1a8brgjlm40x.html",
-        "info": "[Español][2023]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": ""
-        },
         {
         "name": "Por tus muertos",
         "image": "https://pics.filmaffinity.com/por_tus_muertos-727983337-large.jpg",
@@ -490,15 +453,6 @@
         "userAgent": ""
         },
         {
-        "name": "Combustion",
-        "image": "https://pics.filmaffinity.com/combustion-398475316-large.jpg",
-        "url": "https://filemoon.sx/d/6u11eyeqjhhw",
-        "info": "[Español][2013]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": ""
-        },
-        {
         "name": "Victor Victoria",
         "image": "https://scottross79.wordpress.com/wp-content/uploads/2021/03/victor-victoria-poster-reduced.jpg",
         "url": "https://www.linkbox.to/f-detail/ZnA0bjM4MDAwaHB50",
@@ -602,33 +556,6 @@
         "image": "https://mx.web.img2.acsta.net/pictures/23/11/06/17/22/0771192.jpg",
         "url": "https://filemoon.sx/e/qdweximlx6e1",
         "info": "[Vose.Sub] [2023]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Sonrisas y Lagrimas",
-        "image": "https://pics.filmaffinity.com/the_sound_of_music-366969305-large.jpg",
-        "url": "https://upstream.to/v3l2iy966mh7",
-        "info": "[Español] [1965]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Maniac",
-        "image": "https://pics.filmaffinity.com/maniac-997708578-large.jpg",
-        "url": "https://listeamed.net/v/ao9rxoRkpoM5yGe",
-        "info": "[Español] [2012]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "13 Fantasmas",
-        "image": "https://pics.filmaffinity.com/thirteen_ghosts_aka_thir13en_ghosts_aka_13_ghosts-625408527-large.jpg",
-        "url": "https://listeamed.net/v/eL2157d6gmWxrw4",
-        "info": "[Español] [2001]",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
