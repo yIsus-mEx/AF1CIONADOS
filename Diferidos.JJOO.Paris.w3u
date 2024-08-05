@@ -8,12 +8,12 @@
 "stations":
     [
 	{
-        "name": "Argentina VS Marruecos",
-	"info":"[24-07-2024][FUTBOL]",
-        "image": "https://phantom-marca.unidadeditorial.es/9ba021876495bd64f1d38c6408007fc9/resize/660/f/webp/assets/multimedia/imagenes/2024/07/28/17221464490583.jpg",
-        "url": "https://filemoon.sx/d/celd7q26xeqe/JJOO_2024_Argentina_VS_Marruecos_Futbol_240724.mkv",
-        "isHost":"true",
-        "online":"true"
+        "name": "Novak Djokovic VS Carlos Alcaraz",
+        "info": "[04-08-2024][TENNIS]",
+        "image": "https://www.chilevision.cl/chilevision/site/artic/20240803/imag/foto_0000000220240803161550/Carlos_Alcaraz_vs_Novak_Djokovic_como_ver_en.jpg",
+        "url": "https://filemoon.sx/d/nw7c9bx0xby7",
+        "online": "true",
+        "isHost": "true"
         },
         {
         "name": "Hady Habib VS Carlos Alcaraz",
@@ -38,7 +38,14 @@
         "url": "https://filemoon.sx/d/hj4lvpnfwfz3/JJOO_2024_Tennis_Gonzalez-Molteni_VS_Alcaraz-Nadal_270724.mkv",
         "online": "true",
         "isHost": "true"
+        },
+        {
+        "name": "Argentina VS Marruecos",
+	"info":"[24-07-2024][FUTBOL]",
+        "image": "https://phantom-marca.unidadeditorial.es/9ba021876495bd64f1d38c6408007fc9/resize/660/f/webp/assets/multimedia/imagenes/2024/07/28/17221464490583.jpg",
+        "url": "https://filemoon.sx/d/celd7q26xeqe/JJOO_2024_Argentina_VS_Marruecos_Futbol_240724.mkv",
+        "isHost":"true",
+        "online":"true"
         }
-
 ]
 }
