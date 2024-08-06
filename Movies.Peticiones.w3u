@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Jovencito Frankestein",
+        "image": "https://pics.filmaffinity.com/young_frankenstein-226542108-large.jpg",
+        "url": "https://filemoon.sx/d/2w1saj2p75bi",
+        "info": "[1974][Español]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "All The Gods In The Sky",
         "image": "https://cineuropa.org/Galleries/364/336/poster_en_big.jpg",
