@@ -16,7 +16,7 @@
             [
 				{
                 "name": "Real Madrid vs FC Barcelona Tour Usa",
-	        	"info":"[03-Ago-24]",
+	        "info":"[03-Ago-24]",
                 "image": "https://i.postimg.cc/d1SkkGgB/image.jpg",
                 "url":"https://filemoon.sx/d/92h4i3s6s54q",
                 "isHost":"true",
@@ -80,6 +80,15 @@
 				}
 			]
 		},
+
+		{
+		"name": "Soccer Champions Tour USA 2024",
+		"image": "",
+		"url": "https://af1c1onados.vercel.app/",
+		"info": "bY. aDri",
+		"import": false
+		},
+
 		{
 		"name": "Eurocopa Alemania 2024",
 		"image": "https://i.postimg.cc/SNMRfhMP/Euro2024-new.png",
