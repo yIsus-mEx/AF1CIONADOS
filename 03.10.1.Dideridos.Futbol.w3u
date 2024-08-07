@@ -80,13 +80,70 @@
 				}
 			]
 		},
-
 		{
-		"name": "Soccer Champions Tour USA 2024",
-		"image": "",
-		"url": "https://af1c1onados.vercel.app/",
-		"info": "bY. aDri",
-		"import": false
+        	"name": "Soccer Champions Tour USA 2024",
+        	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+       		"imageScale": "",
+        	"info":"",
+        	"stations":
+            		[
+			{
+                	"name": "Manchester City VS Milan AD",
+	        	"info":"[27-Jul-24][Español]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"https://filemoon.sx/d/ioowapar9dgt/Champions_Tour_Manchester_City_VS_Milan_270724.mkv",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "FC Barcelona vs Manchester City",
+	        	"info":"[30-Jul-24][Español]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"https://filemoon.sx/d/hnuokpqoo1bf/Champions_Tour_FC_Barcelona_VS_Manchester_City_300724.mkv",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Milan AD vs Real Madrid",
+	        	"info":"[31-Jul-24][Español]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"https://filemoon.sx/d/52onwmzdchvz/Champions_Tour_Milan_VS_Real_Madrid_310724.mkv",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Real Madrid vs FC Barcelona",
+	        	"info":"[03-Ago-24][Español]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"https://filemoon.sx/d/tt6qewjhfluo/Champions_Tour_FC_Barcelona_VS_Real_Madrid_030824.mkv",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Real Madrid vs FC Barcelona",
+	        	"info":"[03-Ago-24][Latino]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"https://filemoon.sx/d/92h4i3s6s54q",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "FC Barcelona vs Milan AD",
+	        	"info":"[07-Ago-24][]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Real Madrid vs Chelsea",
+	        	"info":"[07-Ago-24][]",
+                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
+                	"url":"",
+                	"isHost":"true",
+                	"online":"true"
+                	}
+			]
 		},
 
 		{
