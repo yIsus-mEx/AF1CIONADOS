@@ -1,0 +1,68 @@
+{
+"name": "Crashing",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+        "imageScale": "",
+        "info":"",
+		    "stations":
+    		[
+        		{
+        		"name": "Episodio 01",
+        		"info": "",
+       		 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+        		"url": "",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+          ]
+          },
+
+        {
+        "name": "Temporada 02",
+        "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+        "imageScale": "",
+        "info":"",
+		    "stations":
+    		[
+        		{
+        		"name": "Episodio 01",
+        		"info": "",
+       		 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+        		"url": "",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+          ]
+          },
+
+        {
+        "name": "Temporada 03",
+        "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+        "imageScale": "",
+        "info":"",
+		    "stations":
+    		[
+        		{
+        		"name": "Episodio 01",
+        		"info": "",
+       		 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+        		"url": "",
+        		"userAgent" : "",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+          ]
+          }
+
+]
+}
