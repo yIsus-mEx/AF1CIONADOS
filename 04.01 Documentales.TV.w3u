@@ -195,22 +195,24 @@
         }
       ]
     },
+
     {
-      "name": "El Barrio, El Documental",
-      "image": "https://es.web.img3.acsta.net/img/e2/27/e2271a000ddac375bf20ae9f749e6271.jpg",
+      "name": "El Barrio, Un reino sin corona",
+      "image": "https://pics.filmaffinity.com/el_barrio_un_reino_sin_corona-979978645-large.jpg",
       "stations": 
       [
         {
-          "name": "El Barrio: Un Reyno Sin Corona",
+          "name": "El Barrio: Un Reino Sin Corona",
           "info": "[Español 2024]",
-          "image": "https://es.web.img3.acsta.net/img/e2/27/e2271a000ddac375bf20ae9f749e6271.jpg",
-          "url": "https://dl.buzzheavier.com/1790821509748285440",
+          "image": "https://pics.filmaffinity.com/el_barrio_un_reino_sin_corona-979978645-large.jpg",
+          "url": "https://filemoon.sx/d/e6kyiz5s9fqz/El_Barrio_Un_reino_sin_corona__2024_Documental_.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
           "online": "true"
         }
       ]
     },
+
     {
       "name": "Erase una vez un estudio",
       "image": "https://pics.filmaffinity.com/once_upon_a_studio-161910896-large.jpg",
