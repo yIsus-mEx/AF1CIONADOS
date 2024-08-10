@@ -135,6 +135,25 @@
         }
       ]
     },
+
+    {
+      "name": "Clint Eastwood, La ultima leyenda",
+      "image": "https://i.postimg.cc/VkPXXtMc/Clint-Eastwood-la-ltima-leyenda-2023-Pelicula.jpg",
+      "stations": [
+        {
+        "name": "Clint Eastwood, La ultima leyenda",
+        "image": "https://i.postimg.cc/VkPXXtMc/Clint-Eastwood-la-ltima-leyenda-2023-Pelicula.jpg",
+        "url": "https://filemoon.sx/d/houabcmaen4t",
+        "info": "2023",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        }
+      ]
+    },
+
     {
       "name": "Colgar las alas (Iker Casillas)",
       "image": "https://pics.filmaffinity.com/colgar_las_alas-307527699-large.jpg",
