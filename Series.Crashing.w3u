@@ -5,64 +5,61 @@
 "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups":
-    [
-        {
-        "name": "Temporada 01",
-        "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
-        "imageScale": "",
-        "info":"",
-		    "stations":
-    		[
-        		{
-        		"name": "Episodio 01",
-        		"info": "",
-       		 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
-        		"url": "",
-        		"userAgent" : "",
-        		"isHost":"true",
-        		"online":"true"
-        		}
-          ]
-          },
-
-        {
-        "name": "Temporada 02",
-        "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
-        "imageScale": "",
-        "info":"",
-		    "stations":
-    		[
-        		{
-        		"name": "Episodio 01",
-        		"info": "",
-       		 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
-        		"url": "",
-        		"userAgent" : "",
-        		"isHost":"true",
-        		"online":"true"
-        		}
-          ]
-          },
-
-        {
-        "name": "Temporada 03",
-        "image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
-        "imageScale": "",
-        "info":"",
-		    "stations":
-    		[
-        		{
-        		"name": "Episodio 01",
-        		"info": "",
-       		 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
-        		"url": "",
-        		"userAgent" : "",
-        		"isHost":"true",
-        		"online":"true"
-        		}
-          ]
-          }
-
-]
+"stations":
+    	[
+        	{
+        	"name": "Episodio 01",
+       		"info": "[VOSE],
+ 	 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+       		"url": "https://filemoon.sx/d/2trs2octntwb/Ver_crashing_s01e01_vose_web_720p_tito_mkv.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 02",
+       		"info": "[VOSE],
+ 	 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+       		"url": "https://filemoon.sx/d/uh3awjx47mxg/Ver_crashing_s01e02_hdtv_x264_mkv.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 03",
+       		"info": "[VOSE],
+ 	 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+       		"url": "https://filemoon.sx/d/rq0qpqxgqrid/Ver_crashing_s01e03_vose_web_720p_tito_mkv.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 04",
+       		"info": "[VOSE],
+ 	 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+       		"url": "https://filemoon.sx/d/ewlvradsq5bz/Ver_crashing_s01e04_vose_web_720p_tito_mkv.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 05",
+       		"info": "[VOSE],
+ 	 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+       		"url": "https://filemoon.sx/d/7tqpkgyqol2f/Ver_crashing_s01e05_vose_web_720p_tito_mkv.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 06",
+       		"info": "[VOSE],
+ 	 	"image": "https://pics.filmaffinity.com/crashing-323903100-large.jpg",
+       		"url": "https://filemoon.sx/d/7dtr6ag656z4/Ver_crashing_s01e06_vose_web_720p_tito_mkv.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		}
+	]
 }
