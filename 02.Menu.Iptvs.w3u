@@ -211,6 +211,13 @@
         "import": false
         },
         {
+        "name": "IPTV 30",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://eros.football:33200/get.php?username=restreamtvplux&password=Mhsi3wMSJSEjska343255&type=m3u_plus",
+        "info":"350 conex",
+        "import": false
+        },
+        {
         "name": "IPTV Series y Movies",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://84423.xyz:8000/get.php?username=SamuraITVod&password=P9476gmd23&type=m3u_plus",

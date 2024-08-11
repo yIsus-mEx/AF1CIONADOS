@@ -7,7 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Kung Fu Panda 4",
+        "info": "[2024][Español]",
+        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/kung_fu_panda_4/posters/01.jpg",
+        "url": "https://filemoon.sx/d/gupjp58i018m",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Rivales",
         "info": "[2024][Español]",
