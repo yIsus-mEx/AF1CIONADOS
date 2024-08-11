@@ -1,0 +1,47 @@
+
+
+
+
+// ATENCION: PENDIENTE DE IR COMPLETANDO LAS TEMPORADAS QUE ESTAN CREADAS EN UN REPOSITORIO LLAMADO "SERIES-HOUSE"
+
+
+{
+"name": "House",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+		{
+		"name": "Temporada 01",
+		"url":"",
+		"image":"https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+		"info":"[2004]"
+		},
+		{
+		"name": "Temporada 02",
+		"url":"",
+		"image":"",
+		"info":"[2004]"
+		},
+		{
+		"name": "Temporada 03",
+		"url":"",
+		"image":"https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+		"info":"[2004]"
+		},
+		{
+		"name": "Temporada 04",
+		"url":"",
+		"image":"https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+		"info":"[2004]"
+		}
+
+]
+}
+
+
+
+
