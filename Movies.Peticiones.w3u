@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Snatch: Cerdos y Diamantes",
+        "info": "[2000][Español]",
+        "image": "https://pics.filmaffinity.com/Snatch_Cerdos_y_diamantes-921179475-large.jpg",
+        "url": "https://filemoon.sx/d/agrzqe59x2m0",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Kung Fu Panda 4",
         "info": "[2024][Español]",
         "image": "https://www.universalpictures.com.mx/tl_files/content/movies/kung_fu_panda_4/posters/01.jpg",
