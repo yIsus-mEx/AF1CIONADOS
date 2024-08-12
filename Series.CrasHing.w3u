@@ -1,0 +1,57 @@
+{
+"name": "CrasHing",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.CrasHing.w3u",
+"image": "https://pics.filmaffinity.com/crashing-434849441-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"stations":
+    	[
+        	{
+        	"name": "Episodio 01",
+       		"info": "[VOSE],
+ 	 	      "image": "https://pics.filmaffinity.com/crashing-434849441-large.jpg",
+       		"url": "https://filemoon.sx/d/cmzobbzah5nl/Crashing_S01E01__2016_._Vose.Sub_.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 02",
+       		"info": "[VOSE],
+ 	 	      "image": "https://pics.filmaffinity.com/crashing-434849441-large.jpg",
+       		"url": "https://filemoon.sx/d/5c373wpvr8xz/Crashing_S01E02__2016_._Vose.Sub_.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 03",
+       		"info": "[VOSE],
+ 	 	      "image": "https://pics.filmaffinity.com/crashing-434849441-large.jpg",
+       		"url": "https://filemoon.sx/d/676els5sornz/Crashing_S01E03__2016_._Vose.Sub_.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 04",
+       		"info": "[VOSE],
+ 	 	      "image": "https://pics.filmaffinity.com/crashing-434849441-large.jpg",
+       		"url": "https://filemoon.sx/d/zpsnz2qk4379/Crashing_S01E04__2016_._Vose.Sub_.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		},
+        	{
+        	"name": "Episodio 05",
+       		"info": "[VOSE],
+ 	 	      "image": "https://pics.filmaffinity.com/crashing-434849441-large.jpg",
+       		"url": "https://filemoon.sx/d/h32pc2jh37a3/Crashing_S01E05__2016_._Vose.Sub_.mp4",
+       		"userAgent" : "",
+       		"isHost":"true",
+       		"online":"true"
+       		}
+
+         ]
+         }
