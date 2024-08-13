@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "El Juego del Asesino",
+        "info": "[2018][Español]",
+        "image": "https://pics.filmaffinity.com/El_juego_del_asesino-293811897-large.jpg",
+        "url": "https://filemoon.sx/d/vwyr9ce2wuxn",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Doctor Sueño",
         "info": "[2019][Español]",
         "image": "https://pics.filmaffinity.com/doctor_sleep-419012383-large.jpg",
