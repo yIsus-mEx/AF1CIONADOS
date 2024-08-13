@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "Doctor Sueño",
+        "info": "[2019][Español]",
+        "image": "https://pics.filmaffinity.com/doctor_sleep-419012383-large.jpg",
+        "url": "https://filemoon.sx/d/5jj8sfetm54x",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Cuñados",
+        "info": "[2021][Español]",
+        "image": "https://pics.filmaffinity.com/cunados-414673027-large.jpg",
+        "url": "https://filemoon.sx/d/e2dhoqdb7ia8/Cu_ados__2021_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Snatch: Cerdos y Diamantes",
         "info": "[2000][Español]",
         "image": "https://pics.filmaffinity.com/Snatch_Cerdos_y_diamantes-921179475-large.jpg",
