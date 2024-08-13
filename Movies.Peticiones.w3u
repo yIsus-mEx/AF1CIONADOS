@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Doctor Sueño",
+        "info": "[2019][Español]",
+        "image": "https://pics.filmaffinity.com/doctor_sleep-419012383-large.jpg",
+        "url": "https://filemoon.sx/d/5jj8sfetm54x",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Cuñados",
         "info": "[2021][Español]",
         "image": "https://pics.filmaffinity.com/cunados-414673027-large.jpg",
