@@ -7,52 +7,41 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
-        {
-        "name": "WRC Secto Rally Finlandia 2024",
-        "info":"[Acestream]",
+       {
+        "name": "Real Madrid Vs Atalanta",
+        "info":"",
         "online":"true",
-        "image": "https://i.postimg.cc/0jdCwPyL/Screenshot-2024-08-03-at-14-10-49-FIA-WRC-2024-Rally-de-Finlandia-evento-info-v-deos.png",
-        "url": "acestream://5e0e6a40231e770201f860bf5531a236e2094497",
+        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
+        "url": "https://freestreams-live.my/tudn1/",
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Secto Rally Finlandia 2024",
-        "info":"[iPhone]",
-        "online":"true",
-        "image": "https://i.postimg.cc/0jdCwPyL/Screenshot-2024-08-03-at-14-10-49-FIA-WRC-2024-Rally-de-Finlandia-evento-info-v-deos.png",
-        "url": "https://vkvsd34.mycdn.me/hls/6757798906394.m3u8/sig/2N3Tg6vjT78/srcIp/83.45.46.74/urls/185.226.52.91/expires/1723121617704/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7396085082906/id/6757798906394/6757798906394_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Secto Rally Finlandia 2024",
-        "info":"[Android]",
-        "online":"true",
-        "image": "https://i.postimg.cc/0jdCwPyL/Screenshot-2024-08-03-at-14-10-49-FIA-WRC-2024-Rally-de-Finlandia-evento-info-v-deos.png",
-        "url": "https://vkvsd165.mycdn.me/hls/6757798906394.m3u8/sig/yWV8ryefeAE/expires/1722748783244/srcIp/83.45.46.74/urls/185.226.53.54/clientType/14/srcAg/CHROME_ANDROID/mid/7396085082906/6757798906394_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Secto Rally Finlandia 2024",
-        "info":"[iPhone]",
-        "online":"true",
-        "image": "https://i.postimg.cc/0jdCwPyL/Screenshot-2024-08-03-at-14-10-49-FIA-WRC-2024-Rally-de-Finlandia-evento-info-v-deos.png",
-        "url": "https://vkvsd34.mycdn.me/hls/6757798906394.m3u8/sig/2N3Tg6vjT78/srcIp/83.45.46.74/urls/185.226.52.91/expires/1723121617704/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7396085082906/id/6757798906394/6757798906394_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
-        },
-        {
-        "name": "WRC Secto Rally Finlandia 2024",
-        "info":"[Android]",
-        "online":"true",
-        "image": "https://i.postimg.cc/0jdCwPyL/Screenshot-2024-08-03-at-14-10-49-FIA-WRC-2024-Rally-de-Finlandia-evento-info-v-deos.png",
-        "url": "https://vkvsd34.mycdn.me/hls/6757798906394.m3u8/sig/SyCyhjZKdc0/expires/1722748915623/srcIp/83.45.46.74/urls/185.226.52.91/clientType/14/srcAg/CHROME_ANDROID/mid/7396085082906/6757798906394_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "isHost": ""
+        "isHost": "true"
         }
-
+        {
+        "name": "Real Madrid Vs Atalanta",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
+        "url": "https://paco@embedme.top/embed/alpha/uefa-super-cup-real-madrid-vs-atalanta/3",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": "true"
+        },
+        {
+        "name": "Real Madrid Vs Atalanta",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
+        "url": "https://freestreams-live.my/espn-sur/",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": "true"
+        },
+         {
+        "name": "Real Madrid Vs Atalanta",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
+        "url": "https://freestreams-live.my/mligadecampeones/",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": "true"
+        }
     ]
 }
