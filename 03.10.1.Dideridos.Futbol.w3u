@@ -15,6 +15,14 @@
         "stations":
             [
 				{
+                "name": "Real Madrid vs Atalanta",
+	        "info":"[14-Ago-24]",
+                "image": "https://phantom-marca.unidadeditorial.es/0ca04992a03fa9562c28d24da42ddee1/resize/660/f/webp/assets/multimedia/imagenes/2024/08/15/17237110277584.jpg",
+                "url":"https://listeamed.net/v/rabVOQQPngAOKdW",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
                 "name": "Real Madrid vs FC Barcelona Tour Usa",
 	        "info":"[03-Ago-24]",
                 "image": "https://i.postimg.cc/d1SkkGgB/image.jpg",
