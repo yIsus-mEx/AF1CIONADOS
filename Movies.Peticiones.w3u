@@ -7,6 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+         {
+        "name": "El Ultimo Guerrero: Las Raices Del Mal",
+        "info": "[2021][Español]",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/a8153bd0852709d2fc14bf52f347af10de45443394f9a745d08b12ae6b3da040.jpg",
+        "url": "https://filemoon.sx/d/bn4w1me0gubk",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "El Juego del Asesino",
         "info": "[2018][Español]",
