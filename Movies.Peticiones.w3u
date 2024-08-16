@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Ultimo viaje de Demeter, El",
+        "info": "[2023][Idioma DUAL]",
+        "image": "https://pics.filmaffinity.com/the_last_voyage_of_the_demeter-110940650-large.jpg",
+        "url": "https://filemoon.sx/d/8woa5oyvk4wi",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Maixabel",
         "info": "[2021][Español]",
         "image": "https://pics.filmaffinity.com/Maixabel-491379276-large.jpg",
