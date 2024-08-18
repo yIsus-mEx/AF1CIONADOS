@@ -8,6 +8,56 @@
 "groups":
     [
         {
+         "name": "UFC 305: Du Plessis vs Adesanya",
+         "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 305: Du Plessis vs Adesanya",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+                "url":"https://filemoon.sx/d/dfqmru75cxht",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 305: Du Plessis vs Adesanya",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+                "url":"https://filemoon.sx/d/wy0qb9pd3xi3",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Tybura vs Spivak 2",
+         "image": "https://i.postimg.cc/9QWdvjXS/Tybura-vs-Spivak-2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Tybura vs Spivak 2",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/9QWdvjXS/Tybura-vs-Spivak-2.png",
+                "url":"https://filemoon.sx/d/0e37e9fhsudk",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Fight Night: Tybura vs Spivak 2",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/9QWdvjXS/Tybura-vs-Spivak-2.png",
+                "url":"https://filemoon.sx/d/1ziyajvxvy87",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "Fight Night: Sandhagen vs Nurmagomedov",
          "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
          "imageScale": "",
