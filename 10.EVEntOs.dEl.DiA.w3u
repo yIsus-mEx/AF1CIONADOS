@@ -8,40 +8,40 @@
 "stations":
     [
        {
-        "name": "Real Madrid Vs Atalanta",
-        "info":"",
-        "online":"true",
-        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
-        "url": "https://2ac3ac94a13e.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.241533163921.channel.BDCHUoBq7TXh.m3u8",
+        "name": "08:23h Barum Czech Rally Zlín 2024 Dia 3",
+        "info":"Para Android 720p",
+        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
+        "url": "https://vkvsd80.mycdn.me/hls/6824969767450.m3u8/sig/PHj5ZVTLLzg/srcIp/83.41.108.123/urls/185.226.53.65/expires/1724423880825/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7438624238362/id/6824969767450/6824969767450_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
         "isHost": ""
         },
-        {
-        "name": "Real Madrid Vs Atalanta",
-        "info":"",
-        "online":"true",
-        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
-        "url": "https://c8598eb87511.us-west-2.playback.live-video.net/api/video/v1/us-west-2.241533163921.channel.TA2HpyIkJchw.m3u8",
+       {
+        "name": "08:23h Barum Czech Rally Zlín 2024 Dia 3",
+        "info":"Para iPhone 720p",
+        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
+        "url": "https://vkvsd52.mycdn.me/hls/6824969767450.m3u8/sig/Z8NIqgVATHM/srcIp/83.41.108.123/urls/45.136.21.85/expires/1724423218793/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7438624238362/id/6824969767450/6824969767450_high/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
         "isHost": ""
         },
-        {
-        "name": "Real Madrid Vs Atalanta",
-        "info":"",
-        "online":"true",
-        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
-        "url": "https://663a76fc08ca.us-east-1.playback.live-video.net/api/video/v1/us-east-1.241533163921.channel.yrqRK0yzfmWi.m3u8",
+       {
+        "name": "08:23h Barum Czech Rally Zlín 2024 Dia 3",
+        "info":"Para iphone 1080p",
+        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
+        "url": "https://vkvsd97.mycdn.me/hls/6824969767450.m3u8/sig/um-fZBTPV80/srcIp/83.45.176.129/urls/45.136.21.85/expires/1724432120181/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7438624238362/id/6824969767450/6824969767450_fullhd/index.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
         "isHost": ""
         },
-        {
-        "name": "Real Madrid Vs Atalanta",
-        "info":"",
+       {
+        "name": "08:23h Barum Czech Rally Zlín 2024 Dia 3",
+        "info":"Para Android 1080p",
+        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
+        "url": "https://vkvsd80.mycdn.me/hls/6824969767450.m3u8/sig/JbX_cF82DO4/srcIp/83.45.176.129/urls/45.136.20.64/expires/1724432020745/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7438624238362/id/6824969767450/6824969767450_fullhd/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "image": "https://i.postimg.cc/fRbtH44R/hq720.jpg",
-        "url": "https://whipwhip.xyz/str.php?id=live106",
-        "userAgent": "",
-        "isHost": "true"
+        "isHost": ""
         }
     ]
 }
