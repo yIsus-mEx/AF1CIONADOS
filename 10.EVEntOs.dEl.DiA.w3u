@@ -17,31 +17,14 @@
         "isHost": ""
         },
        {
-        "name": "17:00h Nascar Cup Series - Michigan - FireKeepers Casino 400 - Previo + Carrera (Reanudación)                                                                                         ",
-        "info":"Para iPhone 720p",
-        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
-        "url": "https://vkvsd74.mycdn.me/hls/6833417488922.m3u8/sig/DlpK4Vb83PQ/srcIp/37.14.45.69/urls/185.226.52.100/expires/1724536115128/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7446329764634/id/6833417488922/6833417488922_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "name": "Prueba",
+        "info":"",
         "online":"true",
+        "image": "",
+         "url" : "https://iosmirror.cc/hls/81262746.m3u8",
+        "userAgent": "",
         "isHost": ""
-        },
-       {
-        "name": "17:00h Nascar Cup Series - Michigan - FireKeepers Casino 400 - Previo + Carrera (Reanudación)                                                                                         ",
-        "info":"Para iphone 1080p",
-        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
-        "url": "https://vkvsd74.mycdn.me/hls/6833417488922.m3u8/sig/DlpK4Vb83PQ/srcIp/37.14.45.69/urls/185.226.52.100/expires/1724536115128/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7446329764634/id/6833417488922/6833417488922_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost": ""
-        },
-       {
-        "name": "17:00h Nascar Cup Series - Michigan - FireKeepers Casino 400 - Previo + Carrera (Reanudación)                                                                                         ",
-        "info":"Para Android 1080p",
-        "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
-        "url": "https://vkvsd206.mycdn.me/hls/6833417488922.m3u8/sig/kUJ89NrhjbA/srcIp/37.14.45.69/urls/45.136.21.79/expires/1724536067858/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7446329764634/id/6833417488922/6833417488922_fullhd/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost": ""
+        "referer" : "referer=https://iosmirror.cc/"
         }
     ]
 }
