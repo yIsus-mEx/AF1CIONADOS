@@ -8,6 +8,60 @@
 "groups":
     [
 		{
+        "name": "R25 NASCAR FireKeepers Casino 400",
+        "info":"",
+        "image": "https://i.postimg.cc/P5gNfK9Z/Fire-Keepers-Casino-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR FireKeepers Casino 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/P5gNfK9Z/Fire-Keepers-Casino-400.png",
+                "url":"https://filemoon.sx/d/4wucqy92f6q5",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR FireKeepers Casino 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/P5gNfK9Z/Fire-Keepers-Casino-400.png",
+                "url":"https://filemoon.sx/e/ccln0zmojgkm",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R24 NASCAR Cook Out 400",
+        "info":"",
+        "image": "https://i.postimg.cc/g0LRNxFy/Cook-Out-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Cook Out 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/g0LRNxFy/Cook-Out-400.png",
+                "url":"https://filemoon.sx/d/0y1rszxwhis6",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Cook Out 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/g0LRNxFy/Cook-Out-400.png",
+                "url":"https://filemoon.sx/e/8xjcml6mkjk2",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R23 NASCAR Brickyard 400",
         "info":"",
         "image": "https://i.postimg.cc/bNBqbL0X/NASCAR-Brickyard-400.png",
