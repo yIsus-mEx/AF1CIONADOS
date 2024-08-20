@@ -10,14 +10,22 @@
 
     {
     "name": "TEMPORADA 1",
-		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
+	"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
     "stations":
     [
+		{
+		"name": "Episodio 01",
+		"info":"https://filemoon.sx/d/rfg05o5l2dnv/Ver_the_pretenders_s01e01_lat_dvdrip_mkv.mp4",
+		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
+		"url": "",
+		"isHost":"true",
+		"online":"true"
+		},
 		{
 		"name": "Episodio 02",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/r1wfsvhk4e0n/Ver_the_pretenders_s01e02_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -25,7 +33,7 @@
 		"name": "Episodio 03",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/nxz07rt3ntga/Ver_the_pretenders_s01e03_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -33,7 +41,7 @@
 		"name": "Episodio 04",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/5xp94qo7pc40/Ver_the_pretenders_s01e04_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -41,7 +49,7 @@
 		"name": "Episodio 05",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/0pnawkhc1crn/Ver_the_pretenders_s01e05_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -49,7 +57,7 @@
 		"name": "Episodio 06",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/qny7o9zicnx0/Ver_the_pretenders_s01e06_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -57,7 +65,7 @@
 		"name": "Episodio 07",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/rd6uvo7vqs5t/Ver_the_pretenders_s01e07_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -65,15 +73,7 @@
 		"name": "Episodio 08",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 01",
-		"info":"",
-		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/v1dq46u7qleo/Ver_the_pretenders_s01e08_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -81,7 +81,7 @@
 		"name": "Episodio 09",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/huld7aatw49v/Ver_the_pretenders_s01e09_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		},
@@ -89,7 +89,31 @@
 		"name": "Episodio 10",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
-		"url": "",
+		"url": "https://filemoon.sx/d/ucalx2paiupa/Ver_the_pretenders_s01e10_lat_dvdrip_mkv.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 11",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
+		"url": "https://filemoon.sx/d/322u8ftpl0y2/Ver_the_pretenders_s01e11_lat_dvdrip_mkv.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 12",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
+		"url": "https://filemoon.sx/d/4bfev45b5750/Ver_the_pretenders_s01e12_lat_dvdrip_mkv.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 13",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
+		"url": "https://filemoon.sx/d/pylo0gikxagj/Ver_the_pretenders_s01e13_lat_dvdrip_mkv.mp4",
 		"isHost":"true",
 		"online":"true"
 		}
@@ -98,9 +122,17 @@
 
     {
     "name": "TEMPORADA 2",
-		"image":"https://pics.filmaffinity.com/los_simuladores_tv_series-915140598-large.jpg",
+	"image":"https://pics.filmaffinity.com/los_simuladores_tv_series-915140598-large.jpg",
     "stations":
     [
+		{
+		"name": "Episodio 01",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
+		"url": "",
+		"isHost":"true",
+		"online":"true"
+		},
 		{
 		"name": "Episodio 02",
 		"info":"",
