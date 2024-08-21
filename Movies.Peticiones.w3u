@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "Tirador, El",
+        "info": "[2007][castellano español]",
+        "image": "https://pics.filmaffinity.com/shooter-787378275-large.jpg",
+        "url": "https://filemoon.sx/d/qijjkne6f3q8/Tirador__2007_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Milla Verde, La",
+        "info": "[1999][castellano español]",
+        "image": "https://pics.filmaffinity.com/the_green_mile-631715339-large.jpg",
+        "url": "https://filemoon.sx/d/vao463030k9q/Milla_Verde__1999_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "El Regreso de Ben",
         "info": "[2018][Español]",
         "image": "https://es.web.img3.acsta.net/pictures/18/11/19/12/29/1353589.jpg",
