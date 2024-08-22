@@ -8,6 +8,33 @@
 "stations":
     [
         {
+        "name": "Algunos hombres buenos",
+        "info": "[1992][Español]",
+        "image": "https://pics.filmaffinity.com/a_few_good_men-646229005-large.jpg",
+        "url": "https://filemoon.sx/d/rvqlzx0j4edm/Algunos_hombres_buenos__1992_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Domingo cualquiera, Un",
+        "info": "[1999][Español]",
+        "image": "https://pics.filmaffinity.com/any_given_sunday-662031456-large.jpg",
+        "url": "https://filemoon.sx/d/5q78ee46hbdm/Domingo_cualquiera__1999_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "12 hombres sin piedad",
+        "info": "[1973][Español]",
+        "image": "https://pics.filmaffinity.com/estudio_1_doce_hombres_sin_piedad_tv-256832682-large.jpg",
+        "url": "https://filemoon.sx/d/qg7alib01rcz/12_hombres_sin_piedad__1973_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Al final de la escalera",
         "info": "[1980][Español]",
         "image": "https://pics.filmaffinity.com/the_changeling-909276203-large.jpg",
