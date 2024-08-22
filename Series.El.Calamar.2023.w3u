@@ -8,202 +8,283 @@
 "groups":
     [
         {
-        "name": "Juego del Calamar El Desafio",
-        "info":"",
-        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+        "name": "El Desafio",
+        "info":"Temporada 1",
+        "image": "https://i.postimg.cc/x8KzNXfG/desafio.png",
         "imageScale": "",
-        "groups":
+        "stations":
             [
                 {
-                "name": "Temporada 01",
-                "info":"",
+                "name": "1.- Luz roja, luz verde",
+                "info":"Latino",
                 "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "imageScale": "",
-                "stations":
-                    [
-                        {
-                        "name": "1.- Luz roja, luz verde",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/1mj4kcmhjmph",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "1.- Luz roja, luz verde",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/jukp18990pjc",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "2.- El hombre del paraguas",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/blz3avl0tz8y",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "2.- El hombre del paraguas",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/a47qj2yr5h2w",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "3.- Guerra",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/8lt4fxgph8iq",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "3.- Guerra",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/rufy096ntq03",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "4.- No hay dónde esconderse",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/mpiepqwo9u3y",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "4.- No hay dónde esconderse",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/cqojf1paksqw",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "5.- Un respiro",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/xb89hvxb9fog",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "5.- Un respiro",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/pzspzph1hnsz",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "6.- Adiós",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/lq6hbcw2hmh8",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "6.- Adiós",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/vdy7kzgzca94",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "7.-  Amigos y enemigos",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/3alqc5iu471c",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "7.-  Amigos y enemigos",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/09phh9009y2t",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "8.- Un paso más cerca",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/uly96dzlmoch",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "8.- Un paso más cerca",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/1v10p2thqf9d",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "9.- Círculo de confianza",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/ljptvo5hen9x",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "9.- Círculo de confianza",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://upstream.to/cy9mex210zca",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "10.- Un Día de Suerte",
-                        "info":"Latino",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/iejlrkq528aa",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "10.- Un Día de Suerte",
-                        "info":"Castellano",
-                        "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                        "url":"https://filemoon.sx/e/90xj5qimcuaj",
-                        "userAgent" : "",
-                        "isHost": "true",
-                        "online":"true"
-                        }
-			        ]
+                "url":"https://filemoon.sx/e/1mj4kcmhjmph",
+                "userAgent" : "",
+                "isHost": "true",
+                online":"true"
+                },
+                {
+                "name": "1.- Luz roja, luz verde",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/jukp18990pjc",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "2.- El hombre del paraguas",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/blz3avl0tz8y",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "2.- El hombre del paraguas",
+                info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/a47qj2yr5h2w",
+                userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "3.- Guerra",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/8lt4fxgph8iq",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "3.- Guerra",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/rufy096ntq03",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "4.- No hay dónde esconderse",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/mpiepqwo9u3y",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "4.- No hay dónde esconderse",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/cqojf1paksqw",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "5.- Un respiro",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/xb89hvxb9fog",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "5.- Un respiro",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/pzspzph1hnsz",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "6.- Adiós",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/lq6hbcw2hmh8",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "6.- Adiós",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/vdy7kzgzca94",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "7.-  Amigos y enemigos",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/3alqc5iu471c",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "7.-  Amigos y enemigos",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/09phh9009y2t",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "8.- Un paso más cerca",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/uly96dzlmoch",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "8.- Un paso más cerca",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/1v10p2thqf9d",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "9.- Círculo de confianza",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/ljptvo5hen9x",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "9.- Círculo de confianza",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://upstream.to/cy9mex210zca",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "10.- Un Día de Suerte",
+                "info":"Latino",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/iejlrkq528aa",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "10.- Un Día de Suerte",
+                "info":"Castellano",
+                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
+                "url":"https://filemoon.sx/e/90xj5qimcuaj",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
                 }
 	        ]
+        },
+        {
+        "name": "Juego del Calamar",
+        "info":"Temporada 1",
+        "image": "https://i.postimg.cc/L8SVDMG6/calamar.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/mkemgd93oj4y",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 02",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/5qvijhezq10o",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 03",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/r6dbcelc9rjc",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 04",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/vidbajyzod3t",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 05",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/t6ioogdhfxrg",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 06",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/uaxkt7zortko",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 07",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/eafghhefq1aw",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 08",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/xa0gsvuv3i9m",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 09",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+                "url":"https://donaldlineelse.com/tjonbie0rx2g",
+                "userAgent" : "",
+                "isHost": "true",
+                "online":"true"
+                }
+            ]
         }
     ]
 }				
