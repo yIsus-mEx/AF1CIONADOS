@@ -21,7 +21,7 @@
                 "url":"https://filemoon.sx/e/1mj4kcmhjmph",
                 "userAgent" : "",
                 "isHost": "true",
-                online":"true"
+                "online":"true"
                 },
                 {
                 "name": "1.- Luz roja, luz verde",
@@ -43,10 +43,10 @@
                 },
                 {
                 "name": "2.- El hombre del paraguas",
-                info":"Castellano",
+                "info":"Castellano",
                 "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
                 "url":"https://upstream.to/a47qj2yr5h2w",
-                userAgent" : "",
+                "userAgent" : "",
                 "isHost": "true",
                 "online":"true"
                 },
