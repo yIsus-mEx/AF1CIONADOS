@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Fly me to the Moon",
+        "info": "[2024][Español]",
+        "image": "https://pics.filmaffinity.com/fly_me_to_the_moon-279859131-large.jpg",
+        "url": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Algunos hombres buenos",
         "info": "[1992][Español]",
         "image": "https://pics.filmaffinity.com/a_few_good_men-646229005-large.jpg",
