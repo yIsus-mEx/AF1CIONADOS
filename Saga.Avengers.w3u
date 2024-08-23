@@ -1,0 +1,29 @@
+{
+"name": "Saga Avengers",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Saga.Avengers.w3u",
+"info": "Lista_AF1CIONADOS",
+"author": "bY yIsus",
+"telegram": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Avengers: Infinity War",
+		"info": "[2018][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/K8G9XLvX/AV-INFINITY.png",
+        "url": "https://filemoon.sx/d/h9jobhnwd4kd",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Avengers: End Game",
+		"info": "[2019][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/tRFDYDsQ/AV-ENDGAME.png",
+        "url": "https://filemoon.sx/d/v0i7bi6m1vdd",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	}
+	]
+}
