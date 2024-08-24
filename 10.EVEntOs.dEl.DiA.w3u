@@ -15,7 +15,7 @@
        	"info": "[Liga EA Sport]",
 	"referer" : "referer=https://www.oha.to/",  
        	"embed": "",
-       	"isHost": "true",
+       	"isHost": "",
        	"online": "true",
 	"userAgent":"",
        	"import": false
@@ -27,7 +27,7 @@
        	"info": "[Liga EA Sport]",
 	"referer" : "referer=https://www.oha.to/", 
        	"embed": "",
-       	"isHost": "true",
+       	"isHost": "",
        	"online": "true",
 	"userAgent":"",
        	"import": false
