@@ -8,38 +8,7 @@
 "stations":
     [
 
-       {
-       "name": "Mundo Manujaz",
-       "info":"[iPhone 1080p]",
-       "online":"true",
-       "image": "https://i.postimg.cc/T1s1b18f/photo_2024-08-18_12-00-07.jpg",
-       "url" : "",
-       "import" : false
-       },
-       {
-       "name": "Mundo Manujaz",
-       "info":"[Android 1080p]",
-       "online":"true",
-       "image": "https://i.postimg.cc/T1s1b18f/photo_2024-08-18_12-00-07.jpg",
-       "url" : "",
-       "import" : false
-       },
-       {
-       "name": "Mundo Manujaz",
-       "info":"[iPhone 720p]",
-       "online":"true",
-       "image": "https://i.postimg.cc/T1s1b18f/photo_2024-08-18_12-00-07.jpg",
-       "url" : "",
-       "import" : false
-       },
-       {
-       "name": "Mundo Manujaz",
-       "info":"[Android 720p]",
-       "online":"true",
-       "image": "https://i.postimg.cc/T1s1b18f/photo_2024-08-18_12-00-07.jpg",
-       "url" : "",
-       "import" : false
-       }
+
 
     ]
 }
