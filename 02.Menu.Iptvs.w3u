@@ -356,13 +356,7 @@
         "url": "http://84423.xyz:8000/get.php?username=SamuraITVod&password=P9476gmd23&type=m3u_plus",
         "info":"200 conex",
         "import": false
-        },
-		{
-        "name": "TDTChannels",
-        "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
-        "url": "https://pastebin.com/UWXsWLF9",
-        "info":"",
-        "import": false
         }
+
     ]
 }
