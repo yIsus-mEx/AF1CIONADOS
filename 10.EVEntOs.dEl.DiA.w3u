@@ -10,9 +10,9 @@
 
 	{
 	"name": "Dazn LaLiga Tv",
-        "image": "",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
         "url": "https://www.oha.to/play/3461295847/index.m3u8",
-       	"info": "[Liga EA Sport]",
+       	"info": "[Solo en Latam]",
 	"referer" : "referer=https://www.oha.to/",  
        	"embed": "",
        	"isHost": "",
@@ -22,9 +22,9 @@
        	},
 	{
 	"name": "Dazn LaLiga Tv",
-        "image": "",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
         "url": "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/T25Auggd2hflZLGn_ecXwyaUHbDktXrR70iTOHDmPbh5yEY5CEiDdVHMBPh__TWisHx4bjEa1umSRbMOrGWuLYswHFyTnBJpi8iP3bqI6px4UiPZmanjzVb9udYbbg8reHKiZ_50hJXsgepxxPhUvHiD4oSD5gZeuRRzziVcgS4/hls/index.m3u8",
-       	"info": "[Liga EA Sport]",
+       	"info": "[Solo en España]",
 	"referer" : "referer=https://www.oha.to/", 
        	"embed": "",
        	"isHost": "",
@@ -36,7 +36,7 @@
 	"name": "Dazn F1",
         "image": "",
         "url": "https://www.oha.to/play/1826839470/index.m3u8",
-       	"info": "[Liga EA Sport]",
+       	"info": "[Solo en Latam]",
 	"referer" : "referer=https://www.oha.to/",  
        	"embed": "",
        	"isHost": "",
