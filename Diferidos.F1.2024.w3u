@@ -8,6 +8,105 @@
 "groups":
     [
         {
+        "name": "F1 2024 Paises Bajos [23-25.Ago24]",
+        "info":"",
+        "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"https://listeamed.net/v/qM1VOPNKLrJxo4k",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"https://listeamed.net/v/edVqE4rPPoR5YWm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"https://listeamed.net/v/edVqE4rPJdw5YWm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"https://listeamed.net/v/7QWN5ey224K59oR",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Belgica [26-28.Jul24]",
         "info":"",
         "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
@@ -39,7 +138,7 @@
                 "url":"https://filemoon.sx/d/v58rk2olipe8",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
 		        {
                 "name": "Libres 2",
@@ -57,7 +156,7 @@
                 "url":"https://filemoon.sx/d/xj57luxqfvok",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
 		        {
                 "name": "Libres 3",
