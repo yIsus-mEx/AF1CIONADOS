@@ -180,6 +180,54 @@
 	"userAgent":"",
        	"import": false
        	},
+	{
+	"name": "Dazn LaLiga Tv",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "https://dlhd.sx/stream/stream-538.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn LaLiga Tv",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "https://dlhd.sx/stream/stream-538.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn LaLiga Tv",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "https://dlhd.sx/stream/stream-538.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Dazn LaLiga Tv",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "https://dlhd.sx/stream/stream-538.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 
 	{
 	"name": "Movistar LaLiga Tv",
@@ -205,6 +253,54 @@
 	"userAgent":"",
        	"import": false
        	},
+	{
+	"name": "Movistar LaLiga Tv",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "https://dlhd.sx/stream/stream-84.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Movistar LaLiga Tv",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "https://dlhd.sx/stream/stream-84.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Movistar LaLiga Tv",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "https://dlhd.sx/stream/stream-84.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Movistar LaLiga Tv",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "https://dlhd.sx/stream/stream-84.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 
 	{
 	"name": "Liga HyperMotion",
@@ -228,6 +324,54 @@
        	"isHost": "",
        	"online": "true",
 	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Liga HyperMotion",
+        "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+        "url": "https://dlhd.sx/stream/stream-539.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Liga HyperMotion",
+        "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+        "url": "https://dlhd.sx/stream/stream-539.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Liga HyperMotion",
+        "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+        "url": "https://dlhd.sx/stream/stream-539.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Liga HyperMotion",
+        "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+        "url": "https://dlhd.sx/stream/stream-539.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
        	"import": false
        	}
 
