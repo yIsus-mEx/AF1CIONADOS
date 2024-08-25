@@ -7,8 +7,174 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
-
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://www.oha.to/play/1826839470/index.m3u8",
+       	"info": "[Solo en Latam]",
+	"referer" : "https://www.oha.to/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://www.oha.to/play/1826839470/index.m3u8",
+       	"info": "[Solo en España]",
+	"referer" : "referer=https://www.oha.to/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en Latam]",
+	"referer" : "https://dlhd.sx/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "referer=https://dlhd.sx/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Dazn LaLiga Tv",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "https://www.oha.to/play/3461295847/index.m3u8",
+       	"info": "[Solo en Latam]",
+	"referer" : "https://www.oha.to/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn LaLiga Tv",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "https://www.oha.to/play/3461295847/index.m3u8",
+       	"info": "[Solo en España]",
+	"referer" : "referer=https://www.oha.to/", 
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Movistar LaLiga Tv",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "https://www.oha.to/play/2428779244/index.m3u8",
+       	"info": "[Solo en Latam]",
+	"referer" : "https://www.oha.to/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Movistar LaLiga Tv",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "https://www.oha.to/play/2428779244/index.m3u8",
+       	"info": "[Solo en España]",
+	"referer" : "referer=https://www.oha.to/", 
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Liga HyperMotion",
+        "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+        "url": "https://www.oha.to/play/3958277473/index.m3u8",
+       	"info": "[Solo en Latam]",
+	"referer" : "https://www.oha.to/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Liga HyperMotion",
+        "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+        "url": "",
+       	"info": "[Solo en España]",
+	"referer" : "referer=https://www.oha.to/", 
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	}
 
     ]
 }
