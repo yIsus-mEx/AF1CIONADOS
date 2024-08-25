@@ -32,6 +32,78 @@
        	"import": false
        	},
 	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en Latam]",
+	"referer" : "https://dlhd.sx/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "referer=https://dlhd.sx/",  
+       	"embed": "",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Dazn F1",
+        "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+        "url": "https://dlhd.sx/stream/stream-537.php",
+       	"info": "[Solo en España]",
+	"referer" : "",  
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
 	"name": "Dazn LaLiga Tv",
         "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
         "url": "https://www.oha.to/play/3461295847/index.m3u8",
