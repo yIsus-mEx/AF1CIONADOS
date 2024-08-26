@@ -1,0 +1,57 @@
+
+{
+"name": "Saga Highlander",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.Highlander.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "by YIsus_mEx",
+"stations":
+    [
+        {
+        "name": "Los Inmortales I",
+        "info":"[Español][1986]",
+        "image": "https://i.postimg.cc/4NgY40fD/Highlander-01.png",
+        "url":"",
+        "isHost": "true",
+        "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los Inmortales II: El Desafío",
+        "info":"[Español][1991]",
+        "image": "https://i.postimg.cc/wB7vb82m/Highlander-02.png",
+        "url":"",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los Inmortales III: El Hechicero",
+        "info":"[Español][1995]",
+        "image": "https://i.postimg.cc/43q3DL2F/Highlander-03.png",
+        "url":"",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los Inmortales: Juego Final",
+        "info":"[Español][2000]",
+        "image": "https://i.postimg.cc/2yF8BzkP/Highlander-04.png",
+        "url":"",
+        "isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los inmortales: En Busca de la Venganza",
+        "info":"[Español][2007]",
+        "image": "https://i.postimg.cc/Cx6M8r0L/Highlander-05.png",
+        "url":"",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	}
+    ]
+}
