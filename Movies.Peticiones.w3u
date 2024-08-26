@@ -7,7 +7,42 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "High School Musical I",
+        "info": "[2006][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_hsm-718907368-large.jpg",
+        "url": "https://filemoon.sx/d/1xvnlfgc470g",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "High School Musical II",
+        "info": "[2007][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_2_hsm_2-318249736-large.jpg",
+        "url": "https://filemoon.sx/d/ncnu7d73w5qq",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "High School Musical III",
+        "info": "[2008][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_3_senior_year_hsm_3-632878795-large.jpg",
+        "url": "https://filemoon.sx/d/y2t32whcnet4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "The Last: Naruto la Película",
+        "info": "[2014][Español]",
+        "image": "https://pics.filmaffinity.com/The_Last_Naruto_the_Movie-717576587-large.jpg",
+        "url": "https://filemoon.top/e/c8vvbwlfl4gm/_AnimeOnlineNinja__Naruto_Shippuden_Movie_Castellano_07",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Inmortales, Los",
         "info": "[1986][Español]",
