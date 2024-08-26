@@ -90,19 +90,28 @@
                 "name": "Carrera",
                 "info":"[DAZN F1]",
                 "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
-                "url":"",
+                "url":"https://listeamed.net/v/0DogOGMB3mKxKjM",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
 		        {
                 "name": "Carrera",
                 "info":"[F1Tv]",
                 "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
-                "url":"",
+                "url":"https://listeamed.net/v/b4ZJx21wQ2A52P3",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
+                "url":"https://listeamed.net/v/JzkPxznb8BMxbyd",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
