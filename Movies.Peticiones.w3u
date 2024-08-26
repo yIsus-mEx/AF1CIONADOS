@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Mesita del Comedor, La",
+        "info": "[2024][Español]",
+        "image": "https://pics.filmaffinity.com/fly_me_to_the_moon-279859131-large.jpg",
+        "url": "https://filemoon.sx/d/7ibzwwjb1z2a",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Fly me to the Moon (La otra cara de la luna)",
         "info": "[2024][Español]",
