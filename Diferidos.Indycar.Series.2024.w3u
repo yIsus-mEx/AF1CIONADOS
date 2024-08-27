@@ -8,6 +8,31 @@
 "groups":
     [
         {
+        "name": "R14 IndyCar Portland",
+        "image": "https://i.postimg.cc/k4Y2Vffx/indycar-portlan.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/k4Y2Vffx/indycar-portlan.png",
+                "url" :"https://listeamed.net/v/04rQxWW2mWpxb2N",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/k4Y2Vffx/indycar-portlan.png",
+                "url" :"https://filemoon.sx/d/cm0vy9b8u04a",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R13 IndyCar St. Louis",
         "image": "https://i.postimg.cc/nh8jX3Vn/indycar-st-louis.png",
         "stations":
