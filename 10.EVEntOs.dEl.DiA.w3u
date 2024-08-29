@@ -50,6 +50,26 @@
                 },
 	        {
                 "name": "Capitulo 01",
+                "info":"[file]",
+                "image": "https://pics.filmaffinity.com/delico_s_nursery-344972425-large.jpg",
+                "url":"https://filemoon.sx/d/tfyzd73ws7ex/4041_4_Jnyy.mp4",
+                "userAgent" : "",
+		"embed": "",
+		"isHost": "true",
+                "online":"true"
+                },
+	        {
+                "name": "Capitulo 01",
+                "info":"[file true]",
+                "image": "https://pics.filmaffinity.com/delico_s_nursery-344972425-large.jpg",
+                "url":"https://filemoon.sx/d/tfyzd73ws7ex/4041_4_Jnyy.mp4",
+                "userAgent" : "",
+		"embed": "true",
+		"isHost": "true",
+                "online":"true"
+                },
+	        {
+                "name": "Capitulo 01",
                 "info":"[1fitcher]",
                 "image": "https://pics.filmaffinity.com/delico_s_nursery-344972425-large.jpg",
                 "url":"https://www3.animeflv.net/ver/delicos-nursery-4",
