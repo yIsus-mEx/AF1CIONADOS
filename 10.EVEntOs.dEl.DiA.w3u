@@ -8,7 +8,15 @@
 "stations":
     [
 
-	
+	        {
+                "name": "Capitulo 01",
+                "info":"",
+                "image": "https://pics.filmaffinity.com/delico_s_nursery-344972425-large.jpg",
+                "url":"https://www3.animeflv.net/ver/delicos-nursery-4",
+                "userAgent" : "",
+		"isHost": "true",
+                "online":"true"
+                }
 
     ]
 }
