@@ -57,6 +57,26 @@
 		"embed": "",
 		"isHost": "true",
                 "online":"true"
+                },
+	        {
+                "name": "Real Betis VS Kryvbas",
+                "info":"[]",
+                "image": "https://phantom-marca.unidadeditorial.es/677ac3fc6a95030bde49ff271b067a50/resize/660/f/webp/assets/multimedia/imagenes/2024/08/29/17248831086002.jpg",
+                "url":"https://vsd154.mycdn.me/hls/7165732194864.m3u8/sig/paCyy0Dwctw/expires/1725045194182/srcIp/185.118.189.58/urls/185.226.53.67/clientType/0/srcAg/CHROME_ANDROID/mid/8134699785776/video.m3u8",
+                "userAgent" : "",
+		"embed": "",
+		"isHost": "true",
+                "online":"true"
+                },
+	        {
+                "name": "Real Betis VS Kryvbas",
+                "info":"[]",
+                "image": "https://phantom-marca.unidadeditorial.es/677ac3fc6a95030bde49ff271b067a50/resize/660/f/webp/assets/multimedia/imagenes/2024/08/29/17248831086002.jpg",
+                "url":"https://j2.livesd.online/hls/0/stream.m3u8",
+                "userAgent" : "",
+		"embed": "",
+		"isHost": "true",
+                "online":"true"
                 }
 
     ]
