@@ -15,6 +15,14 @@
         "stations":
             [
 				{
+                "name": "Barcelona vs Rayo Vallecano",
+	        	"info":"[28-Ago-24]",
+                "image": "https://i.postimg.cc/yY8grb8K/barca.jpg",
+                "url":"https://filemoon.sx/d/f1d0hjve0mtf",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
                 "name": "Valencia vs Barcelona",
 	        	"info":"[17-Ago-24]",
                 "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/08/15/minvalbar.jpg",
