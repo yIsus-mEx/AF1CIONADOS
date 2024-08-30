@@ -5,7 +5,13 @@
 "image": "https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"stations":
+"groups":
+	[
+
+	{
+	"name": "TEMPORADA 1",
+	"image": "",
+	"stations":
 	[
 		{
 		"name": "Episodio 01",
@@ -43,10 +49,108 @@
 		"name": "Episodio 05",
 		"info":"",
 		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"https://filemoon.sx/d/1nmlji96tqyy/Vida_Perfecta_Temporada_1_HDTV_720pCap_105AC3_5_1_Castellanowww.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"https://filemoon.sx/d/ilxwy111h465/Vida_Perfecta_Temporada_1_HDTV_720pCap_106AC3_5_1_Castellanowww.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 07",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 08",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
 		"url":"",
 		"isHost":"true",
 		"online":"true"
 		}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "",
+	"stations":
+	[
+		{
+		"name": "Episodio 01",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 07",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 08",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/vida_perfecta-558729548-large.jpg",
+		"url":"",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+	}
 
 ]
 }
