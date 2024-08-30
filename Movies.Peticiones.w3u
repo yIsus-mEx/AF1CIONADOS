@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "Algo pasa con Mary",
+        "info": "[1998][Español]",
+        "image": "https://pics.filmaffinity.com/there_s_something_about_mary-465333352-large.jpg",
+        "url": "https://filemoon.sx/d/r6yuql63pt3b/Algo_pasa_con_Mary__1998_Pelicula__esp_1080p_mp4.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Bitelchus",
+        "info": "[1988][Español]",
+        "image": "https://pics.filmaffinity.com/beetlejuice-194191930-large.jpg",
+        "url": "https://filemoon.sx/d/bbbwrmiauhco/Bitelchus__1988_Pelicula__esp_bluray_1080p_mkv.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "High School Musical I",
         "info": "[2006][Español]",
         "image": "https://pics.filmaffinity.com/high_school_musical_hsm-718907368-large.jpg",
