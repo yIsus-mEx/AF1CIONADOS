@@ -15,6 +15,14 @@
         "stations":
             [
 				{
+                "name": "Barcelona vs Real Valladolid",
+	        	"info":"[30-Ago-24]",
+                "image": "https://i.postimg.cc/8zqZzxXS/barcareal.jpg",
+                "url":"https://listeamed.net/v/g9Vd5JWMGygxqQj",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
                 "name": "Barcelona vs Rayo Vallecano",
 	        	"info":"[28-Ago-24]",
                 "image": "https://i.postimg.cc/yY8grb8K/barca.jpg",
