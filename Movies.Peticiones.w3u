@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Django Desencadenado",
+        "info": "[2012][Español]",
+        "image": "https://es.web.img2.acsta.net/medias/nmedia/18/92/38/67/20383018.jpg",
+        "url": "https://upstream.to/qn0bb9jd7xmw",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Alone",
         "info": "[2020][Español]",
         "image": "https://pics.filmaffinity.com/Alone-958860872-large.jpg",

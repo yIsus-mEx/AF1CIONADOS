@@ -8,6 +8,23 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Cannonier vs Borralho",
+         "image": "https://i.postimg.cc/TPS3cF4d/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Cannonier vs Borralho",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/TPS3cF4d/ufc.png",
+                "url":"https://listeamed.net/v/ao9rxoRP6G95yGe",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 305: Du Plessis vs Adesanya",
          "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
          "imageScale": "",
