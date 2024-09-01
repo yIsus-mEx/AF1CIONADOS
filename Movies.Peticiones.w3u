@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Alone",
+        "info": "[2020][Español]",
+        "image": "https://pics.filmaffinity.com/Alone-958860872-large.jpg",
+        "url": "https://filemoon.sx/d/f1ewbkdme4gd",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Hit Man: Asesino por casualidad",
         "info": "[2023][Español]",
         "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
