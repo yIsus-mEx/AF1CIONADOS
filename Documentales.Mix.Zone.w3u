@@ -7,43 +7,7 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
     [
-
-	{
-       	"name": "Federer: Los Últimos Doce Días",
-       	"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
-       	"imageScale": "",
-       	"info":"",
-	"stations":
-    		[
-			{
-			"name": "Federer: Los Últimos Doce Días",
-			"info":"[Documental][VOSE]",
-			"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
-			"url":"https://filemoon.sx/d/q683evzoy595",
-			"embed": "",
-			"isHost":"true",
-			"online":"true"
-			}
-		]
-	},
-	{
-       	"name": "Fiz, Puro Maraton",
-       	"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
-       	"imageScale": "",
-       	"info":"",
-		"stations":
-    		[
-				{
-				"name": "Fiz, puro maraton",
-				"info":"[Documental]",
-				"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
-				"url":"https://filemoon.sx/d/lfky6i7esqxm/Fiz_Puro_Maraton_2014.mkv",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-    	{
+		{
         "name": "DoCu Mix",
         "image": "https://i.postimg.cc/0N7kCdFg/Docu-Mix.png",
         "imageScale": "",
@@ -80,7 +44,107 @@
 			]
 		},
 		{
-        "name": "Anillos de Pau, Los",
+        "name": "El Mundo En Moto Ewan McGregor",
+        "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+				{
+				"name": "Episodio 01",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-1-video_0fbd42961.html",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-2-video_60604600e.html",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-3-video_a18bb6cf5.html",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-4-video_e64a8a93d.html",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-5-video_56635756f.html",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-6-video_f64b9c08d.html",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+				"url":"https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-7-video_6408b80e2.html",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+       	"name": "Federer: Los Últimos Doce Días",
+       	"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
+       	"imageScale": "",
+       	"info":"",
+		"stations":
+    		[
+			{
+			"name": "Federer: Los Últimos Doce Días",
+			"info":"[Documental][VOSE]",
+			"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
+			"url":"https://filemoon.sx/d/q683evzoy595",
+			"embed": "",
+			"isHost":"true",
+			"online":"true"
+			}
+		]
+		},
+		{
+       	"name": "Fiz, Puro Maraton",
+       	"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+       	"imageScale": "",
+       	"info":"",
+		"stations":
+    		[
+				{
+				"name": "Fiz, puro maraton",
+				"info":"[Documental]",
+				"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+				"url":"https://filemoon.sx/d/lfky6i7esqxm/Fiz_Puro_Maraton_2014.mkv",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+        "name": "Los Anillos de Pau",
         "image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
         "imageScale": "",
         "info":"",
