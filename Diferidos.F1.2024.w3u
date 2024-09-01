@@ -8,6 +8,114 @@
 "groups":
     [
         {
+        "name": "F1 2024 Monza [30-01.Sep24]",
+        "info":"",
+        "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/JzkPxznoYlLxbyd",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/edVqE4r8mMw5YWm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/vQBYEbNnJzQEn1m",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/VqbX53gy3p15Qzp",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/QNB7xA2Q8n4E0WG",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/qA3WOmG3AJ4xKkz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://listeamed.net/v/MAlwEMYLDblEJ39",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"https://filemoon.sx/d/91ls8vxirxyh",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Paises Bajos [23-25.Ago24]",
         "info":"",
         "image": "https://i.postimg.cc/dthpbbb2/Ferrari-paises-Bajos.png",
