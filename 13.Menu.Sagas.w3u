@@ -23,6 +23,13 @@
 		"import": false
 		},
 		{
+		"name": "Avatar",
+		"image": "https://pics.filmaffinity.com/avatar-208925608-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga AVATAR.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Avengers",
 		"image": "https://i.postimg.cc/bNz0dPXk/Avengers.png",
 		"url": "https://af1c1onados.vercel.app/Saga.Avengers.w3u",
