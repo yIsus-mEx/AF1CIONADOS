@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Nefarious, cuando habla el diablo",
+        "info": "[2023][Español]",
+        "image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
+        "url": "https://filemoon.sx/d/0mdo8x24ji1u",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Django Desencadenado",
         "info": "[2012][Español]",
         "image": "https://es.web.img2.acsta.net/medias/nmedia/18/92/38/67/20383018.jpg",
