@@ -10,7 +10,7 @@
         {
         "name": "Temporada 1",
         "info":"",
-        "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
+        "image": "https://i.postimg.cc/mD8xtdVG/S01.png",
         "imageScale": "",
         "stations":
             [
@@ -18,26 +18,26 @@
                 "name": "Una Sombra Del Pasado",
                 "info":"[Episodio 01]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://ia804709.us.archive.org/22/items/anillos.del.poder.-s-01e-01.1080-p-dual-lat/Anillos.del.poder.S01e01.1080P-Dual-Lat.mp4",
+                "url":"https://lisatrialidea.com/m4vhr5iuyfbz",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
                 "online":"true"
                 },
                 {
                 "name": "A La Deriva",
                 "info":"[Episodio 02]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://ia904704.us.archive.org/28/items/anillos.del.poder.-s-01e-02.1080-p-dual-lat/Anillos.del.poder.S01e02.1080P-Dual-Lat.mp4",
+                "url":"https://lisatrialidea.com/tobsitshvcbf",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
                 "online":"true"
                 },
 				{
                 "name": "Adar",
                 "info":"[Episodio 03]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://ia804703.us.archive.org/1/items/anillos.del.poder.-s-01e-03.1080-p-dual-lat/Anillos.del.poder.S01e03.1080P-Dual-Lat.mp4",
-                "isHost":"",
+                "url":"https://lisatrialidea.com/enjtjo9yzlji",
+                "isHost":"true",
 				"userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true"
                 },
@@ -45,45 +45,81 @@
                 "name": "La Gran Ola",
                 "info":"[Episodio 04]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://ia801603.us.archive.org/22/items/anillos.del.poder.-s-01e-04.1080-p-dual-lat/Anillos.del.poder.S01e04.1080P-Dual-Lat.mp4",
+                "url":"https://lisatrialidea.com/x29aottn6x3a",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
                 "online":"true"
                 },
 				{
                 "name": "Separaciones",
                 "info":"[Episodio 05]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://ia601602.us.archive.org/30/items/anillos.del.poder.-s-01e-05.1080-p-dual-lat/Anillos.del.poder.S01e05.1080P-Dual-Lat.mp4",
+                "url":"https://lisatrialidea.com/lokfnuk79q68",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
                 "online":"true"
                 },
                 {
                 "name": "Udûn",
                 "info":"[Episodio 06]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://ia904707.us.archive.org/3/items/anillos.del.poder.-s-01e-06.1080-p-dual-lat/Anillos.del.poder.S01e06.1080P-Dual-Lat.mp4",
+                "url":"https://lisatrialidea.com/5gs8nicxgpmp",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
                 "online":"true"
                 },
 				{
                 "name": "El Ojo",
                 "info":"[Episodio 07]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://archive.org/download/07_20221007_20221007/07.mp4",
+                "url":"https://lisatrialidea.com/qzgmvfb2exh4",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
                 "online":"true"
                 },
 				{
                 "name": "Aliados",
                 "info":"[Episodio 08]",
                 "image": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_Los_anillos_de_poder_Serie_de_TV-159886546-large.jpg",
-                "url":"https://www.mediafire.com/file/0vlji51eih0kaw0/S01E08.mkv/file",
+                "url":"https://lisatrialidea.com/shm6n6hxjuwf",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "Temporada 2",
+        "info":"",
+        "image": "https://i.postimg.cc/442kGSm6/S02.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Reyes Elfos Bajo el Cielo",
+                "info":"[Episodio 01]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/lotr-s2-teasertrailer-es-664367f06ff9a.jpg",
+                "url":"https://lisatrialidea.com/ooxyerfl0nhz",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Donde la Estrellas son Extrañas",
+                "info":"[Episodio 02]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/lotr-s2-teasertrailer-es-664367f06ff9a.jpg",
+                "url":"https://lisatrialidea.com/ziujzagmzy2p",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "El Águila y el Cetro",
+                "info":"[Episodio 03]",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/lotr-s2-teasertrailer-es-664367f06ff9a.jpg",
+                "url":"https://lisatrialidea.com/osehez4wjadq",
+                "isHost":"true",
+				"userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true"
                 }
             ]
