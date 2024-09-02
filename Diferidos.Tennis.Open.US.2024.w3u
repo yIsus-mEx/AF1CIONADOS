@@ -1,209 +1,53 @@
-
+{
 "name": "Tennis 0PEN US 2024",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.US.2024.w3u",
 "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups":
+"stations":
     [
-        {
-        "name": "Open US 2024",
-        "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-        "imageScale": "",
-        "info":"",
-        "groups":
-            [
-                {
-                "name": "Primeras Rondas",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
+
                         {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
+                        "name": "Radu Albot VS Novak Djokovic",
+                        "info":"[27-08-2024]",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrVXPtLPH7KDkm_-4XHbuFH5_zYpPKRE8JQ&s",
+                        "url":"https://filemoon.sx/d/1jb0sv2li4f3/US_Open_Albot_VS_Djokovic_270824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
+                        "name": "Carlos Alcaraz VS Li Tu",
+                        "info":"[28-08-2024]",
+                        "image": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fvdmedia.as.com%2Fmcv%2Fdiarioas%2Fmultimedia%2F20240828%2F986653_104004_still.0000001.jpg?auth=bf7e3b8647c6bbd95a6f6014689f35f01043c90a3d8b6f6f045734d5407385ae&width=360&height=203&smart=true",
+                        "url":"https://filemoon.sx/d/6qfouhxzqtxt/US_Open_Alcaraz_VS_Tu_280824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
+                        "name": "Laslo Djere VS Novak Djokovic",
+                        "info":"[29-08-2024]",
                         "image": "",
-                        "url":"",
+                        "url":"https://filemoon.sx/d/0ohxdwnv53bm/US_Open_Djere_VS_Djokovic_290824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
+                        "name": "Carlos Alcaraz VS Botic van de Zandschulp",
+                        "info":"[30-08-2024]",
+                        "image": "https://www.puntodebreak.com/sites/default/files/styles/epsa_detail_thumbail/public/2024-01/laslo-djere-novak-djokovic-serbia-open.png?itok=sIKQGOu_",
+                        "url":"https://filemoon.sx/d/2ux69yipg48k/US_Open_Alcaraz_VS_Botic_van_de_Zandschulp_300824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
+                        "name": "Alexei Popyrin VS Novak Djokovic",
+                        "info":"[31-08-2024]",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLf3IB32wUyz7RrhPhhMEyC7RcplaZ-e2zQ&s",
+                        "url":"https://filemoon.sx/d/4nypi7omi08k/US_Open_Popyrin_VS_Djokovic_310824.mkv",
                         "isHost":"true",
                         "online":"true"
                         }
-		]
-                },
-
-                {
-                "name": "Octavos",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Cuartos",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Semifinales Masculinas",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Semifinales Femeninas",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Finales",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"h",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-                    ]
-		}
-
-            ]
-        }
-
-    ]
+        ]
 }
+
