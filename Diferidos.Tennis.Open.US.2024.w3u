@@ -1,209 +1,53 @@
-
+{
 "name": "Tennis 0PEN US 2024",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.US.2024.w3u",
 "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups":
+"stations":
     [
-        {
-        "name": "Open US 2024",
-        "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-        "imageScale": "",
-        "info":"",
-        "groups":
-            [
-                {
-                "name": "Primeras Rondas",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
+
                         {
-                        "name": "",
-                        "info":"[]",
+                        "name": "Radu Albot VS Novak Djokovic",
+                        "info":"[27-08-2024]",
                         "image": "",
-                        "url":"",
+                        "url":"https://filemoon.sx/d/1jb0sv2li4f3/US_Open_Albot_VS_Djokovic_270824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
+                        "name": "Carlos Alcaraz VS Li Tu",
+                        "info":"[28-08-2024]",
                         "image": "",
-                        "url":"",
+                        "url":"https://filemoon.sx/d/6qfouhxzqtxt/US_Open_Alcaraz_VS_Tu_280824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
+                        "name": "Laslo Djere VS Novak Djokovic",
+                        "info":"[29-08-2024]",
                         "image": "",
-                        "url":"",
+                        "url":"https://filemoon.sx/d/0ohxdwnv53bm/US_Open_Djere_VS_Djokovic_290824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
+                        "name": "Carlos Alcaraz VS Botic van de Zandschulp",
+                        "info":"[30-08-2024]",
                         "image": "",
-                        "url":"",
+                        "url":"https://filemoon.sx/d/2ux69yipg48k/US_Open_Alcaraz_VS_Botic_van_de_Zandschulp_300824.mkv",
                         "isHost":"true",
                         "online":"true"
                         },
                         {
-                        "name": "",
-                        "info":"[]",
+                        "name": "Alexei Popyrin VS Novak Djokovic",
+                        "info":"[31-08-2024]",
                         "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
+                        "url":"https://filemoon.sx/d/4nypi7omi08k/US_Open_Popyrin_VS_Djokovic_310824.mkv",
                         "isHost":"true",
                         "online":"true"
                         }
-		]
-                },
-
-                {
-                "name": "Octavos",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Cuartos",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Semifinales Masculinas",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Semifinales Femeninas",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-			]
-		},
-
-                {
-                "name": "Finales",
-                "image": "https://photo-assets.usopen.org/images/pics/large/b_theme-art-landing-page-header3.jpg",
-                "imageScale": "",
-                "info":"",
-                "stations":
-                    [
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"h",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "",
-                        "info":"[]",
-                        "image": "",
-                        "url":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-                    ]
-		}
-
-            ]
-        }
-
-    ]
+        ]
 }
+
