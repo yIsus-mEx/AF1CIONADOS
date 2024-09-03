@@ -8,7 +8,7 @@
 "stations":
 	[
 		{
-        "name": "Movistar LaLIga",
+        "name": "LaLIgav Tv",
         "info":"",
         "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
         "url": "https://7.tutl24.xyz/live/STa1e37b42ad44cef.m3u8",
@@ -17,51 +17,95 @@
         "isHost":""
         },
         {
-        "name": "Taur0 Canal",
-        "info":"[Opcion.02]",
-        "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
-        "url": "https://fullchannels.online/canales.php?id=toros",
-        "userAgent": "",
-        "online":"true",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Taur0 Canal",
-        "info":"[Opcion.03]",
-        "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
-        "url": "https://media1.ultrik.com/live/torole1.m3u8",
-        "userAgent": "true",
-        "online":"true",
-        "isHost":""
-        },
-		{
-        "name": "Taur0 Canal",
-        "info":"[Opcion.04]",
-        "image": "https://i.postimg.cc/3NPDfwPR/toros-new.png",
-        "url": "https://dlhd.so/tele/stream-749.php",
-        "userAgent": "",
-        "online":"true",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "TeleMadrid",
-        "info":"[Opcion.01]",
-        "image": "https://i.postimg.cc/GthtMckK/telemadrid-new.png",
-        "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+        "name": "LaLiga TV Hypermotion",
+        "info":"",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STc98783bbeb1fd56.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "TeleMadrid",
-        "info":"[Opcion.02]",
-        "image": "https://i.postimg.cc/GthtMckK/telemadrid-new.png",
-        "url": "https://tele-libre.com/en-vivo-online/telemadrid/embed2.php",
-        "userAgent": "",
+        "name": "Dazn LaLiga",
+        "info":"",
+        "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STf22e13dc983ea18.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
+        },
+        
+		{
+        "name": "M Campeones",
+        "info":"",
+        "image": "https://i.postimg.cc/Yqt2RZTV/Liga-de-Campeones-Logo.png",
+        "url": "https://7.tutl24.xyz/live/ST26068faf23d1751.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "M Campeones 2",
+        "info":"",
+        "image": "https://i.postimg.cc/J0hsS6Pc/Liga-de-Campeones-2-Logo.png",
+        "url": "https://8.tutl24.xyz/live/ST9a28422f70a5ac3.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "#Vamos",
+        "info":"",
+        "image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STf51a10a7794455a.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes",
+        "info":"",
+        "image": "https://i.postimg.cc/wM9QBRpx/movistar-deportes-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STbc87b12328d99c1.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 1",
+        "info":"",
+        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
+        "url": "https://8.tutl24.xyz/live/STd10ea52bb3fc3b4.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 2",
+        "info":"",
+        "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STc12b089cce82377.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Dazn F1",
+        "info":"",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://8.tutl24.xyz/live/ST24cc9c8371d095a.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "OneToro",
+        "info":"",
+        "image": "https://i.postimg.cc/3NPg03dN/Onetoro-Logo.png",
+        "url": "https://7.tutl24.xyz/live/ST9ebdc794b7cf1db.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
         }
 	]
 }
