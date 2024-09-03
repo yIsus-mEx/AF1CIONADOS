@@ -106,6 +106,33 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
+        },
+        {
+        "name": "SKY Sports LaLiga",
+        "info":"",
+        "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
+        "url": "https://8.tutl24.xyz/live/STf1f42e775154f51.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TUDN",
+        "info":"",
+        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox Deportes",
+        "info":"",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://7.tutl24.xyz/live/STc46599ac943bda4.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
         }
 	]
 }
