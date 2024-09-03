@@ -107,12 +107,12 @@
         "online":"true",
         "isHost":""
         },
-         {
+        {
         "name": "OneToro",
         "info":"",
         "image": "https://i.postimg.cc/3NPg03dN/Onetoro-Logo.png",
-        "url": "https://www.kool.to/play/1442267705/index.m3u8",
-        "userAgent": "",
+        "url": "https://ddy6.mizhls.ru/ddy6/premium749/tracks-v1a1/mono.m3u8",
+        "referer" : "referer=https://weblivehdplay.ru/&user-agent=ms.m3u8",
         "online":"true",
         "isHost":""
         },
