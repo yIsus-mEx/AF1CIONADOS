@@ -8,7 +8,7 @@
 "stations":
 	[
 		{
-        "name": "LaLIgav Tv",
+        "name": "LaLIgav Tv 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
         "url": "https://7.tutl24.xyz/live/STa1e37b42ad44cef.m3u8",
@@ -17,7 +17,7 @@
         "isHost":""
         },
         {
-        "name": "LaLiga TV Hypermotion",
+        "name": "LaLiga TV Hypermotion 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
         "url": "https://7.tutl24.xyz/live/STc98783bbeb1fd56.m3u8",
@@ -26,7 +26,7 @@
         "isHost":""
         },
         {
-        "name": "Dazn LaLiga",
+        "name": "Dazn LaLiga 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
         "url": "https://7.tutl24.xyz/live/STf22e13dc983ea18.m3u8",
@@ -36,7 +36,7 @@
         },
         
 		{
-        "name": "M Campeones",
+        "name": "M Campeones 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
         "url": "https://7.tutl24.xyz/live/ST26068faf23d1751.m3u8",
@@ -45,7 +45,7 @@
         "isHost":""
         },
         {
-        "name": "M Campeones 2",
+        "name": "M Campeones 2 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/j5rNTRL4/Liga-de-Campeones-2-Logo.png",
         "url": "https://8.tutl24.xyz/live/ST9a28422f70a5ac3.m3u8",
@@ -54,7 +54,7 @@
         "isHost":""
         },
         {
-        "name": "#Vamos",
+        "name": "#Vamos 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
         "url": "https://7.tutl24.xyz/live/STf51a10a7794455a.m3u8",
@@ -63,7 +63,7 @@
         "isHost":""
         },
         {
-        "name": "M Deportes",
+        "name": "M Deportes 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",
         "url": "https://7.tutl24.xyz/live/STbc87b12328d99c1.m3u8",
@@ -72,7 +72,7 @@
         "isHost":""
         },
         {
-        "name": "Dazn 1",
+        "name": "Dazn 1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
         "url": "https://8.tutl24.xyz/live/STd10ea52bb3fc3b4.m3u8",
@@ -81,17 +81,17 @@
         "isHost":""
         },
         {
-        "name": "Dazn 1",
+        "name": "Dazn 1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium445/index.m3u8",
+        "url": "https://ddy5.mizhls.ru/ddy5/premium445/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "Dazn 2",
+        "name": "Dazn 2 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",
         "url": "https://7.tutl24.xyz/live/STc12b089cce82377.m3u8",
@@ -100,17 +100,17 @@
         "isHost":""
         },
         {
-        "name": "Dazn 2",
+        "name": "Dazn 2 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",
         "url": "https://ddy1.mizhls.ru/ddy1/premium446/index.m3u8",
-        "userAgent": "",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "Dazn F1",
+        "name": "Dazn F1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
         "url": "https://8.tutl24.xyz/live/ST24cc9c8371d095a.m3u8",
@@ -119,7 +119,17 @@
         "isHost":""
         },
         {
-        "name": "OneToro",
+        "name": "Dazn F1 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium537/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "OneToro 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/3NPg03dN/Onetoro-Logo.png",
         "url": "https://7.tutl24.xyz/live/ST9ebdc794b7cf1db.m3u8",
@@ -128,7 +138,7 @@
         "isHost":""
         },
         {
-        "name": "OneToro",
+        "name": "OneToro 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/3NPg03dN/Onetoro-Logo.png",
         "url": "https://ddy6.mizhls.ru/ddy6/premium749/index.m3u8",
