@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "zOna DepORtivA",
+         "image": "https://i.postimg.cc/yNv2xMpq/logo-zona-deportiva-2.png",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "NBA StREamS",
          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
          "url": "https://af1c1onados.vercel.app/09.1.Deportes.NBA.StREamS.w3u",
@@ -39,13 +46,6 @@
          "name": "Fight StREamS",
          "image": "https://i.postimg.cc/7LXFHQGd/Fight-Sports-new.png",
          "url": "https://af1c1onados.vercel.app/09.5.Deportes.Fight.StREamS.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "zOna DepORtivA",
-         "image": "https://i.postimg.cc/yNv2xMpq/logo-zona-deportiva-2.png",
-         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
          "info":"",
          "import": false
         }
