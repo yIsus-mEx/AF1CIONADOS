@@ -7,7 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Pearl Harbor",
+        "info": "[2001][Español]",
+        "image": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
+        "url": "https://upstream.to/7utoj1vkn1ix",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Watchers (Los Vigilantes)",
         "info": "[2024][Español]",
