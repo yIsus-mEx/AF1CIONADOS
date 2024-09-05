@@ -1,7 +1,7 @@
 {
 "name": "Empire",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/",
+"url": "https://af1c1onados.vercel.app/Series.Empire.w3u",
 "image": "https://pics.filmaffinity.com/empire-446833948-large.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
@@ -16,14 +16,102 @@
 			[
  				{
  				"name": "Episodio 01",
- 				"info":"Latino",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"https://filemoon.sx/d/o7shyyhauibt/Empire_S01E01.mp4",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"https://filemoon.sx/d/gwrmd0pcyz6a/Empire_S01E02.mp4",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"https://filemoon.sx/d/63fpaiichbqz/Empire_S01E03.mp4",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"https://filemoon.sx/d/66zzxnhov92r/Empire_S01E04.mp4",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"https://filemoon.sx/d/8e8ppd3dbhp4/Empire_S01E05.mp4",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 06",
+ 				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
  				"url":"",
  				"isHost":"true",
  				"online":"true"
 				},
-      ]
-    },
+ 				{
+ 				"name": "Episodio 07",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 08",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 09",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 10",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 11",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 12",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+      			]
+    		},
 
  		{
 		"name": "Temporada 02",
@@ -40,6 +128,94 @@
  				"isHost":"true",
  				"online":"true"
 				},
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 06",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 07",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 08",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 09",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 10",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 11",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 12",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
       ]
     },
 
@@ -58,8 +234,96 @@
  				"isHost":"true",
  				"online":"true"
 				},
-      ]
-    }
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 06",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 07",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 08",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 09",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 10",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 11",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 12",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+      			]
+    		}
 
   ]
 }
