@@ -110,8 +110,8 @@
  				"isHost":"true",
  				"online":"true"
 				}
-      			]
-    		},
+      		]
+    	},
 
  		{
 		"name": "Temporada 02",
@@ -216,6 +216,7 @@
  				"isHost":"true",
  				"online":"true"
 				},
+				{
  				"name": "Episodio 13",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
@@ -223,6 +224,7 @@
  				"isHost":"true",
  				"online":"true"
 				},
+				{
  				"name": "Episodio 14",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
@@ -230,6 +232,7 @@
  				"isHost":"true",
  				"online":"true"
 				},
+				{
  				"name": "Episodio 15",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
@@ -237,6 +240,7 @@
  				"isHost":"true",
  				"online":"true"
 				},
+				{
  				"name": "Episodio 16",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
@@ -244,6 +248,7 @@
  				"isHost":"true",
  				"online":"true"
 				},
+				{
  				"name": "Episodio 17",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
@@ -251,6 +256,7 @@
  				"isHost":"true",
  				"online":"true"
 				},
+				{
  				"name": "Episodio 18",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
@@ -258,8 +264,8 @@
  				"isHost":"true",
  				"online":"true"
 				}
-      			]
-    		},
+      		]
+    	},
 
  		{
 		"name": "Temporada 03",
@@ -412,8 +418,8 @@
  				"isHost":"true",
  				"online":"true"
 				}
-      			]
-    		},
+      		]
+    	},
 
  		{
 		"name": "Temporada 04",
@@ -518,8 +524,8 @@
  				"isHost":"true",
  				"online":"true"
 				}
-      			]
-    		},
+      		]
+    	},
 
  		{
 		"name": "Temporada 05",
@@ -624,8 +630,8 @@
  				"isHost":"true",
  				"online":"true"
 				}
-      			]
-    		},
+      		]
+    	},
 
  		{
 		"name": "Temporada 06",
@@ -730,13 +736,9 @@
  				"isHost":"true",
  				"online":"true"
 				}
-      			]
-    		}
-
-
-
-
-  ]
+      		]
+    	}
+    ]
 }
 
 
