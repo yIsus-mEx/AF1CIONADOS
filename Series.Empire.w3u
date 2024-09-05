@@ -1,0 +1,69 @@
+{
+"name": "Empire",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://pics.filmaffinity.com/empire-446833948-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+      ]
+    },
+
+ 		{
+		"name": "Temporada 02",
+ 		"image": "https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+      ]
+    },
+
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"Latino",
+ 				"image":"https://pics.filmaffinity.com/empire-446833948-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+      ]
+    }
+
+  ]
+}
+
+
+
+
