@@ -8,17 +8,26 @@
 "groups":
     [
 		{
-        "name": "NFL Pretemporada Semana 03 de 04",
-        "image": "https://vamoscowboys.com/wp-content/uploads/2020/07/CFB71EA8-0416-481C-92BB-DFE8EA010D40.jpeg",
+        "name": "NFL Semana 01",
+        "image": "https://i.postimg.cc/HsgLmxpv/Semana-01.jpg",
         "imageScale": "",
         "info":"",
         "stations":
         	[
             	{
-                "name": "Eagles vs Patriots",
-                "info":"15/08/24",
-                "image": "https://nfl-video.com/_pu/19/77529030.jpg",
-                "url":"https://filemoon.sx/e/eobrkz5j33ov",
+                "name": Ravens vs Chiefs:",
+                "info":"[05/09/24][Español]",
+                "image": "https://nfl-video.com/_pu/19/72294644.jpg",
+                "url":"https://filemoon.sx/d/b9bap35d5dma",
+                "userAgent" : "",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": Ravens vs Chiefs:",
+                "info":"[05/09/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/19/72294644.jpg",
+                "url":"https://filemoon.sx/e/jmbil4ubmasa",
                 "userAgent" : "",
 				"online":"true",
 				"isHost":"true"
