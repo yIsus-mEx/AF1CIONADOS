@@ -11,8 +11,9 @@
  		"name": "Episodio 01",
  		"info":"",
  		"image":"https://www.record.com.mx/sites/default/files/articulos/2024/08/24/accidente_11-10.jpg",
- 		"url":"https://iosmirror.cc/hls/81705747.m3u8",
+ 		"url":"https://iosmirror.cc/hls/81705747.m3u8?in=80cb258e28b275f26a5606832a42bbf7::37567ceda0165661a1e7daf1cd36e403::1725745933::xm",
 		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
  		"isHost":"",
  		"online":"true"
 		},
