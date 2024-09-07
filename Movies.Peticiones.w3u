@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "El Gato con Botas: El último Deseo",
+        "info": "[2022][MultiAudio]",
+        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/puss_in_boots_2/posters/01.jpg",
+        "url": "https://jwplayerhls.com/e/ovstk20yc3my",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Pearl Harbor",
         "info": "[2001][Español]",
         "image": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
