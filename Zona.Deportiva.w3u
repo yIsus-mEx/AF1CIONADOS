@@ -495,8 +495,18 @@
         {
         "name": "FS1 🇺🇸",
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/SKc3xYNY/FS1.png",
         "url": "https://v1.thetvapp.to/hls/FoxSports1/index.m3u8?token=R1VWVlJlM2V2VTRIMVg0TDlDOEF3OEdlNnBiaE1RZHFBWjRDYjQ0Rg==",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FS2 🇺🇸",
+        "info":"[Prueba]",
+        "image": "https://i.postimg.cc/J7H6rB6r/fs2.png",
+        "url": "https://v9.thetvapp.to/hls/FoxSports2/index.m3u8?token=R1VWVlJlM2V2VTRIMVg0TDlDOEF3OEdlNnBiaE1RZHFBWjRDYjQ0Rg==",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -505,7 +515,7 @@
         {
         "name": "FoxSport 1 🇦🇷",
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://xca5.pricesaskeloadsc.com/global/fox1ar/index.m3u8?token=0b8e80750422137d943a52735e9b0ce54327612b-b3-1725728496-1725692496",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -515,7 +525,7 @@
         {
         "name": "FoxSport 2 🇦🇷",
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://vadp.pricesaskeloadsc.com/global/fox2ar/index.m3u8?token=5ae085d8c794fcce53ecdaf1d6bb098d00831a89-91-1725728755-1725692755",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -525,7 +535,7 @@
         {
         "name": "FoxSport 3 🇦🇷",
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://cale.pricesaskeloadsc.com/global/fox3ar/index.m3u8?token=edd985d877274ca99a804b082766e6cd19f92e93-5e-1725728850-1725692850",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -535,7 +545,7 @@
         {
         "name": "Dsports",
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/43NYNsBZ/DSports.png",
         "url": "https://812.pricesaskeloadsc.com/global/dsports/index.m3u8?token=388826d50947a3b98166bd2e0491c5f48cc3fa53-59-1725729145-1725693145",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -545,7 +555,7 @@
         {
         "name": "Dsports 2" ,
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/fyFcYkqx/DSports2.png",
         "url": "https://vals88.pricesaskeloadsc.com/global/dsports_2/index.m3u8?token=344b43a6b8683f6049f8336a964176e151665b61-f2-1725729209-1725693209",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -555,7 +565,7 @@
         {
         "name": "Dsports +",
         "info":"[Prueba]",
-        "image": "",
+        "image": "https://i.postimg.cc/5ywzQpvM/DSports.png",
         "url": "https://xca5.pricesaskeloadsc.com/global/dsports_plus/index.m3u8?token=d9bdb7ce4e76b82de512b897e1518ce63c78bd8a-c8-1725729248-1725693248",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
