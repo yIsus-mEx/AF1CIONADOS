@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Bitelchus Bitelchus",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/beetlejuice_beetlejuice-890586814-large.jpg",
+        "url": "https://filemoon.sx/d/s6s5debqvi3v",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Turistas",
         "info": "[2006][Español]",
