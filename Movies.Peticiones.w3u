@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Turistas",
+        "info": "[2006][Español]",
+        "image": "https://pics.filmaffinity.com/Turistas-439075858-mmed.jpg",
+        "url": "https://filemoon.sx/d/saw10tl73087",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "El Gato con Botas: El último Deseo",
         "info": "[2022][MultiAudio]",
         "image": "https://www.universalpictures.com.mx/tl_files/content/movies/puss_in_boots_2/posters/01.jpg",
