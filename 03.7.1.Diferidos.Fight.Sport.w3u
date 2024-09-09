@@ -7,6 +7,23 @@
 "info": "",
 "groups":
     [
+       {
+         "name": "UFC Fight Night: Burns vs Brady",
+         "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Burns vs Brady",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
+                "url":"https://filemoon.sx/d/ure9510bpad8",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
         {
          "name": "UFC Fight Night: Cannonier vs Borralho",
          "image": "https://i.postimg.cc/TPS3cF4d/ufc.png",
