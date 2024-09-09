@@ -7,7 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "Oppenheimer",
+        "info": "[2023][Español]",
+        "image": "https://es.web.img3.acsta.net/pictures/23/05/25/13/41/1835431.jpg",
+        "url": "https://filemoon.sx/d/n26qxt2m536v",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Bitelchus Bitelchus",
         "info": "[2024][Latino]",
