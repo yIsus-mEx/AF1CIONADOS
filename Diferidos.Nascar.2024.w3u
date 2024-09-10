@@ -8,6 +8,33 @@
 "groups":
     [
 		{
+        "name": "R27 NASCAR Cook Out Southern 500",
+        "info":"",
+        "image": "",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Cook Out Southern 500",
+                "info":"[Español]",
+                "image": "",
+                "url":"https://filemoon.sx/d/umssatzeylgn",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Cook Out Southern 500",
+                "info":"[Ingles]",
+                "image": "",
+                "url":"https://filemoon.sx/e/l7xorz0eur30",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R25 NASCAR FireKeepers Casino 400",
         "info":"",
         "image": "https://i.postimg.cc/P5gNfK9Z/Fire-Keepers-Casino-400.png",
@@ -189,7 +216,7 @@
                 "name": "NASCAR Usa Today 301",
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/0ykk3H86/NASCAR-USA-TODAY-301.png",
-                "url":"",
+                "url":"https://www.linkbox.to/f-detail/ZnA0dHZzMDAwcG5v0",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":""
