@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Boat. The",
+        "info": "[2023][Español]",
+        "image": "https://pics.filmaffinity.com/the_boat-434513519-large.jpg",
+        "url": "https://filemoon.sx/d/vy15kwf6ibzk",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Oppenheimer",
         "info": "[2023][Español]",
