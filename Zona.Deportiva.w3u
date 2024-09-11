@@ -575,7 +575,7 @@
         {
         "name": "TNT Sports Premium 🇨🇱",
         "info":"",
-        "image": "",
+        "image": "https://i.postimg.cc/FRbKZcTd/Tnt-Sportpre.png",
         "url": "https://7.tutl24.xyz/live/STbbdf99a5d92e5f1.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -585,7 +585,7 @@
         {
         "name": "TNT Sports 🇨🇱",
         "info":"",
-        "image": "",
+        "image": "https://i.postimg.cc/ZqG9jJZg/TntSport.png",
         "url": "https://8.tutl24.xyz/live/STc4be0d81f63d907.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -633,12 +633,72 @@
         "isHost":""
         },
         {
+        "name": "Liga 1 MAX 🇵🇪",
+        "info":"",
+        "image": "https://i.postimg.cc/3xKgVsWN/Liga1.png",
+        "url": "https://8.tutl24.xyz/live/ST332b8525ab5939d.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Gol TV 🇵🇪",
+        "info":"",
+        "image": "https://i.postimg.cc/TwyjQn1c/Gol-Peru.png",
+        "url": "https://7.tutl24.xyz/live/STfae8a48edb0d891.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Win Sports+ 🇨🇴",
+        "info":"",
+        "image": "https://i.postimg.cc/zXkhCxpr/win-sports.png",
+        "url": "https://7.tutl24.xyz/live/ST88592e4ea3b466d.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Tigo Sport 🇨🇷",
+        "info":"",
+        "image": "https://i.postimg.cc/cHYgrh6P/tigosport.png",
+        "url": "https://7.tutl24.xyz/live/ST576aaca9f8e270f.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Futv 🇨🇷",
+        "info":"",
+        "image": "https://i.postimg.cc/Twr1RP46/futv.png",
+        "url": "https://7.tutl24.xyz/live/ST4eb770eb28bc7f0.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sport tv 1 🇵🇹",
         "info":"",
         "image": "https://i.postimg.cc/76VrSLJt/sporttv1.png",
         "url": "https://webufffit.mizhls.ru/lb/eplayerSPORTTV1/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 1 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/76VrSLJt/sporttv1.png",
+        "url": "https://7.tutl24.xyz/live/ST7c121a7deff93cb.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
         "online":"true",
         "isHost":""
         },
