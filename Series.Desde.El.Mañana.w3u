@@ -1,0 +1,77 @@
+{
+"name": "Desde el Mañana",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 06",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 07",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 08",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+
+]
+}
