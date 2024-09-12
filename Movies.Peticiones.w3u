@@ -7,7 +7,33 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "La Liberacion",
+        "info": "[2024][Español]",
+        "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
+        "url": "https://filemoon.sx/d/0oeswmwgjyry",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "The Funeral",
+        "info": "[2023][Español]",
+        "image": "https://pics.filmaffinity.com/The_Funeral-924535808-large.jpg",
+        "url": "https://filemoon.sx/d/leuuywv7hvrm",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "The Sadness",
+        "info": "[2021][Español]",
+        "image": "https://images.justwatch.com/poster/270316548/s718/the-sadness.jpg",
+        "url": "https://filemoon.sx/d/oii47j3d0kjs",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Minority Report",
         "info": "[2002][Español]",
