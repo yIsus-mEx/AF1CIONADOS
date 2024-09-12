@@ -843,6 +843,16 @@
         "isHost":""
         },
         {
+        "name": "Bein Sport 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/3R1ZCwWF/Bein-Sports.png",
+        "url": "https://webufffit.mizhls.ru/lb/primabeinusa/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sportsnet Ontario 🇺🇸",
         "info":"",
         "image": "https://i.postimg.cc/WzsHTKqX/Sportsnet-ontario.png",
@@ -863,10 +873,20 @@
         "isHost":""
         },
         {
-        "name": "Bein Sport 🇺🇸",
+        "name": "Bally Sports Detroit 🇺🇸",
         "info":"",
-        "image": "https://i.postimg.cc/3R1ZCwWF/Bein-Sports.png",
-        "url": "https://webufffit.mizhls.ru/lb/primabeinusa/index.m3u8",
+        "image": "https://i.postimg.cc/59LHMwc7/Bally-Sports-Detroit.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium891/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Bally Sports Florida 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/FsnXWBP2/Bally-Sports-Florida.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium892/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
