@@ -1,0 +1,84 @@
+{
+"name": "Kaos",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Kaos.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+ 				"url":"https://filemoon.sx/d/5arz582tozcd",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/n1r0xg5kpf9w",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/sci13so2249q",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/kspz86ym09zr",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/ex2fjcyp9eo6",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/fixnn8jkqmhp",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/ks3oupeycdjb",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/kaos-494560586-mmed.jpg",
+				"url":"https://filemoon.sx/d/gc9oznw2p1jd",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
