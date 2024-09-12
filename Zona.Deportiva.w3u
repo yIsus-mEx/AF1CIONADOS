@@ -960,6 +960,16 @@
         "isHost":""
         },
         {
+        "name": "Sport tv 1 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/76VrSLJt/sporttv1.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sport-tv-1-36&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sport tv 2 🇵🇹",
         "info":"",
         "image": "https://i.postimg.cc/sD5qWxFY/sporttv2.png",
@@ -970,12 +980,32 @@
         "isHost":""
         },
         {
+        "name": "Sport tv 2 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/sD5qWxFY/sporttv2.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sport-tv-2-37&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sport tv 3 🇵🇹",
         "info":"",
         "image": "https://i.postimg.cc/7L5NgtCF/sporttv3.png",
         "url": "https://webufffit.mizhls.ru/lb/eplayerSPORTTV3/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 3 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/7L5NgtCF/sporttv3.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sport-tv-3-38&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
