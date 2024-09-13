@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "Boxeador",
+        "info": "[2024][Español]",
+        "image": "https://pics.filmaffinity.com/bokser-490785284-large.jpg",
+        "url": "https://filemoon.sx/d/94x1n4ch3e5r",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "La Reina del Convento",
+        "info": "[2024][Español]",
+        "image": "https://pics.filmaffinity.com/La_reina_del_convento-845921689-large.jpg",
+        "url": "https://filemoon.sx/d/oeqmqtxz78z3",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Smile",
         "info": "[2022][Español]",
         "image": "https://pics.filmaffinity.com/Smile-843278209-mmed.jpg",
