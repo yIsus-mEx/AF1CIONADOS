@@ -279,6 +279,25 @@
       "info": "bY. Adri",
       "import": false
     },
+
+    {
+      "name": "Hombres que robaron al Mundo",
+      "image": "https://www.rtve.es/rtve/20191028/documentos-tv-estrena-hombres-robaron-mundo/1986165.shtml",
+      "stations": [
+        {
+          "name": "Hombres que robaron al Mundo",
+          "image": "https://www.rtve.es/rtve/20191028/documentos-tv-estrena-hombres-robaron-mundo/1986165.shtml",
+          "url": "https://filemoon.sx/d/xqczhzlubt5s/Hombres_que_robaron_el_Mundo__2022_Documental_.mp4",
+          "info": "[2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
     {
       "name": "Joaquin Sabina, sintiendolo mucho",
       "image": "https://pics.filmaffinity.com/sintiendolo_mucho-844556492-large.jpg",
@@ -296,6 +315,7 @@
         }
       ]
     },
+
     {
       "name": "Julian Assange",
       "image": "https://pics.filmaffinity.com/underground_the_julian_assange_story-276533063-mmed.jpg",
@@ -528,6 +548,22 @@
       "url": "https://af1cionados.vercel.app/DoCuSerie REAL MADRID HASTA EL FINAL.w3u",
       "info": "bY AdriDeCai",
       "import": false
+    },
+
+    {
+      "name": "Secretos de la Roja, Campeones del Mundo",
+      "image": "https://pics.filmaffinity.com/los_secretos_de_la_roja_campeones_del_mundo-747235482-large.jpg",
+      "stations": [
+        {
+          "name": "Secretos de la Roja, Campeones del Mundo",
+          "info": "[2020]",
+          "image": "https://pics.filmaffinity.com/los_secretos_de_la_roja_campeones_del_mundo-747235482-large.jpg",
+          "url": "https://filemoon.sx/d/ixqb3q5x7fuc/Ver_Los_Secretos_Roja_Campeones_Del_Mundo_2020_1080p_mkv.mp4",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
     },
 
     {
