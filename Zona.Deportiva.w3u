@@ -890,6 +890,26 @@
         "isHost":""
         },
         {
+        "name": "beIN SPORTS XTRA Ñ 🌎",
+        "info":"",
+        "image": "https://i.postimg.cc/wMHcs09V/Bein-Sports-Xtra.png",
+        "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "beIN SPORTS XTRA Ñ 🌎",
+        "info":"",
+        "image": "https://i.postimg.cc/wMHcs09V/Bein-Sports-Xtra.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Liga 1 MAX 🇵🇪",
         "info":"",
         "image": "https://i.postimg.cc/3xKgVsWN/Liga1.png",
@@ -1040,6 +1060,36 @@
         "isHost":""
         },
         {
+        "name": "Eleven Sport 1 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/qMKRmjS3/Eleven1-Port.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eleven-sport-1-33&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eleven Sport 2 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/cLMJW6s1/Eleven2-Port.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eleven-sport-2-32&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eleven Sport 3 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/zB3DTjT3/Eleven3-Port.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eleven-sport-3-31&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "CBS Sports 🇺🇸",
         "info":"",
         "image": "https://i.postimg.cc/FzzM58L3/CBS-Sport.png",
@@ -1056,6 +1106,16 @@
         "url": "https://webufffit.mizhls.ru/lb/ustvcbssn/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "CBS Sports 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/FzzM58L3/CBS-Sport.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=cbs-sports-network-70&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1380,6 +1440,26 @@
         "isHost":""
         },
         {
+        "name": "NBA Tv 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/PqCrwyWJ/NBA-Tv.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=nba-tv-43&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "NFL Network 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/fRZH2WBQ/nfl.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=nfl-network-91&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "TSN 1 🇨🇦",
         "info":"",
         "image": "https://i.postimg.cc/m2f5LPCt/TSN1.png",
@@ -1450,12 +1530,32 @@
         "isHost":""
         },
         {
+        "name": "Eurosport 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eurosport-1-139&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Eurosport 2 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
         "url": "https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eurosport-2-140&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1480,6 +1580,16 @@
         "isHost":""
         },
         {
+        "name": "TNT Sports 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/9QRGkpgS/tnt.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=tnt-sport-1-21&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "TNT Sports 2 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/Z5Grzd1q/tnt2.png",
@@ -1496,6 +1606,16 @@
         "url": "https://webufffit.mizhls.ru/lb/eplayerdigitvbt2/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Z5Grzd1q/tnt2.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=tnt-sport-2-20&e=.m3u88",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1520,6 +1640,16 @@
         "isHost":""
         },
         {
+        "name": "TNT Sports 3 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/cHZwrN1y/tnt3.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=tnt-sport-3-19&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "TNT Sports 4 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/JnqJXdty/tnt4.png",
@@ -1536,6 +1666,16 @@
         "url": "https://webufffit.mizhls.ru/lb/eplayerdigitvbt4/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 4 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/JnqJXdty/tnt4.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=tnt-sport-4-137&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1560,6 +1700,16 @@
         "isHost":""
         },
         {
+        "name": "Premier Sports 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/L5jsfJxx/Premier-Sports-1.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=premier-sports-1-26&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Premier Sports 2 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/fR8RxnvQ/Premier-Sports-2.png",
@@ -1580,12 +1730,32 @@
         "isHost":""
         },
         {
+        "name": "Premier Sports 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/fR8RxnvQ/Premier-Sports-2.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=premier-sports-2-27&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sky Sports F1 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png",
         "url": "https://webufffit.mizhls.ru/lb/primaskyf1/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports F1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sky-sports-f1-28&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1610,12 +1780,32 @@
         "isHost":""
         },
         {
+        "name": "Sky Sports Football 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/q7N7zr9M/Sky-Sports-Football.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sky-sports-football-57&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sky Sports Premiere Legue 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/qvMqHywK/sky-sports-premier-league-uk.png",
         "url": "https://7.tutl24.xyz/live/ST91862c67b9241ff.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Premiere Legue 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/qvMqHywK/sky-sports-premier-league-uk.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sky-sports-premier-league-58&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1650,12 +1840,32 @@
         "isHost":""
         },
         {
+        "name": "Sky Sports Cricket 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/qMc6TkdP/sky-sports-cricket-uk.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sky-sports-criket-29&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Sky Sports Golf 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/66vGMrb5/sky-sports-golf-uk.png",
         "url": "https://webufffit.mizhls.ru/lb/skygolf/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Golf 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/66vGMrb5/sky-sports-golf-uk.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=sky-sports-golf-114&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         },
@@ -1688,6 +1898,16 @@
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
-        }
+        },
+        {
+        "name": "Prueba",
+        "info":"",
+        "image": "",
+        "url": "https://en.freewatchtv.top/embed/dazn-1-es/",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
 	]
 }
