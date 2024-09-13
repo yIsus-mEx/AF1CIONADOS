@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Smile",
+        "info": "[2022][Español]",
+        "image": "https://pics.filmaffinity.com/Smile-843278209-mmed.jpg",
+        "url": "https://filemoon.sx/d/q02yio5dqwco",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "La Liberacion",
         "info": "[2024][Español]",
         "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
