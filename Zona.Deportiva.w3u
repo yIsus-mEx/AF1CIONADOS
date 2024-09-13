@@ -1900,15 +1900,48 @@
         "isHost":""
         },
         {
-        "name": "Pruebas",
-        "info":"",
+        "name": "Dazn F1",
+        "info":"[PRUEBAS]",
         "image": "",
-        "url": "https://en.freewatchtv.top/embed/dazn-1-es/",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "embed": "true",
         "isHost":""
         },
+        {
+        "name": "Dazn 1",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 2",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 1",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        }
 	]
 }
