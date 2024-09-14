@@ -8,6 +8,114 @@
 "groups":
     [
         {
+        "name": "F1 2024 azerbaiyán [13-15.Sep24]",
+        "info":"",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"https://filemoon.sx/d/4zwtzlcpyqn7",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"https://filemoon.sx/d/yi1xgqxq38ng",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"https://filemoon.sx/d/wxyqwchw72b9",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"https://filemoon.sx/d/lu5afzc2j9cu",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"https://filemoon.sx/d/yuu9o2csw51l",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "P0st Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Monza [30-01.Sep24]",
         "info":"",
         "image": "https://i.postimg.cc/9fVjSbRt/Ferrari.png",

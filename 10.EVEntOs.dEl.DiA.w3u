@@ -7,67 +7,111 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
-	        {
-                "name": "09:00h ERC JDS Machinery Rali Ceredigion 2024 - Dia 3",
-                "info":"[iPhone 720]",
-                "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
-                "url":"https://vkvsd20.mycdn.me/hls/6891817404954.m3u8/sig/oUyxp_2JkRc/srcIp/83.41.113.29/urls/185.226.52.91/expires/1725631035069/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/7482487876378/id/6891817404954/6891817404954_high/index.m3u8",
-                "userAgent" : "",
-		"embed": "",
-		"isHost": "true",
-                "online":"true"
-                },
-	        {
-                "name": "09:00h ERC JDS Machinery Rali Ceredigion 2024 - Dia 3",
-                "info":"[Android 720]",
-                "image": "https://i.postimg.cc/T1s1b18f/photo-2024-08-18-12-00-07.jpg",
-                "url":"https://vkvsd165.mycdn.me/hls/6891817404954.m3u8/sig/gUuTnvBwfuQ/srcIp/83.41.113.29/urls/45.136.20.58/expires/1725631099730/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7482487876378/id/6891817404954/6891817404954_high/index.m3u8",
-                "userAgent" : "",
-		"embed": "",
-		"isHost": "true",
-                "online":"true"
-                },
-	        {
-                "name": "Real Madrid vs Real Betis,
-                "info":"[]",
-                "image": "https://phantom-marca.unidadeditorial.es/4853de9da60407433ed5b427ae67991b/resize/660/f/webp/assets/multimedia/imagenes/2024/08/31/17251309857203.jpg",
-                "url":"https://paco@oha.to/play/3461295847/index.m3u8",
-                "userAgent" : "",
-		"embed": "",
-		"isHost": "true",
-                "online":"true"
-                },
-	        {
-                "name": "Real Madrid vs Real Betis,
-                "info":"[]",
-                "image": "https://phantom-marca.unidadeditorial.es/4853de9da60407433ed5b427ae67991b/resize/660/f/webp/assets/multimedia/imagenes/2024/08/31/17251309857203.jpg",
-                "url":"hhttps://oha.to/play/3996529465/index.m3u8",
-                "userAgent" : "",
-		"embed": "",
-		"isHost": "true",
-                "online":"true"
-                },
-	        {
-                "name": "Real Madrid vs Real Betis,
-                "info":"[]",
-                "image": "https://phantom-marca.unidadeditorial.es/4853de9da60407433ed5b427ae67991b/resize/660/f/webp/assets/multimedia/imagenes/2024/08/31/17251309857203.jpg",
-                "url":"http://paco@181.78.105.146:2000/play/a08m/index.m3u8",
-                "userAgent" : "",
-		"embed": "",
-		"isHost": "true",
-                "online":"true"
-                },
-	        {
-                "name": "Real Madrid vs Real Betis,
-                "info":"[]",
-                "image": "https://phantom-marca.unidadeditorial.es/4853de9da60407433ed5b427ae67991b/resize/660/f/webp/assets/multimedia/imagenes/2024/08/31/17251309857203.jpg",
-                "url":"https://paco@www.oha.to/play/427708442/index.m3u8",
-                "userAgent" : "",
-		"embed": "",
-		"isHost": "true",
-                "online":"true"
-                }
-
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[Azteca 7 🇲🇽]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "https://tutlehd5.com/online.php?a=384",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[Azteca 7 🇲🇽]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[Azteca 7 🇲🇽]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium844/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[Canal 5 🇲🇽]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "https://tutlehd5.com/online.php?a=382",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[Canal 5 🇲🇽]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zqy_UlZGTfC2jcRL6BLawy/.m3u8&type=stream.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 2024 azerbaiyán [Baku]",
+        "info":"[DAZNF1][PRUEBAS]",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "F1 2024 azerbaiyán [Baku]",
+        "info":"[DAZNF1]",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "url": "https://8.tutl24.xyz/live/ST24cc9c8371d095a.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 2024 azerbaiyán [Baku]",
+        "info":"[DAZNF1]",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium537/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 2024 azerbaiyán [Baku]",
+        "info":"[DAZNF1]",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "url": "https://webufffit.mizhls.ru/lb/primadaznf1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 2024 azerbaiyán [Baku]",
+        "info":"[FoxSport Premium 🇲🇽]",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "url": "https://8.tutl24.xyz/live/ST589f8d07edb69df.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 2024 azerbaiyán [Baku]",
+        "info": "[FoxSport Premium 🇲🇽]",
+        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium830/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        }
     ]
 }
