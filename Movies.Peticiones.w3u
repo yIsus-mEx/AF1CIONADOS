@@ -7,6 +7,17 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+
+        {
+        "name": "Caza, La",
+        "info": "[2012][Español]",
+        "image": "https://pics.filmaffinity.com/jagten_the_hunt-754157806-large.jpg",
+        "url": "https://filemoon.sx/d/2ejd4dazgk48",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Boxeador",
         "info": "[2024][Español]",
