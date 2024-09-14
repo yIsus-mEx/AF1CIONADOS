@@ -9,13 +9,13 @@
     [
         {
         "name": "Canelo Álvarez vs Edgar Berlanga",
-        "info":"[MANUJAZ]",
+        "info":"[DAZN Premium]",
         "image": "https://i.postimg.cc/L89CpL08/canelo.png",
-        "url": "https://vkvsd204.mycdn.me/hls/6957107448346.m3u8/sig/wmNMyAXqDuo/srcIp/37.14.45.69/urls/45.136.22.62/expires/1726806441069/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7520871721754/id/6957107448346/6957107448346_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium59/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Canelo Álvarez vs Edgar Berlanga",
@@ -60,6 +60,26 @@
         "image": "https://i.postimg.cc/L89CpL08/canelo.png",
         "url": "http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1zqy_UlZGTfC2jcRL6BLawy/.m3u8&type=stream.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[ESPN 🇦🇷]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "https://ddy6.mizhls.ru/ddy6/premium149/playlist.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Canelo Álvarez vs Edgar Berlanga",
+        "info":"[ESPN 🇲🇽]",
+        "image": "https://i.postimg.cc/L89CpL08/canelo.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium925/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
         },
