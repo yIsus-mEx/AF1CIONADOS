@@ -606,6 +606,25 @@
         }
       ]
     },
+
+    {
+      "name": "Soy Celine Dion",
+      "image": "https://pics.filmaffinity.com/i_am_celine_dion-549801823-large.jpg",
+      "stations": 
+      [
+        {
+          "name": "Soy Celine Dion",
+          "info": "[Español 2024]",
+          "image": "https://pics.filmaffinity.com/i_am_celine_dion-549801823-large.jpg",
+          "url": "https://filemoon.sx/d/czbx0shf9vdb/Soy_Celine_Dion__2024___Documental___VOSE_.mp4",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        }
+      ]
+    },
+
     {
       "name": "Soy Georgina",
       "image": "https://pics.filmaffinity.com/soy_georgina-439088863-large.jpg",
@@ -613,6 +632,7 @@
       "info": "bY AdriDeCai",
       "import": false
     },
+
     {
       "name": "Suicidio. El dolor invisible",
       "image": "https://pics.filmaffinity.com/suicidio_el_dolor_invisible-298693855-large.jpg",
@@ -630,6 +650,7 @@
         }
       ]
     },
+
     {
       "name": "Surf Girl Hawaii [VOSE]",
       "image": "https://pics.filmaffinity.com/surf_girls_hawai_i-290198545-large.jpg",
@@ -637,6 +658,7 @@
       "info": "bY. Adri",
       "import": false
     },
+
     {
       "name": "Telarañas, el segundo imperio Británico",
       "image": "https://pics.filmaffinity.com/the_spider_s_web_britain_s_second_empire-853403216-large.jpg",
@@ -652,6 +674,7 @@
         }
       ]
     },
+
     {
       "name": "Thank you, goodnight. La historia de Bon Jovi",
       "image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
@@ -685,6 +708,7 @@
         }
       ]
     },
+
     {
       "name": "Topuria y Unzué. Dos luchas, dos sueños",
       "image": "https://pics.filmaffinity.com/the_spider_s_web_britain_s_second_empire-853403216-large.jpg",
