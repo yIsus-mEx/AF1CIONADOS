@@ -8,14 +8,14 @@
 "groups":
     [
         {
-         "name": "CinE En LaTinO",
+         "name": "CinE LaTinO",
          "image": "https://i.postimg.cc/y8DcmL7X/Cine-Latino2-new.png",
          "url": "https://af1c1onados.vercel.app/06.1.0.CinE.LaTinO.w3u",
          "info":"",
          "import": false
         },
-	{
-         "name": "CinE En eSPañOL",
+	    {
+         "name": "CinE EsPañOL",
          "image": "https://i.postimg.cc/Bvq8hN0V/Cine-espa-ol-New.png",
          "url": "https://af1cionados.vercel.app/CiNe%20CasTeLlanO.w3u",
          "info":"",
@@ -28,14 +28,14 @@
          "info":"",
          "import": false
         },
-	{
+	    {
          "name": "CinE iNFantIL",
          "image": "https://i.postimg.cc/Bb3DPGZg/kids-zone-new.png",
          "url": "https://af1c1onados.vercel.app/Menu.Kids.Zone.w3u",
          "info":"",
          "import": false
         },
-	{
+	    {
          "name": "CinE sUBtitULadO",
          "image": "https://i.postimg.cc/2yZk2LX6/Cine-Sub-New.png",
          "url": "https://af1cionados.vercel.app/CinE%20SuBTituLaDO.w3u",
