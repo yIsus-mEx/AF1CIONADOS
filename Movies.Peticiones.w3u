@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Bitelchus Bitelchus",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/beetlejuice_beetlejuice-890586814-large.jpg",
+        "url": "https://filemoon.sx/d/hszg5c0h0f5u",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Taxi Driver",
         "info": "[1976][Español]",
         "image": "https://images.justwatch.com/poster/308916776/s718/taxi-driver.jpg",
@@ -84,15 +93,6 @@
         "info": "[2023][Español]",
         "image": "https://pics.filmaffinity.com/the_boat-434513519-large.jpg",
         "url": "https://filemoon.sx/d/vy15kwf6ibzk",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Bitelchus Bitelchus",
-        "info": "[2024][Latino]",
-        "image": "https://pics.filmaffinity.com/beetlejuice_beetlejuice-890586814-large.jpg",
-        "url": "https://filemoon.sx/d/s6s5debqvi3v",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
