@@ -7,31 +7,20 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
-
+        {
+        "name": "Taxi Driver",
+        "info": "[1976][Español]",
+        "image": "https://images.justwatch.com/poster/308916776/s718/taxi-driver.jpg",
+        "url": "https://filemoon.sx/d/q1tti2821zay",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Caza, La",
         "info": "[2012][Español]",
         "image": "https://pics.filmaffinity.com/jagten_the_hunt-754157806-large.jpg",
         "url": "https://filemoon.sx/d/2ejd4dazgk48",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Boxeador",
-        "info": "[2024][Español]",
-        "image": "https://pics.filmaffinity.com/bokser-490785284-large.jpg",
-        "url": "https://filemoon.sx/d/94x1n4ch3e5r",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "La Reina del Convento",
-        "info": "[2024][Español]",
-        "image": "https://pics.filmaffinity.com/La_reina_del_convento-845921689-large.jpg",
-        "url": "https://filemoon.sx/d/oeqmqtxz78z3",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -50,24 +39,6 @@
         "info": "[2022][Español]",
         "image": "https://pics.filmaffinity.com/Smile-843278209-mmed.jpg",
         "url": "https://filemoon.sx/d/q02yio5dqwco",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "La Liberacion",
-        "info": "[2024][Español]",
-        "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
-        "url": "https://filemoon.sx/d/0oeswmwgjyry",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "The Funeral",
-        "info": "[2023][Español]",
-        "image": "https://pics.filmaffinity.com/The_Funeral-924535808-large.jpg",
-        "url": "https://filemoon.sx/d/leuuywv7hvrm",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -118,15 +89,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Oppenheimer",
-        "info": "[2023][Español]",
-        "image": "https://es.web.img3.acsta.net/pictures/23/05/25/13/41/1835431.jpg",
-        "url": "https://filemoon.sx/d/n26qxt2m536v",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "Bitelchus Bitelchus",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/beetlejuice_beetlejuice-890586814-large.jpg",
@@ -163,24 +125,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Watchers (Los Vigilantes)",
-        "info": "[2024][Español]",
-        "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
-        "url": "https://filemoon.sx/d/amcan2ie69ai",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Nefarious, cuando habla el diablo",
-        "info": "[2023][Español]",
-        "image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
-        "url": "https://filemoon.sx/d/0mdo8x24ji1u",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "Django Desencadenado",
         "info": "[2012][Español]",
         "image": "https://es.web.img2.acsta.net/medias/nmedia/18/92/38/67/20383018.jpg",
@@ -194,15 +138,6 @@
         "info": "[2020][Español]",
         "image": "https://pics.filmaffinity.com/Alone-958860872-large.jpg",
         "url": "https://filemoon.sx/d/f1ewbkdme4gd",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Hit Man: Asesino por casualidad",
-        "info": "[2023][Español]",
-        "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
-        "url": "https://filemoon.sx/d/oofs7pennsv2",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -288,15 +223,7 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-        {
-        "name": "Fly me to the Moon (La otra cara de la luna)",
-        "info": "[2024][Español]",
-        "image": "https://pics.filmaffinity.com/fly_me_to_the_moon-279859131-large.jpg",
-        "url": "https://filemoon.sx/d/zm92ewuspacz",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
+        
         {
         "name": "Algunos hombres buenos",
         "info": "[1992][Español]",
