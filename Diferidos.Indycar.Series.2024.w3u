@@ -8,6 +8,31 @@
 "groups":
     [
         {
+        "name": "R18 IndyCar Big Machine Nashville",
+        "image": "https://i.postimg.cc/6QnWZKQp/indycar-nashville.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6QnWZKQp/indycar-nashville.png",
+                "url" :"https://listeamed.net/v/LQm9OXNodNpx1lg",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6QnWZKQp/indycar-nashville.png",
+                "url" :"https://listeamed.net/v/PKN4OwnGXqbEDLj",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R17 IndyCar Race 02 Milwaukee",
         "image": "https://i.postimg.cc/bJFJBDsf/milwaukee.png",
         "stations":
