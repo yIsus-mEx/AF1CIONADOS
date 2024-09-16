@@ -8,6 +8,31 @@
 "groups":
     [
        {
+         "name": "UFC 306: O'Malley vs Dvalishvili",
+         "image": "https://i.postimg.cc/FRj9vptK/ufc-306.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 306: O'Malley vs Dvalishvili",
+                "info":"[Latino][Preliminares]",
+                "image": "https://i.postimg.cc/FRj9vptK/ufc-306.png",
+                "url":"https://listeamed.net/v/8lKQxYV2D4lEDGY",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 306: O'Malley vs Dvalishvili",
+                "info":"[Latino][Estelares]",
+                "image": "https://i.postimg.cc/FRj9vptK/ufc-306.png",
+                "url":"https://listeamed.net/v/8ozgENLGY6J5mjA",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Burns vs Brady",
          "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
          "imageScale": "",
@@ -19,6 +44,14 @@
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
                 "url":"https://filemoon.sx/d/ure9510bpad8",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Burns vs Brady",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
+                "url":"https://listeamed.net/v/0DogOGMZn7jxKjM",
                 "isHost":"true",
                 "online":"true"
                 }
@@ -63,6 +96,14 @@
                 "url":"https://filemoon.sx/d/wy0qb9pd3xi3",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "UFC 305: Du Plessis vs Adesanya",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+                "url":"https://listeamed.net/v/0DogOGMZnoGxKjM",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -93,7 +134,7 @@
                 "name": "Fight Night: Tybura vs Spivak 2",
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/9QWdvjXS/Tybura-vs-Spivak-2.png",
-                "url":"",
+                "url":"https://listeamed.net/v/njJYOd3gb07Ee9o",
                 "isHost":"true",
                 "online":""
                 }
@@ -126,7 +167,7 @@
                 "name": "Fight Night: Sandhagen vs Nurmagomedov",
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
-                "url":"https://filemoon.sx/d/61ys7e3qb08x",
+                "url":"https://listeamed.net/v/8ozgENLPAzG5mjA",
                 "isHost":"true",
                 "online":"true"
                 }
