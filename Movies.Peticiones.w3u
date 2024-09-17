@@ -7,6 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
+        {
+        "name": "Oscuras Primaveras, Las",
+        "info": "[2014][Latino]",
+        "image": "https://pics.filmaffinity.com/las_oscuras_primaveras-691882129-large.jpg",
+        "url": "https://filemoon.sx/d/66i14m7dbdxg/Las_oscuras_primaveras__2014___Pelicula__V_deo_Dailymotion.ts",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "Bitelchus Bitelchus",
         "info": "[2024][Latino]",

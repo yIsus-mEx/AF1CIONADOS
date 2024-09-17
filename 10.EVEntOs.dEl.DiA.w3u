@@ -7,65 +7,51 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+
         {
-        "name": "F1 2024 azerbaiyán [Baku]",
-        "info":"[DAZNF1][PRUEBAS]",
-        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "name": "",
+        "info": "",
+        "image": "",
+        "url": "",
+        "userAgent": "",
         "referer" : "",
         "online":"true",
         "embed": "true",
         "isHost":""
         },
         {
-        "name": "F1 2024 azerbaiyán [Baku]",
-        "info":"[DAZNF1]",
-        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-        "url": "https://8.tutl24.xyz/live/ST24cc9c8371d095a.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "F1 2024 azerbaiyán [Baku]",
-        "info":"[DAZNF1]",
-        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium537/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "F1 2024 azerbaiyán [Baku]",
-        "info":"[DAZNF1]",
-        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-        "url": "https://webufffit.mizhls.ru/lb/primadaznf1/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "F1 2024 azerbaiyán [Baku]",
-        "info":"[FoxSport Premium 🇲🇽]",
-        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-        "url": "https://8.tutl24.xyz/live/ST589f8d07edb69df.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "name": "",
+        "info": "",
+        "image": "",
+        "url": "",
+        "userAgent": "",
         "referer" : "",
         "online":"true",
+        "embed": "true",
         "isHost":""
         },
         {
-        "name": "F1 2024 azerbaiyán [Baku]",
-        "info": "[FoxSport Premium 🇲🇽]",
-        "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium830/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
+        "name": "",
+        "info": "",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "referer" : "",
         "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "",
+        "info": "",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
         "isHost":""
         }
+
     ]
 }
