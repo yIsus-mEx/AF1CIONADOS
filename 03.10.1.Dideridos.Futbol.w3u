@@ -791,7 +791,117 @@
 					]
 				}
 			]
-		}
+		},
+
+	{
+       	"name": "Champions League  2024/25",
+        "info":"",
+        "image": "https://i.postimg.cc/NjC8PZdv/Logo-Champions-2.png",
+        "imageScale": "",
+        "groups":
+        	[
+				{
+				"name": "FASE DE LIGUILLA",
+				"info":"",
+				"image": "https://i.postimg.cc/6pDVpZ3d/2024-02-07-Octavos-de-final-Champions-League.png",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Real Madrid VS Stuttgart",
+						"info":"[17-09-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/lg4vfm27cesz/Liga_Campeones_Real_Madrid_VS_Stuttgart_170924.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Munich VS Dinamo Zagreb",
+						"info":"[17-09-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/baygeqc99uh4/Liga_Campeones_Bayer_VS_Dinamo_Zagreb_170924.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "AC Milan vS Liverpool",
+						"info":"[17-09-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/dvvi1tjo5nvm/Liga_Campeones_Milan_VS_Liverpool_170924.mkv",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+				{
+				"name": "FASE DE LIGUILLA 2",
+				"info":"",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "",
+						"info":"[]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+				{
+				"name": "OCTAVOS",
+				"info":"",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "",
+						"info":"[]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+				{
+				"name": "SEMIFINALES",
+				"info":"",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "",
+						"info":"[]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+				{
+				"name": "FINAL",
+				"info":"",
+				"image": "",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "",
+						"info":"[]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				}
+
 	]
 }
 
