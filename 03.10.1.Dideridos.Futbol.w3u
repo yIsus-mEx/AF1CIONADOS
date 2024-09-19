@@ -810,7 +810,7 @@
 						{
 						"name": "Real Madrid VS Stuttgart",
 						"info":"[17-09-2024]",
-						"image": "",
+						"image": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fvdmedia.as.com%2Fmcv%2Fdiarioas%2Fmultimedia%2F20240917%2F991159_213444_still.0000001.jpg?auth=a2767c27c4d5d410b6e54fb37dc42862fc421f12c1a77f9349607f0881a7f988&width=360&height=203&smart=true",
 						"url":"https://filemoon.sx/d/lg4vfm27cesz/Liga_Campeones_Real_Madrid_VS_Stuttgart_170924.mkv",
 						"isHost":"true",
 						"online":"true"
@@ -818,7 +818,7 @@
 						{
 						"name": "Bayern Munich VS Dinamo Zagreb",
 						"info":"[17-09-2024]",
-						"image": "",
+						"image": "https://vdmedia.as.com/mcv/diarioas/multimedia/20240917/991153_212428_still.0000001.jpg",
 						"url":"https://filemoon.sx/d/baygeqc99uh4/Liga_Campeones_Bayer_VS_Dinamo_Zagreb_170924.mkv",
 						"isHost":"true",
 						"online":"true"
@@ -826,7 +826,7 @@
 						{
 						"name": "AC Milan vS Liverpool",
 						"info":"[17-09-2024]",
-						"image": "",
+						"image": "https://vdmedia.as.com/mcv/diarioas/multimedia/20240917/991152_212345_still.0000001.jpg",
 						"url":"https://filemoon.sx/d/dvvi1tjo5nvm/Liga_Campeones_Milan_VS_Liverpool_170924.mkv",
 						"isHost":"true",
 						"online":"true"
@@ -838,7 +838,15 @@
 						"url":"",
 						"isHost":"true",
 						"online":"true"
-						}
+						},
+						{
+						"name": "Manchester City VS Inter Milan",
+						"info":"[18-09-2024]",
+						"image": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fvdmedia.as.com%2Fmcv%2Fdiarioas%2Fmultimedia%2F20240918%2F991465_210522_still.0000001.jpg?auth=6d61b7717f5c1b47e3f9a64abe5eed070aa8e6f56e8042c72a59ed276cb1d20e&width=644&height=362&smart=true",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
 				]
 				},
 				{
