@@ -43,6 +43,13 @@
          "info":"Adri",
          "import": false
         },
+        {
+         "name": "Futbol",
+         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
+         "info":"",
+         "import": false
+        },
 		{
          "name": "IndyCar",
          "image": "https://i.postimg.cc/YSKrpqQs/Indycar-Series-new.png",
@@ -103,13 +110,6 @@
          "name": "WWE",
          "image": "https://i.postimg.cc/RVjHcn1r/wwe-new.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.WWE.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Football Mix",
-         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
-         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
          "info":"",
          "import": false
         },
