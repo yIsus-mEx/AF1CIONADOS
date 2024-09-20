@@ -224,6 +224,24 @@
     },
 
     {
+      "name": "Detener el robo",
+      "image": "https://pics.filmaffinity.com/stopping_the_steal-354829045-large.jpg",
+      "stations": [
+        {
+          "name": "Detener el robo",
+          "image": "https://pics.filmaffinity.com/stopping_the_steal-354829045-large.jpg",
+          "url": "https://filemoon.sx/d/bao2tzlk1830",
+          "info": "[2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "El Barrio, Un reino sin corona",
       "image": "https://pics.filmaffinity.com/el_barrio_un_reino_sin_corona-979978645-large.jpg",
       "stations": 
