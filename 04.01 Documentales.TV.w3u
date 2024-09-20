@@ -292,6 +292,7 @@
         }
       ]
     },
+
     {
       "name": "GEO, mas alla del limite",
       "image": "https://pics.filmaffinity.com/g_e_o_mas_alla_del_limite-913336431-large.jpg",
@@ -299,6 +300,7 @@
       "info": "bY. Adri",
       "import": false
     },
+
     {
       "name": "Gran estafa de los teleoperadores",
       "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
@@ -306,6 +308,7 @@
       "info": "bY. Adri",
       "import": false
     },
+
     {
       "name": "Grandes robos de la historia",
       "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
@@ -313,6 +316,7 @@
       "info": "bY. Adri",
       "import": false
     },
+
     {
       "name": "Historias de Crimenes",
       "image": "https://pics.filmaffinity.com/una_historia_de_crimenes-210550889-large.jpg",
@@ -337,6 +341,14 @@
           "import": false
         }
       ]
+    },
+
+    {
+      "name": "¿Y ahora que? El futuro según Bill Gates",
+      "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/main/DoCuSerie Y AHORA QUE.w3u",
+      "info": "bY AdriDeCai",
+      "import": false
     },
 
     {
