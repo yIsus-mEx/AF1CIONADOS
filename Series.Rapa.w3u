@@ -132,6 +132,44 @@
                 "online":"true"
                 }
 			]
-        }
+        },
+
+        {
+        "name": "Temporada 03",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 1",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://filemoon.sx/d/zk5dxgse8zo5/Rapa_3x01_m1080p_mkv.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+		"isHost": "true",
+                "online":"true"
+                },
+		{
+                "name": "Episodio 2",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://filemoon.sx/d/asnghunr8av5/Rapa_3x02_m1080p_mkv.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+		"isHost": "true",
+                "online":"true"
+                },
+		{
+                "name": "Episodio 3",
+                "info":"Castellano",
+                "image": "https://pics.filmaffinity.com/Rapa_Serie_de_TV-786208902-large.jpg",
+                "url":"https://filemoon.sx/d/jrduig6m6wjx/Rapa_3x03_m1080p_mkv.mp4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+		"isHost": "true",
+                "online":"true"
+                }
+		]
+	}
+
 	]
 }
