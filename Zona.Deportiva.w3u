@@ -1972,6 +1972,17 @@
         "online":"true",
         "embed": "true",
         "isHost":""
+        },
+        {
+        "name": "Fox Premium",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://gucprez.online:9090/FOXSPORTSPREMIUM/index.fmp4.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":""
         }
 	]
 }
