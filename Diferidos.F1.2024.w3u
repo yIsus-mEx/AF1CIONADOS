@@ -8,6 +8,105 @@
 "groups":
     [
         {
+        "name": "F1 2024 Singapore [20-22.Sep24]",
+        "info":"",
+        "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/s1f81y00yyfs",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/pgtc63sa6amq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/9hj8t23aubog",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/cot5qzcmupbf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/ga7rhl04floy",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/p2m1lvblil9y",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/nr1p6o2lh31y",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/hkjkx48k0zv4",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 azerbaiyán [13-15.Sep24]",
         "info":"",
         "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
@@ -103,15 +202,6 @@
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
-                },
-                {
-                "name": "P0st Carrera",
-                "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/GhXqLZ1W/Ferrari-azerbaiya.png",
-                "url":"",
-		        "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":""
                 }
             ]
         },
