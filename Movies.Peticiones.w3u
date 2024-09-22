@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "Guerra Mundial Z",
+        "info": "[2013][Latino]",
+        "image": "https://pics.filmaffinity.com/Guerra_Mundial_Z-150505659-large.jpg",
+        "url": "https://b4h2.c13.e2-3.dev/cinepeli/Soporte-Cinepeli/World.War.Z.2013.hd-dual-lat.mp4",
+        "isHost": "",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "La Trampa",
+        "info": "[2024][Español]",
+        "image": "https://es.web.img3.acsta.net/img/6f/23/6f23fb1b04dc2b8ca6aba2f896fb0195.jpg",
+        "url": "https://filemoon.sx/d/a85k4my2t08d",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "The Bay",
         "info": "[2012][Español]",
         "image": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_.jpg",
