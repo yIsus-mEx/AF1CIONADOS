@@ -21,7 +21,7 @@
         "image": "https://i.postimg.cc/sDfFd8yT/this-is-football.png",
         "imageScale": "",
         "info":"",
-	"stations":
+		"stations":
     		[   
 			{
        			 "name": "Pelé, el rey del fútbol",
@@ -148,13 +148,51 @@
         		}
 			]
 		},
-
+		{
+        "name": "Angel Di Maria: Romper La Pared",
+        "image": "https://pics.filmaffinity.com/aAngel_Di_Maraia_Romper_la_pared_Miniserie_de_TV-927820800-large.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
+        		{
+        		"name": "EPISODIO 1",
+        		"info":"",
+        		"image": "https://pics.filmaffinity.com/aAngel_Di_Maraia_Romper_la_pared_Miniserie_de_TV-927820800-large.jpg",
+        		"url": "https://filemoon.sx/d/1zycthsxmcuf",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+        		{
+        		"name": "EPISODIO 2",
+        		"info":"",
+        		"image": "https://pics.filmaffinity.com/aAngel_Di_Maraia_Romper_la_pared_Miniserie_de_TV-927820800-large.jpg",
+        		"url": "https://filemoon.sx/d/pkosttkukzyk",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		},
+				{
+        		"name": "EPISODIO 3",
+        		"info":"",
+        		"image": "https://pics.filmaffinity.com/aAngel_Di_Maraia_Romper_la_pared_Miniserie_de_TV-927820800-large.jpg",
+        		"url": "https://filemoon.sx/d/skfyrd8w1cls",
+        		"userAgent" : "",
+        		"online":"true",
+        		"embed": "",
+        		"isHost": "true"
+        		}
+			]
+		},
 		{
         	"name": "El Fichaje",
         	"image": "https://pics.filmaffinity.com/el_fichaje-883343671-large.jpg",
         	"imageScale": "",
         	"info":"",
-		"stations":
+			"stations":
     			[
         		{
         		"name": "EPISODIO 1",
@@ -193,7 +231,7 @@
         		"embed": "",
         		"isHost": "true",
         		"online": "true",
-			"userAgent":"PlusMediaPlayer/0.0.9",
+				"userAgent":"PlusMediaPlayer/0.0.9",
         		"import": false
         		},
 	       		{
