@@ -90,10 +90,10 @@
                 "name": "Carrera",
                 "info":"[DAZN F1]",
                 "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
-                "url":"",
+                "url":"https://filemoon.sx/d/oqiyelrxc2vn",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
 		        {
                 "name": "Carrera",
@@ -103,6 +103,15 @@
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/DZtvBJNr/Singapore-2024.png",
+                "url":"https://filemoon.sx/d/bj7d6cht9yc1",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
