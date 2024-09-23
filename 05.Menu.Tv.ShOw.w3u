@@ -8,16 +8,16 @@
 "groups":
     [
         {
-         "name": "Rakuten TV",
+         "name": "Rakuten TV 🇪🇸",
          "image": "",
          "url": "https://af1c1onados.vercel.app/TV.FREE.Rakuten.Tv.w3u",
          "info":"",
          "import": false
         },
         {
-         "name": "Codigo F1",
-         "image": "https://i.postimg.cc/nzw8S7DC/Codigo-F1-new.png",
-         "url": "https://af1c1onados.vercel.app/Tv.Shows.Codigo.F1.2023.w3u",
+         "name": "PlutoTV 🇪🇸",
+         "image": "",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.Pluto.TV.ES.w3u",
          "info":"",
          "import": false
         },
