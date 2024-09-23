@@ -9,29 +9,36 @@
     [
         {
          "name": "Rakuten TV 🇪🇸",
-         "image": "",
+         "image": "https://i.postimg.cc/rFhzPjCx/Rakuten-Tv-new.png",
          "url": "https://af1c1onados.vercel.app/TV.FREE.Rakuten.Tv.w3u",
          "info":"",
          "import": false
         },
         {
+         "name": "Canela TV",
+         "image": "https://i.postimg.cc/63dF8H5P/Canela-Tv-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.CanelaTV.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Runtime TV",
+         "image": "https://i.postimg.cc/fbwhxn1N/Runtime-TV-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.RuntimeTV.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "PlutoTV 🇪🇸",
-         "image": "",
+         "image": "https://i.postimg.cc/gJ4w2QNN/pluto-tv-new.png",
          "url": "https://af1c1onados.vercel.app/TV.FREE.Pluto.TV.ES.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "PlutoTV 🇲🇽",
-         "image": "",
+         "image": "https://i.postimg.cc/gJ4w2QNN/pluto-tv-new.png",
          "url": "https://af1c1onados.vercel.app/TV.FREE.PlutoTV.MX.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "PlutoTV 🇦🇷",
-         "image": "",
-         "url": "https://af1c1onados.vercel.app/TV.FREE.PlutoTV.AR.w3u",
          "info":"",
          "import": false
         },

@@ -1,0 +1,363 @@
+{
+    "name": "Canela TV",
+    "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+    "url": "https://af1c1onados.vercel.app/TV.FREE.CanelaTV.w3u",
+    "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+    "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
+    "groups": [
+        {
+            "name": "En Vivo",
+            "image": "",
+            "stations": [
+                {
+                    "name": "Canela TV",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canelatv-16x9_4.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=653",
+                    "epgId": "canela-tv"
+                },
+                {
+                    "name": "Cinema",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-cinema-16x9_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134",
+                    "epgId": "cinema-1"
+                },
+                {
+                    "name": "Clásicos",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-clasicos-16x9_8.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=652",
+                    "epgId": "clasicos-0"
+                },
+                {
+                    "name": "Narco-Drama",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-narcodrama-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099",
+                    "epgId": "narco-drama"
+                },
+                {
+                    "name": "Canela Horror",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029",
+                    "epgId": "canela-horror"
+                },
+                {
+                    "name": "Inspiración y Fe",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847",
+                    "epgId": "inspiracion-y-fe"
+                },
+                {
+                    "name": "Hercai",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-hercai-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6286",
+                    "epgId": "hercai"
+                },
+                {
+                    "name": "Novelas Turcas",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelasturcas-16x9_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+                    "epgId": "novelas-turcas"
+                },
+                {
+                    "name": "Telenovelas",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-telenovelas-16x9_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
+                    "epgId": "telenovelas"
+                },
+                {
+                    "name": "Novelas Inolvidables",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550",
+                    "epgId": "novelas-inolvidables"
+                },
+                {
+                    "name": "Always Funny en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/afe_canela_still_1920x1080_1.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147",
+                    "epgId": "always-funny-en-espanol"
+                },
+                {
+                    "name": "Vive Kanal D Drama",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x1080.jpg",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
+                    "epgId": "vive-kanal-d-drama"
+                },
+                {
+                    "name": "Novelísima ",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+                    "epgId": "novelisima"
+                },
+                {
+                    "name": "Desastres",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-desastres-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364",
+                    "epgId": "desastres"
+                },
+                {
+                    "name": "Cine Picante",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9_3.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629",
+                    "epgId": "cine-picante"
+                },
+                {
+                    "name": "True Crime",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985",
+                    "epgId": "true-crime"
+                },
+                {
+                    "name": "Acción Mexicana",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
+                    "epgId": "accion-mexicana"
+                },
+                {
+                    "name": "Canal 6 CDMX",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
+                    "epgId": "canal-6-cdmx"
+                },
+                {
+                    "name": "Milenio Televisión",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/s7fswdPBp0Uf2own2Ivnw1mpW45uXwdq3jdjC7fEEVg.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
+                    "epgId": "milenio-television"
+                },
+                {
+                    "name": "C4 en Alerta",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
+                    "epgId": "c4-en-alerta"
+                },
+                {
+                    "name": "AZTECA UNO -1 hora",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396",
+                    "epgId": "azteca-uno-1-hora"
+                },
+                {
+                    "name": "Azteca Internacional",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
+                    "epgId": "azteca-internacional"
+                },
+                {
+                    "name": "Telediario Now",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1hLrgUkhr-9iPr9L1fmh1Ma9GQnLT5fJHd_fDrTfIAk.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
+                    "epgId": "telediario-now"
+                },
+                {
+                    "name": "The Weather Channel En Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-the_weather_channel-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690",
+                    "epgId": "weather-channel-en-espanol"
+                },
+                {
+                    "name": "RCN Más",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/horizontal_logo_rcn_mas_-_4_novelas_copy.jpg",
+                    "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
+                    "epgId": "rcn-mas"
+                },
+                {
+                    "name": "Cine Romántico",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656",
+                    "epgId": "cine-romantico"
+                },
+                {
+                    "name": "Pelimex",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg",
+                    "url": "https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184",
+                    "epgId": "pelimex"
+                },
+                {
+                    "name": "Corazón",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399",
+                    "epgId": "corazon"
+                },
+                {
+                    "name": "Clic",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
+                    "epgId": "clic"
+                },
+                {
+                    "name": "Todo Cine",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
+                    "epgId": "todo-cine"
+                },
+                {
+                    "name": "TeleFórmula",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pantalla_teleformula.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
+                    "epgId": "teleformula"
+                },
+                {
+                    "name": "Flou Cine",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
+                    "epgId": "flou-cine"
+                },
+                {
+                    "name": "FLOU Caribeño",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
+                    "epgId": "flou-caribeno"
+                },
+                {
+                    "name": "Tastemade en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
+                    "epgId": "tastemade-en-espanol-0"
+                }
+            ]
+        },
+        {
+            "name": "Kids",
+            "image": "",
+            "stations": [
+                {
+                    "name": "Canela Kids",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654",
+                    "epgId": "canela-kids"
+                },
+                {
+                    "name": "Canela Familia",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-canelafamilia-16x9-jainer.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310",
+                    "epgId": "canela-familia"
+                },
+                {
+                    "name": "Captain Tsubasa",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/captaintsubasa-g-16x9-cris.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11681",
+                    "epgId": "captain-tsubasa"
+                },
+                {
+                    "name": "Cine en Familia",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/copia_de_linear-cine_en_familia-kids-16x9-albert.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281",
+                    "epgId": "cine-en-familia"
+                },
+                {
+                    "name": "Mundo Pequeño",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/copia_de_linear-canela_kids-16x9-jainer.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366",
+                    "epgId": "mundo-pequeno"
+                },
+                {
+                    "name": "Zona de Acción",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9-albert.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312",
+                    "epgId": "zona-de-accion"
+                },
+                {
+                    "name": "Moonbug Kids ",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-moonbug_kidslinear-moonbug_kids-16x9-albert.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365",
+                    "epgId": "moonbug-kids"
+                },
+                {
+                    "name": "Planeta de Aventuras",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-planeta_de_aventuras-16x9-albert.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311",
+                    "epgId": "planeta-de-aventuras"
+                },
+                {
+                    "name": "Toon Goggles en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/WhxvMJFFonzITVAqe_rRm5A0xXxTbfDi_bIM829jH6A.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=771",
+                    "epgId": "toon-goggles-en-espanol-0"
+                }
+            ]
+        },
+        {
+            "name": "Canales de Deporte & Música en Vivo",
+            "image": "",
+            "stations": [
+                {
+                    "name": "Deportes",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/blanco_02_16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759",
+                    "epgId": "deportes-0"
+                },
+                {
+                    "name": "MASL Non-Stop 24/7",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060",
+                    "epgId": "masl-non-stop-247"
+                },
+                {
+                    "name": "LIDOM",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1ctv_lidom-24-7_x2_16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325",
+                    "epgId": "lidom"
+                },
+                {
+                    "name": "Power Nation en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
+                    "epgId": "power-nation-en-espanol"
+                },
+                {
+                    "name": "ITV Deportes",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010",
+                    "epgId": "itv-deportes"
+                },
+                {
+                    "name": "CANELA MUSIC PRESENTS",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm_cmp_01_16x9_1_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548",
+                    "epgId": "canela-music-presents"
+                },
+                {
+                    "name": "Canela Hits",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058",
+                    "epgId": "canela-hits"
+                },
+                {
+                    "name": "FLOW CARIBEÑO",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/flowcaribeno_16-9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083",
+                    "epgId": "flow-caribeno"
+                },
+                {
+                    "name": "TU POP FAVORITO",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086",
+                    "epgId": "tu-pop-favorito"
+                },
+                {
+                    "name": "CONCIERTOS",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-conciertos-linnear-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085",
+                    "epgId": "conciertos"
+                },
+                {
+                    "name": "PURO ROMANCE",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082",
+                    "epgId": "puro-romance"
+                },
+                {
+                    "name": "RITMOS INOLVIDABLES ",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081",
+                    "epgId": "ritmos-inolvidables"
+                },
+                {
+                    "name": "REGIONAL MX",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/GE8gFwkpG0Z_3KXmoqcAUI1EJwRp2YF5PiX0KFWcqHM_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084",
+                    "epgId": "regional-mx"
+                }
+            ]
+        }
+    ]
+}
