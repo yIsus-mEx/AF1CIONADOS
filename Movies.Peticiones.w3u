@@ -8,10 +8,19 @@
 "stations":
     [
         {
+        "name": "Vacaciones",
+        "info": "[2015][Latino]",
+        "image": "https://pics.filmaffinity.com/Vacaciones-662481068-large.jpg",
+        "url": "https://filemoon.sx/d/jhag75fn079t",
+        "isHost": "",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Guerra Mundial Z",
         "info": "[2013][Latino]",
         "image": "https://pics.filmaffinity.com/Guerra_Mundial_Z-150505659-large.jpg",
-        "url": "https://b4h2.c13.e2-3.dev/cinepeli/Soporte-Cinepeli/World.War.Z.2013.hd-dual-lat.mp4",
+        "url": "https://filemoon.sx/d/51wwfdzod3fy",
         "isHost": "",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"

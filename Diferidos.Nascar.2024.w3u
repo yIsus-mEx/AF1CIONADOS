@@ -8,6 +8,60 @@
 "groups":
     [
 		{
+        "name": "R30 NASCAR Bass Pro Shops Night",
+        "info":"",
+        "image": "https://i.postimg.cc/gJZ2c3RS/NASCAR-Bass-Pro-Shops-Night.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Bass Pro Shops Night",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/gJZ2c3RS/NASCAR-Bass-Pro-Shops-Night.png",
+                "url":"https://filemoon.sx/d/ei24obuaipsn",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Bass Pro Shops Night",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/gJZ2c3RS/NASCAR-Bass-Pro-Shops-Night.png",
+                "url":"https://filemoon.sx/e/xi2tifq7mi34",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R29 NASCAR Go Bowling at The Glen",
+        "info":"",
+        "image": "https://i.postimg.cc/T2gzRtLM/NASCAR-Go-Bowling.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Go Bowling at The Glen",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/T2gzRtLM/NASCAR-Go-Bowling.png",
+                "url":"https://filemoon.sx/d/lvea8u2g04dy",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Go Bowling at The Glen",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/T2gzRtLM/NASCAR-Go-Bowling.png",
+                "url":"https://filemoon.sx/e/3g3usr1oojii",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R28 NASCAR Quaker State 400",
         "info":"",
         "image": "https://i.postimg.cc/k5JHbKMV/NASCAR-Quaker-400.png",
