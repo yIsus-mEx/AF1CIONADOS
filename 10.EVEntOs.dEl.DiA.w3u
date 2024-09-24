@@ -17,7 +17,7 @@
         "referer" : "",
         "online":"true",
         "embed": "",
-        "isHost":""
+        "isHost":"true"
         },
         {
         "name": "Real Madrid vs Alavés",
@@ -27,7 +27,7 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
-        "embed": "",
+        "embed": "true",
         "isHost":""
         },
         {
