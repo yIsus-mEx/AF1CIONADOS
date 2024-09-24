@@ -7,6 +7,25 @@
 "info": "",
 "stations":
     [
+
+
+	{
+        "name": "NHL All-Star Game",
+        "info":"[2023]",
+        "image": "https://blog.ticketmaster.com/wp-content/uploads/nhl-all-star-game-2023.jpg",
+        "url":"https://www.yourupload.com/watch/LrM7j5j5JtLO",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	{
+        "name": "Final Mundial Rugby Sudafrica Vs Nueva Zelanda",
+        "info":"[2023].[Latino]",
+        "image": "https://i.postimg.cc/NMrrBkPy/skysports-new-zealand-south-africa-6262868.jpg",
+        "url": "https://fviplions.com/f/y1uqq6nnw1xa",
+        "online":"true",
+        "isHost": "true"
+        },
         {
         "name": "NBA 73rd All Star Game 2024",
         "info":"[19.02.2024]",
@@ -15,22 +34,14 @@
         "online":"true",
         "isHost": "true"
         },
-		{
-        "name": "Final Mundial Rugby Sudafrica Vs Nueva Zelanda",
-        "info":"[2023].[Latino]",
-        "image": "https://i.postimg.cc/NMrrBkPy/skysports-new-zealand-south-africa-6262868.jpg",
-        "url": "https://fviplions.com/f/y1uqq6nnw1xa",
+        {
+        "name": "Memorial Drazen Petrovic 2024",
+        "info":"[05.09.2024]",
+        "image": "https://i0.wp.com/asbglassfloor.com/wp-content/uploads/2024/08/asb-glassfloor-Drazen-Petrovic-memorial-game.webp?fit=900%2C506&ssl=1",
+        "url": "https://filemoon.sx/d/1aywkoa50i0g/Memorial_Drazen_Petrovic_050924.mkv",
         "online":"true",
         "isHost": "true"
-        },
-		{
-        "name": "NHL All-Star Game",
-        "info":"[2023]",
-        "image": "https://blog.ticketmaster.com/wp-content/uploads/nhl-all-star-game-2023.jpg",
-        "url":"https://www.yourupload.com/watch/LrM7j5j5JtLO",
-        "embed":"",
-        "isHost":"true",
-        "online":"true"
         }
+
     ]
 }
