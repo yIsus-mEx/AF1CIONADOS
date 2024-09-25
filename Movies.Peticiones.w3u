@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "84 Charing Cross Road",
+        "info": "[1987][Vose.Sub]",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg1ODkzODczMV5BMl5BanBnXkFtZTcwMzM5NjcxMQ@@._V1_.jpg",
+        "url": "https://ok.ru/video/3231040866941",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
         "name": "Vacaciones",
         "info": "[2015][Latino]",
         "image": "https://pics.filmaffinity.com/Vacaciones-662481068-large.jpg",
