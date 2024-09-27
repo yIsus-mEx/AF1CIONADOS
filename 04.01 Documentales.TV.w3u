@@ -65,6 +65,7 @@
         }
       ]
     },
+
     {
       "name": "Amy Winehouse, Fallen Star",
       "image": "https://pics.filmaffinity.com/amy_winehouse_fallen_star-918473725-large.jpg",
@@ -82,6 +83,7 @@
         }
       ]
     },
+
     {
       "name": "Beach Boys: El Documental",
       "image": "https://indierocks.sfo3.digitaloceanspaces.com/wp-content/uploads/2024/05/TheBeachBoys_documental-.png",
@@ -97,6 +99,7 @@
         }
       ]
     },
+
     {
       "name": "Break Nation: La Electrónica Que Bailó Andalucía",
       "image": "https://pics.filmaffinity.com/Break_Nation_La_electraonica_que_bailao_Andalucaia-218001604-large.jpg",
@@ -625,6 +628,14 @@
           "online": "true"
         }
       ]
+    },
+
+    {
+    "name": "Sapo SA, Memorias de un Ladrón",
+    "image": "https://pics.filmaffinity.com/sapo_s_a_memorias_de_un_ladron-335336716-large.jpg",
+    "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCu%20Serie%20SAPO.w3u",
+    "info": "bY AdriDeCai",
+    "import": false
     },
 
     {
