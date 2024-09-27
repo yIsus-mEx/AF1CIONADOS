@@ -1983,6 +1983,17 @@
         "online":"true",
         "embed": "",
         "isHost":""
+        },
+        {
+        "name": "ESPN",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=espn1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":""
         }
 	]
 }
