@@ -252,8 +252,9 @@
         "name": "Dazn 1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
-        "url": "https://tutlehd5.com/online.php?a=24",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -282,8 +283,9 @@
         "name": "Dazn 2 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",
-        "url": "https://tutlehd5.com/online.php?a=25",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -312,8 +314,9 @@
         "name": "Dazn F1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://tutlehd5.com/online.php?a=21",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -1941,37 +1944,103 @@
         "isHost":""
         },
         {
-        "name": "Dazn F1",
+        "name": "ESPN",
         "info":"[PRUEBAS]",
         "image": "",
-        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
+        "url": "https://streamtp1.com/global1.php?stream=espn1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
         },
         {
-        "name": "Dazn 1",
+        "name": "ESPN 2",
         "info":"[PRUEBAS]",
         "image": "",
-        "url": "https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1",
+        "url": "https://streamtp1.com/global1.php?stream=espn2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
         },
         {
-        "name": "Dazn 2",
+        "name": "ESPN 3",
         "info":"[PRUEBAS]",
         "image": "",
-        "url": "https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "url": "https://streamtp1.com/global1.php?stream=espn3",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 5",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=espn5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 6",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=espn6",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 7",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=espn7",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "FOXSPORTS 🇦🇷",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=fox1ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "FOXSPORTS 2 🇦🇷",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=fox2ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "FOXSPORTS 3 🇦🇷",
+        "info":"[PRUEBAS]",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=fox3ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
         },
         {
         "name": "Fox Premium",
@@ -1983,17 +2052,6 @@
         "online":"true",
         "embed": "",
         "isHost":""
-        },
-        {
-        "name": "ESPn",
-        "info":"[PRUEBAS]",
-        "image": "",
-        "url": "https://streamtp1.com/global1.php?stream=espn1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "embed": "",
-        "isHost":"true"
         }
 	]
 }
