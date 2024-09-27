@@ -1985,7 +1985,7 @@
         "isHost":""
         },
         {
-        "name": "ESPN",
+        "name": "ESPn",
         "info":"[PRUEBAS]",
         "image": "",
         "url": "https://streamtp1.com/global1.php?stream=espn1",
@@ -1993,7 +1993,7 @@
         "referer" : "",
         "online":"true",
         "embed": "",
-        "isHost":""
+        "isHost":"true"
         }
 	]
 }
