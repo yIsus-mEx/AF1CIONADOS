@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "La Mesita del Comedor",
+        "info": "[2022][Español]",
+        "image": "",
+        "url": "https://m.ok.ru/video/7561751759407",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        }, 
+        {
         "name": "84 Charing Cross Road",
         "info": "[1987][Vose.Sub]",
         "image": "https://m.media-amazon.com/images/M/MV5BMTg1ODkzODczMV5BMl5BanBnXkFtZTcwMzM5NjcxMQ@@._V1_.jpg",
