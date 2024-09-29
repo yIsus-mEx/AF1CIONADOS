@@ -63,7 +63,7 @@
         "info":"",
         "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
         "url": "https://en.gdplayertv.to/live-tv/dazn-laliga/?embed=1",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -86,7 +86,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "isHost":""
+        "isHost":"true"
         },
         {
         "name": "M Campeones 🇪🇸",
