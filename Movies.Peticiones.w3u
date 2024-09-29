@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "Corazones de Hierro",
+        "info": "[2014][Sub.Vose]",
+        "image": "https://unlibroparaestanoche.com/wp-content/uploads/2015/03/corazones-de-acero-poster.jpg",
+        "url": "https://vidhideplus.com/v/59gxi5c3u37b",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Corazones de Hierro",
+        "info": "[2014][Latino]",
+        "image": "https://unlibroparaestanoche.com/wp-content/uploads/2015/03/corazones-de-acero-poster.jpg",
+        "url": "https://susanhavekeep.com/e/qk6egdkpg9mi",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
         "name": "La Mesita del Comedor",
         "info": "[2022][Español]",
         "image": "",
