@@ -24,7 +24,7 @@
 		"url":"https://iosmirror.cc/hls/81229675.m3u8?in=34de2b9938d3cb2fc7c1e5a46b249037::347f279e72c387efa9e4df6faeb8e3d5::1727627441::se",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer" : "https://iosmirror.cc/home",
-		"isHost":"true",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -34,7 +34,7 @@
 		"url":"https://iosmirror.cc/hls/81229676.m3u8?in=34de2b9938d3cb2fc7c1e5a46b249037::fc73ce168dc99da81c684372b707406d::1727627605::se",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer" : "https://iosmirror.cc/home",
-		"isHost":"true",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -44,7 +44,7 @@
 		"url":"https://iosmirror.cc/hls/81229677.m3u8?in=34de2b9938d3cb2fc7c1e5a46b249037::60d296f0095f2f34719a794005cd1a65::1727627664::se",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer" : "https://iosmirror.cc/home",
-		"isHost":"true",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -54,8 +54,7 @@
 		"url":"https://iosmirror.cc/hls/81229678.m3u8?in=34de2b9938d3cb2fc7c1e5a46b249037::2991df238af787db3e163ab777dacdc9::1727627728::se",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer" : "https://iosmirror.cc/home",
-		"isHost":"true",
-		"isHost":"true",
+		"isHost":"",
 		"online":"true"
 		},
 		{
@@ -65,8 +64,7 @@
 		"url":"https://iosmirror.cc/hls/81229679.m3u8?in=34de2b9938d3cb2fc7c1e5a46b249037::1595c481901a9761e4fa6a55e759991a::1727627771::se::xm",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer" : "https://iosmirror.cc/home",
-		"isHost":"true",
-		"isHost":"true",
+		"isHost":"",
 		"online":"true"
 		}
 	]
