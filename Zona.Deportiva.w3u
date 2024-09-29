@@ -72,11 +72,11 @@
         "name": "Dazn LaLiga 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
-        "url": "https://www.telegratishd.com/dazn-la-liga-en-vivo.html",
+        "url": "https://xyzdddd.videohls.ru/lb/premium538/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Dazn LaLiga 🇪🇸",
@@ -305,6 +305,16 @@
         "name": "EuroSport 1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "url": "https://xyzdddd.videohls.ru/lb/premium524/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 1 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "http://185.189.225.157/EuroSport1/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -320,6 +330,16 @@
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":"true"
+        },
+        {
+        "name": "EuroSport 2 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "url": "https://xyzdddd.videohls.ru/lb/premium525/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
         },
         {
         "name": "EuroSport 2 🇪🇸",
@@ -382,6 +402,16 @@
         "isHost":""
         },
         {
+        "name": "TDP 🇪🇸",
+        "info":"",
+        "image": "",
+        "url": "https://xyzdddd.videohls.ru/lb/premium529/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "SKY Sports LaLiga 🇲🇽",
         "info":"",
         "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
@@ -423,6 +453,16 @@
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
         "url": "http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000650&type=stream.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TUDN 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "url": "https://xyzdddd.videohls.ru/lb/premium66/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
         },
