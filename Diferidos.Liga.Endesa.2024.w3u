@@ -1,0 +1,64 @@
+{
+"name": "Liga Endesa 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Liga.Endesa.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups": 
+    [
+		{
+        "name": "JORNADA 01",
+        "image": "",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "FC Barcelona vs Granada",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/l2atnpb3g088",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Andorra vs Gran Canaria",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/uvp78rs6b6nm",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Baxi Manresa vs Valencia Basket",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "https://filemoon.sx/d/evppriy3jvzr",
+	        	"url": "https://upstream.to/4135x5qspmz0",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Joventut vs Murcia",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/9bycw96apc70",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Unicaja vs Basquet Girona",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/yeyik0u06tkg",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		}
+	]
+}
