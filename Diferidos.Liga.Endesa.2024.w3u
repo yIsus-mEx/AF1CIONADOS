@@ -9,7 +9,7 @@
     [
 		{
         "name": "JORNADA 01",
-        "image": "",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
         "info": "",
         "stations":
             [
@@ -17,7 +17,7 @@
        			"name": "FC Barcelona vs Granada",
 	        	"info": "29/09/24",
 				"online": "true",
-	        	"image": "",
+	        	"image": "https://i.postimg.cc/xdkFkh8B/Barcelona-vs-Granada.jpg",
 	        	"url": "https://filemoon.sx/d/l2atnpb3g088",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
@@ -26,7 +26,7 @@
  	       		"name": "Andorra vs Gran Canaria",
 	        	"info": "28/09/24",
 				"online": "true",
-	        	"image": "",
+	        	"image": "https://i.postimg.cc/Y0SrYtFt/Andorra-vs-Gran-Canaria.jpg",
 	        	"url": "https://filemoon.sx/d/uvp78rs6b6nm",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
@@ -35,8 +35,8 @@
        			"name": "Baxi Manresa vs Valencia Basket",
 	        	"info": "28/09/24",
 				"online": "true",
-	        	"image": "https://filemoon.sx/d/evppriy3jvzr",
-	        	"url": "https://upstream.to/4135x5qspmz0",
+	        	"image": "https://i.postimg.cc/RF79jN7S/Manresa-vs-Valencia.jpg",
+	        	"url": "https://filemoon.sx/d/evppriy3jvzr",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
@@ -44,7 +44,7 @@
  	       		"name": "Joventut vs Murcia",
 	        	"info": "28/09/24",
 				"online": "true",
-	        	"image": "",
+	        	"image": "https://i.postimg.cc/8PFPtP7Y/Joventut-vs-Murcia.jpg",
 	        	"url": "https://filemoon.sx/d/9bycw96apc70",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
@@ -53,7 +53,7 @@
  	       		"name": "Unicaja vs Basquet Girona",
 	        	"info": "28/09/24",
 				"online": "true",
-	        	"image": "",
+	        	"image": "https://i.postimg.cc/L5D4wntd/Unicaja-vs-Girona.jpg",
 	        	"url": "https://filemoon.sx/d/yeyik0u06tkg",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
