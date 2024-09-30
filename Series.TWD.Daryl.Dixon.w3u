@@ -5,55 +5,81 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"stations":
-	[
- 		{
- 		"name": "Episodio 01",
- 		"info":"",
- 		"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
- 		"url":"https://vtube.network/g29h46pczjx2.html",
- 		"isHost":"true",
- 		"online":"true"
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+        "imageScale": "",
+        "stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"",
+				"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+				"url":"https://filemoon.sx/d/oejiuipz1isk",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+				"url":"https://susanhavekeep.com/qlg0pblashkd",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+				"url":"https://filemoon.sx/d/0otpuk1vffyc",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+				"url":"https://susanhavekeep.com/vuinzhraclb4",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+				"url":"https://susanhavekeep.com/abslbgbxcrji",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+				"url":"https://susanhavekeep.com/bnpthyqyvkdr",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
 		},
 		{
-		"name": "Episodio 02",
-		"info":"",
-		"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
-		"url":"https://vtube.network/4u1jbsyifofe.html",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 03",
-		"info":"",
-		"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
-		"url":"https://vtube.network/enhzivlf04d4.html",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 04",
-		"info":"",
-		"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
-		"url":"https://vtube.network/qnx9xgdy6pk9.html",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 05",
-		"info":"",  
-		"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
-		"url":"https://vtube.network/qxyfz7g9zf9s.html",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 06",
-		"info":"",  
-		"image":"https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
-		"url":"https://vtube.network/izyktiylvghj.html",
-		"isHost":"true",
-		"online":"true"
+        "name": "Temporada 02",
+        "info":"",
+        "image": "https://i.postimg.cc/V6kRLgCb/TWD-Daryl-Dixon.webp",
+        "imageScale": "",
+        "stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"[Vose.Sub][2024]",
+				"image":"https://i.postimg.cc/V6kRLgCb/TWD-Daryl-Dixon.webp",
+				"url":"https://susanhavekeep.com/sbeaw7wvf5pu",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
 		}
 	]
 }
