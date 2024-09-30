@@ -8,6 +8,23 @@
 "groups":
     [
        {
+         "name": "UFC Fight Night: Moicano vs Saint Denis",
+         "image": "https://i.postimg.cc/dDMRNQYK/moicano-vs-saint-denis.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Moicano vs Saint Denis",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/dDMRNQYK/moicano-vs-saint-denis.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0dmNrMDAwdWFz0",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 306: O'Malley vs Dvalishvili",
          "image": "https://i.postimg.cc/FRj9vptK/ufc-306.png",
          "imageScale": "",
