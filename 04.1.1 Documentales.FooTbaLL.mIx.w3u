@@ -6,7 +6,6 @@
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "stations":
-
           [
 			    {
        			"name": "Pelé, el rey del fútbol",
@@ -136,6 +135,15 @@
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/informe_la_liga_de_valdano-921755742-large.jpg",
         		"url":"https://filemoon.sx/d/o4iqfkupvfoj",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+			{
+       			"name": "Años de la Gabarra, Athletic 1983 1984",
+        		"info":"[Documental][Español][2024]",
+        		"image": "https://pics.filmaffinity.com/los_anos_de_la_gabarra_el_athletic_de_1983_y_1984-611832840-large.jpg",
+        		"url":"https://filemoon.sx/d/az08ttvsfukm/Los_a_os_de_la_gabarra._El_Athletic_de_1983_y_1984__2024_.mp4",
+        		"embed":"",
         		"isHost":"true",
         		"online":"true"
         		}
