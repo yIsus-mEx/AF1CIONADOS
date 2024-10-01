@@ -34,7 +34,7 @@
 		},
 		{
         "name": "DTM: R05 Sachsenring",
-        "image": "",
+        "image": "https://i.postimg.cc/ZKqxdppB/Sachsenring-race-2024.png",
         "imageScale": "",
         "info":"",
 		"stations":
@@ -42,16 +42,16 @@
 				{
 				"name": "Sachsenring Carrera 02",
 				"info": "[DAZN][Español]",
-				"image": "",
-				"url":"",
+				"image": "https://i.postimg.cc/SxxQqN0p/Sachsenring-race-02-2024.png",
+				"url":"https://listeamed.net/v/ZMVoEr8LkMN59Pa",
 				"isHost":"true",
 				"online":"true"
 				},
 				{
 				"name": "Sachsenring Carrera 01",
 				"info": "[DAZN][Español]",
-				"image": "",
-				"url":"",
+				"image": "https://i.postimg.cc/B6TfHdWg/Sachsenring-race-01-2024.png",
+				"url":"https://listeamed.net/v/PlBVEZ0PYy05Dv9",
 				"isHost":"true",
 				"online":"true"
 				}
