@@ -8,6 +8,42 @@
 "stations":
     [
         {
+        "name": "Hogar",
+        "info": "[2020][Español]",
+        "image": "https://pics.filmaffinity.com/Hogar-588283070-large.jpg",
+        "url": "https://filemoon.sx/d/c41z3saeoo7j",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Puente hasta Terabithia",
+        "info": "[2007][Español]",
+        "image": "https://pics.filmaffinity.com/Un_puente_hacia_Terabithia-349890819-large.jpg",
+        "url": "https://vidhideplus.com/file/136sjplpra1y",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "La Colmena",
+        "info": "[1982][Español]",
+        "image": "https://pics.filmaffinity.com/La_colmena-131368036-large.jpg",
+        "url": "https://ok.ru/video/7284201622063",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Dual",
+        "info": "[2022][Español]",
+        "image": "https://pics.filmaffinity.com/Dual-155453589-large.jpg",
+        "url": "https://filemoon.sx/d/szsalb0lhsmr",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
         "name": "El Duelo Del Siglo",
         "info": "[2022][Sub.Vose]",
         "image": "https://gnulahd.nu/wp-content/uploads/2023/05/Chempion_mira_poster_rusia.jpg",
@@ -283,16 +319,6 @@
         "image": "https://i.postimg.cc/NGKVCsF0/white.png",
         "url": "https://filemoon.sx/d/k6txmn3l9e7h",
         "info": "[2018][MultiAudio]",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "DeadPool And Lobezno",
-        "image": "https://pics.filmaffinity.com/deadpool_wolverine-864471588-large.jpg",
-        "url": "https://filemoon.sx/d/9hob52jrelvr",
-        "info": "[2024][Latino]",
-        "embed": "",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
