@@ -14,11 +14,47 @@
         "stations":
             [
 				{
+       			"name": "Leyma Coruña vs Real Madrid",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Coruna-vs-Real-Madrid.jpg",
+	        	"url": "https://filemoon.sx/d/cwyalo8ufsfr",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Bilbao Basket vs Breogan",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Bilbao-vs-Breogan.jpg",
+	        	"url": "https://filemoon.sx/d/ld738jwxlk3w",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "CB Canarias vs Baskonia",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Tenerife-vs-Baskonia.jpg",
+	        	"url": "https://filemoon.sx/d/63oxd4gof53j",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
        			"name": "FC Barcelona vs Granada",
 	        	"info": "29/09/24",
 				"online": "true",
 	        	"image": "https://i.postimg.cc/xdkFkh8B/Barcelona-vs-Granada.jpg",
 	        	"url": "https://filemoon.sx/d/l2atnpb3g088",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Zaragoza VS LLeida",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Zaragoza-vs-Lleida.jpg",
+	        	"url": "https://filemoon.sx/d/efbln6s9t8zx",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},

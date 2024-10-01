@@ -16,27 +16,13 @@
          "import": false
         },
         {
-         "name": "WRC",
-         "image": "https://i.postimg.cc/wvRt4NfK/WRC-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
-         "info":"",
-         "import": false
-        },
-	    {
-	    "name": "WEC",
-	    "url": "https://af1c1onados.vercel.app/Diferidos.WEC.2024.w3u",
-	    "image": "https://i.postimg.cc/Pqh6YM1n/WEC2024-new.png",
-	    "info": "",
-	    "import": false
-	    },
-	    {
         "name": "MotoGP",
         "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
 	    "url": "https://af1c1onados.vercel.app/03.2.1.Diferidos.Menu.MotoGP.w3u",
         "info": "Adri",
         "import": false
 	    },
-		{
+        {
          "name": "SuperBike",
          "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
          "url": "https://af1c1onados.vercel.app/03.3.1.Diferidos.Menu.SuperBike.w3u",
@@ -44,13 +30,6 @@
          "import": false
         },
         {
-         "name": "Futbol",
-         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
-         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
-         "info":"",
-         "import": false
-        },
-		{
          "name": "IndyCar",
          "image": "https://i.postimg.cc/YSKrpqQs/Indycar-Series-new.png",
          "url": "https://af1c1onados.vercel.app/03.4.1.Diferidos.Menu.Indycar.w3u",
@@ -72,23 +51,51 @@
          "import": false
         },
         {
-         "name": "Fight Sport",
-         "image": "https://i.postimg.cc/7LXFHQGd/Fight-Sports-new.png",
-         "url": "https://af1c1onados.vercel.app/03.7.1.Diferidos.Fight.Sport.w3u",
+         "name": "WRC",
+         "image": "https://i.postimg.cc/wvRt4NfK/WRC-new.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
          "info":"",
          "import": false
         },
-		{
+	    {
+	    "name": "WEC",
+	    "url": "https://af1c1onados.vercel.app/Diferidos.WEC.2024.w3u",
+	    "image": "https://i.postimg.cc/Pqh6YM1n/WEC2024-new.png",
+	    "info": "",
+	    "import": false
+	    },
+	    {
+	    "name": "DTM",
+	    "url": "https://af1c1onados.vercel.app/Diferidos.DTM.2024.w3u",
+	    "image": "https://i.postimg.cc/Dw6mL1zb/DTM2024-New.png",
+	    "info": "",
+	    "import": false
+	    },
+        {
          "name": "Basket Europeo",
          "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
          "url": "https://af1c1onados.vercel.app/03.5.1.Diferidos.Menu.Basket.Europeo.w3u",
          "info":"",
          "import": false
         },
-		{
+        {
          "name": "NFL Sport",
          "image": "https://i.postimg.cc/fySkmnnB/NFL-logo-new.png",
          "url": "https://af1c1onados.vercel.app/03.6.1.Diferidos.Menu.NFL.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Futbol",
+         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Fight Sport",
+         "image": "https://i.postimg.cc/7LXFHQGd/Fight-Sports-new.png",
+         "url": "https://af1c1onados.vercel.app/03.7.1.Diferidos.Fight.Sport.w3u",
          "info":"",
          "import": false
         },

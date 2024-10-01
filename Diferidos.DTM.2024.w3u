@@ -1,0 +1,161 @@
+{
+"name": "DTM 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.DTM.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+		"name": "DTM: R06 Red Bull Ring",
+		"image": "https://i.postimg.cc/yNMSwJ8w/Dakar-2024-new.png",
+		"imageScale": "",
+		"info":"",
+		"stations":
+			[
+				{
+				"name": "Red Bull Ring Carrera 02",
+				"info": "[DAZN][Español]",
+				"image": "https://i.postimg.cc/Y2fywSDC/Red-Bull-Ring-Race-02-2024.png",
+				"url": "https://listeamed.net/v/qA3WOmG1kRJxKkz",
+				"isHost": "true",
+				"online": "true"
+				},
+			 	{
+				"name": "Red Bull Ring Carrera 01",
+				"info": "[DAZN][Español]",
+				"image": "https://i.postimg.cc/76zdzMN3/Red-Bull-Ring-Race-01-2024.png",
+				"url": "https://listeamed.net/v/3Q0lxBW1G7LEj1J",
+				"isHost": "true",
+				"online": "true"
+			 	}
+			]
+		},
+		{
+        "name": "DTM: R05 Sachsenring",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+		"stations":
+			[
+				{
+				"name": "Sachsenring Carrera 02",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Sachsenring Carrera 01",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+        "name": "DTM: R04 Nurburgring",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+		"stations":
+			[
+				{
+				"name": "Nurburgring Carrera 02",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Nurburgring Carrera 01",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+        "name": "DTM: R03 Norisring",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+		"stations":
+			[
+				{
+				"name": "Norisring Carrera 02",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Norisring Carrera 01",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+        "name": "DTM: R02 Lausitzring",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+		"stations":
+			[
+				{
+				"name": "Lausitzring Carrera 02",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Lausitzring Carrera 01",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+        "name": "DTM: R01 Oschersleben",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+		"stations":
+			[
+				{
+				"name": "Oschersleben Carrera 02",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Oschersleben Carrera 01",
+				"info": "[DAZN][Español]",
+				"image": "",
+				"url":"",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
