@@ -8,6 +8,33 @@
 "groups":
     [
 		{
+        "name": "R31 NASCAR Hollywood Casino 400",
+        "info":"",
+        "image": "https://i.postimg.cc/jSkLKKQ8/Hollywood-Casino-400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Hollywood Casino 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/jSkLKKQ8/Hollywood-Casino-400.png",
+                "url":"https://filemoon.sx/d/xp62jri9fbcm",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Hollywood Casino 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/jSkLKKQ8/Hollywood-Casino-400.png",
+                "url":"https://filemoon.sx/e/2pgcvd5rprdf",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R30 NASCAR Bass Pro Shops Night",
         "info":"",
         "image": "https://i.postimg.cc/gJZ2c3RS/NASCAR-Bass-Pro-Shops-Night.png",
