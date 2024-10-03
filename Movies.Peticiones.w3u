@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "No Hables Con Extraños",
+        "info": "[2024][Vose.Sub]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/47213-327845-20240822060321.jpg",
+        "url": "https://filemoon.sx/d/4r2m7e3kzgc3",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
         "name": "Hogar",
         "info": "[2020][Español]",
         "image": "https://pics.filmaffinity.com/Hogar-588283070-large.jpg",
