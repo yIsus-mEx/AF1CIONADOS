@@ -8,13 +8,22 @@
 "stations":
     [
         {
+        "name": "El show de Truman",
+        "info": "[1998][Español]",
+        "image": "https://pics.filmaffinity.com/El_show_de_Truman-130091557-large.jpg",
+        "url": "https://upstream.to/i9emverws1z5",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Hogar",
         "info": "[2020][Español]",
         "image": "https://pics.filmaffinity.com/Hogar-588283070-large.jpg",
         "url": "https://filemoon.sx/d/c41z3saeoo7j",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "Puente hasta Terabithia",
@@ -23,7 +32,7 @@
         "url": "https://vidhideplus.com/file/136sjplpra1y",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "La Colmena",
@@ -32,7 +41,7 @@
         "url": "https://ok.ru/video/7284201622063",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "Dual",
@@ -41,7 +50,7 @@
         "url": "https://filemoon.sx/d/szsalb0lhsmr",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "El Duelo Del Siglo",
@@ -50,7 +59,7 @@
         "url": "https://susanhavekeep.com/e/dybg1dnqd2nn",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "Corazones de Hierro",
@@ -59,7 +68,7 @@
         "url": "https://vidhideplus.com/v/59gxi5c3u37b",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "Corazones de Hierro",
@@ -68,7 +77,7 @@
         "url": "https://susanhavekeep.com/e/qk6egdkpg9mi",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "La Mesita del Comedor",
@@ -77,7 +86,7 @@
         "url": "https://ok.ru/video/7561751759407",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         }, 
         {
         "name": "84 Charing Cross Road",
@@ -86,7 +95,7 @@
         "url": "https://ok.ru/video/3231040866941",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "Vacaciones",
