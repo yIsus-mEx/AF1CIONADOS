@@ -330,7 +330,7 @@
         "groups":
         	[
 				{
-				"name": "FASE DE LIGUILLA",
+				"name": "JORNADA 1 FASE DE LIGUILLA",
 				"info":"",
 				"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
 				"imageScale": "",
@@ -394,6 +394,65 @@
 						}
 				]
 				},
+
+				{
+				"name": "JORNADA 2 FASE DE LIGUILLA",
+				"info":"",
+				"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Arsenal VS PSG",
+						"info":"[01-10-2024]",
+						"image": "https://www.apwin.com/es/pronosticos/pronostico-arsenal-vs-psg-01-10-2024/",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Leverkusen VS Milan",
+						"info":"[01-10-2024]",
+						"image": "https://thumbor.prod.vidiocdn.com/Y31L_0MawRGucsFSrdso9p7FJr0=/785x440/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8385721/mm-ucl-leverkusen-vs-milan-5f7cfe.jpg",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "FC Barcelona VS Young Boys",
+						"info":"[01-10-2024]",
+						"image": "https://phantom-marca.unidadeditorial.es/a0bc04d2a5211084cf1ea4a5699bd719/resize/828/f/jpg/assets/multimedia/imagenes/2024/09/30/17276926872394.jpg",
+						"url":"https://listeamed.net/v/VqbX53gvVe15Qzp",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Lille VS Real Madrid",
+						"info":"[02-10-2024]",
+						"image": "https://phantom-marca.unidadeditorial.es/4e5013e67c728a6e6b80550e23b0fc9c/resize/660/f/webp/assets/multimedia/imagenes/2024/10/01/17277942366288.jpg",
+						"url":"https://listeamed.net/v/ao9rxoRmjQ05yGe",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Girona VS Feyenoord",
+						"info":"[02-10-2024]",
+						"image": "https://www.marca.com/futbol/champions-league/2024/10/01/66fc305eca47411b718b459e.html",
+						"url":"https://listeamed.net/v/P0poO10eVpLEz17",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Benfica VS Atco Madrid",
+						"info":"[02-10-2024]",
+						"image": "https://phantom-marca.unidadeditorial.es/00047610cc096aae82a18fbe35eb2695/resize/828/f/jpg/assets/multimedia/imagenes/2024/10/02/17278726932700.jpg",
+						"url":"https://listeamed.net/v/e028E6RaVkQEYAv",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+
 				{
 				"name": "PLAY OFF",
 				"info":"",
