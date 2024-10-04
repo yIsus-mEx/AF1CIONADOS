@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "No hables con extraños",
+        "info": "[2024][Latino][Opcion 1]",
+        "image": "https://pics.filmaffinity.com/speak_no_evil-102462605-large.jpg",
+        "url": "https://listeamed.net/v/0DogOGMLn90xKjM",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "No hables con extraños",
+        "info": "[2024][Latino][Opcion 2]",
+        "image": "https://pics.filmaffinity.com/speak_no_evil-102462605-large.jpg",
+        "url": "https://filemoon.sx/d/gtgjnvhcfeli",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "El show de Truman",
         "info": "[1998][Español]",
         "image": "https://pics.filmaffinity.com/El_show_de_Truman-130091557-large.jpg",
