@@ -7,17 +7,17 @@
 "info": "",
 "groups": 
     [
-		{
-         "name": "EuroLiga 2024",
-         "image": "https://i.postimg.cc/Xqdq9FPR/Euroliga2024-new.png",
-         "url": "",
-         "info":"",
-         "import": false
-        },
         {
          "name": "EuroLiga 2023",
          "image": "https://i.postimg.cc/fTqpYFch/Euroliga2023-new.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.Euroliga.2023.w3u",
+         "info":"",
+         "import": false
+        },
+	{
+         "name": "EuroLiga 2024",
+         "image": "https://i.postimg.cc/Xqdq9FPR/Euroliga2024-new.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Euroliga.2024.w3u",
          "info":"",
          "import": false
         }
