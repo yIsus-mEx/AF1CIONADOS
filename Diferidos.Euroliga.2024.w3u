@@ -48,8 +48,26 @@
 	        	"url": "https://filemoon.sx/d/ng51lzn7lafj/Euroliga_Alba_Berlin_VS_Panathinaikos_031024.mkv",
 				    "userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS LDLC Asvel",
+	        	"info": "[03/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/i58ukumngabk/Euroliga_Maccabi_VS_LDLC_Asvel_031024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Partizan Belgrado",
+	        	"info": "[03/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/um24c5v4hs1s/Euroliga_Baskonia_VS_Partizan_031024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
-            ]
+            		]
 		        }
 
 
