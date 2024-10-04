@@ -7,6 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+       {
+        "name": "No Hables con Extraños (2024)",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/No_hables_con_extraanos-513657934-large.jpg",
+        "url": "https://filemoon.sx/d/6mx32393v9jq",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
         {
         "name": "El show de Truman",
         "info": "[1998][Español]",
