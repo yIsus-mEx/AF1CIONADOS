@@ -1,0 +1,57 @@
+{
+"name": "Liga Europea 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"stations": 
+	[
+ 		      {
+        	"name": "JORNADA 1",
+        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+        	"info": "",
+        	"stations":
+            	[
+				      {
+       				"name": "Bayern Munich VS Real Madrid",
+	        		"info": "[03/10/24]",
+				      "online": "true",
+	        		"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        		"url": "https://filemoon.sx/d/6c9tal4tjtbw/Euroliga_Bayer_Munich_VS_Real_Madrid_031024.mkv",
+				      "userAgent":"PlusMediaPlayer/0.0.9",
+        			"isHost": "true"
+        			},
+	       		{
+ 	       		"name": "Zalguires VS FC Barcelona",
+	        	"info": "[03/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/2kvz4uvyk81l/Euroliga_Zalguiris_VS_FC_Barcelona_031024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Milan",
+	        	"info": "[03/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/r4tmvj2gffcu/Euroliga_Monaco_VS_Milan_031024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Panathinaikos",
+	        	"info": "[03/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/ng51lzn7lafj/Euroliga_Alba_Berlin_VS_Panathinaikos_031024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		        }
+
+
+  ]
+  }
