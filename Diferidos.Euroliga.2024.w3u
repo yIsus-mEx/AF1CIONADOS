@@ -66,10 +66,35 @@
 	        	"url": "https://filemoon.sx/d/um24c5v4hs1s/Euroliga_Baskonia_VS_Partizan_031024.mkv",
 				    "userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus Bologna VS Anadolu Efes",
+	        	"info": "[04/10/24]",
+			"online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/nnge2d97kv8w/Euroliga_Virtus_Bologna_VS_Anadolu_Efes_041024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Crvena Zvezda",
+	        	"info": "[04/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/loh0yxiyi4w3/Euroliga_Paris_VS_Crvena_Zvezda_041024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Olympiacos",
+	        	"info": "[04/10/24]",
+				    "online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/km9j66oexsv7/Euroliga_Fenerbahce_VS_Olympiacos_041024.mkv",
+				    "userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
             		]
 		        }
-
-
   ]
   }
