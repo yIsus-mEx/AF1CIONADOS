@@ -154,6 +154,17 @@
           "online": "true",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "import": false
+          },
+          {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/el_caso_sancho_episodio_cero-437192192-large.jpg",
+          "url": "",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
           }
         ]
     },
