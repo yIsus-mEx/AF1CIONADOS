@@ -1,164 +1,495 @@
-#EXTM3U
+{
+"name": "Movies: Peticiones",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Movies.Peticiones.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+    [
+       {
+        "name": "No Hables Con Extraños (2024)",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/No_hables_con_extraanos-513657934-large.jpg",
+        "url": "https://filemoon.sx/d/6mx32393v9jq",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Wolfs",
+        "info": "[2024][Latino]",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWI2MzdiM2ItMTg2Zi00MTYwLThlZmItM2FkNWI4NjE3ZjRhXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://filemoon.sx/d/38ks4kc2076n",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "El Hombre Celoso",
+        "info": "[2024][Latino]",
+        "image": "https://i.postimg.cc/hGsDkrqD/El-hombre-celoso.webp",
+        "url": "https://filemoon.sx/d/l0k63rkey6la",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Parano-IA",
+        "info": "[2024][Latino]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/47292-119868-20240830020557.jpg",
+        "url": "https://filemoon.sx/d/xtpp10v6ghr3",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Robot salvaje (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/wild_robot/posters/02.jpg",
+        "url": "https://filemoon.sx/d/06f408nlvlld",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Borderlands",
+        "info": "[2024][Latino]",
+        "image": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/07/30213849/borderlands-poster-scaled.jpg",
+        "url": "https://filemoon.sx/d/qpvh1fr6eg8r",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Vidas Perfectas",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Vidas_perfectas-447658187-large.jpg",
+        "url": "https://filemoon.sx/d/7v9fkwhlr95u",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "The Killer",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/The_Killer-362764949-large.jpg",
+        "url": "https://od.lk/d/OTVfNjI3MzM2NzBf/The.Killer.2024.1080P-Dual-Lat%20.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Tipos de Gentileza",
+        "info": "[2024][Latino]",
+        "image": "https://mx.web.img2.acsta.net/c_310_420/img/e2/af/e2aff525e44fcd12880e79e7a24b417b.png",
+        "url": "https://od.lk/d/OTVfNjI2NjY5MTRf/Kinds%20of%20Kindness%20%28Tipos%20de%20gentileza%29.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Una Mujer Italiana",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Una_mujer_italiana_Cabrini-314922899-large.jpg",
+        "url": "https://od.lk/d/OTVfNjI2NjY3NTBf/Cabrini-2024.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Los Feos",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Los_feos-864545169-large.jpg",
+        "url": "https://filemoon.sx/d/4h8utyvdmzy9",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        }, 
+        {
+        "name": "Beetlejuice Beetlejuice (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://vidhideplus.com/file/3shjg9zhdihw",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Parpadea Dos Veces (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://es.web.img2.acsta.net/img/20/f5/20f53337231bfbc130d2dcc89b42d5af.jpg",
+        "url": "https://od.lk/d/OTVfNjI2NjY4Nzdf/Blink%20Twice%20%28Parpadea%20dos%20veces%29%20%282024%29.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Alien Romulus (Ts) (2024)",
+        "info": "[2024][Latino]",
+        "image": "https://es.web.img3.acsta.net/img/94/90/9490f79b647b302cb776e02e7fb2c206.jpg",
+        "url": "https://filemoon.sx/d/ymody1ml284p",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "El Cuervo (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://megustaelcine.com/wp-content/uploads/2024/08/POSTER-El-cuervo-2024-717x1024.jpg",
+        "url": "https://filemoon.sx/d/evf1axrvhirc",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "El Sindicato",
+        "info": "[2024][Latino]",
+        "image": "https://decine21.com/img/upload/obras/el-sindicato-48855/el-sindicato-48855-c.jpg",
+        "url": "https://filemoon.sx/d/ub8egpch86li",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Un Lugar En Silencio: Día Uno",
+        "info": "[2024][Latino]",
+        "image": "https://mx.web.img2.acsta.net/img/7e/47/7e474992cc2fe51bae877381df8e3b5c.jpg",
+        "url": "https://filemoon.sx/d/mx5fb1kl2aci",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Deadpool & Wolverine",
+        "info": "[2024][Latino]",
+        "image": "https://i.postimg.cc/nh7WGcW1/deadpool.jpg",
+        "url": "https://filemoon.sx/d/a50zcs0s90z4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Longlegs: Coleccionista De Almas (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://images.justwatch.com/poster/318093191/s718/longlegs.jpg",
+        "url": "https://od.lk/d/OTVfNjIzMDYyODNf/Longlegs%20coleccionista%20de%20almas.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Tornados",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Twisters-938683969-large.jpg",
+        "url": "https://filemoon.sx/d/amoc5rl47ka0",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "El Club De Los Bandalos",
+        "info": "[2024][Latino]",
+        "image": "https://www.universalpictures-latam.com/tl_files/content/movies/bikeriders/posters/01.jpg",
+        "url": "https://od.lk/d/OTVfNjIzMDYyODBf/The%20Bikeriders%20El%20Club%20de%20los%20Vandalos.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Un detective suelto en Hollywood 4",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Superdetective_en_Hollywood_Axel_F-677302081-large.jpg",
+        "url": "https://download2388.mediafire.com/ix0ct4ozxdigjmQvX5BNA16eFelxTZWpCAWYC5RsLmQAnDgy4QfGeCoA8QmwKWRMFdmKVkUJ7klu0dzrpYLV9mpe4ctAAH0z5fgNDUj5c7RyjABOTIa49UwlUn8Ljb_L-p0rHMo44CdF7DVdahkDTRb7UhMnMqw5p-QxSmfoZRIvaAc/3jxacmihvgypm6v/Un+detective+suelto+en+Hollywood+Axel+F.+%282024%29+%281080P%29.mkv",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Monkey Man",
+        "info": "[2024][Latino]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/46180-477748-20240426114500.jpg",
+        "url": "https://filemoon.sx/d/a9764votstnb",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Los Observados",
+        "info": "[2024][Latino]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/46502-315602-20240524031933.jpg",
+        "url": "https://filemoon.sx/d/013jvxeko30l",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Los Infalibles",
+        "info": "[2024][Latino]",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/6/w1280/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg",
+        "url": "https://filemoon.sx/d/l0vx8an7eqtd",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Un Asunto Familiar",
+        "info": "[2024][Latino]",
+        "image": "https://mx.web.img2.acsta.net/c_310_420/img/b9/72/b9728bc0f259e4e470d6ecfa214b9717.jpeg,
+        "url": "https://filemoon.sx/d/ontuizldoy3i",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "La Chica Miller",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Miller_s_Girl-653037205-large.jpg",
+        "url": "https://filemoon.sx/d/zwbw0rgnnwz8",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Mi Villano Favorito 4",
+        "info": "[2024][Latino]",
+        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/despicable_me_4/posters/02.jpg",
+        "url": "https://filemoon.sx/d/9iqerhcbf2n7",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "En tierra de Santos y Pecadores",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
+        "url": "https://filemoon.sx/d/q1sfsivlf1tf",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Garfield La Pelicula",
+        "info": "[2024][Latino]",
+        "image": "https://es.web.img3.acsta.net/img/c7/8f/c78f03f18bedb20a5bb8171012b053ff.jpg",
+        "url": "https://filemoon.sx/d/k6or173eiu8f",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Intensamente 2",
+        "info": "[2024][Latino]",
+        "image": "https://img-tomatazos.buscafs.com/440337/440337.jpg",
+        "url": "https://filemoon.sx/d/afg18w8ahuq6",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Bad Boys Hasta La Muerte",
+        "info": "[2024][Latino]",
+        "image": "https://mx.web.img2.acsta.net/img/2c/28/2c28d9fed637b36d2a740d7752f42dd5.jpeg",
+        "url": "https://filemoon.sx/d/padg3u4fq40o",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Guerra Civil (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Civil_War-397793862-large.jpg",
+        "url": "https://filemoon.sx/d/brec1vix8wqc",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "La Primera Profecía",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/La_primera_profecaia-195913205-large.jpg",
+        "url": "https://filemoon.sx/d/8unskb10af7g",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Contra Todos",
+        "image": "https://mx.web.img2.acsta.net/img/3a/30/3a3061271c218d48fc34c63ce6a338c7.jpg",
+        "url": "https://filemoon.sx/d/2m8mlv8k1le8",
+        "info": "[2024][Latino]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Sleeping Dogs",
+        "image": "https://laz-img-sg.alicdn.com/p/f49a6291513cfe119261f36953a39ecf.jpg",
+        "url": "https://filemoon.sx/d/him48vlff2a5",
+        "info": "[2024][Latino]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Tarot de la Muerte",
+        "image": "https://www.sonypictures.com.mx/sites/mexico/files/2024-02/TAR_1400x2100.jpg",
+        "url": "https://filemoon.sx/d/upj3yavymy3p",
+        "info": "[2024][Latino]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Damaged",
+        "image": "https://image.tmdb.org/t/p/w500/khWqf8jG3YlzdGGUZd2CF6SFbzx.jpg",
+        "url": "https://filemoon.sx/d/wvz55vvj36rx",
+        "info": "[2024][Latino]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Furiosa: de la Saga Mad Max",
+        "image": "https://mx.web.img2.acsta.net/pictures/23/12/11/22/16/2176192.jpg",
+        "url": "https://filemoon.sx/d/2vj7tbvsew0b",
+        "info": "[2024][Latino]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "La Taberna Fantastica",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1991/7/w1280/sH6EJhNpOjRzEQL9KDyiaxtlzo6.jpg",
+        "url": "https://filemoon.sx/d/l8r550q0nkij",
+        "info": "[2024][Latino]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+	    {
+        "name": "Miss Violence",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/77bfb67bc8a8f881643866f604c5f7e832568e64e43a62f5b1a3b80c0234e112.jpg",
+       	"url": "https://filemoon.sx/d/h9rby9flklod",
+       	"info": "[2024][Latino]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
+	    {
+        "name": "A Writer’s Odyssey",
+        "image": "https://shoutfactory.com/cdn/shop/products/AWO_BR_PS_72dpi_600x600.png",
+       	"url": "https://streamwish.to/e/56a8yrumv8bt",
+       	"info": "[2024][Latino]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
+        {
+        "name": "DEL REVÉS 2 (iNSIDE OUT 2)",
+        "image": "https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg",
+       	"url": "https://filemoon.sx/d/scgjlbz7k3l9/Ver_Inside_Out_2024_1080p_CAMRip_LAT_DUB_1XBET_mp4.mp4",
+       	"info": "[2024][Latino]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+	    {
+        "name": "GRU 4, DESPICABLE",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg",
+        "url": "https://filemoon.sx/d/q9on16im1534",
+	    "embed":"",
+        "isHost":"true",
+        "online":"true" 
+	    },
+        {
+        "name": "En Tierra de Santos y Pecadores",
+        "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
+        "url": "https://filemoon.sx/d/w36jpd5by9f0",
+        "info": "[Vose.Sub][2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "En Tierra de Santos y Pecadores",
+        "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
+        "url": "https://filemoon.sx/d/q1sfsivlf1tf",
+        "info": "[Latino][2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "La Chica del Sotano",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/2/w1280/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+        "url": "https://filemoon.sx/d/qa0bbcit6dhr",
+        "info": "[Vose.Sub][2021]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+        "name": "Dark and The Wicked",
+        "image": "https://pics.filmaffinity.com/the_dark_and_the_wicked-335778981-large.jpg",
+        "url": "https://filemoon.sx/d/6pc0vretrvi4",
+        "info": "[VOSE][2020]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Radical",
+        "image": "https://pics.filmaffinity.com/Radical-692347754-large.jpg",
+        "url": "https://www.linkbox.to/a/f/sIe2EWy?d=true",
+        "info": "[Latino] [2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Lazos De Vida",
+        "image": "https://labutacaweb.com/wp-content/uploads/2024/03/65cf6d287d6b2bbc947f154971748299397047693146.jpg",
+        "url": "https://filemoon.sx/d/m5lb9upd037n",
+        "info": "[Latino].[2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Civil War",
+        "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
+        "url": "https://filemoon.sx/d/o2rx1i7x5cnh",
+        "info": "[2024][Latino]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+        {
+        "name": "Vive Dentro",
+        "info":"[Latino][2023]",
+        "image": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_57264.jpg",
+        "url": "https://www.tokyvideo.com/es/video/vive-dentro-pelicula-completa-en-espanol",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
+        "name": "Burt Munro: Un Sueño una Leyenda",
+        "info":"[Latino][2005]",
+        "image": "https://pics.filmaffinity.com/Burt_Munro_Un_sueano_una_leyenda-825421915-large.jpg",
+        "url": "https://www.tokyvideo.com/es/video/el-amo-del-viento-2005-720p",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        }
 
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/No_hables_con_extraanos-513657934-large.jpg" group-title="2024", No Hables con Extraños (2024)
-https://filemoon.sx/d/6mx32393v9jq
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI2MzdiM2ItMTg2Zi00MTYwLThlZmItM2FkNWI4NjE3ZjRhXkEyXkFqcGc@._V1_.jpg" group-title="2024", Wolfs (2024)
-https://filemoon.sx/d/38ks4kc2076n
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGsDkrqD/El-hombre-celoso.webp" group-title="2024", El Hombre Celoso (2024)
-https://filemoon.sx/d/l0k63rkey6la
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/47292-119868-20240830020557.jpg" group-title="2024", Parano-IA (2024)
-https://filemoon.sx/d/xtpp10v6ghr3
-#EXTINF:-1 tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/wild_robot/posters/02.jpg" group-title="2024", Robot salvaje (Ts) (2024)
-https://filemoon.sx/d/06f408nlvlld
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/07/30213849/borderlands-poster-scaled.jpg" group-title="2024", Borderlands (2024)
-https://filemoon.sx/d/qpvh1fr6eg8r
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Vidas_perfectas-447658187-large.jpg" group-title="2024", Vidas Perfectas (2024)
-https://filemoon.sx/d/7v9fkwhlr95u
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Killer-362764949-large.jpg" group-title="2024", The Killer (2024)
-https://od.lk/d/OTVfNjI3MzM2NzBf/The.Killer.2024.1080P-Dual-Lat%20.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/img/e2/af/e2aff525e44fcd12880e79e7a24b417b.png" group-title="2024", Tipos de Gentileza (2024)
-https://od.lk/d/OTVfNjI2NjY5MTRf/Kinds%20of%20Kindness%20%28Tipos%20de%20gentileza%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Una_mujer_italiana_Cabrini-314922899-large.jpg" group-title="2024", Una Mujer Italiana (2024)
-https://od.lk/d/OTVfNjI2NjY3NTBf/Cabrini-2024.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_feos-864545169-large.jpg" group-title="2024", Los Feos (2024)
-https://filemoon.sx/d/4h8utyvdmzy9
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_.jpg" group-title="2024", Beetlejuice Beetlejuice (Ts) (2024)
-https://vidhideplus.com/file/3shjg9zhdihw
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/img/20/f5/20f53337231bfbc130d2dcc89b42d5af.jpg" group-title="2024", Parpadea Dos Veces (Ts) (2024)
-https://od.lk/d/OTVfNjI2NjY4Nzdf/Blink%20Twice%20%28Parpadea%20dos%20veces%29%20%282024%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/94/90/9490f79b647b302cb776e02e7fb2c206.jpg" group-title="2024", Alien Romulus (Ts) (2024)
-https://filemoon.sx/d/ymody1ml284p
-#EXTINF:-1 tvg-logo="https://megustaelcine.com/wp-content/uploads/2024/08/POSTER-El-cuervo-2024-717x1024.jpg" group-title="2024", El Cuervo (Ts) (2024)
-https://filemoon.sx/d/evf1axrvhirc
-#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/el-sindicato-48855/el-sindicato-48855-c.jpg" group-title="2024", El Sindicato (2024)
-https://filemoon.sx/d/ub8egpch86li
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/img/7e/47/7e474992cc2fe51bae877381df8e3b5c.jpg" group-title="2024", gar En Silencio: Día Uno (2024)
-https://filemoon.sx/d/mx5fb1kl2aci
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh7WGcW1/deadpool.jpg" group-title="2024", Deadpool & Wolverine (2024)
-https://filemoon.sx/d/a50zcs0s90z4
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/318093191/s718/longlegs.jpg" group-title="2024", Longlegs: Coleccionista De Almas (Ts) (2024)
-https://od.lk/d/OTVfNjIzMDYyODNf/Longlegs%20coleccionista%20de%20almas.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Twisters-938683969-large.jpg" group-title="2024", Tornados (2024)
-https://filemoon.sx/d/amoc5rl47ka0
-#EXTINF:-1 tvg-logo="https://www.universalpictures-latam.com/tl_files/content/movies/bikeriders/posters/01.jpg" group-title="2024", El Club De Los Bandalos (2024)
-https://od.lk/d/OTVfNjIzMDYyODBf/The%20Bikeriders%20El%20Club%20de%20los%20Vandalos.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Superdetective_en_Hollywood_Axel_F-677302081-large.jpg" group-title="2024", Un detective suelto en Hollywood 4 (2024)
-https://download2388.mediafire.com/ix0ct4ozxdigjmQvX5BNA16eFelxTZWpCAWYC5RsLmQAnDgy4QfGeCoA8QmwKWRMFdmKVkUJ7klu0dzrpYLV9mpe4ctAAH0z5fgNDUj5c7RyjABOTIa49UwlUn8Ljb_L-p0rHMo44CdF7DVdahkDTRb7UhMnMqw5p-QxSmfoZRIvaAc/3jxacmihvgypm6v/Un+detective+suelto+en+Hollywood+Axel+F.+%282024%29+%281080P%29.mkv
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/46180-477748-20240426114500.jpg" group-title="2024", Monkey Man (2024)
-https://filemoon.sx/d/a9764votstnb
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/46502-315602-20240524031933.jpg" group-title="2024", Los Observados (2024)
-https://filemoon.sx/d/013jvxeko30l
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/6/w1280/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg" group-title="2024", Los Infalibles (2024)
-https://filemoon.sx/d/l0vx8an7eqtd
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/img/b9/72/b9728bc0f259e4e470d6ecfa214b9717.jpeg" group-title="2024", Un Asunto Familiar (2024)
-https://filemoon.sx/d/ontuizldoy3i
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Miller_s_Girl-653037205-large.jpg" group-title="2024", La Chica Miller (2024)
-https://filemoon.sx/d/zwbw0rgnnwz8
-#EXTINF:-1 tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/despicable_me_4/posters/02.jpg" group-title="2024", Mi Villano Favorito 4 (2024)
-https://filemoon.sx/d/9iqerhcbf2n7
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg" group-title="2024", En tierra de santos y pecadores (2024)
-https://filemoon.sx/d/q1sfsivlf1tf
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/c7/8f/c78f03f18bedb20a5bb8171012b053ff.jpg" group-title="2024", Garfield La Pelicula (2024)
-https://filemoon.sx/d/k6or173eiu8f
-#EXTINF:-1 tvg-logo="https://img-tomatazos.buscafs.com/440337/440337.jpg" group-title="2024", Intensamente 2 (2024)
-https://filemoon.sx/d/afg18w8ahuq6
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/img/2c/28/2c28d9fed637b36d2a740d7752f42dd5.jpeg" group-title="2024", Bad Boys Hasta La Muerte (2024)
-https://filemoon.sx/d/padg3u4fq40o
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Civil_War-397793862-large.jpg" group-title="2024", Guerra Civil (Ts) (2024)
-https://filemoon.sx/d/brec1vix8wqc
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_primera_profecaia-195913205-large.jpg" group-title="2024", La Primera Profecía (2024)
-https://filemoon.sx/d/8unskb10af7g
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/img/3a/30/3a3061271c218d48fc34c63ce6a338c7.jpg" group-title="2024", Contra Todos (2024)
-https://filemoon.sx/d/2m8mlv8k1le8
-#EXTINF:-1 tvg-logo="https://laz-img-sg.alicdn.com/p/f49a6291513cfe119261f36953a39ecf.jpg" group-title="2024", Sleeping Dogs (2024)
-https://filemoon.sx/d/him48vlff2a5
-#EXTINF:-1 tvg-logo="https://www.sonypictures.com.mx/sites/mexico/files/2024-02/TAR_1400x2100.jpg" group-title="2024", Tarot de la Muerte (2024)
-https://filemoon.sx/d/upj3yavymy3p
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/khWqf8jG3YlzdGGUZd2CF6SFbzx.jpg" group-title="2024",  Damaged (2024)
-https://filemoon.sx/d/wvz55vvj36rx
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/23/12/11/22/16/2176192.jpg" group-title="2024", Furiosa: de la Saga Mad Max (2024)
-https://filemoon.sx/d/2vj7tbvsew0b
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/24/01/10/17/08/1200463.jpg" group-title="2024", Arthur Una Amistad Sin Límites (2024)
-https://www.linkbox.to/a/f/HJZ3u5S?d=true
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GNLhDAvXcAA9oxb?format=jpg" group-title="2024", Atlas (2024)
-https://www.linkbox.to/a/f/YUXe41q?d=true
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/51/Profesi%C3%B3n_peligro_%282024%29.jpg/revision/latest?cb=20240313135023&path-prefix=es" group-title="2024", Profesión Peligro (2024)
-https://www.linkbox.to/a/f/9MP8Q3g?d=true
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GK0wqBKaIAcyS76.jpg" group-title="2024", Garfield Fuera de Casa (TS) (2024)
-https://filemoon.sx/d/awnisy9ebfo2
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/7b/21/7b214d9219ddd473eb8e1e844408b0f8.jpeg" group-title="2024", Amigos Imaginarios (TS) (2024)
-https://www.linkbox.to/a/f/RpwUYng?d=true
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="2024", El Planeta de los Simios: Nuevo Reino (TS) (2024)
-https://dl.buzzheavier.com/1792991448832172032
-#https://filemoon.sx/d/u8y2wbq2mn5n
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45592-461175-20240327053152.jpg" group-title="2024", Godzilla Y Kong: El Nuevo Imperio (2024)
-https://filemoon.sx/d/typi3oqp8ccx
-#EXTINF:-1 tvg-logo="https://posterspy.com/wp-content/uploads/2023/11/Ghostbusters_frozen_empire-1.jpg" group-title="2024", Ghostbusters Frozen Empire (2024)
-https://filemoon.sx/d/bye0lo80ozz8
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/24/02/20/17/42/2385575.jpg" group-title="2024", Dune II (2024)
-https://filemoon.sx/d/6n3wdvslb4jt
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45053-188703-20240105011147.jpg" group-title="2024", Héroe por Encargo (2024)
-https://filemoon.sx/d/f25egzts5wlz
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Jade-762049960-mmed.jpg" group-title="2024", Jade (2024)
-https://filemoon.sx/d/7hyi8opgwcl4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_corazaon_del_cazador-634571352-large.jpg" group-title="2024", El Corazón del Cazador (2024)
-https://filemoon.sx/d/zycvh47onfht
-#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/macovers/8695_front.jpg" group-title="2024", The American Society of Magical Negros (2024)
-https://filemoon.sx/d/c55n8c6vw41i
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Road_House_De_profesiaon_duro-208331304-large.jpg" group-title="2024", Road House (2024)
-https://filemoon.sx/d/0ya818gcx3qc
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bob_Marley_One_Love-402756132-large.jpg" group-title="2024", Bob Marley La leyenda (2024)
-https://filemoon.sx/d/xhljjeykwj9p
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg" group-title="2024", Los Menospreciados (2024)
-https://filemoon.sx/d/4z139wj9z2hc
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg" group-title="2024", Un Ladrón Romántico (2024)
-https://moonembed.xyz/d/qei21xc85jtl
-#EXTINF:-1 tvg-logo="https://score.procinal.com.co/mobilecomjson/imagenes/991.jpg" group-title="2024", Imaginario Juguete diabólico (2024)
-https://filemoon.sx/d/p3f6xrr68u9r
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="2024", Cazadores en Tierra Inhóspita (2024)
-https://filemoon.sx/d/g1r7sjntn7rs
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg" group-title="2024", El Astronauta (2024)
-https://moonembed.xyz/d/kedyd3j6udrq
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpfXVmFW/Kung-Fu-Panda-4.webp" group-title="2024", Kung Fu Panda 4 (2024)
-https://filemoon.sx/d/lvbvyq6xfcss
-#EXTINF:-1 tvg-logo="https://www.aceprensa.com/wp-content/uploads/2024/03/damsel.jpg" group-title="2024", Damsel (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3I0MDAwZjcy0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBWbnS2m/madame-web.jpg" group-title="2024", Madame Web (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3IwMDAwZ2dk0
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mea_culpa-660431545-large.jpg" group-title="2024", Mea Culpa (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3F3MDAwZmhx0
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBiNzJhYmItN2FlNi00NjA1LWIzOWYtYTdkZjcyOTdhMmMwXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="2024", Lights Out (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3F3MDAwMHd50
-#EXTINF:-1 tvg-logo="https://masdecibelios.es/wp-content/uploads/2024/01/poster-de-Chicas-malas.jpg" group-title="2024", Chicas Pesadas (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3FzMDAwM3du0
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45097-526639-20240111044219.jpg" group-title="2024", Argylle Agente Secreto (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3I4MDA1b2h00
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXn5bWd3/ry.jpg" group-title="2024", Ricky Stanicky (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3I0MDAwbmhm0
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/44948-420686-20231227092728.jpg" group-title="2024", Beekeeper: Sentencia de Muerte (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3FzMDAyNmNu0
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Pobres_criaturas-311025824-large.jpg" group-title="2024", Pobres Criaturas (2024)
-https://www.linkbox.to/f-detail/ZnA0Z2drMDAwemhu0
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ferrari-253622060-large.jpg" group-title="2024", Ferrari (Vose.Sub) (2024)
-https://filemoon.sx/d/jam33v1lssac
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/44447-615394-20231101065410.jpg" group-title="2024", Venganza Silenciosa (2024)
-https://filemoon.sx/d/0biniygwmsig
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bosco-989372814-mmed.jpg" group-title="2024", Bosco (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDAwYmVv0
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Dos_chicas_a_la_fuga-263402376-large.jpg" group-title="2024", Dos Chicas a la Fuga (2024)
-https://www.linkbox.to/f-detail/ZnA0Z3I0MDAwazg00
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Wonka-476523968-large.jpg" group-title="2024", Wonka (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDAweXR20
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/lift-500114909-mmed.jpg" group-title="2024", Lift Un Robo de Primera Clase (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDA0cHR30
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_chico_y_la_garza-226243829-large.jpg" group-title="2024", El niño y la garza (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDAwbWp10
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Agente_X_aUltima_misiaon-845840547-large.jpg" group-title="2024", Agente X: Última Misión (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDAwYmFn0
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/60_minutos-607171169-large.jpg" group-title="2024", 60 Minutos (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDAwbXQ10
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjsRTZkD/audi.jpg" group-title="2024", Race for Glory: Audi vs Lancia (2024)
-https://www.linkbox.to/f-detail/ZnA0ZHM0MDAwZ3A30
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd6pqmmL/Role-play.webp" group-title="2024", Juego de Roles (2024)
-https://filemoon.sx/d/dsc8eugkitqg
+    ]
+}
