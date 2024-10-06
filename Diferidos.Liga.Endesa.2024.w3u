@@ -96,5 +96,45 @@
         		}
             ]
 		}
+
+	{
+        "name": "JORNADA 02",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Valencia Basket VS Juventut Badalona",
+	        	"info": "05/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/umf6vwkweyku/Liga_Endesa_Valencia_Basket_VS_Juventut_Badalona_051024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Morabanc Andorra",
+	        	"info": "05/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/txkhs5y4fqtu/Liga_Endesa_Baskonia_VS_Morabanc_Andorra_051024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "UCAM Murcia VS Bilbao Basket",
+	        	"info": "05/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/cmprko5ukl14/Liga_Endesa_Ucam_Murcia_vs_Bilbao_Basket_051024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+	}
+
+
+
+
 	]
 }

@@ -117,45 +117,11 @@
     },
 
     {
-      "name": "Caso Sancho, Episodio Cero",
+      "name": "Caso Sancho",
       "image": "https://pics.filmaffinity.com/el_caso_sancho_episodio_cero-437192192-large.jpg",
-      "info": "2024",
-      "stations": 
-        [
-          {
-          "name": "CAPITULO 1",
-          "image": "https://pics.filmaffinity.com/el_caso_sancho_episodio_cero-437192192-large.jpg",
-          "url": "https://filemoon.sx/d/kslot01tdt6h/El_caso_SANCHO_EPISODIO_0_2024_T01_E01_HDTV_1080p_Castellano_darko22.mp4",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-          },
-          {
-          "name": "CAPITULO 2",
-          "image": "https://pics.filmaffinity.com/el_caso_sancho_episodio_cero-437192192-large.jpg",
-          "url": "https://filemoon.sx/d/o05mtyfaskpc",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-          },
-          {
-          "name": "CAPITULO 3",
-          "image": "https://pics.filmaffinity.com/el_caso_sancho_episodio_cero-437192192-large.jpg",
-          "url": "https://filemoon.sx/d/4bfxyg8q0bmx",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-          }
-        ]
+      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20CASO%20SANCHO.w3u",
+      "info": "bY AdriDeCai",
+      "import": false
     },
 
     {
