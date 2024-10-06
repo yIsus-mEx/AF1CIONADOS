@@ -7,8 +7,35 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-       {
-        "name": "No Hables Con Extraños (2024)",
+        {
+        "name": "Joker 2: Folie à Deux (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/poster-joker-2-folie-a-deux-joaquin-phoenix-lady-gaga-66d8805e725c1.jpg",
+        "url": "https://filemoon.sx/d/fbyjx5v7c559",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "El diario",
+        "info": "[2024][Latino]",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/5e9d1df5aabd393e5f5e9e707d5fec13371accff15a4deaab5ad1720a3e72851.jpg",
+        "url": "https://filemoon.sx/d/xcd6bory200a",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "MaXXXine",
+        "info": "[2024][Latino]",
+        "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+        "url": "https://filemoon.sx/d/awt1gwhwh4ou",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "No Hables Con Extraños",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/No_hables_con_extraanos-513657934-large.jpg",
         "url": "https://filemoon.sx/d/6mx32393v9jq",
@@ -272,7 +299,7 @@
         "name": "Garfield La Pelicula",
         "info": "[2024][Latino]",
         "image": "https://es.web.img3.acsta.net/img/c7/8f/c78f03f18bedb20a5bb8171012b053ff.jpg",
-        "url": "https://filemoon.sx/d/k6or173eiu8f",
+        "url": "https://od.lk/s/OTVfNjIzMDYyODdf/Garfield%20Fuera%20de%20Casa.mp4",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -296,10 +323,10 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Guerra Civil (Ts)",
+        "name": "Guerra Civil",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Civil_War-397793862-large.jpg",
-        "url": "https://filemoon.sx/d/brec1vix8wqc",
+        "url": "https://filemoon.sx/d/kmjtzgjbzu2c",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
