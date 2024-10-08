@@ -8,6 +8,24 @@
 "groups":
     [
        {
+         "name": "UFC 307: Alex Pereira vs Khalil Rountree",
+         "image": "https://i.postimg.cc/FRj9vptK/ufc-306.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 307: Alex Pereira vs Khalil Rountree",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/W4BSNnHh/UFC307.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0dnlrMDAwNXgw0",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Moicano vs Saint Denis",
          "image": "https://i.postimg.cc/dDMRNQYK/moicano-vs-saint-denis.png",
          "imageScale": "",
