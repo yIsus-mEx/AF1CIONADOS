@@ -14,10 +14,11 @@
         "import": false
         },
         {
-        "name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩ",
+        "name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩs",
         "image": "https://i.postimg.cc/HxgHqq7Y/PPV-Iive-new.png",
         "url": "https://eventos-diarios.vercel.app/",
-        "embed": "true"
+        "embed": "true",
+        "import": false
         },
         {
         "name": "        ᗪᗴᑭᗝᖇ丅ᗴᔕ",
