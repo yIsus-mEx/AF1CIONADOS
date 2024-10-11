@@ -9,15 +9,12 @@
     [
 
         {
-        "name": "Prueba",
-        "info": "",
-        "image": "",
-        "url": "https://u.pcloud.link/publink/show?code=XZfh9Q0ZpSTDSdT4rbpNFERnvQpQFVKJ8MG7",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "",
+        "name": "Eventos Del Dia",
+        "info": "[ACESTREAM]",
         "online":"true",
-        "embed": "",
-        "isHost":"true"
+        "image": "",
+        "url": "https://eventos-diarios.vercel.app/",
+        "embed": "true",
         }
     ]
 }
