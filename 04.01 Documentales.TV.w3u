@@ -767,6 +767,25 @@
       "url": "https://af1cionados.vercel.app/DoCuSerie ULTIMOS ZARES.w3u",
       "info": "bY. Adri",
       "import": false
+    },
+
+    {
+      "name": "We will dance again",
+      "image": "https://pics.filmaffinity.com/we_will_dance_again-196412937-large.jpg",
+      "stations": [
+        {
+          "name": "We will dance again",
+          "image": "https://pics.filmaffinity.com/we_will_dance_again-196412937-large.jpg",
+          "url": "https://listeamed.net/v/l4vexvgDb1yE8B9",
+          "info": "[2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
     }
+
   ]
 }
