@@ -14,11 +14,19 @@
         "import": false
         },
         {
-        "name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩ",
+        "name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩs",
+        "info":"",
         "image": "https://i.postimg.cc/HxgHqq7Y/PPV-Iive-new.png",
-        "url": "https://futbito-bonito.vercel.app/",
-        "embed": "true",
-        "import": false
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "",
+                "image": "",
+                "url": "https://eventos-diarios.vercel.app/",
+                "embed": "true"
+                }
+            ]
         },
         {
         "name": "        ᗪᗴᑭᗝᖇ丅ᗴᔕ",
