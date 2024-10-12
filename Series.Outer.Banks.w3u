@@ -6,6 +6,7 @@
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
 "stations":
+		[
 
  				{
  				"name": "4x01 Episodio",
@@ -53,5 +54,5 @@
  				"online":"true"
 				}
 
-]
+		]
 }
