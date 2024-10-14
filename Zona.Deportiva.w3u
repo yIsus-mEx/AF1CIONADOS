@@ -895,7 +895,7 @@
         "info":"",
         "image": "",
         "url": "http://200.60.124.19:29000/play/a06p/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
         "isHost":""
@@ -905,7 +905,7 @@
         "info":"",
         "image": "",
         "url": "http://38.43.151.206:8000/play/a02z/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
         "isHost":""
@@ -915,7 +915,7 @@
         "info":"",
         "image": "",
         "url": "https://cnm-tsl.otteravision.com/cnm/tsl/tsl_720.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
         "isHost":""
