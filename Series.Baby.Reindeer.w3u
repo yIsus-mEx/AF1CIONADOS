@@ -19,8 +19,7 @@
  				"info":"",
  				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
  				"url":"https://filemoon.sx/d/lbgm2rfqwc9o",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer" : "filemoon.sx",
+				"userAgent":"PlusMediaPlayer/0.0.9",
  				"isHost":"true",
  				"online":"true"
 				},
@@ -29,7 +28,7 @@
 				"info":"",
 				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 				"url":"https://filemoon.sx/d/72599a42ovou",
-				"referer" : "",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -38,7 +37,7 @@
 				"info":"",
 				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 				"url":"https://filemoon.sx/d/5o3bnpk22ik5",
-				"referer" : "",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -47,7 +46,7 @@
 				"info":"",
 				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 				"url":"https://filemoon.sx/d/bn2wslp7r2fs",
-				"referer" : "",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -56,7 +55,7 @@
 				"info":"",  
 				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 				"url":"https://filemoon.sx/d/qluejglcw6qz",
-				"referer" : "",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -65,7 +64,7 @@
 				"info":"",  
 				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 				"url":"https://filemoon.sx/d/93hl2m1em12f",
-				"referer" : "",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -74,7 +73,7 @@
 				"info":"",  
 				"image":"https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 				"url":"https://filemoon.sx/d/u5fqevof07ll",
-				"referer" : "",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				}
