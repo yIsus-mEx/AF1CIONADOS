@@ -21,7 +21,7 @@
         		"info":"[Documental][Español]",
         		"image": "https://www17.pelisplushd.to/poster/higuita-el-camino-del-escorpion.jpg",
         		"url":"https://filelions.to/v/doltcmw4wo5c",
-        		"embed":"",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost":"true",
         		"online":"true"
         		},
@@ -135,6 +135,7 @@
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/informe_la_liga_de_valdano-921755742-large.jpg",
         		"url":"https://filemoon.sx/d/o4iqfkupvfoj",
+				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost":"true",
         		"online":"true"
         		},
@@ -143,7 +144,7 @@
         		"info":"[Documental][Español][2024]",
         		"image": "https://pics.filmaffinity.com/los_anos_de_la_gabarra_el_athletic_de_1983_y_1984-611832840-large.jpg",
         		"url":"https://filemoon.sx/d/az08ttvsfukm/Los_a_os_de_la_gabarra._El_Athletic_de_1983_y_1984__2024_.mp4",
-        		"embed":"",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost":"true",
         		"online":"true"
         		},
@@ -152,7 +153,7 @@
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/luis_enrique_presenta_no_teneis_ni_idea-855733998-large.jpg",
         		"url":"https://listeamed.net/v/qA3WOmG1rL2xKkz",
-        		"embed":"",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost":"true",
         		"online":"true"
         		}
