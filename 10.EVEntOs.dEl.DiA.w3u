@@ -17,48 +17,14 @@
         "embed": "true"
         },
         {
-        "name": "DAZN 3 🇪🇸",
+        "name": "Prueba",
         "info":"[ESPAÑOL]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_main_microformat_4_3/uploads/2024/09/11/66e1fa152926c.jpeg",
-        "url": "https://enx.gdplayertv.to/live-tv/dazn-3-es/?embed=1",
+        "image": "",
+        "url": "https://daiconnect.com/vod/hls/tvup/tivify/.m3u8?CURL=https%3A%2F%2Ftcs-awss3-gra-fastch.akamaized.net%2Fplaneta_junior%2FFAST-planeta_junior-EvLWFVUELTAALMUNDO80DIASmp4%2Favod%2Ffbb91f47-e429-4d9d-a60d-4f718ea4d049%2Fmaster.m3u8&channel_name=planeta_junior&ApPW=2560&ApPH=899&USrGDPRC=CP-9ugAP-9ugABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=a76d8cba-d38a-4b45-9d7a-d0a691725012&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F129.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.45.0&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=a76d8cba-d38a-4b45-9d7a-d0a691725012&tvfy_env=desktop&pod_max_dur=&pod_ad_slots=&requestuid=e0b3e73d-3bb1-4d5d-bdd5-5d4f39f03c26",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "BKFC: Franco Tenaglia vs Tony Soto",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_main_microformat_4_3/uploads/2024/09/11/66e1fa152926c.jpeg",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium69/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://ilovetoplay.xyz/",
         "online":"true",
         "embed": "",
-        "isHost":""
-        },
-        {
-        "name": "BKFC: Franco Tenaglia vs Tony Soto",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_main_microformat_4_3/uploads/2024/09/11/66e1fa152926c.jpeg",
-        "url": "https://csty.azureedge.net/playlist/26650/main.clmbosean.space/caxi.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://1stream.eu/",
-        "embed": "",
-        "isHost": ""
-        },
-        {
-        "name": "BKFC: Franco Tenaglia vs Tony Soto",
-        "info":"[Ingles]",
-        "online":"true",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_main_microformat_4_3/uploads/2024/09/11/66e1fa152926c.jpeg",
-        "url": "https://wiki.iosplayer.ru/tshttp/wiki/wikibox04/mono.m3u8?token=none",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://ilovetoplay.xyz/",
-        "embed": "",
-        "isHost": ""
+        "isHost":"true"
         }
     ]
 }
