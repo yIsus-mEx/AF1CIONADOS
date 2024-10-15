@@ -7,7 +7,34 @@
 "info": "",
 "groups":
     [
-       {
+        {
+         "name": "UFC Fight Night: Royval vs Taira",
+         "image": "https://i.postimg.cc/NFctYyQC/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Royval vs Taira",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/NFctYyQC/ufc.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0d2ZrMDAwaDRr0",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Royval vs Taira",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/NFctYyQC/ufc.png",
+                "url":"https://filemoon.sx/d/1w8hlzdfyxp5",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 307: Alex Pereira vs Khalil Rountree",
          "image": "https://i.postimg.cc/FRj9vptK/ufc-306.png",
          "imageScale": "",
