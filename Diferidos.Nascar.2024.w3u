@@ -8,6 +8,60 @@
 "groups":
     [
 		{
+        "name": "R33 NASCAR Bank of America ROVAL 400",
+        "info":"",
+        "image": "https://i.postimg.cc/Z5T87Zyr/Roval400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR Bank of America ROVAL 400",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/Z5T87Zyr/Roval400.png",
+                "url":"https://filemoon.sx/d/03hz5gg15hff",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR Bank of America ROVAL 400",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/Z5T87Zyr/Roval400.png",
+                "url":"https://filemoon.sx/e/xeie14ki4aqg",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "R32 NASCAR YellaWood 500",
+        "info":"",
+        "image": "https://i.postimg.cc/gcTyMvkK/nascar-yellawood-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "NASCAR YellaWood 500",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/gcTyMvkK/nascar-yellawood-2024.png",
+                "url":"https://filemoon.sx/d/dobkszmnczih",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "NASCAR YellaWood 500",
+                "info":"[Ingles]",
+                "image": "https://i.postimg.cc/gcTyMvkK/nascar-yellawood-2024.png",
+                "url":"https://filemoon.sx/e/ve0e8aeusql5",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R31 NASCAR Hollywood Casino 400",
         "info":"",
         "image": "https://i.postimg.cc/jSkLKKQ8/Hollywood-Casino-400.png",
