@@ -1,0 +1,92 @@
+{
+"name": "Hotel Cocaine",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Hotel.Cocaine.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://i.postimg.cc/tJyX5kCD/hotel-coca.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 01",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/s4jpd637v6d8",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 02",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/p5yd9x3o346p",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 03",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/yvfu2xwt8iy0",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 04",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/avzzdjxndcmk",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 05",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/9qqasmpk4fcb",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 06",
+                "info":"[Vose.Sub]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/a29shubm69wc",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 07",
+                "info":"[Vose.Sub]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/jdx49yw4nz6y",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 08",
+                "info":"[Vose.Sub]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://filemoon.sx/bdd/skz6uccpu8wi",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}
