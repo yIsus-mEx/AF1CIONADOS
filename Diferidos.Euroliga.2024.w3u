@@ -194,6 +194,96 @@
         	"stations":
             	[
 	       		{
+ 	       		"name": "Virtus VS Zalguiris",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/qrogodmgy6v9/Euroliga_Virtus_VS_Zalguiris_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Asvel",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/qmvy8xcs7j25/Euroliga_Alba_Berlin_VS_Asvel_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Bayern Munich",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/j08wika2te9s/Euroliga_Partizan_VS_Bayern_Munich_151024_.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Real Madrid",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/oe54we181oet/Euroliga_Baskonia_VS_Real_Madrid_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Panathinaikos",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/ujgarta3a5bw/Euroliga_Paris_VS_Panathinaikos_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiacos VS EA7 Milan",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/cixaduldkwos/Euroliga_Olympiacos_VS_EA7_Milan_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Anadolu Efes",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/ftrvky09mro2/Euroliga_Maccabi_VS_Anadolu_Efes_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Crvena Zvezda",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/dzlf0jry4v5r/Euroliga_Fenerbahce_VS_Crvena_Zvezda_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Monaco",
+	        	"info": "[15/10/24]",
+			"online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 4",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
  	       		"name": "",
 	        	"info": "",
 			"online": "true",
