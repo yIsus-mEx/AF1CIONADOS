@@ -8,10 +8,28 @@
 "stations":
     [
         {
+        "name": "Alien Romulus",
+        "info": "[2024][Latino]",
+        "image": "https://es.web.img3.acsta.net/img/94/90/9490f79b647b302cb776e02e7fb2c206.jpg",
+        "url": "https://filemoon.sx/bdd/i2fgtq8j7ujs",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Robot Salvaje",
+        "info": "[2024][Latino]",
+        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/wild_robot/posters/02.jpg",
+        "url": "https://filemoon.sx/bdd/qyi4qgb04r5q",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Joker 2: Folie à Deux (Ts)",
         "info": "[2024][Latino]",
         "image": "https://hips.hearstapps.com/hmg-prod/images/poster-joker-2-folie-a-deux-joaquin-phoenix-lady-gaga-66d8805e725c1.jpg",
-        "url": "https://filemoon.sx/d/fbyjx5v7c559",
+        "url": "https://filemoon.sx/bdd/fbyjx5v7c559",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -20,7 +38,7 @@
         "name": "El diario",
         "info": "[2024][Latino]",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/5e9d1df5aabd393e5f5e9e707d5fec13371accff15a4deaab5ad1720a3e72851.jpg",
-        "url": "https://filemoon.sx/d/xcd6bory200a",
+        "url": "https://filemoon.sx/bdd/xcd6bory200a",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -29,7 +47,7 @@
         "name": "MaXXXine",
         "info": "[2024][Latino]",
         "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
-        "url": "https://filemoon.sx/d/awt1gwhwh4ou",
+        "url": "https://filemoon.sx/bdd/awt1gwhwh4ou",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -38,7 +56,7 @@
         "name": "No Hables Con Extraños",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/No_hables_con_extraanos-513657934-large.jpg",
-        "url": "https://filemoon.sx/d/6mx32393v9jq",
+        "url": "https://filemoon.sx/bdd/6mx32393v9jq",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -47,7 +65,7 @@
         "name": "Wolfs",
         "info": "[2024][Latino]",
         "image": "https://m.media-amazon.com/images/M/MV5BNWI2MzdiM2ItMTg2Zi00MTYwLThlZmItM2FkNWI4NjE3ZjRhXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://filemoon.sx/d/38ks4kc2076n",
+        "url": "https://filemoon.sx/bdd/38ks4kc2076n",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -56,7 +74,7 @@
         "name": "El Hombre Celoso",
         "info": "[2024][Latino]",
         "image": "https://i.postimg.cc/hGsDkrqD/El-hombre-celoso.webp",
-        "url": "https://filemoon.sx/d/l0k63rkey6la",
+        "url": "https://filemoon.sx/bdd/l0k63rkey6la",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -65,16 +83,7 @@
         "name": "Parano-IA",
         "info": "[2024][Latino]",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/47292-119868-20240830020557.jpg",
-        "url": "https://filemoon.sx/d/xtpp10v6ghr3",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Robot salvaje (Ts)",
-        "info": "[2024][Latino]",
-        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/wild_robot/posters/02.jpg",
-        "url": "https://filemoon.sx/d/06f408nlvlld",
+        "url": "https://filemoon.sx/bdd/xtpp10v6ghr3",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -83,7 +92,7 @@
         "name": "Borderlands",
         "info": "[2024][Latino]",
         "image": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/07/30213849/borderlands-poster-scaled.jpg",
-        "url": "https://filemoon.sx/d/qpvh1fr6eg8r",
+        "url": "https://filemoon.sx/bdd/qpvh1fr6eg8r",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -92,7 +101,7 @@
         "name": "Vidas Perfectas",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Vidas_perfectas-447658187-large.jpg",
-        "url": "https://filemoon.sx/d/7v9fkwhlr95u",
+        "url": "https://filemoon.sx/bdd/7v9fkwhlr95u",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -128,7 +137,7 @@
         "name": "Los Feos",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Los_feos-864545169-large.jpg",
-        "url": "https://filemoon.sx/d/4h8utyvdmzy9",
+        "url": "https://filemoon.sx/bdd/4h8utyvdmzy9",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -152,19 +161,10 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Alien Romulus (Ts) (2024)",
-        "info": "[2024][Latino]",
-        "image": "https://es.web.img3.acsta.net/img/94/90/9490f79b647b302cb776e02e7fb2c206.jpg",
-        "url": "https://filemoon.sx/d/ymody1ml284p",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "El Cuervo (Ts)",
         "info": "[2024][Latino]",
         "image": "https://megustaelcine.com/wp-content/uploads/2024/08/POSTER-El-cuervo-2024-717x1024.jpg",
-        "url": "https://filemoon.sx/d/evf1axrvhirc",
+        "url": "https://filemoon.sx/bdd/evf1axrvhirc",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -173,7 +173,7 @@
         "name": "El Sindicato",
         "info": "[2024][Latino]",
         "image": "https://decine21.com/img/upload/obras/el-sindicato-48855/el-sindicato-48855-c.jpg",
-        "url": "https://filemoon.sx/d/ub8egpch86li",
+        "url": "https://filemoon.sx/bdd/ub8egpch86li",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -182,7 +182,7 @@
         "name": "Un Lugar En Silencio: Día Uno",
         "info": "[2024][Latino]",
         "image": "https://mx.web.img2.acsta.net/img/7e/47/7e474992cc2fe51bae877381df8e3b5c.jpg",
-        "url": "https://filemoon.sx/d/mx5fb1kl2aci",
+        "url": "https://filemoon.sx/bdd/mx5fb1kl2aci",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -191,7 +191,7 @@
         "name": "Deadpool & Wolverine",
         "info": "[2024][Latino]",
         "image": "https://i.postimg.cc/nh7WGcW1/deadpool.jpg",
-        "url": "https://filemoon.sx/d/a50zcs0s90z4",
+        "url": "https://filemoon.sx/bdd/a50zcs0s90z4",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -209,7 +209,7 @@
         "name": "Tornados",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Twisters-938683969-large.jpg",
-        "url": "https://filemoon.sx/d/amoc5rl47ka0",
+        "url": "https://filemoon.sx/bdd/amoc5rl47ka0",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -236,7 +236,7 @@
         "name": "Monkey Man",
         "info": "[2024][Latino]",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/46180-477748-20240426114500.jpg",
-        "url": "https://filemoon.sx/d/a9764votstnb",
+        "url": "https://filemoon.sx/bdd/a9764votstnb",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -245,7 +245,7 @@
         "name": "Los Observados",
         "info": "[2024][Latino]",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/46502-315602-20240524031933.jpg",
-        "url": "https://filemoon.sx/d/013jvxeko30l",
+        "url": "https://filemoon.sx/bdd/013jvxeko30l",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -254,7 +254,7 @@
         "name": "Los Infalibles",
         "info": "[2024][Latino]",
         "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/6/w1280/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg",
-        "url": "https://filemoon.sx/d/l0vx8an7eqtd",
+        "url": "https://filemoon.sx/bdd/l0vx8an7eqtd",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -263,7 +263,7 @@
         "name": "Un Asunto Familiar",
         "info": "[2024][Latino]",
         "image": "https://mx.web.img2.acsta.net/c_310_420/img/b9/72/b9728bc0f259e4e470d6ecfa214b9717.jpeg",
-        "url": "https://filemoon.sx/d/ontuizldoy3i",
+        "url": "https://filemoon.sx/bdd/ontuizldoy3i",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -272,7 +272,7 @@
         "name": "La Chica Miller",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Miller_s_Girl-653037205-large.jpg",
-        "url": "https://filemoon.sx/d/zwbw0rgnnwz8",
+        "url": "https://filemoon.sx/bdd/zwbw0rgnnwz8",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -281,7 +281,7 @@
         "name": "Mi Villano Favorito 4",
         "info": "[2024][Latino]",
         "image": "https://www.universalpictures.com.mx/tl_files/content/movies/despicable_me_4/posters/02.jpg",
-        "url": "https://filemoon.sx/d/9iqerhcbf2n7",
+        "url": "https://filemoon.sx/bdd/9iqerhcbf2n7",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -290,7 +290,7 @@
         "name": "En tierra de Santos y Pecadores",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
-        "url": "https://filemoon.sx/d/q1sfsivlf1tf",
+        "url": "https://filemoon.sx/bdd/q1sfsivlf1tf",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -308,7 +308,7 @@
         "name": "Intensamente 2",
         "info": "[2024][Latino]",
         "image": "https://img-tomatazos.buscafs.com/440337/440337.jpg",
-        "url": "https://filemoon.sx/d/afg18w8ahuq6",
+        "url": "https://filemoon.sx/bdd/afg18w8ahuq6",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -317,7 +317,7 @@
         "name": "Bad Boys Hasta La Muerte",
         "info": "[2024][Latino]",
         "image": "https://mx.web.img2.acsta.net/img/2c/28/2c28d9fed637b36d2a740d7752f42dd5.jpeg",
-        "url": "https://filemoon.sx/d/padg3u4fq40o",
+        "url": "https://filemoon.sx/bdd/padg3u4fq40o",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -326,7 +326,7 @@
         "name": "Guerra Civil",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Civil_War-397793862-large.jpg",
-        "url": "https://filemoon.sx/d/kmjtzgjbzu2c",
+        "url": "https://filemoon.sx/bdd/kmjtzgjbzu2c",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -335,7 +335,7 @@
         "name": "La Primera Profecía",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/La_primera_profecaia-195913205-large.jpg",
-        "url": "https://filemoon.sx/d/8unskb10af7g",
+        "url": "https://filemoon.sx/bdd/8unskb10af7g",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -343,7 +343,7 @@
         {
         "name": "Contra Todos",
         "image": "https://mx.web.img2.acsta.net/img/3a/30/3a3061271c218d48fc34c63ce6a338c7.jpg",
-        "url": "https://filemoon.sx/d/2m8mlv8k1le8",
+        "url": "https://filemoon.sx/bdd/2m8mlv8k1le8",
         "info": "[2024][Latino]",
         "isHost": "true",
         "online": "true",
@@ -352,7 +352,7 @@
         {
         "name": "Sleeping Dogs",
         "image": "https://laz-img-sg.alicdn.com/p/f49a6291513cfe119261f36953a39ecf.jpg",
-        "url": "https://filemoon.sx/d/him48vlff2a5",
+        "url": "https://filemoon.sx/bdd/him48vlff2a5",
         "info": "[2024][Latino]",
         "isHost": "true",
         "online": "true",
@@ -361,7 +361,7 @@
         {
         "name": "Tarot de la Muerte",
         "image": "https://www.sonypictures.com.mx/sites/mexico/files/2024-02/TAR_1400x2100.jpg",
-        "url": "https://filemoon.sx/d/upj3yavymy3p",
+        "url": "https://filemoon.sx/bdd/upj3yavymy3p",
         "info": "[2024][Latino]",
         "embed": "",
         "isHost": "true",
@@ -371,7 +371,7 @@
         {
         "name": "Damaged",
         "image": "https://image.tmdb.org/t/p/w500/khWqf8jG3YlzdGGUZd2CF6SFbzx.jpg",
-        "url": "https://filemoon.sx/d/wvz55vvj36rx",
+        "url": "https://filemoon.sx/bdd/wvz55vvj36rx",
         "info": "[2024][Latino]",
         "isHost": "true",
         "online": "true",
@@ -380,7 +380,7 @@
         {
         "name": "Furiosa: de la Saga Mad Max",
         "image": "https://mx.web.img2.acsta.net/pictures/23/12/11/22/16/2176192.jpg",
-        "url": "https://filemoon.sx/d/2vj7tbvsew0b",
+        "url": "https://filemoon.sx/bdd/2vj7tbvsew0b",
         "info": "[2024][Latino]",
         "embed": "",
         "isHost": "true",
@@ -418,7 +418,7 @@
         {
         "name": "Garfield Fuera de Casa (TS)",
         "image": "https://pbs.twimg.com/media/GK0wqBKaIAcyS76.jpg",
-       	"url": "https://filemoon.sx/d/awnisy9ebfo2",
+       	"url": "https://filemoon.sx/bdd/awnisy9ebfo2",
        	"info": "[2024][Latino]",
        	"userAgent": "PlusMediaPlayer/0.0.9",
        	"isHost":"true",
@@ -436,7 +436,7 @@
         {
         "name": "El Planeta de los Simios: Nuevo Reino (TS)",
         "image": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
-        "url": "https://filemoon.sx/d/u8y2wbq2mn5n",
+        "url": "https://filemoon.sx/bdd/u8y2wbq2mn5n",
         "info": "[2024][Latino]",
         "isHost": "true",
         "online": "true",
@@ -447,7 +447,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/45592-461175-20240327053152.jpg",
-        "url": "https://filemoon.sx/d/typi3oqp8ccx",
+        "url": "https://filemoon.sx/bdd/typi3oqp8ccx",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -456,7 +456,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://posterspy.com/wp-content/uploads/2023/11/Ghostbusters_frozen_empire-1.jpg",
-        "url": "https://filemoon.sx/d/bye0lo80ozz8",
+        "url": "https://filemoon.sx/bdd/bye0lo80ozz8",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -465,7 +465,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://es.web.img3.acsta.net/pictures/24/02/20/17/42/2385575.jpg",
-        "url": "https://filemoon.sx/d/6n3wdvslb4jt",
+        "url": "https://filemoon.sx/bdd/6n3wdvslb4jt",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -474,7 +474,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/45053-188703-20240105011147.jpg",
-        "url": "https://filemoon.sx/d/f25egzts5wlz",
+        "url": "https://filemoon.sx/bdd/f25egzts5wlz",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -483,7 +483,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://pics.filmaffinity.com/Jade-762049960-mmed.jpg",
-        "url": "https://filemoon.sx/d/7hyi8opgwcl4",
+        "url": "https://filemoon.sx/bdd/7hyi8opgwcl4",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -501,7 +501,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://images.static-bluray.com/movies/macovers/8695_front.jpg",
-        "url": "https://filemoon.sx/d/c55n8c6vw41i",
+        "url": "https://filemoon.sx/bdd/c55n8c6vw41i",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -510,7 +510,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://pics.filmaffinity.com/Road_House_De_profesiaon_duro-208331304-large.jpg",
-        "url": "https://filemoon.sx/d/0ya818gcx3qc",
+        "url": "https://filemoon.sx/bdd/0ya818gcx3qc",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -519,7 +519,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://pics.filmaffinity.com/Bob_Marley_One_Love-402756132-large.jpg",
-        "url": "https://filemoon.sx/d/xhljjeykwj9p",
+        "url": "https://filemoon.sx/bdd/xhljjeykwj9p",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -528,7 +528,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://image.tmdb.org/t/p/original/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",
-        "url": "https://filemoon.sx/d/4z139wj9z2hc",
+        "url": "https://filemoon.sx/bdd/4z139wj9z2hc",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -546,7 +546,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://score.procinal.com.co/mobilecomjson/imagenes/991.jpg",
-        "url": "https://filemoon.sx/d/p3f6xrr68u9r",
+        "url": "https://filemoon.sx/bdd/p3f6xrr68u9r",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -555,7 +555,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://image.tmdb.org/t/p/original/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",
-        "url": "https://filemoon.sx/d/g1r7sjntn7rs",
+        "url": "https://filemoon.sx/bdd/g1r7sjntn7rs",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -573,7 +573,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://i.postimg.cc/MpfXVmFW/Kung-Fu-Panda-4.webp",
-        "url": "https://filemoon.sx/d/lvbvyq6xfcss",
+        "url": "https://filemoon.sx/bdd/lvbvyq6xfcss",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -663,7 +663,7 @@
         "info": "[2024][Vose]",
         "online":"true",
         "image": "https://pics.filmaffinity.com/Ferrari-253622060-large.jpg",
-        "url": "https://filemoon.sx/d/jam33v1lssac",
+        "url": "https://filemoon.sx/bdd/jam33v1lssac",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -672,7 +672,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/44447-615394-20231101065410.jpg",
-        "url": "https://filemoon.sx/d/0biniygwmsig",
+        "url": "https://filemoon.sx/bdd/0biniygwmsig",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    },
@@ -753,7 +753,7 @@
         "info": "[2024][Latino]",
         "online":"true",
         "image": "https://i.postimg.cc/pd6pqmmL/Role-play.webp",
-        "url": "https://filemoon.sx/d/dsc8eugkitqg",
+        "url": "https://filemoon.sx/bdd/dsc8eugkitqg",
 	    "userAgent": "PlusMediaPlayer/0.0.9",
         "isHost":"true"
 	    }
