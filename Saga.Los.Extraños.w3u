@@ -1,0 +1,39 @@
+
+{
+"name": "Saga Los Extraños",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.Los.Extraños.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+        {
+        "name": "Los Extraños",
+        "image": "https://pics.filmaffinity.com/the_strangers-503267380-mmed.jpg",
+        "url": "https://listeamed.net/v/nyg9EKMMDyB5bk4",
+        "info": "[Español][2008]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Los extraños: cacería nocturna",
+        "image": "https://pics.filmaffinity.com/the_strangers_prey_at_night-711434992-mmed.jpg",
+        "url": "https://listeamed.net/v/qA3WOmMMGVrOKkz",
+        "info": "[Español][2018]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Los extraños: Capítulo 1",
+        "image": "https://pics.filmaffinity.com/the_strangers_chapter_1-835571955-mmed.jpg",
+        "url": "https://listeamed.net/v/wP205011Z4Kxdmy",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        }
+    ]
+}
