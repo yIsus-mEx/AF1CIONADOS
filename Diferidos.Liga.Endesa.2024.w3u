@@ -339,11 +339,20 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "",
-	        	"info": "",
+       			"name": "Hiopos Lleida VS Baxi Manresa",
+	        	"info": "20/10/24",
 			"online": "true",
 	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
-	        	"url": "",
+	        	"url": "https://filemoon.sx/d/e1zib3wzjue6/Liga_Endesa_Hiopos_Lleida_VS_Baxi_Manresa_201024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Basquet Girona",
+	        	"info": "20/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/91kycufzvgcx/Liga_Endesa_Real_Madrid_VS_Basquet_Girona_201024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -356,6 +365,15 @@
         "info": "",
         "stations":
             [
+			{
+       			"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
 			{
        			"name": "",
 	        	"info": "",
