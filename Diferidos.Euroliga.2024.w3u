@@ -320,6 +320,15 @@
         		"isHost": "true"
         		},
 	       		{
+ 	       		"name": "Real Madrid VS Panathinaikos",
+	        	"info": "[17/10/24]",
+			"online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/8kd8uo1fo028/Euroliga_Real_Madrid_VS_Panathinaikos_171024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
  	       		"name": "Asvel VS Baskonia",
 	        	"info": "[18/10/24]",
 			"online": "true",
@@ -352,15 +361,6 @@
 			"online": "true",
 	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
 	        	"url": "https://filemoon.sx/d/efna4mawtrr4/Euroliga_Efes_VS_Olympiakos_181024.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-	       		{
- 	       		"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
