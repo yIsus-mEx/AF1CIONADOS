@@ -86,20 +86,29 @@
                 "isHost":"true",
                 "online":"true"
                 },
-                {
-                "name": "Carrera",
-                "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
-                "url":"",
-		        "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":""
-                },
 		        {
                 "name": "Carrera",
                 "info":"[ESPNF1]",
                 "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
-                "url":"",
+                "url":"https://filemoon.sx/d/q9w5krj5w8pk",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/jvq27lml1yuz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/8lmujacrfo1i",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":""
