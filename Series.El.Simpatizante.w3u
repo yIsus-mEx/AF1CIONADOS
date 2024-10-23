@@ -1,0 +1,74 @@
+{
+"name": "El Simpatizante",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.El.Simpatizante",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+ 		"url":"https://filemoon.sx/d/ae51ie1vgpsh",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url":"https://filemoon.sx/d/ql043l70bpd0",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url":"https://filemoon.sx/d/arbvhkmhz3sm",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url":"https://filemoon.sx/d/2c7j3em70e9w",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url":"https://filemoon.sx/d/qf6t7k1ghsu9",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url":"https://filemoon.sx/d/oetm7tcoyadk",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 07",
+		"info":"",  
+		"image":"https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url":"https://filemoon.sx/d/lnzq57qo7dl6",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
