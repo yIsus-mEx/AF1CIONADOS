@@ -7,6 +7,34 @@
 "info": "",
 "groups":
     [
+
+        {
+         "name": "UFC Fight Night: Hernandez vs Pereira",
+         "image": "https://i.postimg.cc/yNYLSQ9z/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Hernandez vs Pereira",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/yNYLSQ9z/UFC.png",
+                "url":"https://filemoon.sx/d/0ol8af1tqdsq",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC Fight Night: Hernandez vs Pereira",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/yNYLSQ9z/UFC.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0d3o0MDAwM3E40",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
         {
          "name": "UFC Fight Night: Royval vs Taira",
          "image": "https://i.postimg.cc/NFctYyQC/ufc.png",

@@ -10,15 +10,15 @@
         {
         "name": "F1 2024 Austin [18-20.Oct24]",
         "info":"",
-        "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
+        "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
         "imageScale": "",
         "stations":
             [
                 {
                 "name": "Libres 01",
                 "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/s1f81y00yyfs",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/d188a15xq7le",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -26,71 +26,62 @@
 		        {
                 "name": "Libres 01",
                 "info":"[ESPNF1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/pgtc63sa6amq",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/lbofm2zs4k1h",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 		        {
-                "name": "Libres 2",
+                "name": "Sprint Qualy",
                 "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/9hj8t23aubog",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/grs7fpll6aj0",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 		        {
-                "name": "Libres 2",
+                "name": "Sprint Qualy",
                 "info":"[ESPNF1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/cot5qzcmupbf",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/1ku4ds9y2gql",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
                 {
-                "name": "Libres 3",
+                "name": "Carrera Sprint",
                 "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/ga7rhl04floy",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/s138koclsgni",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 		        {
-                "name": "Libres 3",
+                "name": "Carrera Sprint",
                 "info":"[ESPNF1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/p2m1lvblil9y",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/jd5gpvrde03m",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
                 {
-                "name": "Clasificacion",
+                "name": "Qualy Carrera",
                 "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/nr1p6o2lh31y",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/uj8ygkcwmwwe",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 		        {
-                "name": "Clasificacion",
+                "name": "Qualy Carrera",
                 "info":"[ESPNF1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/hkjkx48k0zv4",
-		        "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Carrera",
-                "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/swbocm0qxif7",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/banvwgje2c07",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -98,11 +89,29 @@
 		        {
                 "name": "Carrera",
                 "info":"[ESPNF1]",
-                "image": "https://i.postimg.cc/TPqyQqgS/F1-Austin-2024.jpg",
-                "url":"https://filemoon.sx/d/d6f9nbeypwfu",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/q9w5krj5w8pk",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":"true"
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/jvq27lml1yuz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
+                "url":"https://filemoon.sx/d/8lmujacrfo1i",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
                 }
             ]
         },
