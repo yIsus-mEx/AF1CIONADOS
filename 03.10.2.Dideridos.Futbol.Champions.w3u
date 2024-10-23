@@ -462,6 +462,63 @@
 				},
 
 				{
+				"name": "JORNADA 3 FASE DE LIGUILLA",
+				"info":"",
+				"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Real Madrid VS Borussia Dortmund",
+						"info":"[22-10-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/9hn6ncrgrll7/Champions_Real_Madrid_VS_Borusia_Dortmund_221024.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSG VS PSV Eindhoven",
+						"info":"[22-10-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/4p3g2y6oj2d9/Champions_PSG_VS_PSV_221024.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Girona VS Slovan Bratislava",
+						"info":"[22-10-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/uuli66rvsvz2/Champions_Girona_VS_Slovan_Bratislava_221024.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Juventus VS VfB Stuttgart",
+						"info":"[22-10-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/sybophvw4vym/Champions_Juventus_VS_VfB_Stuttgart_221024.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"[23-10-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						},
+						"name": "",
+						"info":"[23-10-2024]",
+						"image": "",
+						"url":"",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+
+				{
 				"name": "PLAY OFF",
 				"info":"",
 				"image": "https://i.postimg.cc/D0VBPVMM/2024-25-Logo-Champions-League.webp",
