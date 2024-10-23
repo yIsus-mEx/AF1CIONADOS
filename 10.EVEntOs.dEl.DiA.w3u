@@ -17,15 +17,15 @@
         "embed": "true"
         },
         {
-        "name": "Prueba",
+        "name": "Pruebas",
         "info":"[ESPAÑOL]",
         "image": "",
-        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/07099/cp0r65c6ucju_x/seg-11-v1-a1.ts?t=cy62STqbvlyDh9H_Ex25uVuTgIapIqiCVMv9WZzPrUs&s=1729659722&e=10800&f=35497112&srv=35&asn=13999&sp=5500&p=&fr=cp0r65c6ucju",
+        "url": "https://file-kg88oaak-embed.com/borath/cp0r65c6ucju",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
-        "referer" : "https://file-kg88oaak-embed.com/",
+        "referer" : "",
         "embed": "",
-        "isHost":""
+        "isHost":"true"
         }
     ]
 }
