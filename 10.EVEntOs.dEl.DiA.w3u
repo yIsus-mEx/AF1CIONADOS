@@ -46,7 +46,7 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "referer" : "",
-        "embed": "",
+        "embed": "true",
         "isHost":""
         },
         {
