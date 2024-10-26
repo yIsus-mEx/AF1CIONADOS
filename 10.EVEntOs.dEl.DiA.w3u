@@ -17,46 +17,41 @@
         "embed": "true"
         },
         {
-        "name": "Atletico vs Lille",
-        "info":"[LATINO]",
-        "image": "",
-        "url": "https://999a46d384cd.us-east-1.playback.live-video.net/api/video/v1/us-east-1.940482425413.channel.qee92QGLNf5B.m3u8",
+        "name": "UFC 308: Topuria vs Holloway",
+        "info":"[INGLES]",
+        "image": "https://www.aficioncentral.com/media/cache/lg/uploads/mas-deportes/2024/octubre/UFC-308-Poster.jpg",
+        "url": "https://ok.ru/videoembed/7581127220955?nochat=1&autoplay=1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "referer" : "",
         "embed": "",
-        "isHost":""
+        "isHost":"true"
         },
         {
-        "name": "Atletico vs Lille",
+        "name": "UFC 308: Topuria vs Holloway",
+        "info":"[ACESTREAM]",
+        "image": "https://www.aficioncentral.com/media/cache/lg/uploads/mas-deportes/2024/octubre/UFC-308-Poster.jpg",
+        "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+        },
+        {
+        "name": "Real Madrid vs Barcelona",
         "info":"[ESPAÑOL]",
-        "image": "",
-        "url": "https://ygipajcx1apxgj8.cdnhks.ru/live/ju16m3k3othwlv7rrho7r73k7iyprz/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "referer" : "https://secret.71v7s8rt65.ru/",
-        "embed": "",
-        "isHost":""
-        },
-        {
-        "name": "barcelona vs bayern",
-        "info":"[LATINO]",
-        "image": "",
-        "url": "https://7c6d34ab09e7.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.940482425413.channel.q4oKKdxrFAQu.m3u8",
+        "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-laliga/?embed=1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "referer" : "",
-        "embed": "",
+        "embed": "true",
         "isHost":""
         },
         {
-        "name": "barcelona vs bayern",
+        "name": "Real Madrid vs Barcelona",
         "info":"[ESPAÑOL]",
-        "image": "",
-        "url": "https://go.cdnhks.ru/live/j3k234jsr31pzd4jnn4w3dt5m3r6gf/index.m3u8",
+        "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
-        "referer" : "https://secret.71v7s8rt65.ru/",
+        "referer" : "https://qqwebplay.xyz/",
         "embed": "",
         "isHost":""
         }
