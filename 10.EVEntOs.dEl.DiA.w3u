@@ -18,25 +18,9 @@
         },
         {
         "name": "UFC 308: Topuria vs Holloway",
-        "info":"[iPhone]",
+        "info":"[ACESTREAM][ESPAÑOL]",
         "image": "https://www.aficioncentral.com/media/cache/lg/uploads/mas-deportes/2024/octubre/UFC-308-Poster.jpg",
-        "url": "https://vkvsd195.mycdn.me/hls/7476672924238.m3u8/sig/GB3wxBgKo6U/srcIp/46.222.60.117/urls/45.136.20.64/expires/1730411339018/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/8200434690894/id/7476672924238/7476672924238_fullhd/index.m3u8",
-        "userAgent": "",
-        "online":"true",
-        "referer" : "",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "UFC 308: Topuria vs Holloway",
-        "info":"[Android]",
-        "image": "https://www.aficioncentral.com/media/cache/lg/uploads/mas-deportes/2024/octubre/UFC-308-Poster.jpg",
-        "url": "https://vkvsd195.mycdn.me/hls/7476672924238.m3u8/sig/H4fcM2r-amk/srcIp/92.176.177.81/urls/185.226.53.49/expires/1730411485355/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8200434690894/id/7476672924238/7476672924238_fullhd/index.m3u8",
-        "userAgent": "",
-        "online":"true",
-        "referer" : "",
-        "embed": "",
-        "isHost":"true"
+        "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
         },
         {
         "name": "UFC 308: Topuria vs Holloway",
@@ -159,11 +143,27 @@
         "embed": "",
         "isHost":"true"
         },
+         {
+        "name": "UFC 308: Topuria vs Holloway",
+        "info":"[iPhone]",
+        "image": "https://www.aficioncentral.com/media/cache/lg/uploads/mas-deportes/2024/octubre/UFC-308-Poster.jpg",
+        "url": "https://vkvsd195.mycdn.me/hls/7476672924238.m3u8/sig/GB3wxBgKo6U/srcIp/46.222.60.117/urls/45.136.20.64/expires/1730411339018/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/8200434690894/id/7476672924238/7476672924238_fullhd/index.m3u8",
+        "userAgent": "",
+        "online":"true",
+        "referer" : "",
+        "embed": "",
+        "isHost":"true"
+        },
         {
         "name": "UFC 308: Topuria vs Holloway",
-        "info":"[ACESTREAM][ESPAÑOL]",
+        "info":"[Android]",
         "image": "https://www.aficioncentral.com/media/cache/lg/uploads/mas-deportes/2024/octubre/UFC-308-Poster.jpg",
-        "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+        "url": "https://vkvsd195.mycdn.me/hls/7476672924238.m3u8/sig/H4fcM2r-amk/srcIp/92.176.177.81/urls/185.226.53.49/expires/1730411485355/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8200434690894/id/7476672924238/7476672924238_fullhd/index.m3u8",
+        "userAgent": "",
+        "online":"true",
+        "referer" : "",
+        "embed": "",
+        "isHost":"true"
         },
         {
         "name": "Real Madrid vs Barcelona",
@@ -191,7 +191,7 @@
         "name": "Real Madrid vs Barcelona",
         "info":"[ESPAÑOL]",
         "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
-        "url": "https://paco@oha.to/play/3461295847/index.m3u8",
+        "url": "https://paco@www.oha.to/play/1980907224/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "referer" : "",
@@ -200,7 +200,7 @@
         },
         {
         "name": "Real Madrid vs Barcelona",
-        "info":"[ESPAÑOL]",
+        "info":"[INGLES]",
         "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
         "url": "https://paco@fs.fscdn.fun/laliga/tracks-v1a1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -213,18 +213,18 @@
         "name": "Real Madrid vs Barcelona",
         "info":"[ESPAÑOL]",
         "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
-        "url": "https://paco@www.oha.to/play/2178025822/index.m3u8",
+        "url": "https://paco@oha.to/play/3461295847/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "referer" : "",
         "embed": "",
         "isHost":""
-        },
+        },        
         {
         "name": "Real Madrid vs Barcelona",
         "info":"[ESPAÑOL]",
         "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
-        "url": "https://paco@www.oha.to/play/1980907224/index.m3u8",
+        "url": "https://paco@www.oha.to/play/2178025822/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "referer" : "",
