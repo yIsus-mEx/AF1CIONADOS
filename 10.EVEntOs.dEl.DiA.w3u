@@ -186,6 +186,50 @@
         "referer" : "https://qqwebplay.xyz/",
         "embed": "",
         "isHost":""
+        },
+        {
+        "name": "Real Madrid vs Barcelona",
+        "info":"[ESPAÑOL]",
+        "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
+        "url": "https://paco@oha.to/play/3461295847/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "referer" : "",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Real Madrid vs Barcelona",
+        "info":"[ESPAÑOL]",
+        "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
+        "url": "https://paco@fs.fscdn.fun/laliga/tracks-v1a1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "referer" : "https://qqwebplay.xyz/",
+        "embed": "",
+        "isHost":""
+        },
+        {
+        "name": "Real Madrid vs Barcelona",
+        "info":"[ESPAÑOL]",
+        "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
+        "url": "https://paco@www.oha.to/play/2178025822/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "referer" : "",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Real Madrid vs Barcelona",
+        "info":"[ESPAÑOL]",
+        "image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/10/24/la_liga_noterfda.jpg",
+        "url": "https://paco@www.oha.to/play/1980907224/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "referer" : "https://qqwebplay.xyz/",
+        "embed": "",
+        "isHost":""
         }
     ]
 }
