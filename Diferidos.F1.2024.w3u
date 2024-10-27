@@ -8,6 +8,114 @@
 "groups":
     [
         {
+        "name": "F1 2024 Mexico [26-28.Oct24]",
+        "info":"",
+        "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/w25twjget5xs",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/h24zefcut421",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/k2ku53t750x9",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/kvh5w3wd36sq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/tbg6zivx4umq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Qualy",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/h9rhgjxfswwg",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Qualy",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"https://filemoon.sx/d/2i8txh8fr8om",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Austin [18-20.Oct24]",
         "info":"",
         "image": "https://i.postimg.cc/8zS40gqp/F1-austin-2024.png",
