@@ -35,6 +35,7 @@
 			"info":"[10-Mar-24]",
 			"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
 			"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online":"true",
 			"isHost": "true"
 			},
@@ -43,6 +44,7 @@
 	       		 "info":"[26-Mar-24]",
                 	"image": "https://i.postimg.cc/gjxSxT5V/espa-a-Vs-Brasil.png",
                 	"url":"https://filemoon.sx/d/ddv0uj5omy9a",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -51,14 +53,16 @@
 	        	"info":"[25-May-24]",
                 	"image": "https://phantom-marca.unidadeditorial.es/daf0f9ecb7ce9e0a6c048c09d387ea7c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165635503656.jpg",
                 	"url":"https://filemoon.sx/d/7ot7xz5w629z/Final_FC_Barcelona_-_Olympique_Lyonnais_UEFA_Women_s_Champions_League_250524.mkv",
-                	"isHost":"true",
+			"userAgent":"PlusMediaPlayer/0.0.9",                	
+			"isHost":"true",
                 	"online":"true"
                 	},
 			{
                 	"name": "Manchester City VS Manchester United Final FA Cup 2024",
 	        	"info":"[25-May-24]",
                 	"image": "https://phantom-marca.unidadeditorial.es/5a60ec713cd1e0b4d7074c1217f65921/resize/660/f/webp/assets/multimedia/imagenes/2024/05/25/17166564388600.jpg",
-                	"url":"https://filemoon.sx/d/w46cmih4b8ez",
+ 			"userAgent":"PlusMediaPlayer/0.0.9",
+			"url":"https://filemoon.sx/d/w46cmih4b8ez",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -67,6 +71,7 @@
 	        	"info":"[29-May-24]",
                 	"image": "https://phantom-marca.unidadeditorial.es/751c4f58df8eaa783e8f51a01045d218/resize/660/f/webp/assets/multimedia/imagenes/2024/05/29/17169824426520.jpg",
                 	"url":"https://filemoon.sx/d/ptkuc8kzfiaj/Final_Europa_Conference_League_Olympiacos_VS_Fenerbahce_290524.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -75,6 +80,7 @@
 	        	"info":"[03-Ago-24]",
                 	"image": "https://i.postimg.cc/d1SkkGgB/image.jpg",
                 	"url":"https://filemoon.sx/d/92h4i3s6s54q",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -83,6 +89,7 @@
 	        	"info":"[14-Ago-24]",
                 	"image": "https://phantom-marca.unidadeditorial.es/0ca04992a03fa9562c28d24da42ddee1/resize/660/f/webp/assets/multimedia/imagenes/2024/08/15/17237110277584.jpg",
                 	"url":"https://listeamed.net/v/rabVOQQPngAOKdW",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -91,6 +98,7 @@
 	        	"info":"[17-Ago-24]",
                 	"image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/08/15/minvalbar.jpg",
                 	"url":"https://filemoon.sx/d/6b1pto2psl9i",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                		"online":"true"
                 	},
@@ -99,6 +107,7 @@
 	        	"info":"[28-Ago-24]",
                 	"image": "https://i.postimg.cc/yY8grb8K/barca.jpg",
                 	"url":"https://filemoon.sx/d/f1d0hjve0mtf",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                		"online":"true"
                 	},
@@ -107,6 +116,7 @@
 	        	"info":"[30-Ago-24]",
                 	"image": "https://i.postimg.cc/8zqZzxXS/barcareal.jpg",
                 	"url":"https://listeamed.net/v/g9Vd5JWMGygxqQj",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -132,7 +142,7 @@
                 	"name": "Real Madrid vs FC Barcelona",
 	        	"info":"[25-Octu-24][Parte 1]",
                 	"image": "https://cdn2.mediotiempo.com/uploads/media/2024/10/26/real-madrid-vs-barcelona-2.jpg",
-                	"url":"https://filemoon.sx/d/fq9kukaamizi",
+                	"url":"https://listeamed.net/v/b4ZJx2mXbVQ52P3",
 			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
@@ -141,12 +151,11 @@
                 	"name": "Real Madrid vs FC Barcelona",
 	        	"info":"[25-Octu-24][Parte 2]",
                 	"image": "https://cdn2.mediotiempo.com/uploads/media/2024/10/26/real-madrid-vs-barcelona-2.jpg",
-                	"url":"",
+                	"url":"https://listeamed.net/v/kKJVORNk2ABO3XD",
 			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	}
-
 			]
 		},
 
