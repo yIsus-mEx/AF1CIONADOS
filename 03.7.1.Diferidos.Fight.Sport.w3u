@@ -17,21 +17,21 @@
             [
                 {
                 "name": "UFC 308: Topuria vs Khalil Holloway",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
-                "url":"https://filemoon.sx/d/3i44ustc3xgy",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "UFC 308: Topuria vs Khalil Holloway",
-                "info":"[Latino]",
+                "info":"[Español][Preliminares]",
                 "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
                 "url":"",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":""
+                },
+                {
+                "name": "UFC 308: Topuria vs Khalil Holloway",
+                "info":"[Español][Main Card]",
+                "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                "url":"https://filemoon.sx/d/3i44ustc3xgy",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
