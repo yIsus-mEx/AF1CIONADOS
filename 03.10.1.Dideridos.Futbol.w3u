@@ -115,6 +115,7 @@
 	        	"info":"[22-Sept-24]",
                 	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/09/21/17269383446976.jpg",
                 	"url":"https://filemoon.sx/d/mufx1so7r60p/Liga_EA_Sports_Villarreal_vs_FC_Barcelona_220924.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -123,17 +124,29 @@
 	        	"info":"[29-Sept-24]",
                 	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/15/16632421241738.jpg",
                 	"url":"https://filemoon.sx/d/4li1h87z1ze3",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
 			{
                 	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[25-Octu-24]",
+	        	"info":"[25-Octu-24][Parte 1]",
                 	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/15/16632421241738.jpg",
                 	"url":"https://filemoon.sx/d/fq9kukaamizi",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Real Madrid vs FC Barcelona",
+	        	"info":"[25-Octu-24][Parte 2]",
+                	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/15/16632421241738.jpg",
+                	"url":"",
+			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	}
+
 			]
 		},
 
