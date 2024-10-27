@@ -10,19 +10,28 @@
 
         {
          "name": "UFC 308: Topuria vs Khalil Holloway",
-         "image": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/04/mixcollage-15-apr-2024-10-46-am-9659.jpg",
+         "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
          "imageScale": "",
          "info":"",
          "stations":
             [
                 {
                 "name": "UFC 308: Topuria vs Khalil Holloway",
-                "info":"[]",
-                "image": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/04/mixcollage-15-apr-2024-10-46-am-9659.jpg",
-                "url":"https://filemoon.sx/d/3i44ustc3xgy/UFC_308_Topuria_VS_Holloway_261024.mkv",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                "url":"https://filemoon.sx/d/3i44ustc3xgy",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "UFC 308: Topuria vs Khalil Holloway",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
                 }
             ]
         },
