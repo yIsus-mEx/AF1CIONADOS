@@ -366,6 +366,87 @@
         "stations":
             [
 			{
+       			"name": "Morabanc Andorra VS Coviran Granada",
+	        	"info": "26/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/vsii4jzxmpi4/Liga_Endesa_Morabanc_Andorra_vs_Coviran_Granada_261024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Basket Girona VS UCAM Murcia",
+	        	"info": "26/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/kg04hl8l6ya7/Liga_Endesa_Basket_Girona_vs_Ucam_Murcia_261024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Juventut Badalona",
+	        	"info": "26/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/5l25pwbs9r38/Liga_Endesa_Baskonia_vs_Juventut_261024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Unicaja VS FC Barcelona",
+	        	"info": "27/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/v84pm9uutuuj/Liga_endesa_Unicaja_VS_Barsa_271024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Baxi Manresa",
+	        	"info": "27/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/4zczw31il1ey/Liga_endesa_Real_Madrid_VS_Baxi_Manresa_271024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bilbado Basket VS Valencia Basket",
+	        	"info": "27/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/52wfv5l6vu0y/Liga_endesa_Bilbao_Basket_VS_Valencia_Basket_271024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Breogan VS Hiopos Lleida",
+	        	"info": "27/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/d0ogryl32idy/Liga_endesa_Breogan_VS_Hiopos_Lleida_271024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Laguna Tenerife VS DreamLand Gran Canaria",
+	        	"info": "27/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/8e8o0yurradl/Liga_endesa_Laguna_Tenerife_VS_Dreamland_Gran_Canaria_271024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+	},
+
+	{
+        "name": "JORNADA 06",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+			{
        			"name": "",
 	        	"info": "",
 			"online": "true",
