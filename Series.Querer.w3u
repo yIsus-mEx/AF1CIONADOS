@@ -11,7 +11,18 @@
  		"name": "Episodio 01",
  		"info":"",
  		"image":"https://es.web.img2.acsta.net/img/5b/9c/5b9c1458a186fb93f1082f0f7c71d354.jpg",
- 		"url":"",
+ 		"url":"https://vidmoly.me/w/ivv5amlfs8up",
+		"embed": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+ 		{
+ 		"name": "Episodio 02",
+ 		"info":"",
+ 		"image":"https://es.web.img2.acsta.net/img/5b/9c/5b9c1458a186fb93f1082f0f7c71d354.jpg",
+ 		"url":"https://vidmoly.me/w/ghm2j7s3043u",
+		"embed": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9",
  		"isHost":"true",
  		"online":"true"
