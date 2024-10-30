@@ -97,6 +97,7 @@
                 }
             ]
         },
+
         {
         "name": "Temporada 2",
         "info":"",
@@ -136,6 +137,33 @@
                 "info":"[Episodio 04]",
                 "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
                 "url":"https://filemoon.sx/d/fd8yo6x6c1nr",
+                "isHost":"true",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "",
+                "info":"[Episodio 05]",
+                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+                "url":"",
+                "isHost":"true",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "",
+                "info":"[Episodio 06]",
+                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+                "url":"",
+                "isHost":"true",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "",
+                "info":"[Episodio 07]",
+                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+                "url":"",
                 "isHost":"true",
 				"userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true"
