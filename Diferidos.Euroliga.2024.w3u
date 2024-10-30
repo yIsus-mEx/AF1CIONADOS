@@ -451,51 +451,51 @@
 		{
         	"name": "JORNADA 6",
         	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
-        	"info": "",
+	        "info": "[29/10/24]",
         	"stations":
             	[
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Virtus VS Bayern Munich",
+	        	"info": "[29/10/24]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/z7cxk0t0jomx/Euroliga_Virtus_VS_Bayern.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Fenerbache VS Maccabi",
+	        	"info": "[29/10/24]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/nakvrdpvyck5/Euroliga_Fenerbahce_VS_Maccabi_291024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Alba Berlin VS Paris Saint Germain",
+	        	"info": "[29/10/24]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/6zla0sd9dr8o/Euroliga_Alba_VS_Paris_291024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Efes VS FC Barcelona",
+	        	"info": "[29/10/24]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/xu1bv0uvh1ka/Euroliga_Efes_VS_Barsa_291024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Olympiakos VS Real Madrid",
+	        	"info": "[29/10/24]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/0wnas670a4lk/Euroliga_Olympiakos_VS_Real_Madrid_291024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
@@ -627,8 +627,6 @@
         		}
             	]
 		}
-
-
 
   ]
   }
