@@ -545,6 +545,96 @@
         	"stations":
             	[
 	       		{
+ 	       		"name": "FC Barcelona VS Olympiakos",
+	        	"info": "[31/10/24]",
+			"online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/fp95626nu34q/Euroliga_FC_Barcelona_VS_Olympiakos_31_10_2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Maccabi",
+	        	"info": "[31/10/24]",
+			"online": "true",
+	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
+	        	"url": "https://filemoon.sx/d/9azgmhfizx75/Euroliga_Madrid_VS_Maccabi_31_10_2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 8",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
  	       		"name": "",
 	        	"info": "",
 			"online": "true",
