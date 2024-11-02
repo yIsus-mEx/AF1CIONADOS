@@ -545,7 +545,7 @@
         	"stations":
             	[
 	       		{
- 	       		"name": "FC Barcelona VS Olympiakos",
+ 	       		"name": "Olympiakos VS FC Barcelona",
 	        	"info": "[31/10/24]",
 			"online": "true",
 	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
@@ -554,7 +554,7 @@
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "Real Madrid VS Maccabi",
+ 	       		"name": "Maccabi VS Real Madrid",
 	        	"info": "[31/10/24]",
 			"online": "true",
 	        	"image": "https://aficiondeportiva.es/2024/07/15/la-euroliga-da-a-conocer-el-calendario-de-la-temporada-2024-2025/",
@@ -564,7 +564,7 @@
         		},
 	       		{
  	       		"name": "",
-	        	"info": "",
+	        	"info": "[31/10/24]",
 			"online": "true",
 	        	"image": "",
 	        	"url": "",
@@ -573,7 +573,7 @@
         		},
 	       		{
  	       		"name": "",
-	        	"info": "",
+	        	"info": "[31/10/24]",
 			"online": "true",
 	        	"image": "",
 	        	"url": "",
