@@ -5,17 +5,9 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups":
-    [
-		{
-        "name": "Final NBA",
-        "info":"",
-        "image": "https://i.postimg.cc/6Q9hM1Lr/Final.png",
-        "imageScale": "",
-        "groups":
-            [
+"groups": [
                 {
-                "name": "Celtics vs Mavericks",
+                "name": "Final NBA Celtics vs Mavericks",
                 "info":"",
                 "image": "https://i.postimg.cc/7Lmj9z7L/mavsvscelt.png",
                 "imageScale": "",
@@ -26,7 +18,7 @@
                         "info":"[Ingles]",
                         "image": "https://i.postimg.cc/xTp0zjRb/Dallas-Mavericks-vs-Boston-Celtics-1.jpg",
                         "url":"https://filemoon.sx/d/ainc9r1011rv",
-				        "userAgent" : "PlusMediaPlayer/0.0.9",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
                         "isHost":"true",
                         "online":"true"
                         },
@@ -35,7 +27,7 @@
                         "info":"[Ingles]",
                         "image": "https://i.postimg.cc/Z514wfXb/Dallas-Mavericks-vs-Boston-Celtics-2.jpg",
                         "url":"https://filemoon.sx/d/qthgcm78xzef",
-				        "userAgent" : "PlusMediaPlayer/0.0.9",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
                         "isHost":"true",
                         "online":"true"
                         },
@@ -44,7 +36,7 @@
                         "info":"[Ingles]",
                         "image": "https://i.postimg.cc/JhZmvNWb/Dallas-Mavericks-vs-Boston-Celtics-3.jpg",
                         "url":"",
-				        "userAgent" : "PlusMediaPlayer/0.0.9",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
                         "isHost":"true",
                         "online":"true"
                         },
@@ -53,7 +45,7 @@
                         "info":"[Ingles]",
                         "image": "https://i.postimg.cc/tJCjs8n5/Dallas-Mavericks-vs-Boston-Celtics-4.jpg",
                         "url":"",
-				        "userAgent" : "PlusMediaPlayer/0.0.9",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
                         "isHost":"true",
                         "online":"true"
                         },
@@ -62,13 +54,11 @@
                         "info":"[Ingles]",
                         "image": "https://i.postimg.cc/sx6R7KpR/Dallas-Mavericks-vs-Boston-Celtics-5.jpg",
                         "url":"
-				        "userAgent" : "PlusMediaPlayer/0.0.9",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
                         "isHost":"true",
                         "online":"true"
                         }
                     ]
-                }
-            ]
         },
         {
         "name": "Finales Conferencias",
