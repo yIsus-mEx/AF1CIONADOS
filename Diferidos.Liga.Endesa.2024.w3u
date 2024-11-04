@@ -456,6 +456,96 @@
         "stations":
             [
 			{
+       			"name": "Milan VS Virtus",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/1t7ntapcsv0p/Euroliga_Milan_VS_Virtus_311024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS Efes",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/5q0g7s3njpcr/Euroliga_Alba_VS_Efes_311024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Olympiakos",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/fp95626nu34q/Euroliga_FC_Barcelona_VS_Olympiakos_31_10_2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Maccabi",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/9azgmhfizx75/Euroliga_Madrid_VS_Maccabi_31_10_2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Partizan Belgrado",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/uhnewch982m8/Euroliga_Fenerbache_VS_Partizan_Belgrado_01.11.2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Paris VS Baskonia",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/0n5mhmaatcns/Euroliga_Paris_VS_Baskonia_01.11.2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Panathinaikos",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/4lf3iaadf5qj/Euroliga_Estrella_Roja_VS_Panathinaikos_011124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zalguiris VS Monaco",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/oa0xgbl1h43c/Euroliga_Zalguiris_VS_Monaco_011124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Bayern Munich",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/gblr0bu0sqg8/Euroliga_Asvel_VS_bayern_Munich_011124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+	},
+
+	{
+        "name": "JORNADA 07",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+			{
        			"name": "",
 	        	"info": "",
 			"online": "true",
@@ -538,7 +628,5 @@
         		}
             	]
 	}
-
-
 	]
 }
