@@ -11,16 +11,16 @@
         {
         "name": "F1 2024 Brasil [02-03.Nov24]",
         "info":"",
-        "image": "",
+        "image": "https://www.formulaf1.es/wp-content/uploads/2021/11/19-BR-Preview_LQ-scaled.jpg",
         "imageScale": "",
         "stations":
             [
                 {
                 "name": "Carrera",
                 "info":"[DAZN F1]",
-                "image": "",
+                "image": "https://www.formulaf1.es/wp-content/uploads/2021/11/19-BR-Preview_LQ-scaled.jpg",
                 "url":"https://filemoon.sx/d/vg3hr1857o5l/Carrera.Formula.1.Brasil.1080.2024.mkv",
-		        "userAgent": "PlusMediaPlayer/0.0.9",
+		"userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
