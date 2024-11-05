@@ -7,6 +7,26 @@
 "info": "",
 "groups":
     [
+
+        {
+        "name": "F1 2024 Brasil [02-03.Nov24]",
+        "info":"",
+        "image": "",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "",
+                "url":"https://filemoon.sx/d/vg3hr1857o5l/Carrera.Formula.1.Brasil.1080.2024.mkv",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+	]
+	},
+
         {
         "name": "F1 2024 Mexico [26-28.Oct24]",
         "info":"",
