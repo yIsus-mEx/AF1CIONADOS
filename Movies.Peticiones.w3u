@@ -8,6 +8,15 @@
 "stations":
     [
        {
+        "name": "Harriet, en busca de la libertad",
+        "info": "[2019][Español]",
+        "online": "true",
+        "image": "https://pics.filmaffinity.com/harriet-601150025-large.jpg",
+        "url": "https://filemoon.sx/d/bvitklx2pfc6",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+       {
         "name": "La Casa de Cera",
         "info": "[2005][Español]",
         "online": "true",
