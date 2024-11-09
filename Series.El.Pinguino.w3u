@@ -51,6 +51,24 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
  		"isHost":"true",
  		"online":"true"
+		},
+		{
+ 		"name": "Episodio 06",
+ 		"info":"",
+ 		"image":"",
+ 		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+ 		"name": "Episodio 07",
+ 		"info":"",
+ 		"image":"",
+ 		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
 		}
 	]
 }
