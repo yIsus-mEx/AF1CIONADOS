@@ -7,7 +7,24 @@
 "info": "",
 "groups":
     [
-
+        {
+         "name": "UFC Fight Night: Moreno vs Albazi",
+         "image": "https://i.postimg.cc/8cq60Xrp/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Moreno vs Albazi",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/8cq60Xrp/UFC.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0eTVzMDAwNTc50",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
         {
          "name": "UFC 308: Topuria vs Khalil Holloway",
          "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
@@ -17,12 +34,21 @@
             [
                 {
                 "name": "UFC 308: Topuria vs Khalil Holloway",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0eGQwMDAwMjg20",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 308: Topuria vs Khalil Holloway",
                 "info":"[Inglesl][Preliminares]",
                 "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
                 "url":"https://listeamed.net/v/KrdZ5kMgvyjEmX4",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
                 {
                 "name": "UFC 308: Topuria vs Khalil Holloway",
