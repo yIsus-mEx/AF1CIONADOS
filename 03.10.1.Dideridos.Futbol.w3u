@@ -19,6 +19,7 @@
 	       		"info":"[29-Ene-24]",
            		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
            		"url":"https://filemoon.sx/d/86bxvlfbw49d",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
            		"isHost":"true",
            		"online":"true"
            		},
@@ -27,6 +28,7 @@
 			"info":"[01-Feb-24]",
 			"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
 			"url":"https://filemoon.sx/d/8s394se6nvua",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
 			"isHost":"true",
 			"online":"true"
 			},
@@ -171,7 +173,8 @@
 	        	"info":"[27-Jul-24][Español]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/ioowapar9dgt/Champions_Tour_Manchester_City_VS_Milan_270724.mkv",
-                	"isHost":"true",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
                 	"online":"true"
                 	},
 			{
@@ -179,6 +182,7 @@
 	        	"info":"[30-Jul-24][Español]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/hnuokpqoo1bf/Champions_Tour_FC_Barcelona_VS_Manchester_City_300724.mkv",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -187,6 +191,7 @@
 	        	"info":"[31-Jul-24][Español]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/52onwmzdchvz/Champions_Tour_Milan_VS_Real_Madrid_310724.mkv",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -195,6 +200,7 @@
 	        	"info":"[03-Ago-24][Español]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/tt6qewjhfluo/Champions_Tour_FC_Barcelona_VS_Real_Madrid_030824.mkv",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -203,6 +209,7 @@
 	        	"info":"[03-Ago-24][Latino]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/92h4i3s6s54q",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -211,6 +218,7 @@
 	        	"info":"[07-Ago-24][]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/xqjflejkslxk/Soccer_Tour_FC_Barcelona_VS_Milan_060824.mkv",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	},
@@ -219,6 +227,7 @@
 	        	"info":"[07-Ago-24][]",
                 	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
                 	"url":"https://filemoon.sx/d/68s22l6qam97/Soccer_Tour_Real_Madrid_VS_Chelsea_060824.mkv",
+                	"userAgent" : "PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
                 	}
@@ -486,6 +495,7 @@
 						"info":"[06-04-2024]",
 						"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
 						"url":"https://filemoon.sx/d/0ukf1k9f41uo/Final_Copa_del_Rey_Athletic_Bilbao_VS_Mallorca_060424.mkv",
+                				"userAgent" : "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
 						}
@@ -506,6 +516,7 @@
 	        "info":"[Semifinal Europa League 2024]",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/02/17146834304900.jpg",
                 "url":"https://filemoon.sx/d/5fktoj5x2i6i/EuropeLeague_Semis_IDA_Roma_VS_Bayern_04_Leverkusen_020524.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -514,6 +525,7 @@
 	        "info":"[Semifinal Europa League 2024]",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/02/17146846854787.jpg",
                 "url":"https://filemoon.sx/d/wnvkb7aqcoif/EuropeLeague_Semis_IDA_Olympic_Marsella_VS_Atalanta_020524.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -522,6 +534,7 @@
 	        "info":"[Final Europa League 2024]",
                 "image": "https://phantom-marca.unidadeditorial.es/040e612706680200248c050af88d5816/resize/660/f/webp/assets/multimedia/imagenes/2024/05/20/17162154803939.jpg",
                 "url":"https://filemoon.sx/d/dzduz2cvcov2/Final_Europa_League_Atalanta_VS_Leverkusen_220524_1080_50FPS.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
