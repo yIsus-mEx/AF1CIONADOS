@@ -635,6 +635,96 @@
         	"stations":
             	[
 	       		{
+ 	       		"name": "Pars VS Partizan Belgrado",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/fldo0s3f8nr8/Euroliga_Paris_VS_Partizan_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Real Madrid",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/8v68pfosauf8/Euroliga_Olimpiakos_VS_Real_Madrid_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Alba Berlin",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/9e149bdwvam8/Euroliga_Crvena_VS_Alba_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Zalguiris",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/1y1r30xnmzr2/Euroliga_Bayern_VS_Zalguiris_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 9",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
  	       		"name": "",
 	        	"info": "",
 			"online": "true",
@@ -717,6 +807,7 @@
         		}
             	]
 		}
+
 
   ]
   }
