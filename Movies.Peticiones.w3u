@@ -8,6 +8,15 @@
 "stations":
     [
        {
+        "name": "Gladiador",
+        "info": "[2000][Español]",
+        "online": "true",
+        "image": "https://es.web.img3.acsta.net/medias/nmedia/18/70/92/02/20149073.jpg",
+        "url": "https://filemoon.sx/d/yaakq9zzhi0m",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Cantante, El",
         "info": "[2006][Latino]",
         "online": "true",
@@ -16,7 +25,7 @@
         "isHost": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-       {
+        {
         "name": "Jesus de Nazaret",
         "info": "[1977][Español]",
         "online": "true",
@@ -25,7 +34,7 @@
         "isHost": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-       {
+        {
         "name": "Harriet, en busca de la libertad",
         "info": "[2019][Español]",
         "online": "true",
@@ -34,7 +43,7 @@
         "isHost": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-       {
+        {
         "name": "La Casa de Cera",
         "info": "[2005][Español]",
         "online": "true",
