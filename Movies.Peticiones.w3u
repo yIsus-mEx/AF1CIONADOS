@@ -8,6 +8,24 @@
 "stations":
     [
        {
+        "name": "Cantante, El",
+        "info": "[2006][Latino]",
+        "online": "true",
+        "image": "https://pics.filmaffinity.com/el_cantante_the_singer-753953591-large.jpg",
+        "url": "https://filemoon.sx/d/lxyqat6vxl9n/Cantante_2006_Pelicula_latino.mp4",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+       {
+        "name": "Jesus de Nazaret",
+        "info": "[1977][Español]",
+        "online": "true",
+        "image": "https://pics.filmaffinity.com/jesus_of_nazareth-101677941-large.jpg",
+        "url": "https://filemoon.sx/d/r160i7gxc84m/Jesus_Nazaret_1977_Pelicula_Edicion_Especial_DVDRIP_Spanish_mkv.mp4",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+       {
         "name": "Harriet, en busca de la libertad",
         "info": "[2019][Español]",
         "online": "true",
