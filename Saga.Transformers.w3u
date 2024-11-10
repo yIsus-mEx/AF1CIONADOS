@@ -39,7 +39,7 @@
 		"info": "[2014][MultiAudio]",
 		"online": "true",
         "image": "https://i.postimg.cc/gcS7x4Tc/la-saga-transformers-4.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/r4llpynr7tc7",
        	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost": "true"
        	},
@@ -49,6 +49,33 @@
 		"online": "true",
         "image": "https://i.postimg.cc/W34njcjG/la-saga-transformers-5.png",
         "url": "https://filemoon.sx/d/0squil8xu6vj",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers: Bumblebee",
+		"info": "[2018][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/cCFP0Gvw/la-saga-transformers-Bumblebe.png",
+        "url": "https://filemoon.sx/d/ho2y5aev20m6",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers: El Despertar de las Bestias",
+		"info": "[2023][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/bwXq4z8t/la-saga-transformers-6.png",
+        "url": "https://filemoon.sx/d/f3dxaxdhx2yt",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers: ONE",
+		"info": "[2024][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/CKcdqznq/Transformers-ONE.png",
+        "url": "https://filemoon.sx/d/dodnan1iq5de",
        	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost": "true"
        	}
