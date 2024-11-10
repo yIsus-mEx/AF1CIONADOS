@@ -1,0 +1,56 @@
+{
+"name": "Saga Transformers",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Saga.Transformers.w3u",
+"info": "Lista_AF1CIONADOS",
+"author": "bY yIsus",
+"telegram": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Transformers",
+		"info": "[2007][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/W3PvfSvc/la-saga-transformers-1.png",
+        "url": "https://filemoon.sx/d/dk0dp7k6f13u",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers 2: La Venganza de los Caídos",
+		"info": "[2009][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/JnQ9YLxj/la-saga-transformers-2.png",
+        "url": "https://filemoon.sx/d/fbooqanaawd8",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers 3: El Lado Oscuro de la Luna",
+		"info": "[2011][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/HWBqQTVg/la-saga-transformers-3.png",
+        "url": "https://filemoon.sx/d/nr3w3y0774en",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers 4: La Era de la Extinción",
+		"info": "[2014][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/gcS7x4Tc/la-saga-transformers-4.png",
+        "url": "",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Transformers 5: El Ultimo Caballero",
+		"info": "[2017][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/W34njcjG/la-saga-transformers-5.png",
+        "url": "https://filemoon.sx/d/0squil8xu6vj",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	}
+	]
+}

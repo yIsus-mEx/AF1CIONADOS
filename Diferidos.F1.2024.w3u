@@ -11,22 +11,111 @@
         {
         "name": "F1 2024 Brasil [02-03.Nov24]",
         "info":"",
-        "image": "https://www.formulaf1.es/wp-content/uploads/2021/11/19-BR-Preview_LQ-scaled.jpg",
+        "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
         "imageScale": "",
         "stations":
             [
                 {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/oae1vopd0jwp",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/0f4do91i95fp",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Sprint Qualy",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/wrdu8rzn20lp",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Sprint Qualy",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/n8jnly95yisq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Sprint Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/6l1brlgztkr1",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Sprint Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/8hlz6dd9zh87",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Qualy",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/4jjjladtwuh2",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Qualy",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/s645i06nejxe",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/gm594knsbymz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
                 "name": "Carrera",
                 "info":"[DAZN F1]",
-                "image": "https://www.formulaf1.es/wp-content/uploads/2021/11/19-BR-Preview_LQ-scaled.jpg",
-                "url":"https://filemoon.sx/d/vg3hr1857o5l/Carrera.Formula.1.Brasil.1080.2024.mkv",
-		"userAgent": "PlusMediaPlayer/0.0.9",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/63wxw25vlghy",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/Bv9HCZ4v/F1-Brasil-2024.png",
+                "url":"https://filemoon.sx/d/h1a7l7cxu6wf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
-	]
-	},
-
+	        ]
+	    },
         {
         "name": "F1 2024 Mexico [26-28.Oct24]",
         "info":"",
@@ -74,7 +163,7 @@
                 "name": "Libres 03",
                 "info":"[DAZN F1]",
                 "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
-                "url":"",
+                "url":"https://filemoon.sx/d/ib2gvjyoigz0",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -108,12 +197,12 @@
                 },
 		        {
                 "name": "Carrera",
-                "info":"[ESPNF1]",
+                "info":"[F1TV]",
                 "image": "https://i.postimg.cc/cLwnzQnj/mexico-f1.png",
-                "url":"",
+                "url":"https://filemoon.sx/d/885qpbweytr1",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
                 {
                 "name": "Carrera",
