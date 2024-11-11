@@ -635,7 +635,7 @@
         	"stations":
             	[
 	       		{
- 	       		"name": "Pars VS Partizan Belgrado",
+ 	       		"name": "Paris VS Partizan Belgrado",
 	        	"info": "07/11/24",
 			"online": "true",
 	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
@@ -671,47 +671,38 @@
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "FC Barcelona VS Baskonia",
+	        	"info": "08/11/24",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/c01ykmsjfvlz/Euroliga_Bar_a_vs_Baskonia_081124.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Efes VS Monaco",
+	        	"info": "08/11/24",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/t2yljp98xyh0/Euroliga_Efes_vs_Monaco_081124.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Virtus VS Maccabi",
+	        	"info": "08/11/24",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/dl2guldbkrfz/Euroliga_Virtus_vs_Maccabi_081124.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Asvel VS Fenerbache",
+	        	"info": "08/11/24",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-	       		{
- 	       		"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/2jzuuevuddef/Euroliga_Asvel_vs_Fenerbahce_081124.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
