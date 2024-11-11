@@ -705,6 +705,15 @@
 	        	"url": "https://filemoon.sx/d/2jzuuevuddef/Euroliga_Asvel_vs_Fenerbahce_081124.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Olympiakos",
+	        	"info": "08/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/7ivowqxwxbrd/Euroliga_Panathinaikos_vs_Olympiacos_081124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
             	]
 		},
