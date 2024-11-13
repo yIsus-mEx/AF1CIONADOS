@@ -725,6 +725,96 @@
         	"stations":
             	[
 	       		{
+ 	       		"name": "Fenerbache VS Bayern Munich",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/fgvta226y0oz/Euroliga_Fenerbahce_VS_Bayern_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Estrella Roja Belgrado",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/k27kd3wl6lzx/Euroliga_Monaco_VS_Estrella_Roja_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Maccabi Tel Aviv",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/ig2fauzl82bv/Euroliga_Panathinaikos_VS_Maccabi_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiacos VS Asvel",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/5bczomtsumja/Euroliga_Olympiacos_VS_Asvel_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 10",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
  	       		"name": "",
 	        	"info": "",
 			"online": "true",
