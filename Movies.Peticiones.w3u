@@ -7,12 +7,34 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
+    {
+      "name": "Ali G anda suelto",
+      "image": "https://pics.filmaffinity.com/ali_g_indahouse-197675071-large.jpg",
+      "info": "[Español 2002]",
+      "url": "https://filemoon.sx/d/nn3mzl4ki9nr",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+       {
+        "name": "Crow, The",
+        "image": "https://pics.filmaffinity.com/the_crow-115009898-large.jpg",
+        "info": "[2024][Latino]",
+        "url": "",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+      	"embed": "",
+      	"isHost": "true",
+      	"online": "true",
+      	"import": false
+    	},
        {
         "name": "Gladiador",
         "info": "[2000][Español]",
-        "online": "true",
         "image": "https://es.web.img3.acsta.net/medias/nmedia/18/70/92/02/20149073.jpg",
         "url": "https://filemoon.sx/d/yaakq9zzhi0m",
+        "online": "true",
         "isHost": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
