@@ -167,6 +167,33 @@
                 "isHost":"true",
 				"userAgent": "PlusMediaPlayer/0.0.9",
                 "online":"true"
+                },
+                {
+                "name": "Bajo nueva direccion",
+                "info":"[Episodio 08]",
+                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+                "url":"https://filemoon.sx/d/gqf0tp0e5nly/Tulsa_King_S02E08.mp4",
+                "isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Triada",
+                "info":"[Episodio 09]",
+                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+                "url":"https://filemoon.sx/d/4mobhhjfm03n/Tulsa_King_S02E09.mp4",
+                "isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Reconstruccion",
+                "info":"[Episodio 10]",
+                "image": "",
+                "url":"",
+                "isHost":"true",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "online":"true"
                 }
             ]
         }
