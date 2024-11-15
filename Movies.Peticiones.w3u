@@ -8,6 +8,17 @@
 "stations":
     [
     {
+      "name": "Calles de Fuego",
+      "image": "https://pics.filmaffinity.com/streets_of_fire-403171158-large.jpg",
+      "info": "[Español 1984]",
+      "url": "https://filemoon.sx/d/w7gzvh6ldgvb/Calles_de_Fuego_1984_Pelicula_esp_bluray_720p.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "Ali G anda suelto",
       "image": "https://pics.filmaffinity.com/ali_g_indahouse-197675071-large.jpg",
       "info": "[Español 2002]",
