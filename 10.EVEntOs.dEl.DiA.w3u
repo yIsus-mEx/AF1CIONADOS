@@ -17,32 +17,11 @@
         "embed": "true"
         },
         {
-        "name": "Paul VS Tyson",
-        "info": "[23:30 horas España]",
+        "name": " Gilberto Zurdo Ramírez Vs Chris Billam-Smith",
+        "info": "[ESPAÑOL][ACESTREAM]",
         "online":"true",
-        "image": "https://i.postimg.cc/WzZPgrrc/photo-2024-11-15-22-15-54.jpg",
-        "url": "https://airevolution11.xyz/live/box/chunks.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://engageboost.xyz/"
-        },
-        {
-        "name": "Paul VS Tyson",
-        "info": "[23:30 horas España]",
-        "online":"true",
-        "image": "https://i.postimg.cc/WzZPgrrc/photo-2024-11-15-22-15-54.jpg",
-        "url": "https://aeroshift.store/live/box/chunks.m3u8?bongls.com",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : ""
-        },
-        {
-        "name": "Paul VS Tyson",
-        "info": "[23:30 horas España]",
-        "online":"true",
-        "image": "https://i.postimg.cc/WzZPgrrc/photo-2024-11-15-22-15-54.jpg",
-        "url": " https://paco@mycdn.global.ssl.fastly.net/paulvstyson/tracks-v1a1/mono.m3u8  ",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "isHost":"",
-        "embed": ""
+        "image": "https://i.postimg.cc/RC7VmBFH/gilberto-zurdo-ramirez-vs-chris-billam-smith.jpg",
+        "url": "acestream://0a619e5da2fe471d5d102b968a3ccf2d61a17167",
         }
     ]
 }
