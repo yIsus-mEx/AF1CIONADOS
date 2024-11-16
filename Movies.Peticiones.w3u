@@ -8,6 +8,17 @@
 "stations":
     [
     {
+      "name": "Cosas imposibles",
+      "image": "https://pics.filmaffinity.com/cosas_imposibles-628504037-large.jpg",
+      "info": "[Latino 2021]",
+      "url": "https://listeamed.net/v/VqbX53B0PPGOQzp",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "Calles de Fuego",
       "image": "https://pics.filmaffinity.com/streets_of_fire-403171158-large.jpg",
       "info": "[Español 1984]",
