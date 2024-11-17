@@ -1,0 +1,74 @@
+{
+"name": "Yo Adicto",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Yo.Adicto.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+ 				"url":"https://filemoon.sx/d/vzfe2lm6mdkf",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://be7713.rcr82.waw05.cdn112.com/hls2/02/07194/1p2j8s263oej_x/index-v1-a1.m3u8?t=SkRXzez2dGoAvhYGKWcSishyLcOgOr09RHOxSTat0Hs&s=1731828131&e=10800&f=35971918&srv=28&asn=13999&sp=5500&p=",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.sx/d/f2p95ppfijcw",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.sx/d/x07uqe8l51zf",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.sx/d/zu322jq9xsj3",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.sx/d/o0yvcodk17a5",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
