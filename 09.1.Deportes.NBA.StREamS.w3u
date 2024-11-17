@@ -39,13 +39,13 @@
             },
             {
                 "name": "NBA",
-                "info":"Canal 004",
+                "info":"Canal 04",
                 "image": "https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png",
                 "url": "https://v.markkystreams.com/video/nba-04/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "userAgent" : "",
                 "online":"true",
                 "embed": "",
-                "isHost": ""
+                "isHost": "true"
             },
             {
                 "name": "NBA",
