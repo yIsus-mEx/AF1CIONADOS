@@ -19,6 +19,7 @@
  				"info":"",
  				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
  				"url":"https://filemoon.sx/d/e934mynu2csv",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
  				"isHost":"true",
  				"online":"true"
 				},
@@ -27,6 +28,7 @@
 				"info":"",
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/6cj7k5j2e14f",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -35,6 +37,7 @@
 				"info":"",
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/ayx69v9k1091",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -43,6 +46,7 @@
 				"info":"",
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/x1j81vednjzt",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -51,6 +55,7 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/0l7ica2dq7pb",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -59,6 +64,7 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/mi75yiyv97qj",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -67,6 +73,7 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/zdbwj0exc3n6",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -75,6 +82,7 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/b57ay5c9lljb",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -83,6 +91,7 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/c7umbleniq70",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -91,8 +100,26 @@
 				"info":"",  
 				"image":"https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 				"url":"https://filemoon.sx/d/oob0w2e4y9nu",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://www.justwatch.com/images/poster/321954096/s718/temporada-2.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://www.justwatch.com/images/poster/321954096/s718/temporada-2.jpg",
+ 				"url":"https://filemoon.sx/d/34e936ou1peh",
+ 				"isHost":"true",
+ 				"online":"true"
 				}
 			]
 		}
