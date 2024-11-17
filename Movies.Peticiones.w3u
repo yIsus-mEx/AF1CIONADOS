@@ -8,10 +8,19 @@
 "stations":
   [
     {
-      "name": "17 Otra Vez",
-      "image": "https://pics.filmaffinity.com/17_again-107120789-large.jpg",
+      "name": "Fantasmas de Scrooge, Los",
+      "image": "",
       "info": "[2009]",
-      "url": "https://listeamed.net/v/m7WJxg1Mnn2OBze",
+      "url": "https://filemoon.sx/d/gruekz5rfoys/Fantasmas_de_Scrooge_2009_Pelicula_esp_bluray_720p_mkv.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "",
+      "online": "true"
+    },
+    {
+      "name": "GhostLand",
+      "image": "https://pics.filmaffinity.com/ghostland-186804143-large.jpg",
+      "info": "[2018]",
+      "url": "https://filemoon.sx/d/4jwuzenwrayv/Ghostland_2018_Pelicula_esp_web_1080p_mkv.mp4",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "",
       "online": "true"
