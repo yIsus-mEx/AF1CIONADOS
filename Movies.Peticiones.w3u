@@ -8,6 +8,15 @@
 "stations":
   [
     {
+      "name": "Nuestro Hogar",
+      "info": "[2010][Vose.Sub]",
+      "image": "https://www.justwatch.com/images/poster/305303071/s332/astral-city",
+      "url": "https://ok.ru/video/8055421930197",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "Codigo Emperador",
       "image": "https://es.web.img2.acsta.net/pictures/21/12/13/18/04/2134016.jpg",
       "info": "[2022]",
