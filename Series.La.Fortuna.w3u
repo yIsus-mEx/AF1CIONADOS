@@ -1,0 +1,56 @@
+{
+"name": "La Fortuna",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.La.Fortuna.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"[ESPAÑOL]",
+ 		"image":"https://pics.filmaffinity.com/La_Fortuna_Miniserie_de_TV-473111231-large.jpg",
+ 		"url":"https://filemoon.sx/d/32mtwxpqosjh",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"[ESPAÑOL]",
+		"image":"https://pics.filmaffinity.com/La_Fortuna_Miniserie_de_TV-473111231-large.jpg",
+		"url":"https://filemoon.sx/d/0b15xgtpzwlr",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"[ESPAÑOL]",
+		"image":"https://pics.filmaffinity.com/La_Fortuna_Miniserie_de_TV-473111231-large.jpg",
+		"url":"https://filemoon.sx/d/co26jlh7mlpo",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"[ESPAÑOL]",
+		"image":"https://pics.filmaffinity.com/La_Fortuna_Miniserie_de_TV-473111231-large.jpg",
+		"url":"https://filemoon.sx/d/d5dukcuj42x5",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"[ESPAÑOL]",  
+		"image":"https://pics.filmaffinity.com/La_Fortuna_Miniserie_de_TV-473111231-large.jpg",
+		"url":"https://filemoon.sx/d/musaekfsr2vj",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
