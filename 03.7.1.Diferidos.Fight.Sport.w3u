@@ -8,6 +8,42 @@
 "groups":
     [
         {
+         "name": "UFC 309: Jones vs Miocic",
+         "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 309: Jones vs. Miocic",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Magny vs Prates",
+         "image": "https://i.postimg.cc/Y9Dny8v9/UFC-Fight-Night-Mangy-Prates.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Magny vs Prates",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/Y9Dny8v9/UFC-Fight-Night-Mangy-Prates.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0eXgwMDAwZTQ00",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Moreno vs Albazi",
          "image": "https://i.postimg.cc/8cq60Xrp/UFC.png",
          "imageScale": "",
