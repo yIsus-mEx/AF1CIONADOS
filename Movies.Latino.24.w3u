@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Juego de Asesinos",
+        "info": "[2024][Latino]",
+        "image": "https://m.media-amazon.com/images/M/MV5BODg4MTBiOGQtN2I5Yi00MWY2LWI1ODktZTUzZjhlYmZjMjFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://filemoon.sx/d/8qxidowoxf9w",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Gladiador 2 (Ts)",
         "info": "[2024][Latino]",
         "image": "https://hips.hearstapps.com/hmg-prod/images/gladiator-2-poster-2-66f18818a0141.jpg",
@@ -17,10 +26,37 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
+        "name": "Código Traje Rojo (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/47807-327301-20241010043952.jpg",
+        "url": "https://filemoon.sx/d/15oex3zegoar",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Terror en Crescent City",
         "info": "[2024][Latino]",
         "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
         "url": "https://filemoon.sx/d/dgdbz8kkn65r",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "No Te Sueltes",
+        "info": "[2024][Latino]",
+        "image": "https://i.postimg.cc/B6GJY7Bb/no-te-sueltes.webp",
+        "url": "https://filemoon.sx/d/v7y6rc2zmjfs",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Entra En Mi Vida",
+        "info": "[2024][Latino]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/46659-855262-20240614012354.jpg",
+        "url": "https://filemoon.sx/d/t64ea2omw7pl",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -39,6 +75,15 @@
         "info": "[2024][Latino]",
         "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQD1qEnPOKUPHAui0okOLZSgitu.jpg",
         "url": "https://filemoon.sx/d/d3ggdlwx7kfj",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Guasón 2: folie à deux (Ts)",
+        "info": "[2024][Latino]",
+        "image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/47354-420401-20241002095045.jpg",
+        "url": "https://filemoon.sx/d/96yo186t921l",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
