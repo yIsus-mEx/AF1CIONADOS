@@ -557,6 +557,26 @@
     },
 
     {
+     "name": "Orgullo Vieja",
+      "image": "https://i.postimg.cc/wMLmSCMb/IMG-20241119-225240-240.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "Orgullo Vieja",
+          "info": "2024",
+          "image": "https://i.postimg.cc/wMLmSCMb/IMG-20241119-225240-240.jpg",
+          "url": "https://filemoon.sx/d/2sagah4moryj",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "Ovnis: Proyectos De Alto Secreto Desclasificados",
       "image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/1/w1280/eB5aBU9TVZ3Lk7G7Ppy6Ym0rtAd.jpg",
       "url": "https://af1c1onados.vercel.app/Documentales.Ovnis.w3u",
