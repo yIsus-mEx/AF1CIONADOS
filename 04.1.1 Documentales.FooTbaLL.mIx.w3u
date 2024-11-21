@@ -9,16 +9,6 @@
           [
 
 			{
-          		"name": "Aitana Bonmati Conca",
-          		"info":"[Documental][Español]",
-          		"image": "https://i.postimg.cc/XvtvjMc4/IMG-20241119-215404-370.jpg",
-          		"url":"https://swishsrv.com/e/7dzazg3m4pq6",
-                        "userAgent":"PlusMediaPlayer/0.0.9",
-          		"embed":"",
-          		"isHost":"true",
-          		"online":"true"
-          		},
-			{
        			"name": "Pelé, el rey del fútbol",
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/pele_king_of_the_game-249162947-large.jpg",
@@ -146,7 +136,7 @@
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/informe_la_liga_de_valdano-921755742-large.jpg",
         		"url":"https://filemoon.sx/d/o4iqfkupvfoj",
-				"userAgent":"PlusMediaPlayer/0.0.9",
+			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost":"true",
         		"online":"true"
         		},
@@ -159,11 +149,30 @@
         		"isHost":"true",
         		"online":"true"
         		},
-			    {
-       			"name": "Se acabó, Diario de las campeonas",
+			{
+       			"name": "Se acabó, Diario de las campeonas (2024)",
         		"info":"[Documental][Español]",
         		"image": "https://pics.filmaffinity.com/seacabo_diario_de_las_campeonas-765598490-large.jpg",
         		"url":"https://filemoon.sx/d/3h4fbmacpy8i/_SeAcab___Diario_de_las_campeonas.mp4",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+			{
+          		"name": "Aitana Bonmati Conca (2024)",
+          		"info":"[Documental][Español]",
+          		"image": "https://i.postimg.cc/XvtvjMc4/IMG-20241119-215404-370.jpg",
+          		"url":"https://swishsrv.com/e/7dzazg3m4pq6",
+                        "userAgent":"PlusMediaPlayer/0.0.9",
+          		"embed":"",
+          		"isHost":"true",
+          		"online":"true"
+          		},
+			{
+       			"name": "Informe+ Reyes, sonrisa y leyenda (2024)",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/informe_reyes_sonrisa_y_leyenda-322735768-large.jpg",
+        		"url":"https://listeamed.net/v/g9Vd5JyDr9AOqQj",
         		"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost":"true",
         		"online":"true"
