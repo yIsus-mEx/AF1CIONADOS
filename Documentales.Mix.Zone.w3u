@@ -29,6 +29,7 @@
 				"info":"[Documental][Español]",
 				"image": "https://m.media-amazon.com/images/I/61+XshOUshL._AC_SY445_.jpg",
 				"url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"embed":"",
 				"isHost":"true",
 				"online":"true"
@@ -38,6 +39,7 @@
 				"info":"[Documental][Español]",
 				"image": "https://pics.filmaffinity.com/30_for_30_rodman_for_better_or_worse-853152931-mmed.jpg",
 				"url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"embed":"",
 				"isHost":"true",
 				"online":"true"
@@ -47,6 +49,17 @@
 				"info":"[Documental][Español]",
 				"image": "https://image.tmdb.org/t/p/w500/n6RHfOP2tcqhqm26n65Sbq3f2qB.jpg",
 				"url":"https://www.documaniatv.com/biografias/serena-video_73d1db0b6.html",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"embed":"",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Nadal Documentary 2024 Qué suerte hemos tenido",
+				"info":"[Documental][Español]",
+				"image": "https://www.movistarplus.es/recorte/n/galeria/F4319837",
+				"url":"https://filemoon.sx/d/alwaachwd6kq",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"embed":"",
 				"isHost":"true",
 				"online":"true"
@@ -121,10 +134,10 @@
 		},
 
 		{
-       	"name": "Federer: Los Últimos Doce Días",
-       	"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
-       	"imageScale": "",
-       	"info":"",
+       		"name": "Federer: Los Últimos Doce Días",
+       		"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
+       		"imageScale": "",
+       		"info":"",
 		"stations":
     		[
 			{
@@ -132,17 +145,19 @@
 			"info":"[Documental][VOSE]",
 			"image": "https://i.postimg.cc/zGm1Gp4p/nuevo-documental-federer-los-ultimos-doce-dias-2.jpg",
 			"url":"https://filemoon.sx/d/q683evzoy595",
+			"userAgent":"PlusMediaPlayer/0.0.9",
 			"embed": "",
 			"isHost":"true",
 			"online":"true"
 			}
 		]
 		},
+
 		{
-       	"name": "Fiz, Puro Maraton",
-       	"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
-       	"imageScale": "",
-       	"info":"",
+       		"name": "Fiz, Puro Maraton",
+       		"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+       		"imageScale": "",
+       		"info":"",
 		"stations":
     		[
 				{
@@ -150,16 +165,18 @@
 				"info":"[Documental]",
 				"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
 				"url":"https://filemoon.sx/d/lfky6i7esqxm/Fiz_Puro_Maraton_2014.mkv",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				}
 			]
 		},
+
 		{
-        "name": "Los Anillos de Pau",
-        "image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
-        "imageScale": "",
-        "info":"",
+        	"name": "Los Anillos de Pau",
+        	"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
+        	"imageScale": "",
+        	"info":"",
 		"stations":
     		[
 				{
@@ -167,6 +184,7 @@
 				"info":"[Documental]",
 				"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
 				"url":"https://filemoon.sx/d/jpod9i6eezfn/Los_Anillos_de_Pau_Capitulo_1.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -175,6 +193,7 @@
 				"info":"[Documental]",
 				"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
 				"url":"https://filemoon.sx/d/lum19p8ky29t/Los_Anillos_de_Pau_Capitulo_2.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -183,11 +202,13 @@
 				"info":"[Documental]",
 				"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
 				"url":"https://filemoon.sx/d/te64rqo8g94v/Los_Anillos_de_Pau_Capitulo_3.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				}
 			]
 		},
+
 		{
         "name": "Pau Gasol: Lo Importante Es El Viaje",
         "image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
@@ -200,6 +221,7 @@
 				"info":"[Documental]",
 				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
 				"url":"https://filemoon.sx/d/8cmze77bx8ku",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -208,6 +230,7 @@
 				"info":"[Documental]",
 				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
 				"url":"https://filemoon.sx/d/t11eehkfabcs",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -216,6 +239,7 @@
 				"info":"[Documental]",
 				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
 				"url":"https://filemoon.sx/d/u89lv50can35",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				},
@@ -224,6 +248,7 @@
 				"info":"[Documental]",
 				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
 				"url":"https://filemoon.sx/d/1i2d1hgv6zos",
+				"userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
 				}
