@@ -15,6 +15,15 @@
         "stations":
             [
 			{
+                	"name": "Valencia VS Real Betis",
+	        	"info":"[23-Nov-24][Liga EA Sport 2024]",
+                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_webp/uploads/2024/11/22/6740c68d4d3ff.webp",
+                	"url":"https://filemoon.sx/d/ootnbpvim22u/Liga_EA_Sport_Valencia_VS_Betis_231124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
            		"name": "Al Hilal vs Inter Miami",
 	       		"info":"[29-Ene-24]",
            		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
