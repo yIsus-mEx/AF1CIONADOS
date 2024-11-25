@@ -8,6 +8,278 @@
 "groups":
     [
 		{
+        "name": "NFL Semana 11",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+        "stations":
+        	[
+                
+                {
+                "name": "Texans vs Cowboys",
+                "info":"[18/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/86630715.jpg",
+                "url":"https://d0000d.com/e/gy03hudppahi",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Bengals vs Chargers",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/61056651.jpg",
+                "url":"https://d0000d.com/e/211shuidb5o3",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Seahawks vs 49ers",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/92778365.jpg",
+                "url":"https://d0000d.com/e/saldvvbzolp0",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Falcons vs Broncos",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/19783610.jpg",
+                "url":"https://d0000d.com/e/d7o0q9l2qp4n",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Ravens vs Pittsburgh Steelers",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/79342915.jpg",
+                "url":"https://d0000d.com/e/dctks7jp2sd5",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Raiders vs Dolphins",
+                "info":"[17/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/51255840.jpg",
+                "url":"https://d0000d.com/e/h4cfa63xn5oy",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Packers vs Bears",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/25394130.jpg",
+                "url":"https://d0000d.com/e/8s80xdrnr2rf",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Jaguars vs Lions",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/13524725.jpg",
+                "url":"https://d0000d.com/e/pinwhsbw4yco",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Colts vs Jets",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/60523778.jpg",
+                "url":"https://videzz.net/embed-0zu0ieb4ymuj.html",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Rams vs New Patriots",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/39633270.jpg",
+                "url":"https://d0000d.com/e/wn5wkxxfqkke",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Browns vs Saints",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/58129308.jpg",
+                "url":"https://d0000d.com/e/2yqjx6hrs0ye",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Vikings vs Titans",
+                "info":"[17/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/47455954.jpg",
+                "url":"https://d0000d.com/e/9s1l9ukj7f07",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Commanders vs Eagles",
+                "info":"[14/11/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/40948476.jpg",
+                "url":"https://d0000d.com/e/4nx8vx08w4ay",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                }
+			]
+		},
+        {
+        "name": "NFL Semana 07",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+        "stations":
+        	[
+                {
+                "name": "Chargers vs Cardinals",
+                "info":"[21/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/86396592.jpg",
+                "url":"https://listeamed.net/e/P0poO1BmR8k5z17",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Ravens vs Buccaneers ",
+                "info":"[21/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/14654395.jpg",
+                "url":"https://vk.com/video_ext.php?oid=-207666197&id=456239085&hd=4&autoplay=1",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+                "embed": "true",
+				"isHost":""
+                },
+                {
+                "name": "Jets vs Steelers",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/89642731.jpg",
+                "url":"https://nfl-video.com/201-1",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "*Chiefs vs San 49ers*",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/60157150.jpg",
+                "url":"https://nfl-video.com/200-10",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Raiders vs Rams",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/21/35056676.jpg",
+                "url":"https://listeamed.net/e/dNjgOlP7z2DO9Wn",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Panthers vs Commanders",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/64687626.jpg",
+                "url":"https://listeamed.net/e/dNjgOlP7zLKO9Wn",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Lions vs Vikings",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/26734952.jpg",
+                "url":"https://filemoon.sx/e/scwl83exyy7h",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Eagles vs New York Giants",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/43807988.jpg",
+                "url":"https://listeamed.net/e/nyg9EKM6N1n5bk4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Texans vs Packers",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/27338859.jpg",
+                "url":"https://filemoon.sx/e/oxi2mcxnl6au",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Bengals vs Browns",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/35181651.jpg",
+                "url":"https://filemoon.sx/e/642g53kwbr36",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Titans vs Bills",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/53918203.jpg",
+                "url":"https://filemoon.sx/e/fnttuy0d09bn",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Dolphins vs Colts",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/95530632.jpg",
+                "url":"https://listeamed.net/e/edVqE4l9w9dEYWm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Seahawks vs Falcons",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/72424291.jpg",
+                "url":"https://listeamed.net/e/4bQVOj3Rzem5wKm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Patriots vs Jaguars",
+                "info":"[20/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/60370943.jpg",
+                "url":"https://listeamed.net/e/qM1VOPenQn85o4k",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Broncos vs Saints",
+                "info":"[17/10/24][Ingles]",
+                "image": "https://nfl-video.com/_pu/20/86435063.jpg",
+                "url":"https://listeamed.net/e/04rQxWLozWJEb2N",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                }
+			]
+		},
+        {
         "name": "NFL Semana 06",
         "image": "https://i.postimg.cc/FKVKSsJG/semana-06.jpg",
         "imageScale": "",
