@@ -80,8 +80,7 @@
 		       	"embed": "",
 		       	"isHost": "true",
 		       	"online": "true",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-		       	"import": false
+				"userAgent":"PlusMediaPlayer/0.0.9"
 		       	},
 			{	
 			"name": "CAPITULO 4",
