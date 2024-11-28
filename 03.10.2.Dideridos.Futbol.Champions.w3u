@@ -665,6 +665,24 @@
                 				"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
+						},
+						{
+						"name": "Sturm Graz VS Girona",
+						"info":"[27-11-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/0yf0ai3m9vg1/Champions_League_Sturm_Graz_VS_Girona_271124.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Liverpool VS Real Madrid",
+						"info":"[27-11-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/g9jqi29kds2n/Liga_Champions_Liverpool_VS_Real_Madrid_271124.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
 						}
 				]
 				},
