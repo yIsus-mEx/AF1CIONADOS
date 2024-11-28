@@ -633,6 +633,43 @@
 				},
 
 				{
+				"name": "JORNADA 5 FASE DE LIGUILLA",
+				"info":"",
+				"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Manchester City VS Feyenoord",
+						"info":"[26-11-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/ysm168c191hd/Champions_League_Manchester_City_VS_Feyenoord_261124.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Sparta Praga VS Atletico Madrid",
+						"info":"[26-11-2024]",
+						"image": "https://filemoon.sx/d/00oajy95matj/Champions_League_Sparta_Praga_VS_Atletico_de_Madrid_261124.mkv",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "FC Barcelona VS Brest",
+						"info":"[26-11-2024]",
+						"image": "",
+						"url":"https://filemoon.sx/d/5enacj0ia0zv/Champions_League_FC_Barcelona_VS_Brest_261124.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+
+				{
 				"name": "PLAY OFF",
 				"info":"",
 				"image": "https://i.postimg.cc/D0VBPVMM/2024-25-Logo-Champions-League.webp",
