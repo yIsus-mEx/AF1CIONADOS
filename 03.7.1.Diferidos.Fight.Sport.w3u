@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Yan vs Figueiredo",
+         "image": "https://ibb.co/h2R3Pfq",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Yan vs Figueiredo",
+                "info":"[Latino]",
+                "image": "https://ibb.co/h2R3Pfq",
+                "url":"https://www.linkbox.to/f-detail/ZnA0enN3MDAwZ2Zm0",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 309: Jones vs Miocic",
          "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
          "imageScale": "",
