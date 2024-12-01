@@ -995,6 +995,96 @@
         	"stations":
             	[
 	       		{
+ 	       		"name": "Alba Berlin VS Maccabi Tel Aviv",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/kw4fnavobcsc/Euroliga_Alba_VS_Maccabi_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Real Madrid",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/dgkxdees3zw5/Euroliga_Barsa_VS_MaDrid_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Virtus",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/2bclmtwvq9y5/Euroliga_Paris_VS_Virtus_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Olympiakos",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/i98svfdonzdk/Euroliga_Partizan_VS_Olympiakos_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Baskonia",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/zwea5zcyp4sq/Euroliga_Zalguiris_VS_Baskonia_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Efes",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/88cczo43b1xo/Euroliga_Asvel_VS_Efes_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Bayern Munich",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/tf65sgil8202/Euroliga_Estrella_Roja_VS_Bayern_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Milan",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/4233fin3bzru/Euroliga_Fenerbahce_VS_Milan_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Monaco",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/ts5ba1fg6teb/Euroliga_Panathinaikos_VS_Monaco_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 13",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
  	       		"name": "",
 	        	"info": "",
 			"online": "true",
