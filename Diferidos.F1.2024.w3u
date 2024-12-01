@@ -8,6 +8,114 @@
 "groups":
     [
         {
+        "name": "F1 2024 Qatar [29-01.Dic24]",
+        "info":"",
+        "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/ZMVoErbQDZqE9Pa",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/P0poO1BPQ6R5z17",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Sprint Qualy",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/YWA8E9eg2pGEGmM",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Sprint Qualy",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/qA3WOmMP7k2OKkz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera Sprint",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/edVqE4l4pM4EYWm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera Sprint",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/rabVOQDWj6mEKdW",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Qualy Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/Ro7kOVJQmVZOZWB",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Qualy Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"https://listeamed.net/v/KNWlEDLygLKEkbp",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+	        ]
+	    },
+        {
         "name": "F1 2024 Las Vegas [21-23.N0v24]",
         "info":"",
         "image": "https://i.postimg.cc/5yZHNDFP/Las-vegas-2024.png",
