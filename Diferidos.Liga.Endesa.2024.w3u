@@ -699,8 +699,88 @@
         		"isHost": "true"
         		}
             	]
-	}
+	},
 
+	{
+        "name": "JORNADA 09",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Unicaja VS Tenerife",
+	        	"info": "30/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/knrszddlq2wl/Liga_Endesa_Unicaja_VS_Tenerife_301124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zaragoza VS Bilbao Basket",
+	        	"info": "30/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/ghe6ctli6gbj/Liga_Endesa_Zaragoza_VS_Bilbao_301124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Breogan VS Granada",
+	        	"info": "30/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/euu98m4a0lmy/Liga_Endesa_Breogan_VS_Granada_301124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Girona VS Andorra",
+	        	"info": "30/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/y78b7pf1t73v/Liga_Endesa_Girona_VS_Andorra_301124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "UCAM Murcia VS Gran Canaria",
+	        	"info": "01/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/ja0e4sdg55gv/Liga_Endesa_UCAM_VS_Gran_Canaria_011224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Lleida VS Leyma",
+	        	"info": "01/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/uyw435exbyup/Liga_Endesa_Lleida_VS_Leyma_011224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Valencia",
+	        	"info": "01/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/ur9iscp9ul4l/Liga_Endesa_Baskonia_VS_Valencia_011224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Juventut VS Real Madrid",
+	        	"info": "01/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/mviy7i8p1u4n/Liga_Endesa_Juventut_VS_Real_Madrid_011224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+	}
 
 	]
 }
