@@ -7,7 +7,48 @@
 "info": "Lista_AF1CIONADOS",
 "groups": 
   [
-    
+
+    {
+      "name": "900 dias sin Anabel",
+      "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+          "url": "https://listeamed.net/v/ZMVoErbQK9JE9Pa",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+          "url": "https://listeamed.net/v/3Q0lxBbyo4Mxj1J",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+          "url": "https://listeamed.net/v/MAlwEMWnk1y5J39",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
     {
       "name": "Ambicion desmedida, C Tangana",
       "image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
@@ -16,7 +57,7 @@
         {
           "name": "CAPITULO 1",
           "image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-          "url": "https://filemoon.sx/d/ip7slikt10q2/Ver_Tangana_1x01_1080_mp4.mp4",
+          "url": "https://filemoon.to/d/ip7slikt10q2/Ver_Tangana_1x01_1080_mp4.mp4",
           "info": "2023",
           "embed": "",
           "isHost": "true",
@@ -27,7 +68,7 @@
         {
           "name": "CAPITULO 2",
           "image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-          "url": "https://filemoon.sx/d/mz03nkwj5kh1/Ver_Tangana_1x02_1080_mp4.mp4",
+          "url": "https://filemoon.to/d/mz03nkwj5kh1/Ver_Tangana_1x02_1080_mp4.mp4",
           "info": "2023",
           "embed": "",
           "isHost": "true",
@@ -38,7 +79,7 @@
         {
           "name": "CAPITULO 3",
           "image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-          "url": "https://filemoon.sx/d/plykam1plqwv/Ver_Tangana_1x03_1080_mp4.mp4",
+          "url": "https://filemoon.to/d/plykam1plqwv/Ver_Tangana_1x03_1080_mp4.mp4",
           "info": "2023",
           "embed": "",
           "isHost": "true",
@@ -48,6 +89,7 @@
         }
       ]
     },
+
     {
       "name": "Amor, acoso y asesinato",
       "image": "https://pics.filmaffinity.com/lover_stalker_killer-339534823-large.jpg",
@@ -92,7 +134,7 @@
           "name": "Beach Boys: El Documental",
           "info": "[Vose.Sub][2024]",
           "image": "https://indierocks.sfo3.digitaloceanspaces.com/wp-content/uploads/2024/05/TheBeachBoys_documental-.png",
-          "url": "https://filemoon.sx/d/umznr6yolfer",
+          "url": "https://filemoon.to/d/umznr6yolfer",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -108,7 +150,7 @@
           "name": "Break Nation",
           "info": "[2023]",
           "image": "https://pics.filmaffinity.com/Break_Nation_La_electraonica_que_bailao_Andalucaia-218001604-large.jpg",
-          "url": "https://filemoon.sx/d/f43l0c9xhouq",
+          "url": "https://filemoon.to/d/f43l0c9xhouq",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -132,7 +174,7 @@
           "name": "Chava: El ciclista del pueblo",
           "info": "[2024]",
           "image": "https://pics.filmaffinity.com/Chava_El_ciclista_del_pueblo-676133012-large.jpg",
-          "url": "https://filemoon.sx/d/3ojgmnhpisiv",
+          "url": "https://filemoon.to/d/3ojgmnhpisiv",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -176,7 +218,7 @@
           "name": "Concha Velasco, la artista total",
           "info": "[2023]",
           "image": "https://pics.filmaffinity.com/concha_velasco_la_artista_total-290640008-large.jpg",
-          "url": "https://filemoon.sx/d/49rkgtkk7ziy/Concha_Velasco_La_artista_total__2023_Documental_.mp4",
+          "url": "https://filemoon.to/d/49rkgtkk7ziy/Concha_Velasco_La_artista_total__2023_Documental_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -208,7 +250,7 @@
           "name": "Criptoestafas",
           "info": "[2024]",
           "image": "https://pics.filmaffinity.com/bitconned-659212072-large.jpg",
-          "url": "https://filemoon.sx/d/r6eguq44iizp/Criptoestafas__2024_Documental_.mp4",
+          "url": "https://filemoon.to/d/r6eguq44iizp/Criptoestafas__2024_Documental_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -241,7 +283,7 @@
         {
           "name": "Detener el robo",
           "image": "https://pics.filmaffinity.com/stopping_the_steal-354829045-large.jpg",
-          "url": "https://filemoon.sx/d/bao2tzlk1830",
+          "url": "https://filemoon.to/d/bao2tzlk1830",
           "info": "[2024]",
           "embed": "",
           "isHost": "true",
@@ -279,10 +321,39 @@
           "name": "El Barrio: Un Reino Sin Corona",
           "info": "[Español 2024]",
           "image": "https://pics.filmaffinity.com/el_barrio_un_reino_sin_corona-979978645-large.jpg",
-          "url": "https://filemoon.sx/d/e6kyiz5s9fqz/El_Barrio_Un_reino_sin_corona__2024_Documental_.mp4",
+          "url": "https://filemoon.to/d/e6kyiz5s9fqz/El_Barrio_Un_reino_sin_corona__2024_Documental_.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
           "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "El loco, los silencios de Quintero",
+      "image": "https://pics.filmaffinity.com/el_loco_los_silencios_de_quintero-969743440-large.jpg",
+      "stations": [
+        {
+          "name": "1. El loco, los silencios de Quintero",
+          "image": "https://pics.filmaffinity.com/el_loco_los_silencios_de_quintero-969743440-large.jpg",
+          "url": "https://listeamed.net/v/JzkPxzz3KdMxbyd",
+          "info": "[2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "2. El loco, los silencios de Quintero",
+          "image": "https://pics.filmaffinity.com/el_loco_los_silencios_de_quintero-969743440-large.jpg",
+          "url": "https://listeamed.net/v/QNB7xAWyo71O0WG",
+          "info": "[2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
         }
       ]
     },
@@ -296,7 +367,7 @@
           "name": "España, la primera globalizacion",
           "info": "[Español 2021]",
           "image": "https://pics.filmaffinity.com/espana_la_primera_globalizacion-999769622-large.jpg",
-          "url": "https://filemoon.sx/d/py7j8po90kib/Espa_a__la_primera_globalizacion__Documental_.mp4",
+          "url": "https://filemoon.to/d/py7j8po90kib/Espa_a__la_primera_globalizacion__Documental_.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
           "online": "true"
@@ -369,8 +440,26 @@
         {
           "name": "Hombres que robaron al Mundo",
           "image": "https://www.rtve.es/rtve/20191028/documentos-tv-estrena-hombres-robaron-mundo/1986165.shtml",
-          "url": "https://filemoon.sx/d/xqczhzlubt5s/Hombres_que_robaron_el_Mundo__2022_Documental_.mp4",
+          "url": "https://filemoon.to/d/xqczhzlubt5s/Hombres_que_robaron_el_Mundo__2022_Documental_.mp4",
           "info": "[2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
+      "name": "Impacto de Van Damme, El",
+      "image": "https://pics.filmaffinity.com/jean_claude_van_damme_coup_sur_coup-244578785-large.jpg",
+      "stations": [
+        {
+          "name": "Impacto de Van Damme, El",
+          "image": "https://pics.filmaffinity.com/jean_claude_van_damme_coup_sur_coup-244578785-large.jpg",
+          "url": "https://listeamed.net/v/KNWlEDLyJNnEkbp",
+          "info": "[2023]",
           "embed": "",
           "isHost": "true",
           "online": "true",
@@ -395,7 +484,7 @@
         {
           "name": "Joaquin Sabina, sintiendolo mucho",
           "image": "https://pics.filmaffinity.com/sintiendolo_mucho-844556492-large.jpg",
-          "url": "https://filemoon.sx/d/zj4mxsgqleli",
+          "url": "https://filemoon.to/d/zj4mxsgqleli",
           "info": "[2022]",
           "embed": "",
           "isHost": "true",
@@ -483,7 +572,7 @@
           "name": "Miguel Campos, para una vez que hablo",
           "info": "[2024]",
           "image": "https://pics.filmaffinity.com/miguel_campos_para_una_vez_que_hablo-269203602-large.jpg",
-          "url": "https://filemoon.sx/d/r09fmc6o9cil/Miguel_Campos_para_una_vez_que_hablo__2024_Documental_.mp4",
+          "url": "https://filemoon.to/d/r09fmc6o9cil/Miguel_Campos_para_una_vez_que_hablo__2024_Documental_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -498,7 +587,7 @@
           "name": "No me llame Ternera",
           "info": "[2023]",
           "image": "https://pics.filmaffinity.com/no_me_llame_ternera-164938634-large.jpg",
-          "url": "https://filemoon.sx/d/t730emhs57t0/No_Me_Llame_Ternera__2023_Documental_.mp4",
+          "url": "https://filemoon.to/d/t730emhs57t0/No_Me_Llame_Ternera__2023_Documental_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -513,7 +602,7 @@
         {
           "name": "NOAM CHOMSKY Requiem por el sueño americano",
           "image": "https://pics.filmaffinity.com/requiem_for_the_american_dream-619472469-large.jpg",
-          "url": "https://filemoon.sx/d/ffarf50iwwnw/Requiem_for_the_american_dream._Noam_Chomsky._Espa_ol.mp4",
+          "url": "https://filemoon.to/d/ffarf50iwwnw/Requiem_for_the_american_dream._Noam_Chomsky._Espa_ol.mp4",
           "info": "[2015]",
           "embed": "",
           "isHost": "true",
@@ -532,7 +621,7 @@
           "name": "Oppenheimer Destructor de Mundos",
           "info": "[2023]",
           "image": "https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg",
-          "url": "https://filemoon.sx/d/v3afh78dsha6/OPPENHEIMER-_EL_DESTRUCTOR_DE_MUNDOS__DOCUMENTAL_.mp4",
+          "url": "https://filemoon.to/d/v3afh78dsha6/OPPENHEIMER-_EL_DESTRUCTOR_DE_MUNDOS__DOCUMENTAL_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -548,7 +637,7 @@
           "name": "Oppenheimer Dilema de la Bomba Atomica",
           "info": "[2023]",
           "image": "https://pics.filmaffinity.com/to_end_all_war_oppenheimer_the_atomic_bomb-948121966-large.jpg",
-          "url": "https://filemoon.sx/d/zm2oug6iqexu/Oppenheimer__dilema_de_la_bomba_atomica__2023_Documental_.mp4",
+          "url": "https://filemoon.to/d/zm2oug6iqexu/Oppenheimer__dilema_de_la_bomba_atomica__2023_Documental_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -566,7 +655,7 @@
           "name": "Orgullo Vieja",
           "info": "2024",
           "image": "https://i.postimg.cc/wMLmSCMb/IMG-20241119-225240-240.jpg",
-          "url": "https://filemoon.sx/d/2sagah4moryj",
+          "url": "https://filemoon.to/d/2sagah4moryj",
           "embed": "",
           "isHost": "true",
           "online": "true",
@@ -623,7 +712,7 @@
         {
           "name": "Puro Djalminha",
           "image": "https://pics.filmaffinity.com/informe_plus_puro_djalminha-422291366-large.jpg",
-          "url": "https://filemoon.sx/d/6crqimvkyw02/Informe_Plus_._Puro_Djalminha_060524.mkv",
+          "url": "https://filemoon.to/d/6crqimvkyw02/Informe_Plus_._Puro_Djalminha_060524.mkv",
           "info": "[2024]",
           "embed": "",
           "isHost": "true",
@@ -661,6 +750,22 @@
     },
 
     {
+      "name": "Sinéad O'Connor: Nothing Compares",
+      "image": "https://pics.filmaffinity.com/sinead_o_connor_nothing_compares-701948415-large.jpg",
+      "stations": [
+        {
+          "name": "Secretos de la Roja, Campeones del Mundo",
+          "info": "[2022]",
+          "image": "https://pics.filmaffinity.com/sinead_o_connor_nothing_compares-701948415-large.jpg",
+          "url": "https://listeamed.net/v/P0poO1BPyLP5z17",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
       "name": "Secretos de la Roja, Campeones del Mundo",
       "image": "https://pics.filmaffinity.com/los_secretos_de_la_roja_campeones_del_mundo-747235482-large.jpg",
       "stations": [
@@ -668,7 +773,7 @@
           "name": "Secretos de la Roja, Campeones del Mundo",
           "info": "[2020]",
           "image": "https://pics.filmaffinity.com/los_secretos_de_la_roja_campeones_del_mundo-747235482-large.jpg",
-          "url": "https://filemoon.sx/d/ixqb3q5x7fuc/Ver_Los_Secretos_Roja_Campeones_Del_Mundo_2020_1080p_mkv.mp4",
+          "url": "https://filemoon.to/d/ixqb3q5x7fuc/Ver_Los_Secretos_Roja_Campeones_Del_Mundo_2020_1080p_mkv.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -691,7 +796,7 @@
         {
           "name": "Social Dilema",
           "image": "https://pics.filmaffinity.com/the_social_dilemma-384147385-large.jpg",
-          "url": "https://filemoon.sx/d/d869vdjiwpk4/Social_Dilema__2020_Documental_.mp4",
+          "url": "https://filemoon.to/d/d869vdjiwpk4/Social_Dilema__2020_Documental_.mp4",
           "info": "[2020]",
           "embed": "",
           "isHost": "true",
@@ -711,7 +816,7 @@
           "name": "Soy Celine Dion",
           "info": "[Español 2024]",
           "image": "https://pics.filmaffinity.com/i_am_celine_dion-549801823-large.jpg",
-          "url": "https://filemoon.sx/d/czbx0shf9vdb/Soy_Celine_Dion__2024___Documental___VOSE_.mp4",
+          "url": "https://filemoon.to/d/czbx0shf9vdb/Soy_Celine_Dion__2024___Documental___VOSE_.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true",
@@ -762,7 +867,7 @@
           "name": "Telarañas, el segundo imperio Británico",
           "info": "[2017]",
           "image": "https://pics.filmaffinity.com/the_spider_s_web_britain_s_second_empire-853403216-large.jpg",
-          "url": "https://filemoon.sx/d/owna1rq290pq/Telara_a-_El_segundo_imperio_Brit_nico_-_Documental.mp4",
+          "url": "https://filemoon.to/d/owna1rq290pq/Telara_a-_El_segundo_imperio_Brit_nico_-_Documental.mp4",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -778,7 +883,7 @@
           "name": "Capitulo 1",
           "info": "[Ingles][2024]",
           "image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
-          "url": "https://filemoon.sx/d/qjv1k8pdjvne/1X02_Thank_you__goodnight.mkv",
+          "url": "https://filemoon.to/d/qjv1k8pdjvne/1X02_Thank_you__goodnight.mkv",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -787,7 +892,7 @@
           "name": "Capitulo 2",
           "info": "[Ingles][2024]",
           "image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
-          "url": "https://filemoon.sx/d/chdi2m6ro1wu/1X03_Thank_you__goodnight.mkv",
+          "url": "https://filemoon.to/d/chdi2m6ro1wu/1X03_Thank_you__goodnight.mkv",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -796,7 +901,7 @@
           "name": "Capitulo 3",
           "info": "[Ingles][2024]",
           "image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
-          "url": "https://filemoon.sx/d/ke4lxrwhwlgr/1X04_Thank_you__goodnight.mkv",
+          "url": "https://filemoon.to/d/ke4lxrwhwlgr/1X04_Thank_you__goodnight.mkv",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -812,7 +917,7 @@
           "name": "Topuria y Unzué. Dos luchas, dos sueños",
           "info": "[2024]",
           "image": "https://i.postimg.cc/HLKvYmfp/Topuria-y-Unzu-Dos-luchas-dos-sue-os-290424.jpg",
-          "url": "https://filemoon.sx/d/n0hfnxnwr40l/Topuria_y_Unzu_._Dos_luchas__dos_sue_os_290424.mkv",
+          "url": "https://filemoon.to/d/n0hfnxnwr40l/Topuria_y_Unzu_._Dos_luchas__dos_sue_os_290424.mkv",
           "embed": "",
           "isHost": "true",
           "online": "true"
@@ -855,7 +960,7 @@
           "name": "Zuckerberg-El Rey Del Metaverso",
           "info": "2024",
           "image": "https://i.postimg.cc/zvpF9jzQ/IMG-20241123-130523-427.jpg",
-          "url": "https://filemoon.sx/d/ylgmdxchnkl6",
+          "url": "https://filemoon.to/d/ylgmdxchnkl6",
           "embed": "",
           "isHost": "true",
           "online": "true",
