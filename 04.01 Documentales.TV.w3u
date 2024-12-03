@@ -89,6 +89,7 @@
         }
       ]
     },
+
     {
       "name": "Amor, acoso y asesinato",
       "image": "https://pics.filmaffinity.com/lover_stalker_killer-339534823-large.jpg",
@@ -451,6 +452,24 @@
     },
 
     {
+      "name": "Impacto de Van Damme, El",
+      "image": "https://pics.filmaffinity.com/jean_claude_van_damme_coup_sur_coup-244578785-large.jpg",
+      "stations": [
+        {
+          "name": "Impacto de Van Damme, El",
+          "image": "https://pics.filmaffinity.com/jean_claude_van_damme_coup_sur_coup-244578785-large.jpg",
+          "url": "https://listeamed.net/v/KNWlEDLyJNnEkbp",
+          "info": "[2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "¿Y ahora que? El futuro según Bill Gates",
       "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
       "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/main/DoCuSerie Y AHORA QUE.w3u",
@@ -728,6 +747,22 @@
       "url": "https://af1cionados.vercel.app/DoCuSerie REAL MADRID HASTA EL FINAL.w3u",
       "info": "bY AdriDeCai",
       "import": false
+    },
+
+    {
+      "name": "Sinéad O'Connor: Nothing Compares",
+      "image": "https://pics.filmaffinity.com/sinead_o_connor_nothing_compares-701948415-large.jpg",
+      "stations": [
+        {
+          "name": "Secretos de la Roja, Campeones del Mundo",
+          "info": "[2022]",
+          "image": "https://pics.filmaffinity.com/sinead_o_connor_nothing_compares-701948415-large.jpg",
+          "url": "https://listeamed.net/v/P0poO1BPyLP5z17",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
     },
 
     {
