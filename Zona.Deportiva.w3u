@@ -514,30 +514,10 @@
         "name": "TUDN 🇺🇸",
         "info":"",
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
-        "url": "http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000650&type=stream.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "TUDN 🇺🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
         "url": "https://xyzdddd.mizhls.ru/lb/premium66/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Fox Deportes 🇺🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://enz.gdplayertv.to/live-tv/fox-deportes/?embed=1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "embed": "true",
         "isHost":""
         },
         {
