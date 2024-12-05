@@ -778,6 +778,15 @@
 	        	"url": "https://filemoon.to/d/mviy7i8p1u4n/Liga_Endesa_Juventut_VS_Real_Madrid_011224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Manresa VS FC Barcelona",
+	        	"info": "01/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/0g05338xvn11/Liga_Endesa_Manresa_VS_Barsa_011224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
             	]
 	}

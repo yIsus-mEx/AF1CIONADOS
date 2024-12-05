@@ -253,6 +253,27 @@
 				"online":"true"
 				}
 			]
+		},
+
+		{
+       		"name": "Nadal VS Federer, el partido del siglo",
+       		"image": "https://pics.filmaffinity.com/strokes_of_genius-730017216-large.jpg",
+       		"imageScale": "",
+       		"info":"",
+		"stations":
+    		[
+			{
+			"name": "Nadal VS Federer, el partido del siglo",
+			"info":"[2018]",
+			"image": "https://pics.filmaffinity.com/strokes_of_genius-730017216-large.jpg",
+			"url":"https://listeamed.net/v/vQBYEbBRjZmEn1m",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"isHost":"true",
+			"online":"true"
+			}
+		]
 		}
+
 	]
 }		
