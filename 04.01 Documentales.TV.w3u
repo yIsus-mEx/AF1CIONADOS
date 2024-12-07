@@ -295,6 +295,22 @@
     },
 
     {
+      "name": "Leyenda de Paul Newman",
+      "image": "https://pics.filmaffinity.com/paul_newman_l_intranquille-690994531-large.jpg",
+      "stations": [
+        {
+          "name": "Leyenda de Paul Newman",
+          "image": "https://pics.filmaffinity.com/paul_newman_l_intranquille-690994531-large.jpg",
+          "info": "[2023]",
+          "url": "https://filemoon.to/d/f43l0c9xhouq",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
       "name": "Lo desconocido: los Robots asesinos",
       "image": "https://pics.filmaffinity.com/unknown_killer_robots-602924733-large.jpg",
       "stations": [
