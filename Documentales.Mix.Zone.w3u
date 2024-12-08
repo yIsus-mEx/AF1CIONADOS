@@ -63,6 +63,17 @@
 				"embed":"",
 				"isHost":"true",
 				"online":"true"
+				},
+				{
+				"name": "Carolina Marín: La Lucha  Infinita 2024",
+				"image": "https://i.ibb.co/dpGN7tr/IMG-20241206-142657-217.jpg",
+				"url":"https://filemoon.to/d/4r39oqfbzfpd",
+				"info":"[Documental][Español]",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"embed":"",
+				"isHost":"true",
+				"online":"true", 
+				"import": false
 				}
 			]
 		},
