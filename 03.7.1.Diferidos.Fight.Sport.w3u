@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC 310: Pantoja vs Asakura",
+         "image": "https://i.postimg.cc/gjQQzD83/UFC-310.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 310: Pantoja vs Asakura",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/gjQQzD83/UFC-310.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA1MGhjMDAwM2F40",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Yan vs Figueiredo",
          "image": "https://ibb.co/h2R3Pfq",
          "imageScale": "",
@@ -33,7 +51,7 @@
          "stations":
             [
                 {
-                "name": "UFC 309: Jones vs. Miocic",
+                "name": "UFC 309: Jones vs Miocic",
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
                 "url":"https://www.linkbox.to/f-detail/ZnA0eXpjMDAxcGtm0",
