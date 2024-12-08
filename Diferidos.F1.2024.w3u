@@ -8,6 +8,114 @@
 "groups":
     [
         {
+        "name": "F1 2024 Qatar [06-08.Dic24]",
+        "info":"",
+        "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/jfpv52v68k8o",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/o7aho5meoaax",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/3gf72pwgeezg",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/45abkcqwlrfw",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/lpatqo4it192",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Qualy",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/90ai7pn7rdqz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Qualy",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"https://filemoon.to/d/o5o32ewlwxy6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/90xYWnhf/F1-Abu-Dhabi.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+	        ]
+	    },
+        {
         "name": "F1 2024 Qatar [29-01.Dic24]",
         "info":"",
         "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
