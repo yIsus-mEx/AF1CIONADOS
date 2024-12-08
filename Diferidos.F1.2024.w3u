@@ -198,28 +198,19 @@
                 "name": "Carrera",
                 "info":"[ESPNF1]",
                 "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
-                "url":"",
+                "url":"https://filemoon.to/d/tbwb0dmup4sx",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
+                "online":"true"
                 },
                 {
                 "name": "Carrera",
                 "info":"[DAZN F1]",
                 "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
-                "url":"",
+                "url":"https://filemoon.to/d/998xpt0barlg",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
-                "online":""
-                },
-                {
-                "name": "Post Carrera",
-                "info":"[DAZN F1]",
-                "image": "https://i.postimg.cc/j2jz6bFW/qatar-2024.png",
-                "url":"",
-		        "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":""
+                "online":"true"
                 }
 	        ]
 	    },
