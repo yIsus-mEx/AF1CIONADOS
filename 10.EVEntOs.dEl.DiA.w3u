@@ -24,7 +24,7 @@
         "url": "acestream://0a619e5da2fe471d5d102b968a3ccf2d61a17167"
         },
         {
-        "name": "PruebA",
+        "name": "Prueba",
         "info":"",
         "image": "",
         "url": "https://mega.nz/file/l0JQmbDK#6YlkQqxOq3-iYAEDtFFcNzbCBby5yIwHOfn0nNArnJU",
@@ -32,7 +32,7 @@
         "referer" : "",
         "online":"true",
         "embed": "",
-        "isHost":""
+        "isHost":"true"
         },
     ]
 }
