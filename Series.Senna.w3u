@@ -9,7 +9,7 @@
 	[
  		{
  		"name": "Episodio 01",
- 		"info":"",
+ 		"info":"[Español]",
  		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
  		"url":"https://vidhidefast.com/v/1ia3mqt0vce9",
 		"userAgent":"PlusMediaPlayer/0.0.9",
@@ -17,8 +17,17 @@
  		"online":"true"
 		},
 		{
+ 		"name": "Episodio 01",
+ 		"info":"[Latino]",
+ 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
+ 		"url":"https://filemoon.to/d/le01nt1srw9v",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
 		"name": "Episodio 02",
-		"info":"",
+		"info":"[Español]",
 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
 		"url":"https://vidhidefast.com/v/e16ssinkyst1",
 		"userAgent":"PlusMediaPlayer/0.0.9",
@@ -26,8 +35,17 @@
 		"online":"true"
 		},
 		{
+ 		"name": "Episodio 02",
+ 		"info":"[Latino]",
+ 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
+ 		"url":"https://filemoon.to/d/3b5h18l2du2p",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
 		"name": "Episodio 03",
-		"info":"",
+		"info":"[Español]",
 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
 		"url":"https://vidhidefast.com/v/l70xwj1427pr",
 		"userAgent":"PlusMediaPlayer/0.0.9",
@@ -35,8 +53,17 @@
 		"online":"true"
 		},
 		{
+ 		"name": "Episodio 03",
+ 		"info":"[Latino]",
+ 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
+ 		"url":"https://filemoon.to/d/e93xlic1x7nm",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
 		"name": "Episodio 04",
-		"info":"",
+		"info":"[Español]",
 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
 		"url":"https://vidhidefast.com/v/qie70n4rz5gz",
 		"userAgent":"PlusMediaPlayer/0.0.9",
@@ -44,8 +71,17 @@
 		"online":"true"
 		},
 		{
+ 		"name": "Episodio 04",
+ 		"info":"[Latino]",
+ 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
+ 		"url":"https://filemoon.to/d/i2e0dkdssym1",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
 		"name": "Episodio 05",
-		"info":"",  
+		"info":"[Español]",  
 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
 		"url":"https://vidhidefast.com/v/v5iscvf3wk8p",
 		"userAgent":"PlusMediaPlayer/0.0.9",
@@ -53,13 +89,31 @@
 		"online":"true"
 		},
 		{
+ 		"name": "Episodio 05",
+ 		"info":"[Latino]",
+ 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
+ 		"url":"https://filemoon.to/d/jrpau99wsr71",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
 		"name": "Episodio 06",
-		"info":"",  
+		"info":"[Español]",  
 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
 		"url":"https://vidhidefast.com/v/042pfz9zvagw",
 		"userAgent":"PlusMediaPlayer/0.0.9",
 		"isHost":"true",
 		"online":"true"
+		},
+		{
+ 		"name": "Episodio 06",
+ 		"info":"[Latino]",
+ 		"image":"https://pics.filmaffinity.com/Senna_Miniserie_de_TV-739967988-large.jpg",
+ 		"url":"https://filemoon.to/d/cmste2haxxve",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
 		}
 	]
 }
