@@ -697,6 +697,69 @@
 				},
 
 				{
+				"name": "JORNADA 6 FASE DE LIGUILLA",
+				"info":"",
+				"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Bayern Leverkusen VS Inter Milan",
+						"info":"[10-12-2024]",
+						"image": "",
+						"url":"https://filemoon.to/d/4zhurkna5dr9/Liga_Campeones_Leverkusen_VS_Inter_101224.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Girona VS Liverpool",
+						"info":"[10-12-2024]",
+						"url":"https://filemoon.to/d/3qh0ngbqd4qo/Liga_Campeones_Girona_VS_Liverpool_101224.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atalanta VS Real Madrid",
+						"info":"[10-12-2024]",
+						"image": "",
+						"url":"https://filemoon.to/d/zxx8j8pndr8u/Liga_Campeones_Atalanta_VS_Real_Madrid_101224.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"[11-12-2024]",
+						"image": "",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"[11-12-2024]",
+						"image": "",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "",
+						"info":"[11-12-2024]",
+						"image": "",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+
+				{
 				"name": "PLAY OFF",
 				"info":"",
 				"image": "https://i.postimg.cc/D0VBPVMM/2024-25-Logo-Champions-League.webp",
