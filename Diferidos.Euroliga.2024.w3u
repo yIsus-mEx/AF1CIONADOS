@@ -1242,7 +1242,16 @@
 	        	"info": "[06/12/24]",
 			"online": "true",
 	        	"image": "",
-	        	"url": "https://filemoon.to/d/q2hv7w3jawl7/Euroliga_Virtus_VS_Estrella_Roja_061224.mkv",
+	        	"url": "https://filemoon.to/d/1kxhw5fznue3/Euroliga_Virtus_VS_Estrella_Roja_061224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Asvel",
+	        	"info": "[06/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/7vjbvmg9ckx8/Euroliga_Milan_VS_Asvel_061224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
