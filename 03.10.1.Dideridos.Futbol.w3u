@@ -15,6 +15,15 @@
         "stations":
             [
 			{
+                	"name": "Mallorca VS FC Barcelona",
+	        	"info":"[02-Dic-24][Liga EA Sport 2024]",
+                	"image": "",
+                	"url":"https://filemoon.to/d/2wpj1lb5l33h/Liga_EA_Sport_Mallorca_VS_FC_Barcelona_021224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
                 	"name": "Almeria VS Cordoba",
 	        	"info":"[26-Nov-24][Liga HyperMotion 2024]",
                 	"image": "",
