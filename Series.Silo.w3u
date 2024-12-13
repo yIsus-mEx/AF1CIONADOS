@@ -121,6 +121,33 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
  				"isHost":"true",
  				"online":"true"
+				},
+				{
+ 				"name": "Episodio 02",
+ 				"info":"",
+ 				"image":"https://www.justwatch.com/images/poster/321954096/s718/temporada-2.jpg",
+ 				"url":"https://filemoon.sx/d/4kgtkd6hcjm3",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image":"https://www.justwatch.com/images/poster/321954096/s718/temporada-2.jpg",
+ 				"url":"https://filemoon.sx/d/b0rivt49k139",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 04",
+ 				"info":"",
+ 				"image":"https://www.justwatch.com/images/poster/321954096/s718/temporada-2.jpg",
+ 				"url":"https://filemoon.sx/d/ud3h6nxsmt1k",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
 				}
 			]
 		}
