@@ -1,0 +1,65 @@
+{
+"name": "Palomas Negras",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Palomas.Negras.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://www.justwatch.com/images/poster/322632199/s718/temporada-1.jpg",
+ 		"url":"https://filemoon.to/d/uqwjed2w8bu7",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://www.justwatch.com/images/poster/322632199/s718/temporada-1.jpg",
+		"url":"https://filemoon.to/d/qv2mqwjibjzr",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://www.justwatch.com/images/poster/322632199/s718/temporada-1.jpg",
+		"url":"https://filemoon.to/d/qx10iotnvlwo",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://www.justwatch.com/images/poster/322632199/s718/temporada-1.jpg",
+		"url":"https://filemoon.to/d/9yfrsyniu68n",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://www.justwatch.com/images/poster/322632199/s718/temporada-1.jpg",
+		"url":"https://filemoon.to/d/vh7v18apn35e",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://www.justwatch.com/images/poster/322632199/s718/temporada-1.jpg",
+		"url":"https://filemoon.to/d/pvp5ggo1mlje",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
