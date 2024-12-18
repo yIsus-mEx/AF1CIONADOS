@@ -7,7 +7,24 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
   [
-
+    {
+      "name": "Como Acabar Sin Tu Jefe 2",
+      "image": "https://es.web.img3.acsta.net/c_310_420/pictures/14/11/05/11/26/237867.jpg",
+      "info": "[Español][2014]",
+      "url": "https://filemoon.to/d/hxkj9wlizsry",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Desde Mi Cielo",
+      "image": "https://m.media-amazon.com/images/I/91T86naz4RL._AC_UF894,1000_QL80_.jpg",
+      "info": "[Español][2009]",
+      "url": "https://filemoon.to/d/epra4ttbqk43",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
     {
       "name": "Mary Poppins",
       "image": "https://m.media-amazon.com/images/I/81QbcpcITmL._AC_UF894,1000_QL80_.jpg",
