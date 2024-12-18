@@ -295,6 +295,24 @@
     },
 
     {
+      "name": "Golpe a golpe",
+      "image": "https://pics.filmaffinity.com/golpe_a_golpe-100912714-large.jpg",
+      "stations": 
+      [
+        {
+          "name": "Golpe a golpe",
+          "image": "https://pics.filmaffinity.com/golpe_a_golpe-100912714-large.jpg",
+          "url": "https://listeamed.net/v/g9Vd5JyXk3MOqQj",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "Leyenda de Paul Newman",
       "image": "https://pics.filmaffinity.com/paul_newman_l_intranquille-690994531-large.jpg",
       "stations": [
@@ -318,6 +336,17 @@
           "name": "Lo desconocido: los Robots asesinos",
           "image": "https://pics.filmaffinity.com/unknown_killer_robots-602924733-large.jpg",
           "url": "https://listeamed.net/v/04rQxWLZkQeEb2N",
+          "info": "[2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "Lo desconocido: La cueva de los huesos",
+          "image": "https://pics.filmaffinity.com/unknown_cave_of_bones-628805323-large.jpg",
+          "url": "https://listeamed.net/v/mMq75LLbaL75XPB",
           "info": "[2023]",
           "embed": "",
           "isHost": "true",
