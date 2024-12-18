@@ -8,8 +8,26 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Covington vs Buckley",
+         "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Covington vs Buckley",
+                "info":"[Latino]",
+                "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 310: Pantoja vs Asakura",
-         "image": "https://i.postimg.cc/gjQQzD83/UFC-310.png",
+         "image": "https://i.postimg.cc/BQdFf9Dp/Pantoja-Vs-Asakura.png",
          "imageScale": "",
          "info":"",
          "stations":
@@ -17,7 +35,7 @@
                 {
                 "name": "UFC 310: Pantoja vs Asakura",
                 "info":"[Latino]",
-                "image": "https://i.postimg.cc/gjQQzD83/UFC-310.png",
+                "image": "https://i.postimg.cc/BQdFf9Dp/Pantoja-Vs-Asakura.png",
                 "url":"https://www.linkbox.to/f-detail/ZnA1MGhjMDAwM2F40",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
@@ -27,7 +45,7 @@
         },
         {
          "name": "UFC Fight Night: Yan vs Figueiredo",
-         "image": "https://ibb.co/h2R3Pfq",
+         "image": "https://i.postimg.cc/g2FxByFB/Yan-Vs-Figueiredo.png",
          "imageScale": "",
          "info":"",
          "stations":
@@ -35,7 +53,7 @@
                 {
                 "name": "UFC Fight Night: Yan vs Figueiredo",
                 "info":"[Latino]",
-                "image": "https://ibb.co/h2R3Pfq",
+                "image": "https://i.postimg.cc/g2FxByFB/Yan-Vs-Figueiredo.png",
                 "url":"https://www.linkbox.to/f-detail/ZnA0enN3MDAwZ2Zm0",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
