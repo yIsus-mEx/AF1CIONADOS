@@ -125,6 +125,20 @@
         "url": "http://cdn1host.online:2999/get.php?username=happy2024&password=newyear&type=m3u_plus",
         "info":"100 conex",
         "import": false
+        },
+        {
+        "name": "IPTV 18",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://cdn1host.online:2999/get.php?username=kratorius&password=opLcbhlXaT&type=m3u_plus",
+        "info":"500 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV 19",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://cdn1host.online:2999/get.php?username=hostingserverline2&password=YLiEQuBl5g&type=m3u_plus",
+        "info":"1000 conex",
+        "import": false
         }
     ]
 }
