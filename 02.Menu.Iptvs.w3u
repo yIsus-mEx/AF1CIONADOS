@@ -42,326 +42,88 @@
         "info":"180 conex",
         "import": false
         },
-		{
+        {
         "name": "IPTV 06",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://feextesca.fyi:2082/get.php?username=Iptvservi&password=EVrYD2KpX223d&type=m3u_plus",
-        "info": "100 conex",
-        "import": false
-        },
-		{
-        "name": "IPTV 07",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://megity.top:8080/get.php?username=xxxrestream&password=fghiBrdf55&type=m3u_plus",
-        "info":"300 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 08",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=zuihaod3&password=PbQKHfpUqDxD&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 09",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=skyperu2021&password=tqZnuwEDTaeT&type=m3u_plus",
-        "info":"250 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 10",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://housery.top:8080/get.php?username=vod123&password=vod123&type=m3u_plus",
-        "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 11",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=tYTED3D4jbWc&password=w4F3DzCwYXAZ&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 12",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=geoiptv&password=t9ceSfkuZkZN&type=m3u_plus",
-        "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 13",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=powertv&password=TmZMqpkdUusg&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 14",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=ArianLatino&password=EEtduxpDYqNh&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 15",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=usacambio&password=MPkvrJP6MAjX&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 16",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://spacetvplay.com:8080/get.php?username=UNITY1&password=RPc6NgY6GtRT&type=m3u_plus",
-        "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 17",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://imaxplay.net:2082/get.php?username=tMakE5U5beSt&password=KFKGbsSPaMxm&type=m3u_plus",
-        "info": "100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 18",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://imaxplay.net:2082/get.php?username=skyperu2021&password=tqZnuwEDTaeT&type=m3u_plus",
-        "info":"250 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 19",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://directo.ddns.me:33200/get.php?username=restreamtvplux&password=Mhsi3wMSJSEjska343255&type=m3u_plus",
-        "info":"350 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 20",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://imaxplay.net:2082/get.php?username=tYTED3D4jbWc&password=w4F3DzCwYXAZ&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 21",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://imaxplay.net:2082/get.php?username=unexservcambio&password=n8jKsfh5V5kC&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 22",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://24horas.fun:8080/get.php?username=carNETamigo3&password=5ty46AAd46g3&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 23",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://24horas.fun:8080/get.php?username=crplaY3873-r&password=EG-jdh-FDHJ4&type=m3u_plus",
-        "info":"175 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 24",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://24horas.fun:8080/get.php?username=veo83764A&password=zP12xYRAkBwS&type=m3u_plus",
-        "info":"50 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 25",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://777back.xyz:8080/get.php?username=carNETamigo3&password=5ty46AAd46g3&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
         {
-        "name": "IPTV 26",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://777back.xyz:8080/get.php?username=crplaY3873-r&password=EG-jdh-FDHJ4&type=m3u_plus",
-        "info":"50 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 27",
+        "name": "IPTV 07",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://jabawalkies.club:8080/get.php?username=q21zxsxvki901ilI0Ooo)ubf51zaxqw&password=oopllmnb776111ilIoo0OO0o5tfcvszq&type=m3u_plus",
         "info":"100 conex",
         "import": false
-        },
+        },        
         {
-        "name": "IPTV 28",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://omethh.xyz:8080/get.php?username=vod123&password=vod123&type=m3u_plus",
-        "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 29",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://home-playtv.com:8080/get.php?username=zuihaod3&password=PbQKHfpUqDxD&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 30",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://home-playtv.com:8080/get.php?username=UNITY1&password=RPc6NgY6GtRT&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 31",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://1.84423.xyz:8000/get.php?username=gooodseerveriptv&password=X7MY8691HH&type=m3u_plus",
-        "info":"400 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 32",
+        "name": "IPTV 08",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://1.84423.xyz:8000/get.php?username=XxXxXXXxX&password=04Il0O395xc22&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
         {
-        "name": "IPTV 33",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://1.84423.xyz:8000/get.php?username=Ley2serviceS&password=3008c@29pp12&type=m3u_plus",
-        "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 34",
+        "name": "IPTV 09",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://1.84423.xyz:8000/get.php?username=PSG@273Res&password=0OPSGMessi24&type=m3u_plus",
         "info":"200 conex",
         "import": false
         },
         {
-        "name": "IPTV 35",
+        "name": "IPTV 10",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://1.84423.xyz:8000/get.php?username=AdolfoMoralesNic&password=039MMxcm290&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
         {
-        "name": "IPTV 36",
+        "name": "IPTV 11",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://1.84423.xyz:8000/get.php?username=NPichardi2@24&password=409766738xN&type=m3u_plus",
         "info":"100 conex",
         "import": false
         },
         {
-        "name": "IPTV 37",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://1.84423.xyz:8000/get.php?username=4ZAZ3RHASZ&password=2HD28TBYY1&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 38",
+        "name": "IPTV 12",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://1.84423.xyz:8000/get.php?username=RestreamByDx04&password=0003xxx92Lqmm&type=m3u_plus",
         "info":"200 conex",
         "import": false
         },
         {
-        "name": "IPTV 39",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://home-playtv.com:8080/get.php?username=geoiptv&password=t9ceSfkuZkZN&type=m3u_plus",
-        "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 40",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://home-playtv.com:8080/get.php?username=powertv&password=TmZMqpkdUusg&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 41",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://home-playtv.com:8080/get.php?username=ArianLatino&password=EEtduxpDYqNh&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 42",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://home-playtv.com:8080/get.php?username=DalePlay&password=WXAPYB@8a&type=m3u_plus",
-        "info":"150 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 43",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://nuevavision.xyz:8080/get.php?username=skyperu2021&password=tqZnuwEDTaeT&type=m3u_plus",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 44",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://eros.football:33200/get.php?username=restreamtvplux&password=Mhsi3wMSJSEjska343255&type=m3u_plus",
-        "info":"350 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 45",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://eros.football:33200/get.php?username=restreamtvplux&password=Mhsi3wMSJSEjska343255&type=m3u_plus",
-        "info":"125 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV 46",
+        "name": "IPTV 13",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://directo.ddns.me:33200/get.php?username=rest9437ky862hs73&password=hs57483feucn45234&type=m3u_plus",
         "info":"146 conex",
         "import": false
         },
         {
-        "name": "IPTV 47",
+        "name": "IPTV 14",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://cdn1host.online:2999/get.php?username=xman2&password=hhqgjFfHXF&type=m3u_plus",
         "info":"250 conex",
         "import": false
         },
         {
-        "name": "IPTV 48",
+        "name": "IPTV 15",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://cdn1host.online:2999/get.php?username=xman2b&password=d5lxdEfHnB&type=m3u_plus",
         "info":"220 conex",
         "import": false
         },
         {
-        "name": "IPTV 49",
+        "name": "IPTV 16",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://cdn1host.online:2999/get.php?username=velous&password=OyEDBHzcaE&type=m3u_plus",
         "info":"200 conex",
         "import": false
         },
         {
-        "name": "IPTV 50",
+        "name": "IPTV 17",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://cdn1host.online:2999/get.php?username=happy2024&password=newyear&type=m3u_plus",
         "info":"100 conex",
-        "import": false
-        },
-        {
-        "name": "IPTV Series y Movies",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://84423.xyz:8000/get.php?username=SamuraITVod&password=P9476gmd23&type=m3u_plus",
-        "info":"200 conex",
         "import": false
         }
     ]
