@@ -89,6 +89,16 @@
         "isHost":""
         },
         {
+        "name": "M Campeones 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
+        "url": "https://streamtp2.com/global1.php?stream=movistarligadecampeones",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
         "name": "#Vamos 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
@@ -113,16 +123,6 @@
         "info":"",
         "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",
         "url": "https://xyzdddd.mizhls.ru/lb/premium436/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "M Deportes 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",
-        "url": "https://webufffit.mizhls.ru/lb/primamovistar1/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
@@ -224,7 +224,7 @@
         "info":"",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
         "url": "https://xyzdddd.mizhls.ru/lb/premium445/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
         "isHost":""
