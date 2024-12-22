@@ -798,6 +798,17 @@
         "name": "ESPN 4 🇦🇷",
         "info":"",
         "image": "https://i.postimg.cc/DzkccVrN/ESPN4.png",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-4/embed3.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 4 🇦🇷",
+        "info":"",
+        "image": "https://i.postimg.cc/DzkccVrN/ESPN4.png",
         "url": "https://deporte-libre.fans/en-vivo-online/espn-4/embed2.php",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
@@ -820,23 +831,23 @@
         "name": "ESPN 5 🇦🇷",
         "info":"",
         "image": "",
-        "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed2.php",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "",
-        "online":"true",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "ESPN 5 🇦🇷",
-        "info":"",
-        "image": "",
         "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed3.php",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
         "embed": "",
         "isHost":"true"
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"",
+        "image": "",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed2.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "ESPN 6 🇦🇷",
@@ -848,6 +859,17 @@
         "isHost":"true"
         },
         {
+        "name": "ESPN 6 🇦🇷",
+        "info":"",
+        "image": "",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-6/embed2.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "ESPN 7 🇦🇷",
         "info":"",
         "image": "",
@@ -856,6 +878,28 @@
         "referer" : "",
         "online":"true",
         "isHost":"true"
+        },
+        {
+        "name": "ESPN 7 🇦🇷",
+        "info":"",
+        "image": "",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-7/embed3.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 7 🇦🇷",
+        "info":"",
+        "image": "",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-7/embed2.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "ESPN Premium 🇦🇷",
