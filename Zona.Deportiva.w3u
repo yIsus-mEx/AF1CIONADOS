@@ -802,6 +802,17 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"",
+        "image": "",
+        "url": "https://streamtp1.com/global1.php?stream=espn5",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
         "embed": "",
         "isHost":"true"
         },
@@ -809,7 +820,18 @@
         "name": "ESPN 5 🇦🇷",
         "info":"",
         "image": "",
-        "url": "https://streamtp1.com/global1.php?stream=espn5",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed2.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"",
+        "image": "",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed3.php",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
