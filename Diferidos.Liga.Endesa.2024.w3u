@@ -967,6 +967,87 @@
 	        	"url": "",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		}
+            	]
+	},
+
+	{
+        "name": "JORNADA 12",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Laguna Tenerife VS UCAM Murcia",
+	        	"info": "21/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/i8ebcp4zlgy0/Liga_Endesa_Laguna_Tenerife_VS_UCAM_Murcia_211224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Hiopos Lleida VS Coviran Granada",
+	        	"info": "21/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/cksne55icjsv/Liga_Endesa_Hiopos_Lleida_VS_Coviran_Granada_211224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Andorra",
+	        	"info": "22/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/yyji69wbylka/Liga_Endesa_Barsa_VS_Andorra_221224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Unicaja",
+	        	"info": "22/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/t4bs0ksmmi02/Liga_Endesa_Baskonia_VS_Unicaja_221224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bilbao Basket VS Manresa",
+	        	"info": "22/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/9pw73aomdfsw/Liga_Endesa_Bilbao_VS_Manresa_221224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Gran Canaria VS Zaragoza",
+	        	"info": "22/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/lfw5f0yuofaf/Liga_Endesa_Gran_Canaria_VS_Zaragoza_221224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Valencia VS Real Madrid",
+	        	"info": "22/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/16mt50lkkywx/Liga_Endesa_Valencia_VS_Real_Madrid_221224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		},
 			{
        			"name": "",
@@ -981,20 +1062,11 @@
 	},
 
 	{
-        "name": "JORNADA 12",
+        "name": "JORNADA 13",
         "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
         "info": "",
         "stations":
             [
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
 			{
        			"name": "",
 	        	"info": "",
