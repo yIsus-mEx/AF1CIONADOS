@@ -1400,38 +1400,38 @@
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Alba VS Zalguiris",
+	        	"info": "[17/12/24]",
 			"online": "true",
 	        	"image": "",
-	        	"url": "",
+	        	"url": "https://filemoon.to/d/8cg72jacqjk8/Euroliga_Alba_VS_Zalguiris_171224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "FC Barcelona VS Fenerbache",
+	        	"info": "[17/12/24]",
 			"online": "true",
 	        	"image": "",
-	        	"url": "",
+	        	"url": "https://filemoon.to/d/5x2p98t242mk/Euroliga_Barsa_VS_Fenerbahce_171224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "EFES VS Estrella Roja Belgrado",
+	        	"info": "[18/12/24]",
 			"online": "true",
 	        	"image": "",
-	        	"url": "",
+	        	"url": "https://filemoon.to/d/4eb4l3262irs/Euroliga_Efes_VS_Estrella_roja_181224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Olympiakos VS Virtus",
+	        	"info": "[18/12/24]",
 			"online": "true",
 	        	"image": "",
-	        	"url": "",
+	        	"url": "https://filemoon.to/d/qysyk09gma7v/Euroliga_Olympiakos_VS_Virtus_181224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -1440,6 +1440,96 @@
 
 		{
         	"name": "JORNADA 17",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Panathinaikos VS Baskonia",
+	        	"info": "[19/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/qkv3keggfpyi/Euroliga_Panathinaikos_VS_Baskonia_191224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Monaco",
+	        	"info": "[19/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/dbej5ahsofnf/Euroliga_Real_Madrid_VS_Monaco_191224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "[19/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "EFES VS Partizan Belgrado",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/ntidof9bri73/Euroliga_Efes_VS_Partizan_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Maccabi",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/oovl8gyf5gsm/Euroliga_Estrella_Roja_VS_Maccabi_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Alba Berlin",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/zeoi0n7ksngr/Euroliga_Olympiakos_VS_Alba_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS FC Barcelona",
+	        	"info": "[20/12/24]",,
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/x0grc4gwmmz8/Euroliga_Virtus_VS_Barsa_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Asvel",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/tc1qj3190jkn/Euroliga_Zalguiris_VS_Asvel_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Bayern Munich",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/z7t4c1r5lgjk/Euroliga_Milan_VS_Bayern_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 18",
         	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         	"info": "",
         	"stations":
