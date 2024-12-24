@@ -8,6 +8,24 @@
 "stations":
   [
     {
+      "name": "Jardinero fiel, El",
+      "image": "https://pics.filmaffinity.com/the_constant_gardener-832678055-large.jpg",
+      "info": "[Español][2005]",
+      "url": "https://listeamed.net/v/KNWlEDL0Q3mEkbp",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Conclave",
+      "image": "https://pics.filmaffinity.com/conclave-496920745-large.jpg",
+      "info": "[Latino][2024]",
+      "url": "https://listeamed.net/v/JzkPxzz2J7Axbyd",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "Gladiator 2",
       "image": "https://pics.filmaffinity.com/gladiator_ii-808387712-large.jpg",
       "info": "[VOSE 2024]",
