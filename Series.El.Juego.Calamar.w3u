@@ -285,6 +285,80 @@
                 "online":"true"
                 }
             ]
-        }
+        },
+
+        {
+        "name": "Juego del Calamar",
+        "info":"Temporada 2",
+        "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+        "imageScale": "",
+        "stations":
+        [
+                {
+                "name": "Episodio 01",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/m7WJxg1ZeyrOBze",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 02",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/eL2157KvaYm5rw4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 03",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/Ro7kOVJ6XGZOZWB",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 04",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/8lKQxYQX8e8xDGY",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 05",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/KrdZ5kMrv7bEmX4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 06",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/KNWlEDL03YKEkbp",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 07",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+                "url": "https://listeamed.net/v/04rQxWLX0M6Eb2N",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                }
+	]
+	}
+
     ]
 }				
