@@ -1,0 +1,40 @@
+{
+"name": "Pruebas",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Pruebas.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+        "name": "Prueba 01",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "embed": "",
+        "isHost":""
+        },
+        {
+        "name": "Prueba 02",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+		"name": "Prueba 03",
+		"info":"",
+        "online":"true",
+		"image": "",
+		"url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+        }
+    ]
+}
