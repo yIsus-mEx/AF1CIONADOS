@@ -79,6 +79,15 @@
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Generation Matrix",
+        "info":"[Español][2023]",
+        "image": "",
+        "url":"",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
        	}
     ]
 }
