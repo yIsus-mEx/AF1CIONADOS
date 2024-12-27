@@ -1126,6 +1126,37 @@
         }
       ]
     },
+
+    {
+      "name": "Tsunami, la ola que conmocionó el Mundo",
+      "image": "https://pics.filmaffinity.com/tsunami_the_wave_that_shook_the_world-328699802-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/tsunami_the_wave_that_shook_the_world-328699802-large.jpg",
+          "url": "//listeamed.net/v/wP20501GbQlxdmy",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/tsunami_the_wave_that_shook_the_world-328699802-large.jpg",
+          "url": "//listeamed.net/v/6zeREa0KzbGxZPa",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+    ]
+    },
+
     {
       "name": "Ultimos Zares, Los",
       "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
