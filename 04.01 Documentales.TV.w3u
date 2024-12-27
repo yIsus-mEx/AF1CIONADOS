@@ -9,6 +9,36 @@
   [
 
     {
+      "name": "7 dias en Marte",
+      "image": "https://pics.filmaffinity.com/brian_cox_seven_days_on_mars-908546731-large.jpg",
+      "info": "2022",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/brian_cox_seven_days_on_mars-908546731-large.jpg",
+          "url": "https://listeamed.net/v/qA3WOmMmZ23OKkz",
+          "info": "2022",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/brian_cox_seven_days_on_mars-908546731-large.jpg",
+          "url": "https://listeamed.net/v/VqbX53BezXaOQzp",
+          "info": "2022",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+    ]
+    },
+
+    {
       "name": "900 dias sin Anabel",
       "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
       "info": "2024",
