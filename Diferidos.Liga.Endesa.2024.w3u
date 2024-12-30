@@ -987,6 +987,15 @@
         		"isHost": "true"
         		},
 			{
+       			"name": "Breogan VS Girona",
+	        	"info": "21/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/2oo321amu5i7/Liga_Endesa_Breogan_VS_Girona_211224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
        			"name": "Hiopos Lleida VS Coviran Granada",
 	        	"info": "21/12/24",
 			"online": "true",
@@ -1041,6 +1050,87 @@
         		"isHost": "true"
         		},
 			{
+       			"name": "Leyma VS Juventut",
+	        	"info": "22/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/p4cx2999ncdc/Liga_Endesa_Leyma_VS_Juventut_221224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+	},
+
+	{
+        "name": "JORNADA 13",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Juventut VS Hiopos Lleida",
+	        	"info": "27/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/kpzxy8satfx9/Liga_Endesa_Juventut_VS_Hiopos_Lleida_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Gran Canaria VS Valencia Basket",
+	        	"info": "27/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/kxtcboday5aa/Liga_Endesa_Gran_Canaria_VS_Valencia_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Leyma VS Bilbao Basket",
+	        	"info": "28/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/plxndxrb9uff/Liga_Endesa_Leyma_vs_Bilbao_281224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "UCAM Murcia VS Coviran Granada",
+	        	"info": "28/12/24",,
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/ddtqbwlszftn/Liga_Endesa_Ucam_Murcia_vs_Coviran_Granada_281224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Unicaja VS Breogan",
+	        	"info": "28/12/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.to/d/2fv41u5744fk/Liga_Endesa_Unicaja_vs_Breogan_281224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
        			"name": "",
 	        	"info": "",
 			"online": "true",
@@ -1062,7 +1152,7 @@
 	},
 
 	{
-        "name": "JORNADA 13",
+        "name": "JORNADA 14",
         "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
         "info": "",
         "stations":
