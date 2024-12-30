@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "UFC Fight Night: Covington vs Buckley",
+         "name": "UFC Fight Night: CovingtoN vs Buckley",
          "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
          "imageScale": "",
          "info":"",
@@ -17,11 +17,13 @@
                 {
                 "name": "UFC Fight Night: Covington vs Buckley",
                 "info":"[Latino]",
+                "online":"true",
                 "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
                 "url":"https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
-                "userAgent": "PlusMediaPlayer/0.0.9",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
                 "isHost":"true",
-                "online":"true"
+                "referer" : "https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
+                "embed": ""
                 }
             ]
         },
