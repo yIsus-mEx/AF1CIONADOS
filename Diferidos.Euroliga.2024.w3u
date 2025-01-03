@@ -1625,6 +1625,96 @@
         	"stations":
             	[
 	       		{
+ 	       		"name": "Zalguiris VS Olympiakos",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/pdbgpui29zfo/Euroliga_Zalguiris_VS_Olympiakos_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Monaco",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/cci2vyhbc962/Euroliga_Alba_VS_Monaco_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Milan",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/vgw9uuytarrp/Euroliga_Asvel_VS_Milan_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 20",
+        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
  	       		"name": "",
 	        	"info": "",
 			"online": "true",
@@ -1707,7 +1797,6 @@
         		}
             	]
 		}
-
 
 
   ]
