@@ -19,7 +19,7 @@
         "isHost":""
         },
         {
-        "name": "Prueba 002",
+        "name": "Prueba 02",
         "info":"",
         "online":"true",
         "image": "",
@@ -34,7 +34,7 @@
 		"info":"",
         "online":"true",
 		"image": "",
-		"url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+		"url": "acestream://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4"
         }
     ]
 }
