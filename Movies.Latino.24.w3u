@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Sonic 3 (TS)",
+        "info": "[2024][Latino]",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://peytonepre.com/file/bx4r9uv8npdo",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Kraven El Cazador (TS)",
         "info": "[2024][Latino]",
         "image": "https://pics.filmaffinity.com/Kraven_the_Hunter-129128157-large.jpg",
