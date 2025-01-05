@@ -22,7 +22,28 @@
         "online":"true",
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.rcnradio.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Ffiles.rcnradio.com%252Fpublic%252Fstyles%252F16_9%252Fpublic%252F2025-01%252FRallyDakar.jpg%253FVersionId%253DoetFGb9lyFhzZIsIXimPQughgSiEMZ05%2526h%253Dc74750f6%2526itok%253D-k9kZkqM%26w%3D3840%26q%3D75&f=1&nofb=1&ipt=a19207f9b150c8fb57abcd17be8d7f766ee0418a44c8e437f6322e2b165a4b2e&ipo=images",
         "url": "acestream://c8912eb22f0761e0da81b2357127918d49d4002e"
+        },
+        {
+        "name": "Prueba 01",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "embed": "",
+        "isHost":""
+        },
+        {
+        "name": "Prueba 02",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "embed": "",
+        "isHost":""
         }
-
     ]
 }
