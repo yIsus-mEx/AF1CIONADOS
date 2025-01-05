@@ -12,7 +12,7 @@
         "info":"",
         "online":"true",
         "image": "",
-        "url": "https://deporte-libre.fans/en-vivo-online/dsports/embed3.php",
+        "url": "http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "embed": "",
@@ -23,11 +23,11 @@
         "info":"",
         "online":"true",
         "image": "",
-        "url": "https://deporte-libre.fans/en-vivo-online/dsports/embed.php",
+        "url": "http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "referer" : "",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
         },
         {
 		"name": "Prueba 03",
