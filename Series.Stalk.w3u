@@ -1,0 +1,110 @@
+{
+"name": "Stalk",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Stalk.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+ 				"url":"https://filemoon.to/d/gwmylseuks3k",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/2peuvj2fc5rr",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/j4v5aekgbmuk",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/vassbjf8h3nh",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/dwh56oee87iu",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/80kuhekniuo0",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/dxo3wcweli7m",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/gmu3f9z1rur7",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 09",
+				"info":"",  
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/7e82k526jvrl",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 10",
+				"info":"",  
+				"image":"https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+				"url":"https://filemoon.to/d/2xza8gu5b53k",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
