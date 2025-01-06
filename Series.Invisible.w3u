@@ -1,0 +1,65 @@
+{
+"name": "Invisible",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Invisible.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://lumiere-a.akamaihd.net/v1/images/dis_3_f8f25c8c.png",
+ 		"url":"https://peytonepre.com/file/z9aabzohtua0",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://lumiere-a.akamaihd.net/v1/images/dis_3_f8f25c8c.png",
+		"url":"https://peytonepre.com/file/1anfqsjskja9",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://lumiere-a.akamaihd.net/v1/images/dis_3_f8f25c8c.png",
+		"url":"https://peytonepre.com/file/t0h1q3rm1j8z",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://lumiere-a.akamaihd.net/v1/images/dis_3_f8f25c8c.png",
+		"url":"https://peytonepre.com/file/tiw2wuo471iz",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://lumiere-a.akamaihd.net/v1/images/dis_3_f8f25c8c.png",
+		"url":"https://peytonepre.com/file/jqmcl900hg1z",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://lumiere-a.akamaihd.net/v1/images/dis_3_f8f25c8c.png",
+		"url":"https://peytonepre.com/file/gxjltaercjc4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
