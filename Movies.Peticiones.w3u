@@ -8,6 +8,15 @@
 "stations":
   [
     {
+      "name": "Mufasa, El rey leon",
+      "image": "https://pics.filmaffinity.com/mufasa_the_lion_king-600247674-large.jpg",
+      "info": "[Latinol][2024]",
+      "url": "https://listeamed.net/v/4bQVOj3ako85wKm",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "Sonic 3, La pelicula",
       "image": "https://pics.filmaffinity.com/sonic_the_hedgehog_3-737206072-large.jpg",
       "info": "[Español][2024]",
