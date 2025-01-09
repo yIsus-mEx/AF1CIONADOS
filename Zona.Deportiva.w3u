@@ -39,6 +39,17 @@
         "isHost":"true"
         },
         {
+        "name": "LaLiga TV 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "LaLiga TV Hypermotion 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
@@ -46,17 +57,6 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "LaLiga TV 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
-        "url": "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "embed": "true",
         "isHost":""
         },
         {
