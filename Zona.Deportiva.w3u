@@ -32,16 +32,6 @@
         "name": "LaLiga TV 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
-        "url": "https://deporte-libre.fans/en-vivo-online/laliga/embed3.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "LaLiga TV 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
         "url": "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
         "userAgent": "",
         "referer" : "",
@@ -133,8 +123,8 @@
         "name": "M Campeones 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
-        "url": "https://deporte-libre.fans/en-vivo-online/m-campeones/embed2.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-liga-de-campeones/?embed=1",
+        "userAgent": "",
         "referer" : "",
         "online":"true",
         "embed": "true",
@@ -171,6 +161,17 @@
         "isHost":""
         },
         {
+        "name": "M Deportes 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes/?embed=1",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "M Deportes 2 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
@@ -178,6 +179,17 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 2 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes-2/?embed=1",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
         "isHost":""
         },
         {
@@ -204,6 +216,17 @@
         "name": "M Deportes 3 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes-3/?embed=1",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 3 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",
         "url": "https://webufffit.mizhls.ru/lb/primamovistar3/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -218,6 +241,17 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 4 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/Df4fq5s4/movistar-deportes-4-Logo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/movistar-deportes-4/?embed=1",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
         "isHost":""
         },
         {
@@ -539,6 +573,17 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/fox-deportes/?embed=1",
+        "userAgent": "",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
         "isHost":""
         },
         {
