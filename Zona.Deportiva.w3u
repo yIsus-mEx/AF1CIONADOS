@@ -1609,16 +1609,6 @@
         "isHost":""
         },
         {
-        "name": "Rally Tv 🇬🇧",
-        "info":"",
-        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium607/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
         "name": "Eurosport 1 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
@@ -1935,6 +1925,26 @@
         "url": "https://xyzdddd.mizhls.ru/lb/premium879/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Rally Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium607/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Rally Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
+        "url": "https://enz.gdplayertv.to/live-tv/rally-tv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
         "online":"true",
         "isHost":""
         }
