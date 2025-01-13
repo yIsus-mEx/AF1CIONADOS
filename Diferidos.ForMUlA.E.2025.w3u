@@ -8,7 +8,7 @@
   "groups": [
     {
       "name": "R02 Mexico E-Prix",
-      "image": "",
+      "image": "https://i.postimg.cc/xTYQ4WCh/mexico-city-e-prix-2025.png",
       "imageScale": "",
       "info": "",
       "stations": 
@@ -16,8 +16,8 @@
         {
           "name": "R02 Mexico E-Prix Carrera",
           "info": "[Latino]",
-          "image": "",
-          "url": "",
+          "image": "https://i.postimg.cc/xTYQ4WCh/mexico-city-e-prix-2025.png",
+          "url": "https://filemoon.to/d/mdjbc5fsvjoq",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -25,8 +25,8 @@
         {
           "name": "R02 Mexico E-Prix Carrera",
           "info": "[Español]",
-          "image": "",
-          "url": "",
+          "image": "https://i.postimg.cc/xTYQ4WCh/mexico-city-e-prix-2025.png",
+          "url": "https://filemoon.to/d/f0wds5wcp85g",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -35,7 +35,7 @@
     },
     {
       "name": "R01 Brasil E-Prix",
-      "image": "",
+      "image": "https://i.postimg.cc/BZmprFQ3/s-o-paulo-eprix-2025.png",
       "imageScale": "",
       "info": "",
       "stations": 
@@ -43,8 +43,8 @@
         {
           "name": "R01 Brasil E-Prix Carrera",
           "info": "[Latino]",
-          "image": "",
-          "url": "",
+          "image": "https://i.postimg.cc/BZmprFQ3/s-o-paulo-eprix-2025.png",
+          "url": "https://filemoon.to/d/fs1rite2dk60",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -52,8 +52,8 @@
         {
           "name": "R01 Brasil E-Prix Carrera",
           "info": "[Español]",
-          "image": "",
-          "url": "",
+          "image": "https://i.postimg.cc/BZmprFQ3/s-o-paulo-eprix-2025.png",
+          "url": "https://listeamed.net/v/0DogOGW2neKOKjM",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
