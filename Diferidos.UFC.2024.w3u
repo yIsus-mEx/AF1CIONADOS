@@ -78,6 +78,24 @@
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "UFC 309: Jones vs Miocic",
+                "info":"[Español][Parte 01]",
+                "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
+                "url":"https://filemoon.to/d/aavkyhm81vay",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "UFC 309: Jones vs Miocic",
+                "info":"[Español][Parte 02]",
+                "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
+                "url":"https://filemoon.to/d/xfkq9nugutt6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
@@ -135,18 +153,18 @@
                 },
                 {
                 "name": "UFC 308: Topuria vs Khalil Holloway",
-                "info":"[Inglesl][Preliminares]",
+                "info":"[Español][Parte 01]",
                 "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
-                "url":"https://listeamed.net/v/KrdZ5kMgvyjEmX4",
+                "url":"https://filemoon.to/d/5lwn4khjq1fq",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
                 {
                 "name": "UFC 308: Topuria vs Khalil Holloway",
-                "info":"[Ingles][Main Card]",
+                "info":"[Español][Parte 02]",
                 "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
-                "url":"https://listeamed.net/v/edVqE4l9oP1EYWm",
+                "url":"https://filemoon.to/d/ger4jbaltx5x",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"

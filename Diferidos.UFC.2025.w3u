@@ -35,6 +35,28 @@
                 "isHost":"true",
                 "referer" : "",
                 "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Español][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Español][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"https://filemoon.to/d/6o60gfa01kw8",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
                 }
             ]
         }
