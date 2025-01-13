@@ -15,12 +15,12 @@
          "stations":
             [
                 {
-                "name": "UFC Fight Night: Covington vs Buckley",
+                "name": "UFC Fight Night: Covington vs Buckle",
                 "info":"[Latino]",
                 "online":"true",
                 "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
                 "url":"https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
-                "userAgent": "PlusMediaPlayer/0.0.9",
+                "userAgent": "",
                 "isHost":"true",
                 "referer" : "",
                 "embed": ""
