@@ -8,18 +8,29 @@
 "groups":
     [
         {
-         "name": "UFC Fight Night: Covington vs Buckley",
-         "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
+         "name": "UFC Fight Night: Dern vs Ribas II",
+         "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
          "imageScale": "",
          "info":"",
          "stations":
             [
                 {
-                "name": "UFC Fight Night: Covington vs Buckley",
-                "info":"[Latino]",
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Latino][Parte 01]",
                 "online":"true",
-                "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
-                "url":"https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"https://ryderjet.com/file/azw7844dznjv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Latino][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"https://ryderjet.com/file/ovr5gbi9u8tf",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "referer" : "",
