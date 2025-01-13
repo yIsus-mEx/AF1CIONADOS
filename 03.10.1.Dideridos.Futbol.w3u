@@ -15,33 +15,6 @@
         "stations":
             [
 			{
-                	"name": "Mallorca VS FC Barcelona",
-	        	"info":"[02-Dic-24][Liga EA Sport 2024]",
-                	"image": "",
-                	"url":"https://filemoon.to/d/2wpj1lb5l33h/Liga_EA_Sport_Mallorca_VS_FC_Barcelona_021224.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Almeria VS Cordoba",
-	        	"info":"[26-Nov-24][Liga HyperMotion 2024]",
-                	"image": "",
-                	"url":"https://filemoon.sx/d/8nambvcea9xf/Liga_Hypermotion_Almeria_VS_Cordoba_261124.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Valencia VS Real Betis",
-	        	"info":"[23-Nov-24][Liga EA Sport 2024]",
-                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_webp/uploads/2024/11/22/6740c68d4d3ff.webp",
-                	"url":"https://filemoon.sx/d/ootnbpvim22u/Liga_EA_Sport_Valencia_VS_Betis_231124.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
            		"name": "Al Hilal vs Inter Miami",
 	       		"info":"[29-Ene-24]",
            		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
@@ -184,6 +157,33 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
+                	},
+			{
+                	"name": "Valencia VS Real Betis",
+	        	"info":"[23-Nov-24][Liga EA Sport 2024]",
+                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_webp/uploads/2024/11/22/6740c68d4d3ff.webp",
+                	"url":"https://filemoon.sx/d/ootnbpvim22u/Liga_EA_Sport_Valencia_VS_Betis_231124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Almeria VS Cordoba",
+	        	"info":"[26-Nov-24][Liga HyperMotion 2024]",
+                	"image": "",
+                	"url":"https://filemoon.sx/d/8nambvcea9xf/Liga_Hypermotion_Almeria_VS_Cordoba_261124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Mallorca VS FC Barcelona",
+	        	"info":"[02-Dic-24][Liga EA Sport 2024]",
+                	"image": "",
+                	"url":"https://filemoon.to/d/2wpj1lb5l33h/Liga_EA_Sport_Mallorca_VS_FC_Barcelona_021224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
                 	}
 			]
 		},
@@ -300,7 +300,7 @@
         "imageScale": "",
         "stations":
         	[
-				{
+		{
                 "name": "Real Madrid vs Atletico",
                 "info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
@@ -326,7 +326,34 @@
                 }
             ]
         },
-		{
+
+	{
+    	"name": "sUPERcOPA dE EsPAÑa 2024/25",
+        "info":"[12-01-2025]",
+        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "Real Madrid vs Barcelona",
+                "info":"[Final][Dialecto Catalan]",
+                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
+                "url":"https://filemoon.to/d/bn8wpqz36n01/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_M_120125.mkv",
+                "isHost":"true",
+                "online":"true"
+                },
+            	{
+                "name": "Real Madrid vs Barcelona",
+                "info":"[Final][Español]",
+                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
+                "url":"https://filemoon.to/d/z2vdarytnbjl/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_O_120125.mkv",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+
+	{
         "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
