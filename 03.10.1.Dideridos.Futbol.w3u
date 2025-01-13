@@ -294,6 +294,13 @@
 	},
 
 	{
+    	"name": "sUPERcOPA dE EsPAÑa",
+        "info":"",
+        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "imageScale": "",
+        "groups":
+	[
+	{
     	"name": "sUPERcOPA dE EsPAÑa 2022/23",
         "info":"",
         "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
@@ -330,14 +337,14 @@
 	{
     	"name": "sUPERcOPA dE EsPAÑa 2024/25",
         "info":"[12-01-2025]",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
         "imageScale": "",
         "stations":
         	[
             	{
                 "name": "Real Madrid vs Barcelona",
                 "info":"[Final][Dialecto Catalan]",
-                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
                 "url":"https://filemoon.to/d/bn8wpqz36n01/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_M_120125.mkv",
                 "isHost":"true",
                 "online":"true"
@@ -345,13 +352,15 @@
             	{
                 "name": "Real Madrid vs Barcelona",
                 "info":"[Final][Español]",
-                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
                 "url":"https://filemoon.to/d/z2vdarytnbjl/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_O_120125.mkv",
                 "isHost":"true",
                 "online":"true"
                 }
             ]
-        },
+        }
+	]
+	},
 
 	{
         "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
