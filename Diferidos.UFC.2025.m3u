@@ -1,7 +1,7 @@
 {
 "name": "UFC: 2025",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Diferidos.UFC.2025.w3u",
+"url": "https://af1c1onados.vercel.app/Diferidos.UFC.2025.m3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
@@ -15,12 +15,12 @@
          "stations":
             [
                 {
-                "name": "UFC Fight Night: Covington vs Buckle",
+                "name": "UFC Fight Night: Covington vs Buckley",
                 "info":"[Latino]",
                 "online":"true",
                 "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
                 "url":"https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
-                "userAgent": "",
+                "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "referer" : "",
                 "embed": ""
