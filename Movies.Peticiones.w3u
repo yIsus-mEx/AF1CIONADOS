@@ -53,15 +53,6 @@
       "online": "true"
     },
     {
-      "name": "Desde Mi Cielo",
-      "image": "https://m.media-amazon.com/images/I/91T86naz4RL._AC_UF894,1000_QL80_.jpg",
-      "info": "[Español][2009]",
-      "url": "https://filemoon.to/d/epra4ttbqk43",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "Mary Poppins",
       "image": "https://m.media-amazon.com/images/I/81QbcpcITmL._AC_UF894,1000_QL80_.jpg",
       "info": "[MultiAudio][1964]",
@@ -93,15 +84,6 @@
       "image": "https://pics.filmaffinity.com/emilia_perez-892423644-large.jpg",
       "info": "[Latino 2024]",
       "url": "https://listeamed.net/v/MAlwEMWrQvM5J39",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "Juror n 2",
-      "image": "https://pics.filmaffinity.com/juror_2-506872185-large.jpg",
-      "info": "[Español TS-Screener 2024]",
-      "url": "https://filemoon.to/d/hqme7yv2gboi",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true"
@@ -161,33 +143,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "Codigo Emperador",
-      "image": "https://es.web.img2.acsta.net/pictures/21/12/13/18/04/2134016.jpg",
-      "info": "[2022]",
-      "url": "https://filemoon.to/d/noiuiedxlaft",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "17 Otra Vez",
-      "info": "[2009]",
-      "image": "https://pics.filmaffinity.com/17_again-107120789-large.jpg",
-      "url": "https://filemoon.to/d/bvtij1o59041",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "Fantasmas de Scrooge, Los",
-      "image": "https://i.postimg.cc/q7S49Dvd/Fantasmas-de-Scrooge.jpg",
-      "info": "[2009]",
-      "url": "https://filemoon.to/d/gruekz5rfoys/Fantasmas_de_Scrooge_2009_Pelicula_esp_bluray_720p_mkv.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "GhostLand",
       "image": "https://pics.filmaffinity.com/ghostland-186804143-large.jpg",
       "info": "[2018]",
@@ -201,28 +156,6 @@
       "image": "https://pics.filmaffinity.com/cosas_imposibles-628504037-large.jpg",
       "info": "[Latino 2021]",
       "url": "https://listeamed.net/v/8ozgENDMkWZ5mjA",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "Calles de Fuego",
-      "image": "https://pics.filmaffinity.com/streets_of_fire-403171158-large.jpg",
-      "info": "[Español 1984]",
-      "url": "https://filemoon.to/d/w7gzvh6ldgvb/Calles_de_Fuego_1984_Pelicula_esp_bluray_720p.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "Ali G anda suelto",
-      "image": "https://pics.filmaffinity.com/ali_g_indahouse-197675071-large.jpg",
-      "info": "[Español 2002]",
-      "url": "https://filemoon.to/d/nn3mzl4ki9nr",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
@@ -277,15 +210,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "La Casa de Cera",
-        "info": "[2005][Español]",
-        "online": "true",
-        "image": "https://es.web.img2.acsta.net/pictures/14/02/18/12/32/332821.jpg",
-        "url": "https://filemoon.to/bdd/yeam80c7rlzb",
-        "isHost": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "Top Gun: Maverick",
         "info": "[2022][Latino]",
         "online": "true",
@@ -335,24 +259,6 @@
         "info": "[2007][Español]",
         "image": "https://pics.filmaffinity.com/Un_puente_hacia_Terabithia-349890819-large.jpg",
         "url": "https://vidhideplus.com/file/136sjplpra1y",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "La Colmena",
-        "info": "[1982][Español]",
-        "image": "https://pics.filmaffinity.com/La_colmena-131368036-large.jpg",
-        "url": "https://ok.ru/video/7284201622063",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Dual",
-        "info": "[2022][Español]",
-        "image": "https://pics.filmaffinity.com/Dual-155453589-large.jpg",
-        "url": "https://filemoon.to/d/szsalb0lhsmr",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -421,7 +327,7 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "La TrampA",
+        "name": "La Trampa",
         "info": "[2024][Español]",
         "image": "https://es.web.img3.acsta.net/img/6f/23/6f23fb1b04dc2b8ca6aba2f896fb0195.jpg",
         "url": "https://vidhideplus.com/v/kbskua1p41ou",
@@ -624,15 +530,6 @@
         "url": "https://filemoon.to/d/mu07t6sq6bdq/Simon__2023_Pelicula_.mp4",
         "info": "[2023][Latino]",
         "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "White Girl",
-        "image": "https://i.postimg.cc/NGKVCsF0/white.png",
-        "url": "https://filemoon.to/d/k6txmn3l9e7h",
-        "info": "[2018][MultiAudio]",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
