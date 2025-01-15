@@ -1,9 +1,10 @@
 #EXTM3U url=""
 
-#EXTINF:-1 tvg-name="LISTA AF1CIONADOS" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="AF1CIONADOS SPORTS",ARENA SPORT 1 PREMIUM
+#EXTINF:-1 tvg-name="LISTA AF1CIONADOS" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="AF1CIONADOS SPORTS",ARENA SPORT 01 PREMIUM
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8
+#https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
 
 #EXTINF:-1 tvg-name="LISTA AF1CIONADOS" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="AF1CIONADOS SPORTS",ARENA SPORT 2 PREMIUM
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
