@@ -143,15 +143,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "GhostLand",
-      "image": "https://pics.filmaffinity.com/ghostland-186804143-large.jpg",
-      "info": "[2018]",
-      "url": "https://filemoon.to/d/4jwuzenwrayv/Ghostland_2018_Pelicula_esp_web_1080p_mkv.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "Cosas imposibles",
       "image": "https://pics.filmaffinity.com/cosas_imposibles-628504037-large.jpg",
       "info": "[Latino 2021]",
@@ -173,39 +164,12 @@
       	"online": "true",
       	"import": false
     	},
-       {
-        "name": "Gladiador",
-        "info": "[2000][Español]",
-        "image": "https://es.web.img3.acsta.net/medias/nmedia/18/70/92/02/20149073.jpg",
-        "url": "https://filemoon.to/d/yaakq9zzhi0m",
-        "online": "true",
-        "isHost": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
         {
         "name": "Cantante, El",
         "info": "[2006][Latino]",
         "online": "true",
         "image": "https://pics.filmaffinity.com/el_cantante_the_singer-753953591-large.jpg",
         "url": "https://filemoon.to/d/lxyqat6vxl9n/Cantante_2006_Pelicula_latino.mp4",
-        "isHost": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Jesus de Nazaret",
-        "info": "[1977][Español]",
-        "online": "true",
-        "image": "https://pics.filmaffinity.com/jesus_of_nazareth-101677941-large.jpg",
-        "url": "https://filemoon.to/d/r160i7gxc84m/Jesus_Nazaret_1977_Pelicula_Edicion_Especial_DVDRIP_Spanish_mkv.mp4",
-        "isHost": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Harriet, en busca de la libertad",
-        "info": "[2019][Español]",
-        "online": "true",
-        "image": "https://pics.filmaffinity.com/harriet-601150025-large.jpg",
-        "url": "https://filemoon.to/d/bvitklx2pfc6",
         "isHost": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
@@ -241,15 +205,6 @@
         "info": "[1998][Español]",
         "image": "https://pics.filmaffinity.com/El_show_de_Truman-130091557-large.jpg",
         "url": "https://listeamed.net/v/k3gG5q80QyBO1N2",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Hogar",
-        "info": "[2020][Español]",
-        "image": "https://pics.filmaffinity.com/Hogar-588283070-large.jpg",
-        "url": "https://filemoon.to/d/c41z3saeoo7j",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -376,15 +331,6 @@
         "info": "[1976][Español]",
         "image": "https://images.justwatch.com/poster/308916776/s718/taxi-driver.jpg",
         "url": "https://filemoon.to/d/q1tti2821zay",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Caza, La",
-        "info": "[2012][Español]",
-        "image": "https://pics.filmaffinity.com/jagten_the_hunt-754157806-large.jpg",
-        "url": "https://filemoon.to/d/2ejd4dazgk48",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
