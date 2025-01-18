@@ -1832,8 +1832,26 @@
         		"isHost": "true"
         		},
 	       		{
+ 	       		"name": "Zalguiris VS Virtus",
+        		"info": "[15/01/25]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/2zjm03m2kflo/Euroliga_Zalguiris_VS_Virtus_150125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern VS Monaco",
+        		"info": "[15/01/25]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/tnrdryz7rng9/Euroliga_Bayern_VS_Monaco_150124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
  	       		"name": "",
-        		"info": "[14/01/25]",
+        		"info": "[]",
 			"online": "true",
 	        	"image": "",
 	        	"url": "",
@@ -1842,25 +1860,7 @@
         		},
 	       		{
  	       		"name": "",
-        		"info": "[14/01/25]",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-	       		{
- 	       		"name": "",
-        		"info": "[14/01/25]",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-	       		{
- 	       		"name": "",
-        		"info": "[14/01/25]",
+        		"info": "[]",
 			"online": "true",
 	        	"image": "",
 	        	"url": "",
