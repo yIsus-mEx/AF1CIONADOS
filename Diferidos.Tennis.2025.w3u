@@ -1,0 +1,74 @@
+{
+"name": "Tennis",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Tennis.2025.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+         {
+         "name": "Tennis Mix",
+         "image": "https://i.postimg.cc/GpBsTtsV/Tennis-Mix.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.mIx.w3u",
+         "info":"",
+         "import": false
+         },
+         {
+         "name": "Australian Open 2024",
+         "image": "https://i.postimg.cc/FzLq1YhZ/open-aust.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Australia.2024.w3u",
+         "info":"[VIC, Australia]",
+         "import": false
+         },
+         {
+         "name": "BNP Paribas Open 2024",
+         "image": "https://i.postimg.cc/SNFcgTyr/indian-wells.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Indian.Wells.2024.w3u",
+         "info":"[Indian Wells, USA]",
+         "import": false
+         },
+         {
+         "name": "Miami Open 2024",
+         "image": "https://i.postimg.cc/dVBCdSMT/miami-2024.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Miami.2024.w3u",
+         "info":"[Miami Open, USA]",
+         "import": false
+         },
+         {
+         "name": "Barcelona Banc Sabadell Open 2024",
+         "image": "https://i.postimg.cc/hPtg859C/2024-04-10-Open-Barcelona-2024.jpg",
+         "url": "",
+         "info":"[Barcelona, España]",
+         "import": false
+         },
+         {
+         "name": "Madrid Mutua Open 2024",
+         "image": "https://phantom-marca.unidadeditorial.es/ae560e4dfbf67e309a861365ca75731b/resize/660/f/webp/assets/multimedia/imagenes/2024/04/24/17139665310048.jpg",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Madrid.2024.w3u",
+         "info":"[Madrid, España]",
+         "import": false
+         },
+         {
+         "name": "Roland Garros Open 2024",
+         "image": "https://i.postimg.cc/kG98phtD/2024-05-10-Open-Roland-Garros-2024.jpg",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Roland.Garros.2024.w3u",
+         "info":"[Paris, Francia]",
+         "import": false
+         },
+         {
+         "name": "Wimbledon Open 2024",
+         "image": "https://i.postimg.cc/prStG3mt/2024-07-10-Open-Wimbledon-2024.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Wimbledon.2024.w3u",
+         "info":"[Londres, UK]",
+         "import": false
+         },
+         {
+         "name": "US Open 2024",
+         "image": "https://i.postimg.cc/3NP7nzqD/2024-08-10-Open-US-2024.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.US.2024.w3u",
+         "info":"[Nueva York, USA]",
+         "import": false
+         }
+     ]
+}
