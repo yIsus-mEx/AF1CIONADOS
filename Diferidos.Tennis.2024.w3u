@@ -189,7 +189,30 @@
          "import": false
          }
         ]
+        },
+
+        {
+        "name": "Riyadh Season",
+        "image": "https://i.postimg.cc/7Yr8FmpT/Arabia-Saudi.jpg",
+        "groups":
+        [
+        {
+        "name": "Tennis Riyadh Season 2024",
+        "image": "https://stories.saudi-expatriates.com/wp-content/uploads/2023/09/Riyadh-Season-2023-Big-Time-will-begin-from-28th-October-stories.saudi-expatriates.com_.jpg",
+        "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Riyadh.2024.w3u",
+         "info":"[Riyadh, Arabia Saudi]",
+         "import": false
+         },
+        {
+        "name": "Tennis Riyadh Season 2025",
+        "image": "https://stories.saudi-expatriates.com/wp-content/uploads/2023/09/Riyadh-Season-2023-Big-Time-will-begin-from-28th-October-stories.saudi-expatriates.com_.jpg",
+        "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Riyadh.2025.w3u",
+         "info":"[Riyadh, Arabia Saudi]",
+         "import": false
+         }
+        ]
         }
+
 
      ]
 }
