@@ -40,7 +40,7 @@
         {
         "name": "BNP Paribas Open",
         "image": "https://i.postimg.cc/3wGXHKqP/Bandera_USA.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "BNP Paribas Open 2024",
@@ -62,7 +62,7 @@
         {
         "name": "Miami Open",
         "image": "https://i.postimg.cc/3wGXHKqP/Bandera_USA.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "Miami Open 2024",
@@ -84,7 +84,7 @@
         {
         "name": "Barcelona Banc Sabadell Open",
         "image": "https://i.postimg.cc/QM7ynZJM/Bandera_España.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "Barcelona Banc Sabadell Open 2024",
@@ -106,7 +106,7 @@
         {
         "name": "Madrid Mutua Open",
         "image": "https://i.postimg.cc/QM7ynZJM/Bandera_España.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "Madrid Mutua Open 2024",
@@ -128,7 +128,7 @@
         {
         "name": "Roland Garros Open",
         "image": "https://i.postimg.cc/sxHQY0ZF/Bandera-Francia.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "Roland Garros Open 2024",
@@ -150,7 +150,7 @@
         {
         "name": "Wimbledon Open",
         "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Breta-a.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "Wimbledon Open 2024",
@@ -172,7 +172,7 @@
         {
         "name": "US Open",
         "image": "https://i.postimg.cc/3wGXHKqP/Bandera_USA.jpg",
-        "stations":
+        "groups":
         [
          {
          "name": "US Open 2024",
