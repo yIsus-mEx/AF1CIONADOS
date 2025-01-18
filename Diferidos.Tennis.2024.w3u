@@ -14,6 +14,12 @@
          "info":"",
          "import": false
          },
+
+        {
+        "name": "Australian Open",
+        "image": "",
+        "stations":
+        [
          {
          "name": "Australian Open 2024",
          "image": "https://i.postimg.cc/FzLq1YhZ/open-aust.png",
@@ -27,7 +33,10 @@
         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.Open.Australia.2025.w3u",
         "info":"[VIC, Australia]",
         "import": false
+        }
+        ]
         },
+
          {
          "name": "BNP Paribas Open 2024",
          "image": "https://i.postimg.cc/SNFcgTyr/indian-wells.png",
