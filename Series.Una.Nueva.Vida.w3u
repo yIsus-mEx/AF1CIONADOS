@@ -168,6 +168,15 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
 		"isHost":"true",
 		"online":"true"
+		},
+		{
+		"name": "Episodio 19",
+		"info":"",  
+		"image":"https://image.tmdb.org/t/p/w500/9eAwXKhkNUgz1HceyYITi0uREGU.jpg",
+		"url":"https://filemoon.to/d/c5ni3a7f8prg",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
 		}
 	]
 }
