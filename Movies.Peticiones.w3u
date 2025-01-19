@@ -8,6 +8,15 @@
 "stations":
   [
     {
+      "name": "Segundo Premio",
+      "image": "https://pics.filmaffinity.com/segundo_premio-839408415-large.jpg",
+      "info": "[2024]",
+      "url": "https://ryderjet.com/file/osafnb3pq13b",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "Un Rey en la Habana",
       "image": "https://m.media-amazon.com/images/M/MV5BZTY0MDAyYzMtNmU4ZC00YjA5LThjNzgtZjNhM2E1NjNmM2JkXkEyXkFqcGc@._V1_.jpg",
       "info": "[2005]",
