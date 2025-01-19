@@ -59,6 +59,39 @@
                 "embed": ""
                 }
             ]
+        },
+
+        {
+         "name": "311 UFC Fight Night: Islam Makhachev VS Renaoto Moicano",
+         "image": "",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "311 UFC Fight Night: Islam Makhachev VS Renaoto Moicano",
+                "info":"[español][Parte 01]",
+                "online":"true",
+                "image": "",
+                "url":"https://filemoon.to/d/rohjt3rzv4vm/Ufc_311_Islam_Makhachev_-_Renato_Moicano_2025_Part1.mkv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "311 UFC Fight Night: Islam Makhachev VS Renaoto Moicano",
+                "info":"[español][Parte 02]",
+                "online":"true",
+                "image": "",
+                "url":"https://filemoon.to/d/45ol4yw7ql80/Ufc_311_Islam_Makhachev_-_Renato_Moicano_2025_Part2.mkv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
         }
+
     ]
 }
