@@ -5,15 +5,8 @@
 "image": "https://img.jagranjosh.com/images/2025/January/1612025/Australia-Open-2025.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups": 
+"stations": 
     [
-        {
-        "name": "Primera Ronda",
-        "image": "https://i.postimg.cc/cCgLfgPg/1.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
                 {
                 "name": "Lucas Pouille VS Alexander Zverev",
                 "info": "[12.01.25]",
@@ -49,17 +42,7 @@
             	"userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost": "true",
                 "online": "true"
-                }
-            ]
-        },
-
-        {
-        "name": "Segunda Ronda",
-        "image": "https://i.postimg.cc/SKSQDtwp/2.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
+                },
                 {
                 "name": "Pedro Martinez VS Alexander Zverev",
                 "info": "[13.01.25]",
@@ -70,23 +53,122 @@
                 "online": "true"
                 },
                 {
-                "name": "Y Nichioka VS Carlos Alcaraz",
+                "name": "Y. Nichioka VS Carlos Alcaraz",
                 "info": "[15.01.25]",
                 "image": "https://img.jagranjosh.com/images/2025/January/1612025/Australia-Open-2025.jpg",
                 "url": "https://filemoon.to/d/ktj5j70qjdl1/Open_Australia_Nishioka_VS_Alcaraz_150124.mkv",
             	"userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost": "true",
                 "online": "true"
-                }
-            ]
-        },
-        {
-        "name": "Tercera Ronda",
-        "image": "https://i.postimg.cc/DwyycNV3/3.png",
-        "imageScale": "",
-        "info": "",
-        "stations":
-            [
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "info": "[]",
+                "image": "",
+                "url": "",
+            	"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online": "true"
+                },
                 {
                 "name": "",
                 "info": "[]",
@@ -105,169 +187,5 @@
                 "isHost": "true",
                 "online": "true"
                 }
-            ]
-        },
-        {
-        "name": "Cuarta Ronda",
-        "image": "https://i.postimg.cc/d0gswthJ/4.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        },
-        {
-        "name": "Cuartos de Final 1",
-        "image": "https://i.postimg.cc/PxmMyG0h/cuartos.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        },
-        {
-        "name": "Cuartos de Final 2",
-        "image": "https://i.postimg.cc/PxmMyG0h/cuartos.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        },
-        {
-        "name": "Semifinal 1",
-        "image": "https://i.postimg.cc/c4JQg81d/semi.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        },
-        {
-        "name": "Semifinal 2",
-        "image": "https://i.postimg.cc/c4JQg81d/semi.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        },
-        {
-        "name": "Finales",
-        "image": "https://i.postimg.cc/3JWvJ59R/finales.png",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "",
-                "info": "[]",
-                "image": "",
-                "url": "",
-            	"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        }
     ]
 }
