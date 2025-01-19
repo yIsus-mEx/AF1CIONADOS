@@ -5,16 +5,38 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups": 
+"stations": 
     [
-
-        {
-        "name": "Primera Ronda",
-        "image": "",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
+                {
+                "name": "",
+                "image": "",
+                "info": "09/03/2025",
+                "url": "",
+              	"userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "image": "",
+                "info": "09/03/2025",
+                "url": "",
+              	"userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                },
+                {
+                "name": "",
+                "image": "",
+                "info": "09/03/2025",
+                "url": "",
+              	"userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHot": "true",
+                "online": "true"
+                },
                 {
                 "name": "",
                 "image": "",
@@ -25,127 +47,5 @@
                 "isHot": "true",
                 "online": "true"
                 }
-            ]
-        },
-        
-        {
-        "name": "Segunda Ronda",
-        "image": "",,
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "image": "",
-                "info": "09/03/2025",
-                "url": "",
-              	"userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHot": "true",
-                "online": "true"
-                }
-            ]
-        },
-        
-        {
-        "name": "Tercera Ronda",
-        "image": "",
-        "imageScale": "",
-        "info": "",
-        "stations":
-            [
-                {
-                "name": "",
-                "image": "",
-                "info": "09/03/2025",
-                "url": "",
-              	"userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHot": "true",
-                "online": "true"
-                }
-            ]
-        },
-        
-        {
-        "name": "Cuarta Ronda",
-        "image": "",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "image": "",
-                "info": "09/03/2025",
-                "url": "",
-              	"userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHot": "true",
-                "online": "true"
-                }
-            ]
-        },
-        
-        {
-        "name": "Cuartos de Final",
-        "image": "",,
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "image": "",
-                "info": "09/03/2025",
-                "url": "",
-              	"userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHot": "true",
-                "online": "true"
-                }
-            ]
-        },
-        
-        {
-        "name": "Semifinal",
-        "image": "",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "image": "",
-                "info": "09/03/2025",
-                "url": "",
-              	"userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHot": "true",
-                "online": "true"
-                }
-            ]
-        },
-        
-        {
-        "name": "Final",
-        "image": "",
-        "imageScale": "",
-        "info": "",
-        "stations": 
-            [
-                {
-                "name": "",
-                "image": "",
-                "info": "09/03/2025",
-                "url": "",
-              	"userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHot": "true",
-                "online": "true"
-                }
-            ]
-        }
     ]
 }
