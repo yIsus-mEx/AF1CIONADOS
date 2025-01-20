@@ -1,0 +1,101 @@
+{
+"name": "The Pacific",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.The.Pacific.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+ 		"url":"https://filemoon.to/d/1udbmr83j0p1",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/ans90dop57us",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/tst5pn56d3oo",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/t2hw6k6330ke",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/tm9rwd55nzf8",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/q6hdp1qrd97y",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 07",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/esckc8qng7ne",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 08",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/ge7ulv14vwff",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 09",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/gv6fys5n8ptu",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 10",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNGFjYTZmYjEtZDI3MS00MGVhLWI5NDQtY2QwZTcwNjUwMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://filemoon.to/d/ueh77vbhvz03",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
