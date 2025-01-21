@@ -8,6 +8,59 @@
 "groups":
     [
         {
+         "name": "UFC 311: Makhachev Vs Moicano",
+         "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/vgamg1jri8ia",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/tf3njc79rd3k",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[español][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/rohjt3rzv4vm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[español][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/45ol4yw7ql80",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Dern vs Ribas II",
          "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
          "imageScale": "",
@@ -59,39 +112,6 @@
                 "embed": ""
                 }
             ]
-        },
-
-        {
-         "name": "311 UFC Fight Night: Islam Makhachev VS Renaoto Moicano",
-         "image": "https://gestion.pe/resizer/v2/3KKY2XNLSZEYXO62TB2XXETPQA.jpg?auth=32b3d2848867548e96424340acc442f3e46f9bd932b9b3ff6299e85eaf34f9c2&width=1200&height=677&quality=75&focal=1149,1054",
-         "imageScale": "",
-         "info":"",
-         "stations":
-            [
-                {
-                "name": "311 UFC Fight Night: Islam Makhachev VS Renaoto Moicano",
-                "info":"[español][Parte 01]",
-                "online":"true",
-                "image": "https://gestion.pe/resizer/v2/3KKY2XNLSZEYXO62TB2XXETPQA.jpg?auth=32b3d2848867548e96424340acc442f3e46f9bd932b9b3ff6299e85eaf34f9c2&width=1200&height=677&quality=75&focal=1149,1054",
-                "url":"https://filemoon.to/d/rohjt3rzv4vm/Ufc_311_Islam_Makhachev_-_Renato_Moicano_2025_Part1.mkv",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "referer" : "",
-                "embed": ""
-                },
-                {
-                "name": "311 UFC Fight Night: Islam Makhachev VS Renaoto Moicano",
-                "info":"[español][Parte 02]",
-                "online":"true",
-                "image": "https://gestion.pe/resizer/v2/3KKY2XNLSZEYXO62TB2XXETPQA.jpg?auth=32b3d2848867548e96424340acc442f3e46f9bd932b9b3ff6299e85eaf34f9c2&width=1200&height=677&quality=75&focal=1149,1054",
-                "url":"https://filemoon.to/d/45ol4yw7ql80/Ufc_311_Islam_Makhachev_-_Renato_Moicano_2025_Part2.mkv",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "referer" : "",
-                "embed": ""
-                }
-            ]
         }
-
     ]
 }
