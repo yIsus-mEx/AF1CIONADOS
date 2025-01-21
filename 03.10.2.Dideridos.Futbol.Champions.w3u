@@ -715,6 +715,7 @@
 						{
 						"name": "Girona VS Liverpool",
 						"info":"[10-12-2024]",
+						"image": "",
 						"url":"https://filemoon.to/d/3qh0ngbqd4qo/Liga_Campeones_Girona_VS_Liverpool_101224.mkv",
                 				"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
@@ -761,6 +762,52 @@
 						"info": "11-12-2024]",
 						"image": "",
 						"url":"https://filemoon.to/d/qqroyc3s4904/Liga_Campeones_Arsenal_VS_Monaco_111224.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+				]
+				},
+
+		{
+				"name": "JORNADA 7 FASE DE LIGUILLA",
+				"info":"",
+				"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Benfica VS FC Barcelona",
+						"info":"[21-01-2025]",
+						"image": "https://phantom-marca.unidadeditorial.es/ece31ea38f0cad97206156bf3c927994/resize/660/f/webp/assets/multimedia/imagenes/2025/01/21/17374980371129.jpg",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atco Madrid VS Bayern Leverkusen",
+						"info":"[21-01-2025]",
+						"image": "https://phantom-marca.unidadeditorial.es/d36de0e55d1ba6d0ba34f1cdbc811ab5/resize/499/f/webp/assets/multimedia/imagenes/2025/01/21/17374863729261.jpg",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atco Madrid VS Bayern Leverkusen",
+						"info":"[22-01-2025]",
+						"image": "",
+						"url":"",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atco Madrid VS Bayern Leverkusen",
+						"info":"[22-01-2025]",
+						"image": "",
+						"url":"",
                 				"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
