@@ -1,0 +1,335 @@
+{
+"name": "Diferidos Futbol Champions 2023/24",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/03.10.2.Dideridos.Futbol.Champions",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+
+				{
+				"name": "OCTAVOS DE FINAL (IDA)",
+				"info":"IDA",
+				"image": "https://i.postimg.cc/6pDVpZ3d/2024-02-07-Octavos-de-final-Champions-League.png",
+				"imageScale": "",
+				"stations":
+        		[
+						{
+						"name": "FC Copenhague VS Manchester City",
+						"info":"[13-02-2024]",
+						"image": "https://i.postimg.cc/QChCkkKn/city.png",
+						"url":"https://filemoon.sx/d/alz5o56pv99e/Octavos_Champions_League_FC_Copenhague_VS_Manchester_City_130224.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "RB Leipzig VS Real Madrid",
+						"info":"[13-02-2024]",
+						"image": "https://i.postimg.cc/V6wZR37B/Leizipvs-Madrid.png",
+						"url":"https://filemoon.sx/d/6mfvd69r770s/Octavos_Champions_League_Leipzig_VS_Real_Madrid_130224.mp4",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Lazio VS Bayern Munich",
+						"info":"[14-02-2024]",
+						"image": "https://i.postimg.cc/VkShL9rM/laziovsbayer.png",
+						"url":"https://filemoon.sx/d/gvyijxuzoqvj/Octavos_Champions_League_Lazio_VS_Bayern_140224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Paris Saint Germain VS Real Sociedad",
+						"info":"[14-02-2024]",
+						"image": "https://i.postimg.cc/HWRPxZ52/parisvsreal.png",
+						"url":"https://filemoon.sx/d/wcoehyk64hzd/Octavos_Champions_League_PSG_VS_Real_Sociedad_140224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSV EindHoven VS Borussia Dortmund",
+						"info":"[20-02-2024]",
+						"image": "https://i.postimg.cc/L6hhLRV6/2024-02-20-PSV-vs-Borussia-Dortmund.png",
+						"url":"https://filemoon.sx/d/cmsxoxjxq2lh/Champions_League_PSV_Eindhoven_VS_Borussia_Dortmund_200224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Inter Milán VS Atlético de Madrid",
+						"info":"[20-02-2024]",
+						"image": "https://i.postimg.cc/4dbHL5Kf/2024-02-20-Inter-Milan-vs-Atletico-Madrid.png",
+						"url":"https://filemoon.sx/d/7qhs6ybtmog1/Champions_League_Inter_Milan_VS_Atletico_de_Madrid_200224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Nápoles VS FC Barcelona",
+						"info":"[21-02-2024]",
+						"image": "https://i.postimg.cc/2Sd8YJ5D/2024-02-21-Napoli-vs-FC-Barcelona.png",
+						"url":"https://filemoon.sx/d/bkx83ufgq6o0/Champions_League_Napoles_VS_FC_Barcelona_210224.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Porto VS Arsenal",
+						"info":"[21-02-2024]",
+						"image": "https://i.postimg.cc/YqN2QZBs/2024-02-21-Oporto-vs-Arsenal.png",
+						"url":"https://filemoon.sx/d/fccikekarqgj/Champions_League_FC_Oporto_VS_Arsenal_210224.mp4",
+						"isHost":"true",
+						"online":"true"
+						}
+       			]
+				},
+    
+				{
+				"name": "OCTAVOS DE FINAL (VUELTA)",
+				"info":"VUELTA",
+				"image": "https://i.postimg.cc/6pDVpZ3d/2024-02-07-Octavos-de-final-Champions-League.png",
+				"imageScale": "",
+				"stations":
+        			[
+						{
+						"name": "Real Sociedad VS Paris Saint Germain",
+						"info":"[05-03-2024]",
+						"image": "https://i.postimg.cc/BvZGQfc9/2024-03-05-Real-Sociedad-vs-PSG.png",
+						"url":"https://filemoon.sx/d/zq5gss4s6fel/Champions_Real_Sociedad_VS_PSG_050324_1080_50FPS.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Múnich VS Lazio",
+						"info":"[05-03-2024]",
+						"image": "https://i.postimg.cc/tCfb5cjF/2024-03-05-Bayer-Munich-vs-Lazio.jpg",
+						"url":"https://filemoon.sx/d/u9tuqvn4ezuc/Champions_Bayern_VS_Lazio_050324.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Real Madrid VS RB Leipzig",
+						"info":"[06-03-2024]",
+						"image": "https://i.postimg.cc/50cqSbPD/2024-03-06-Real-Madrid-vs-Leipzig.png",
+						"url":"https://filemoon.sx/d/31wyhtgkq6cl/Champions_Real_Madrid_VS_Leipzig_060324_1080_50FPS.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Manchester City VS FC Copenhague",
+						"info":"[06-03-2024]",
+						"image": "https://i.postimg.cc/9QJnbRTK/2024-03-06-Manchester-City-vs-Copenhage.webp",
+						"url":"https://filemoon.sx/d/wnc28ohaccyc/Champions_Manchester_City_VS_Copenhaven_060324_1080.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Arsenal VS Porto",
+						"info":"[12-03-2024]",
+						"image": "https://i.postimg.cc/qMhqwbmk/2024-03-12-Arsenal-VS-Oporto-Champios-League.png",
+						"url":"https://moonembed.xyz/d/g1851f7tu65l/Arsenal_VS_Oporto_130324.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "FC Barcelona VS Napoles",
+						"info":"[12-03-2024]",
+						"image": "https://i.postimg.cc/mrGsQVn6/2024-03-12-Barcelona-vs-Napoli-Champions-League.jpg",
+						"url":"https://filemoon.sx/d/0wap28o7ef6n/FC_Barcelona_VS_Napoles_120324.mkv",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atletico de Madrid VS Inter Milán",
+						"info":"[13-03-2024]",
+						"image": "https://i.postimg.cc/Qtmm6xdW/2024-03-13-Atletico-VS-Inter-Milan-Champions-League.png",
+						"url":"https://filemoon.sx/d/dsut1xp8mvyo/Atletico_de_Madrid_VS_Inter_130324_.mp4",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Borussia Dortmund VS PSV Eindhoven",
+						"info":"[13-03-2024]",
+						"image": "https://i.postimg.cc/HxDFGxmZ/2024-03-13-Borusia-VS-PSV-Eindhoven-Champions-League.png",
+						"url":"https://filemoon.sx/d/d8ezpmvku5ou/Borusia_Dortmund_VS_PSV_130324.mp4",
+						"isHost":"true",
+						"online":"true"
+						}
+       			]
+				},
+    
+				{
+				"name": "CUARTOS DE FINAL (IDA)",
+				"info":"IDA",
+				"image": "https://i.postimg.cc/5NXdhbgh/Cuarto-final-Champions-2024.png",
+				"imageScale": "",
+				"stations":
+        		[
+						{
+						"name": "Real Madrid Vs Manchester City",
+						"info":"[Latino]",
+						"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/04/09/17126452993664.jpg",
+						"url":"https://filemoon.sx/d/txkj1xrfk0nc",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Real Madrid Vs Manchester City",
+						"info":"[Español]",
+						"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/04/09/17126452993664.jpg",
+						"url":"https://filemoon.sx/d/vs6v4ez2g8y1",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Arsenal Vs Bayern Múnich",
+						"info":"[Español]",
+						"image": "https://i.postimg.cc/sgWXpRDv/arsenal.jpg",
+						"url":"https://filemoon.sx/d/7wnmklyrl64h",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Paris Saint Germain Vs FC Barcelona",
+						"info":"[Español]",
+						"image": "https://i.postimg.cc/yNg3Kj7D/17125908752813-jpg.webp",
+						"url":"https://bembed.net/v/04rQxWWDGVzxb2N",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Atco Madrid Vs Borussia Dortmund",
+						"info":"[Español]",
+						"image": "https://i.postimg.cc/sDTMZqXB/17125912847336-jpg.webp",
+						"url":"https://bembed.net/v/P0poO10bGGpEz17",
+						"isHost":"true",
+						"online":"true"
+						}
+       			]
+				},
+    
+				{
+				"name": "CUARTOS DE FINAL (VUELTA)",
+				"info":"VUELTA",
+				"image": "https://i.postimg.cc/5NXdhbgh/Cuarto-final-Champions-2024.png",
+				"imageScale": "",
+				"stations":
+        		[
+						{
+						"name": "FC Barcelona VS Paris Saint Germain",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/2cd1dd8d25a9f1c86c21afe162098112/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/14/17131100816932.jpg",
+						"url":"https://filemoon.sx/d/za57mj0co1c6/FC_Barcelona_VS_PSG_160424_50FPS.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Borussia Dortmund VS Atco Madrid",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/776302879d6d702e658a3460b9180c3a/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/08/17125911534727.jpg",
+						"url":"https://filemoon.sx/d/mb5y93elhd10/Borussia_VS_Atletico_Madrid_160424_50FPS.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Manchester City VS Real Madrid",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/410dae65f3dad4eb8fb666b0dfc9dc93/resize/660/f/webp/assets/multimedia/imagenes/2024/04/08/17125975709301.jpg",
+						"url":"https://filemoon.sx/d/1qupff5t8f3p/Cuartos_Champions_Manchester_City_VS_Real_Madrid_170424_50FPS.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Munich VS Arsenal",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/9fd4280348d6ef246ff290de28fa3b62/resize/660/f/webp/assets/multimedia/imagenes/2024/04/16/17132867060403.jpg",
+						"url":"https://filemoon.sx/d/zacq55fyaagw/Cuartos_Champions_Bayern_de_Munich_VS_Arsenal_170424_50FPS.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+       			]
+				},
+    
+				{
+				"name": "SEMIFINALES (IDA)",
+				"info":"",
+				"image": "https://i.postimg.cc/SxtcqtN6/Semifinales-Champions-2024.png",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "Bayern Munich VS Real Madrid",
+						"info":"[Español]",
+						"image": "https://i.postimg.cc/2SFMCGgc/2024-04-30-Bayern-Munich-VS-Real-Madrid.jpg",
+						"url":"https://filemoon.sx/d/dcxadq229tks/Champions_League_Bayer_VS_Real_Madrid_Semifinales_IDA_300424.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Borussia Dortmund VS Paris Saint Germain",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/56f4d72be0e0488d4536bb409ee43926/resize/660/f/webp/assets/multimedia/imagenes/2024/04/30/17144898741285.jpg",
+						"url":"https://filemoon.sx/d/436esbdylcgz/Champions_League_Borusia_Dortmund_VS_Paris_Saint_Germain_010524_UHD.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+					]
+				},
+    
+				{
+				"name": "SEMIFINALES (VUELTA)",
+				"info":"",
+				"image": "https://i.postimg.cc/SxtcqtN6/Semifinales-Champions-2024.png",
+				"imageScale": "",
+				"stations":
+        		[
+						{
+						"name": "Paris Saint Germain VS Borussia Dortmund",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/5a32d8ed77a7a0be4d29e02b549944a3/resize/660/f/webp/assets/multimedia/imagenes/2024/05/06/17150240123257.jpg",
+						"url":"https://filemoon.sx/d/cq2hqx2dva59/Champions_PSG_VS_Dortmund_Vuelta_070524.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Real Madrid VS Bayern Munich",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/293328d5e8924d6b8f341c7316162f1c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/08/17151538672935.jpg",
+						"url":"https://filemoon.sx/d/4sl5uoecyd3g/Champions_Real_Madrid_VS_Bayern_Munich_Vuelta_080524.mkv",
+                				"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+					]
+				},
+    
+				{
+				"name": "FINAL",
+				"info":"",
+				"image": "https://phantom-marca.unidadeditorial.es/83387824115f3daf3a2a6221a01b34d6/resize/660/f/webp/assets/multimedia/imagenes/2024/05/31/17171685120138.jpg",
+				"imageScale": "",
+				"stations":
+        		[
+						{
+						"name": "Borussia Dortmund VS Real Madrid",
+						"info":"[Español]",
+						"image": "https://phantom-marca.unidadeditorial.es/83387824115f3daf3a2a6221a01b34d6/resize/660/f/webp/assets/multimedia/imagenes/2024/05/31/17171685120138.jpg",
+						"url":"https://filemoon.sx/d/gr5q0vq4miof/Final_Champions_League_Borusia_Dortmund_VS_Real_Madrid_010624.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+					]
+				}
+    
+			]
+}
+
+
