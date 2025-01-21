@@ -1,0 +1,73 @@
+{
+  "name": "Invasion V Extraterrestre",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Invasion.V.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "",
+  "groups": [
+    {
+      "name": "V Los Visitantes",
+      "image": "https://i.postimg.cc/2yZBsq1v/V-Invasion-1983.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Los Visitantes [Parte 1]",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/2yZBsq1v/V-Invasion-1983.png",
+          "url": "https://filemoon.to/d/pu3cfox2dbtz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Los Visitantes [Parte 2]",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/2yZBsq1v/V-Invasion-1983.png",
+          "url": "https://filemoon.to/d/b9zftzt9o6n3",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "V La Batalla Final",
+      "image": "https://i.postimg.cc/gcV8dT46/8456df213b5709b5ef79dbe91c6f24c2.jpg",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "La Batalla Final [Parte 1]",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/gcV8dT46/8456df213b5709b5ef79dbe91c6f24c2.jpg",
+          "url": "https://filemoon.to/d/emp18npljbh4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "La Batalla Final [Parte 2]",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/gcV8dT46/8456df213b5709b5ef79dbe91c6f24c2.jpg",
+          "url": "https://filemoon.to/d/p72hj1fxgcte",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "La Batalla Final [Parte 3]",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/gcV8dT46/8456df213b5709b5ef79dbe91c6f24c2.jpg",
+          "url": "https://filemoon.to/d/55puipjvv1jz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
+}
