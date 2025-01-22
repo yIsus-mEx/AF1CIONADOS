@@ -1219,24 +1219,6 @@
 	        	"url": "https://filemoon.to/d/bbva63p9ryts/Liga_Endesa_Ucam_Murcia_VS_Unicaja_030125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
         		}
             	]
 	},
@@ -1307,24 +1289,6 @@
 			"online": "true",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/eyuga054294v/Liga_Endesa_Leyma_VS_Valencia_050125.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -1473,38 +1437,11 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "",
-	        	"info": "",
+       			"name": "FC Barcelona VS Bilbao Basket",
+	        	"info": "19/01/25",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/guw5hwgg9ovn/Liga_Endesa_Barsa_VS_Bilbao_190125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
