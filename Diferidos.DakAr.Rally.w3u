@@ -8,6 +8,23 @@
 "groups":
     [
         {
+		"name": "Dakar 2025",
+		"image": "https://i.postimg.cc/hGp4jpV0/Dakar-2025-new.png",
+		"imageScale": "",
+		"info":"",
+		"stations":
+			[
+				{
+				"name": "PRESENTACION OFICIAL",
+				"image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
+				"url": "https://filemoon.sx/d/lzzqh13rqbo4/Presentaci_n_oficial_del_Dakar_2024.mp4",
+				"info": "[TDP][2024]",
+				"isHost": "true",
+				"online": "true"
+				}
+			]
+		},
+		{
 		"name": "Dakar 2024",
 		"image": "https://i.postimg.cc/yNMSwJ8w/Dakar-2024-new.png",
 		"imageScale": "",
