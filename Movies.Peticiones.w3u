@@ -7,24 +7,7 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
   [
-    {
-      "name": "Segundo Premio",
-      "image": "https://pics.filmaffinity.com/segundo_premio-839408415-large.jpg",
-      "info": "[2024]",
-      "url": "https://ryderjet.com/file/osafnb3pq13b",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "Un Rey en la Habana",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTY0MDAyYzMtNmU4ZC00YjA5LThjNzgtZjNhM2E1NjNmM2JkXkEyXkFqcGc@._V1_.jpg",
-      "info": "[2005]",
-      "url": "https://ryderjet.com/file/ik0ung268pbi",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
+
     {
       "name": "Mufasa, El rey leon",
       "image": "https://pics.filmaffinity.com/mufasa_the_lion_king-600247674-large.jpg",
@@ -152,15 +135,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "Planeta Libre",
-      "info": "[1996][Español]",
-      "image": "https://www.justwatch.com/images/poster/159965911/s718/planeta-libre.jpg",
-      "url": "https://filemoon.to/d/vzqserr4712n",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
       "name": "Cosas imposibles",
       "image": "https://pics.filmaffinity.com/cosas_imposibles-628504037-large.jpg",
       "info": "[Latino 2021]",
@@ -214,15 +188,6 @@
         "info": "[2024][Latino][Opcion 2]",
         "image": "https://pics.filmaffinity.com/speak_no_evil-102462605-large.jpg",
         "url": "https://listeamed.net/v/0DogOGMLn90xKjM",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Puente hasta Terabithia",
-        "info": "[2007][Español]",
-        "image": "https://pics.filmaffinity.com/Un_puente_hacia_Terabithia-349890819-large.jpg",
-        "url": "https://vidhideplus.com/file/136sjplpra1y",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -282,15 +247,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "La Trampa",
-        "info": "[2024][Español]",
-        "image": "https://es.web.img3.acsta.net/img/6f/23/6f23fb1b04dc2b8ca6aba2f896fb0195.jpg",
-        "url": "https://vidhideplus.com/v/kbskua1p41ou",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "The Tunnel",
         "info": "[2011][Sub.Vose]",
         "image": "https://m.media-amazon.com/images/I/810BW4pTByL._AC_UF894,1000_QL80_.jpg",
@@ -318,73 +274,10 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "Taxi Driver",
-        "info": "[1976][Español]",
-        "image": "https://images.justwatch.com/poster/308916776/s718/taxi-driver.jpg",
-        "url": "https://filemoon.to/d/q1tti2821zay",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Smile",
-        "info": "[2022][Español]",
-        "image": "https://pics.filmaffinity.com/Smile-843278209-mmed.jpg",
-        "url": "https://filemoon.to/d/q02yio5dqwco",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "The Sadness",
-        "info": "[2021][Español]",
-        "image": "https://images.justwatch.com/poster/270316548/s718/the-sadness.jpg",
-        "url": "https://filemoon.to/d/oii47j3d0kjs",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Señor de la Guerra, El",
-        "info": "[2005][Español]",
-        "image": "https://pics.filmaffinity.com/lord_of_war-604520828-large.jpg",
-        "url": "https://filemoon.to/d/xpa54goajvlc",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Turistas",
-        "info": "[2006][Español]",
-        "image": "https://pics.filmaffinity.com/Turistas-439075858-mmed.jpg",
-        "url": "https://filemoon.to/d/saw10tl73087",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
         "name": "El Gato con Botas: El último Deseo",
         "info": "[2022][MultiAudio]",
         "image": "https://www.universalpictures.com.mx/tl_files/content/movies/puss_in_boots_2/posters/01.jpg",
         "url": "https://jwplayerhls.com/e/ovstk20yc3my",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Pearl Harbor",
-        "info": "[2001][Español]",
-        "image": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
-        "url": "https://upstream.to/7utoj1vkn1ix",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
-        {
-        "name": "Django Desencadenado",
-        "info": "[2012][Español]",
-        "image": "https://es.web.img2.acsta.net/medias/nmedia/18/92/38/67/20383018.jpg",
-        "url": "https://upstream.to/qn0bb9jd7xmw",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
