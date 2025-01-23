@@ -7,7 +7,14 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
+        {
+        "name": "El Cano Top",
+        "info": "[ACESTREAM]",
+        "online":"true",
+        "image": "https://i.postimg.cc/zGtZL9SY/Ace-Eventos.png",
+        "url": "https://ipfs.io/ipns/elcano.top",
+        "embed": "true"
+        },
         {
         "name": "Eventos Del Dia",
         "info": "[ACESTREAM]",
@@ -15,6 +22,16 @@
         "image": "https://i.postimg.cc/zGtZL9SY/Ace-Eventos.png",
         "url": "https://eventos2023-julio.vercel.app/",
         "embed": "true"
+        },
+        {
+        "name": "Rally Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
+        "url": "https://enz.gdplayertv.to/live-tv/rally-tv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "online":"true",
+        "isHost":""
         },
         {
         "name": "Dakar 2025",
