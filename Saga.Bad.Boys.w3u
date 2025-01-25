@@ -55,10 +55,45 @@
 
 	{
 	"name": "ESPAÑOL",
-	"image": "https://i.postimg.cc/sXWwPD1g/1.png",
+	"image": "https://pics.filmaffinity.com/bad_boys-129541367-large.jpg",
 	"stations":
 	[
-
+    {
+      "name": "BAD BOYS 1",
+      "image": "https://pics.filmaffinity.com/bad_boys-129541367-large.jpg",
+      "url": "https://filemoon.to/d/dgut4etk1kx0/Bad_boys_1_1995_pelicula_castellano_1080p.mp4",
+      "info": "[Español][1995]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "BAD BOYS 2 VUELVEN MAS REBELDES",
+      "image": "https://pics.filmaffinity.com/bad_boys_ii-516511431-large.jpg",
+      "url": "https://filemoon.to/d/aa2sp1rwsfmx/Bad_boys_2_2003_pelicula_esp_dvdrip_mp4.mp4",
+      "info": "[Español][2003]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "BAD BOYS 3 PARA SIEMPRE",
+      "image": "https://pics.filmaffinity.com/bad_boys_for_life-343590773-large.jpg",
+      "url": "https://filemoon.to/d/462bdjpxgw2s/Bad_Boys_para_siempre_3_2020_pelicula_castellano_1080p_castellano_mp4.mp4",
+      "info": "[Español][2020]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "BAD BOYS 4 HASTA LA MUERTE",
+      "image": "https://pics.filmaffinity.com/bad_boys_ride_or_die-651037313-large.jpg",
+      "url": "https://filemoon.to/d/rdwm70ufo9z1/Bad_boys_4_2024_pelicula_esp_1080p_mp4.mp4",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    }
 	]
 	}
 
