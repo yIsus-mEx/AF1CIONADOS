@@ -8,17 +8,17 @@
 "groups":
     [
          {
-         "name": "WRC 2025",
-         "image": "",
-         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2025.w3u",
-         "info":"",
-         "import": false
+          "name": "WRC 2025",
+          "info":"",
+          "image": "https://i.postimg.cc/63073sC3/WRC-2025.png",
+          "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2025.w3u",
+          "import": false
         },
         {
          "name": "WRC 2024",
-         "image": "",
-         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
          "info":"",
+         "image": "https://i.postimg.cc/c4jv6BtQ/WRC-2024.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
          "import": false
         }
      ]
