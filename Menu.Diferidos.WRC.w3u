@@ -1,0 +1,25 @@
+{
+"name": "WRC",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Menu.Diferidos.WRC.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info":"Lista_AF1CIONADOS",
+"groups":
+    [
+         {
+         "name": "WRC 2025",
+         "image": "",
+         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2025.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "WRC 2024",
+         "image": "",
+         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
+         "info":"",
+         "import": false
+        }
+     ]
+}

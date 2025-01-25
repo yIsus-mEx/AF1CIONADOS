@@ -30,6 +30,13 @@
          "import": false
         },
         {
+         "name": "WRC",
+         "image": "https://i.postimg.cc/wvRt4NfK/WRC-new.png",
+         "url": "https://af1c1onados.vercel.app/Menu.Diferidos.WRC.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "IndyCar",
          "image": "https://i.postimg.cc/1z8XQRkj/Indycar-Series-new.png",
          "url": "https://af1c1onados.vercel.app/03.4.1.Diferidos.Menu.Indycar.w3u",
@@ -49,14 +56,7 @@
          "url": "https://af1c1onados.vercel.app/Diferidos.ForMUlA.E.w3u",
          "info":"",
          "import": false
-        },
-        {
-         "name": "WRC",
-         "image": "https://i.postimg.cc/wvRt4NfK/WRC-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
-         "info":"",
-         "import": false
-        },
+        },        
 	    {
 	    "name": "WEC",
 	    "url": "https://af1c1onados.vercel.app/Diferidos.WEC.2024.w3u",
