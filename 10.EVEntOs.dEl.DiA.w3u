@@ -27,6 +27,26 @@
         "name": "Rally Tv 🇬🇧",
         "info":"",
         "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
+        "url": "https://bigembed.mizhls.ru/lb/eplayerrallytv_uk/playlist.m3u8",
+        "userAgent": "",
+        "referer" : "https://topembed.pw/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Rally Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
+        "url": "https://hztnew.iosplayer.ru/hzt/eplayerrallytv_uk/mono.m3u8?token=none",
+        "userAgent": "",
+        "referer" : "https://topembed.pw/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Rally Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
         "url": "https://enz.gdplayertv.to/live-tv/rally-tv/?embed=1",
         "userAgent": "",
         "embed": "true",
