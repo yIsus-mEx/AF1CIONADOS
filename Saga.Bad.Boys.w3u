@@ -6,7 +6,13 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"stations":
+"groups":
+	[
+
+	{
+	"name": "LATINO",
+	"image": "https://i.postimg.cc/sXWwPD1g/1.png",
+	"stations":
 	[
         {
         "name": "Bad Boys I",
@@ -44,5 +50,17 @@
         "isHost":"",
         "online":"true"
         }
+	]
+	},
+
+	{
+	"name": "ESPAÑOL",
+	"image": "https://i.postimg.cc/sXWwPD1g/1.png",
+	"stations":
+	[
+
+	]
+	}
+
     ]
 }
