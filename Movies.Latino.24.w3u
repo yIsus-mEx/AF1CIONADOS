@@ -8,10 +8,37 @@
 "stations":
     [
         {
-        "name": "Sonic 3 (TS)",
+        "name": "De Vuelta a la Acción",
+        "info": "[2025][Latino]",
+        "image": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/01/17/serie-tv-4030-mini.jpg",
+        "url": "https://filemoon.to/d/13omsx5ny33k",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Nosferatu",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Nosferatu-630563091-large.jpg",
+        "url": "https://filemoon.to/d/ta6kls17brm4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Hereje",
+        "info": "[2024][Latino]",
+        "image": "https://es.web.img3.acsta.net/c_310_420/img/76/0f/760f864b9a9d13e8ba8742545302d344.jpg",
+        "url": "https://filemoon.to/d/z6xqtg92ndrq",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Sonic 3",
         "info": "[2024][Latino]",
         "image": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://peytonepre.com/file/bx4r9uv8npdo",
+        "url": "https://filemoon.to/d/3rbgcizpbjt3",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
