@@ -2030,61 +2030,43 @@
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Real Madrid VS Baskonia",
+        		"info": "[23/01/25]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/xv8ssc9ia2rj/Euroliga_Real_Madrid_VS_Baskonia_230125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Olympiakos VS Fenerbache",
+        		"info": "[24/01/25]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/r0wn7ptwm0yt/Euroliga_Olympiakos_VS_Fenerbahce_240125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Asvel VS FC Barcelona",
+        		"info": "[24/01/25]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/18wuypipwnwm/Euroliga_Asvel_VS_FC_Barcelona_240125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		},
 	       		{
- 	       		"name": "",
-	        	"info": "",
+ 	       		"name": "Alba VS Bayern",
+        		"info": "[24/01/25]",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/608mc2v825ox/Euroliga_Alba_VS_Bayern_240125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
             	]
 		},
-
-	{
-        "name": "JORNADA 22",
-        "image": "",
-        "info": "",
-        "stations":
-            [
-			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-        		"isHost": "true"
-        		}
-		]
-	},
 
 	{
         "name": "JORNADA 24",
