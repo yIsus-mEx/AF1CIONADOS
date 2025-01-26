@@ -1219,6 +1219,24 @@
 	        	"url": "https://filemoon.to/d/bbva63p9ryts/Liga_Endesa_Ucam_Murcia_VS_Unicaja_030125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Leyma",
+	        	"info": "03/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/0pfvaieqrn24/Liga_Endesa_Baskonia_VS_Leyma_080125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Granada VS Real Madrid",
+	        	"info": "03/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/nl5cmr64xexh/Liga_Endesa_Granada_VS_Real_Madrid_080125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
             	]
 	},
@@ -1266,6 +1284,15 @@
         		"isHost": "true"
         		},
 			{
+       			"name": "Manresa VS UCAM Murcia",
+	        	"info": "04/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/p4e7gm2iwzpb/Liga_Endesa_Baxi_Manresa_vs_Ucam_Murcia_040125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
        			"name": "Granada VS Gran Canaria",
 	        	"info": "05/01/25",
 			"online": "true",
@@ -1289,6 +1316,15 @@
 			"online": "true",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/eyuga054294v/Liga_Endesa_Leyma_VS_Valencia_050125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Real Madrid",
+	        	"info": "06/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/6nlkigi1sjvb/Liga_Endesa_Baskonia_VS_Real_MAdrid_060125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -1455,11 +1491,29 @@
         "stations":
             [
 			{
-       			"name": "",
-	        	"info": "",
+       			"name": "Girona VS Unicaja",
+	        	"info": "25/01/25",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/vpkpaxryuk58/Liga_Endesa_Girona_VS_Unicaja_250125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Juventut VS Granada",
+	        	"info": "25/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/cph57h9omw18/Liga_Endesa_Juventut_VS_Granada_250125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Valencia VS Manresa",
+	        	"info": "25/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/wl28f0n3l8d2/Liga_Endesa_Valencia_VS_Manresa_250125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
