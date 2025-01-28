@@ -1017,6 +1017,26 @@
     },
 
     {
+      "name": "Patria Y Vida",
+      "image": "https://i.postimg.cc/k4w8z7SD/IMG-20250128-200838-978.jpg",
+      "info": "2024",
+      "stations": 
+      [
+        {
+        "name": "Patria Y Vida",
+        "info": "2024",
+        "image": "https://i.postimg.cc/k4w8z7SD/IMG-20250128-200838-978.jpg",
+        "url": "https://swishsrv.com/e/ovyybp7wxfqp",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+        }
+      ]
+},
+
+    {
       "name": "Pet Shop Boys, ayer y hoy",
       "image": "https://pics.filmaffinity.com/imagine_pet_shop_boys_then_and_now-787016853-large.jpg",
       "stations": [
