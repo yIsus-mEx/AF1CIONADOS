@@ -1486,7 +1486,7 @@
 
 	{
         "name": "JORNADA 18",
-        "image": "",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
         "info": "",
         "stations":
             [
@@ -1509,11 +1509,47 @@
         		"isHost": "true"
         		},
 			{
+       			"name": "Breogan VS Bilbao",
+	        	"info": "25/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/9ke044hwnqku/Liga_Endesa_Breogan_VS_Bilbao_250125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
        			"name": "Valencia VS Manresa",
 	        	"info": "25/01/25",
 			"online": "true",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/wl28f0n3l8d2/Liga_Endesa_Valencia_VS_Manresa_250125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Lleida VS Baskonia",
+	        	"info": "26/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/uvm5hiafd9ol/Liga_Endesa_Lleida_VS_Baskonia_260125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Gran Canaria VS Tenerife",
+	        	"info": "26/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/gq4aqx7t8wbf/Liga_Endesa_Gran_Canaria_VS_Tenerife_260125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Leyma Coruña",
+	        	"info": "26/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/odxjkwhuuv9x/Liga_Endesa_Real_Madrid_VS_Leyma_260125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
