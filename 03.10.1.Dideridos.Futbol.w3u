@@ -7,7 +7,7 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
     [
-		{
+	{
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
        	"imageScale": "",
@@ -268,6 +268,7 @@
 		"info": "bY. aDri",
 		"import": false
 		},
+
 		{
 		"name": "Copa America EEUU 2024",
 		"image": "https://i.postimg.cc/W3DTb7M7/copa-america-2024-new.png",
@@ -275,23 +276,25 @@
 		"info": "bY. aDri",
 		"import": false
 		},
+
 		{
         	"name": "Mundial Qatar 2022",
         	"info":"",
         	"image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
         	"imageScale": "",
         	"stations":
-        	[
-		{
-                "name": "Argentina Vs Francia",
-	        "info":"[18-Dic-22]",
-                "image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-                "url":"https://filemoon.sx/d/argc2dyg6olk",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-	},
+        		[
+			{
+                	"name": "Argentina Vs Francia",
+	        	"info":"[18-Dic-22]",
+                	"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
+                	"url":"https://filemoon.sx/d/argc2dyg6olk",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	}
+            		]
+		},
 
 	{
     	"name": "sUPERcOPA dE EsPAÑa",
@@ -346,6 +349,7 @@
                 "info":"[Final][Dialecto Catalan]",
                 "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
                 "url":"https://filemoon.to/d/bn8wpqz36n01/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_M_120125.mkv",
+        	"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -354,6 +358,7 @@
                 "info":"[Final][Español]",
                 "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
                 "url":"https://filemoon.to/d/2riwu3guo779/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_O_120125.mkv",
+        	"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
@@ -371,31 +376,54 @@
         	[
 				{
                 "name": "Atletico vs Levante",
-	       		"info":"[SemiFinal 1]",
+	       	"info":"[SemiFinal 1]",
                 "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
                 "url":"https://filemoon.sx/d/gc79kp960rep",
+        	"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
             	{
                 "name": "Barcelona vs Real Madrid",
                 "info":"[SemiFinal 2]",
-	        	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
+	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
                 "url":"https://filemoon.sx/d/7630xdpr0ut4",
+        	"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
             	{
                 "name": "Barcelona vs Levante",
                 "info":"[Final]",
-	        	"image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
+	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
                 "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
+        	"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
             ]
-		},
+	},
+
+	{
+        "name": "sUPERcOPA dE EsPAÑa 2023/24 FEMENINA",
+        "info":"",
+        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+        "imageScale": "",
+        "stations":
+        	[
 		{
+                "name": "FC Barcelona VS Real Madrid",
+	       	"info":"[Final]",
+                "image": "https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2024/11/16/673909862be29.r_d.2110-1303.jpeg",
+                "url":"https://filemoon.to/d/dm71ap97g04z/Supercopa_Femenina_de_Espa_a_FC_Barcelona_VS_Real_Madrid_260125.mkv",
+        	"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+		]
+	},
+
+	{
         "name": "Liga EA SPORT 2023/24",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
@@ -525,6 +553,7 @@
 						"info":"[07-02-2024]",
 						"image": "https://i.postimg.cc/02nWfX4N/2024-02-07-Atletico-Madrid-vs-Athletic-Bilbao.png",
 						"url":"https://filemoon.sx/d/gpbt1vtfznmt/2_Semifinal_Copa_del_rey_Ida_Atletico_de_Madrid_VS_Athletic_de_Bilbao_Canal_Copa_del_Rey_070224.mp4",
+        					"userAgent" : "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
 						},
@@ -533,6 +562,7 @@
 						"info":"[27-02-2024]",
 						"image": "https://i.postimg.cc/CxQZpD5g/2024-02-27-Real-Sociedad-vs-RCD-Mallorca.png",
 						"url":"https://filemoon.sx/d/m570d28j56u4/Copa_del_Rey_Semifinales_Vuelta_Real_Sociedad_VS_Mallorca_270224.mp4",
+        					"userAgent" : "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
 						},
@@ -541,6 +571,7 @@
 						"info":"[29-02-2024]",
 						"image": "https://i.postimg.cc/85tdWcwP/2024-02-29-Athletic-Bilbao-vs-Atletico-Madrid.png",
 						"url":"https://filemoon.sx/d/xyzlca237r1p/Semifinales_Copa_del_Rey_Athletic_de_Bilbao_VS_Atletico_Madrid_290224.mp4",
+        					"userAgent" : "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
 						}
