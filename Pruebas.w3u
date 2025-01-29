@@ -8,13 +8,13 @@
 "stations":
 	[
 		{
-        "name": "Prueba 001",
+        "name": "Prueba 01",
         "info":"",
         "online":"true",
         "image": "",
-        "url": "https://hztnew.iosplayer.ru/hzt/eplayerrallytv_uk/mono.m3u8?token=none",
+        "url": "https://ok.ru/video/1354170305085",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://topembed.pw/",
+        "referer" : "",
         "embed": "",
         "isHost":""
         },
