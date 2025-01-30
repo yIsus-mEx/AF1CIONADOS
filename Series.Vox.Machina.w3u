@@ -1,0 +1,128 @@
+{
+"name": Vox Machina",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Vox.Machina.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 03",
+        "info":"",
+        "image": "https://i.postimg.cc/wMcR4tZp/box3.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Un Trato Mortal",
+                "info":"[Cap.01][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/0ys3gu2tl5n1",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Prisioneros de Ank'Harel",
+                "info":"[Cap.02][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/ukh8cm9u8rq5",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Tormentos",
+                "info":"[Cap.03][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/uarvl4nhk69c",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Un Pago Infernal",
+                "info":"[Cap.04][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/ahs49uzboyk3",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "La Perdición Glacial",
+                "info":"[Cap.05][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "La Tormenta que se Avecina",
+                "info":"[Cap.06][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/tow3zia1or50",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capa y Espada",
+                "info":"[Cap.07][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/uz7dki8rccal",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "El Asedio de Emon",
+                "info":"[Cap.08][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/98470lvd6xd7",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Thordak",
+                "info":"[Cap.09][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/1dxy5g80ri8j",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Los Fines del Mundo",
+                "info":"[Cap.10][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/0k8ctoiqsasa",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Ecos Mortales",
+                "info":"[Cap.11][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/wbcrbpj85ed5",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Almas en la Oscuridad",
+                "info":"[Cap.12][Español]",
+                "image": "https://i.postimg.cc/8zssMnpD/box33.png",
+                "url":"https://filemoon.to/d/4hxd8f0u1u70",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}

@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "La Leyenda de Vox Machina",
+         "image": "https://static.wikia.nocookie.net/doblaje/images/1/14/La_Leyenda_De_Vox_Machina_-_Poster.jpg/revision/latest?cb=20231120094515&path-prefix=es",
+         "url": "https://af1c1onados.vercel.app/Series.Vox.Machina.w3u",
+         "info":"bY. yIsus",
+         "import": false
+        },
+        {
          "name": "Batman El Enmascarado",
          "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Batman.El.Enmascarado.w3u",
