@@ -1455,6 +1455,15 @@
         		"isHost": "true"
         		},
 			{
+       			"name": "Leyma Coruña VS UCAM Murcia",
+	        	"info": "18/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/oi9f3obzjrxb/Liga_Endesa_Leyma_Coru_a_vs_Ucam_Murcia_180125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
        			"name": "Lleida VS Gran Canaria",
 	        	"info": "19/01/25",
 			"online": "true",
@@ -1478,6 +1487,24 @@
 			"online": "true",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/guw5hwgg9ovn/Liga_Endesa_Barsa_VS_Bilbao_190125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Granada VS Zaragoza",
+	        	"info": "19/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/mvzs5ah7nsot/Liga_Endesa_Granada_VS_Zaragoza_190125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Breogan",
+	        	"info": "19/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/eyk2yd22qtmn/Liga_Endesa_Baskonia_VS_Breogan_190125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -1550,6 +1577,24 @@
 			"online": "true",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/odxjkwhuuv9x/Liga_Endesa_Real_Madrid_VS_Leyma_260125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zaragoza VS Andorra",
+	        	"info": "26/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/dns3p0yq1x7t/Liga_Endesa_Zaragoza_VS_Andorra_260125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "UCAM Murcia VS FC Barcelona",
+	        	"info": "26/01/25",
+			"online": "true",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/jovwrpoc62i3/Liga_Endesa_Ucam_Murcia_VS_FC_Barcelona_260125.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
