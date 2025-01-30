@@ -1,0 +1,217 @@
+{
+"name": "Starsky & Hutch",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Starsky.&.Hutch.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://i.postimg.cc/MTZkf0LS/Season-01.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Domingo Salvaje",
+                "info":"[Cap.01][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/8vd30pshu80x",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Largos Cuernos de Res Texanos",
+                "info":"[Cap.02][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/dn9gil879y0g",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Paseo Mortal",
+                "info":"[Cap.03][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/qc54qxgi1akx",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Tormenta de nieve",
+                "info":"[Cap.04][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "El Apuro",
+                "info":"[Cap.05][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/2vddvo9b0bg3",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Aviso de Muerte",
+                "info":"[Cap.06][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/gjkueawrcvjn",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Paria",
+                "info":"[Cap.07][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/6to1c46i1haq",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Maten a Huggy Bear",
+                "info":"[Cap.08][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/8w8ykkow9bz8",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "El Cebo",
+                "info":"[Cap.09][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/2wp1571a08ul",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "La Dama Azul",
+                "info":"[Cap.10][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/rehb7voxylw9",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitán Dobey, está usted muerto",
+                "info":"[Cap.11][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/4sq0gxtkva3x",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Terror en los Muelles",
+                "info":"[Cap.12][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/4h1d6bkfzmsu",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Impostor Mortífero",
+                "info":"[Cap.13][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/l1v1xkh7ugo0",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Tiroteo",
+                "info":"[Cap.14][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/0wkrt7tj860k",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },{
+                "name": "Los Rehenes",
+                "info":"[Cap.15][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/p5180zh9cpbd",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Mala Racha",
+                "info":"[Cap.16][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/ecohws7m78sd",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Silencio",
+                "info":"[Cap.17][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/nh91kzbgx2ap",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "El Tigre de Omaha",
+                "info":"[Cap.18][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/lfqc1f76plnn",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "JoJo",
+                "info":"[Cap.19][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/ka2zvtxk9sst",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "La Huida",
+                "info":"[Cap.20][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/skdexcb6wbdb",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }.
+                {
+                "name": "Un Ataúd para Starsky",
+                "info":"[Cap.21][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/sgf7i5izb4ve",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "el cazarrecompensas",
+                "info":"[Cap.22][Español]",
+                "image": "https://i.postimg.cc/7hbpmHDt/Season-001.png",
+                "url":"https://filemoon.to/d/3tj0638gfqtw",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}
