@@ -1,0 +1,38 @@
+{
+"name": "Prime Target",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Prime.Target.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/prime_target-859091476-large.jpg",
+ 		"url":"https://filemoon.to/d/ieqzkj3e4rim/Prime_Target_1x01__WEB-DL1080p_.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/prime_target-859091476-large.jpg",
+ 		"url":"https://filemoon.to/d/h10jgo11et7y/Prime_Target_1x02__WEB-DL1080p_.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/prime_target-859091476-large.jpg",
+ 		"url":"https://filemoon.to/d/hug52ejf0xch/Prime_Target_1x03__WEB-DL1080p_.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
