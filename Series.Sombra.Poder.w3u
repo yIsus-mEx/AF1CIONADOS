@@ -1,0 +1,65 @@
+{
+"name": "sombra del Poder (State of Play)",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"2003",
+ 		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+ 		"url":"https://filemoon.to/d/ykjjzauk3q1y/State_Of_Play_2003_S01e01.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+ 		"info":"2003",
+ 		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+		"url":"https://filemoon.to/d/eivjy9xihixq/State_Of_Play_2003_S01e02.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+ 		"info":"2003",
+ 		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+		"url":"https://filemoon.to/d/8tlhk22nx5rb/State_Of_Play_2003_S01e03.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+ 		"info":"2003",
+ 		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+		"url":"https://filemoon.to/d/xe3huplcfxe2/State_Of_Play_2003_S01e04.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+ 		"info":"2003",
+ 		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+		"url":"https://filemoon.to/d/iq9i0tkvepf8/State_Of_Play_2003_S01e05.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+ 		"info":"2003",
+ 		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+		"url":"https://filemoon.to/d/n0g0mjknxzet/State_Of_Play_2003_S01e06.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
