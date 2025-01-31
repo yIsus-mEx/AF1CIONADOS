@@ -1,0 +1,47 @@
+{
+"name": "Sin Mascaras",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/teurigeo-534437243-large.jpg",
+ 		"url":"https://filemoon.to/d/hk4gxtd0vt07/Sin_mascaras_S01E01_En_este_mundo_tan_bonito.mp4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/teurigeo-534437243-large.jpg",
+ 		"url":"https://filemoon.to/d/2u9hojhnwp9e/Sin_mascaras_S01E02_Obst_culo.mp4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/teurigeo-534437243-large.jpg",
+ 		"url":"https://filemoon.to/d/evdg4ympeusu/Sin_mascaras_1x03_Para_el_pringado__Latino_.mp4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/teurigeo-534437243-large.jpg",
+ 		"url":"https://filemoon.to/d/tzjskexw8wub/Sin_mascaras_1x04_El_poder_de_la_c_mara__Latino_.mp4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
