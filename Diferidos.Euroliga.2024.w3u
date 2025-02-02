@@ -2066,19 +2066,96 @@
         		"isHost": "true"
         		}
             	]
-		},
+	},
 
 	{
         "name": "JORNADA 24",
-        "image": "",
+        "image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         "info": "",
         "stations":
             [
 			{
+       			"name": "Zalguiris VS Bayern Munich",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/g8a1ltzpl7z8/Euroliga_Zalguiris_VS_Bayern_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Paris VS Asvel",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/u7pu59cggkq4/Euroliga_Paris_VS_Asvel_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Panathinaikos",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/r97c32hw9khz/Euroliga_Milan_VS_Panathinaikos_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Alba Berlin",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/b0jphvu4hw9u/Euroliga_Maccabi_VS_Alba_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
        			"name": "",
-	        	"image": "",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
 	        	"url": "",
-	        	"info": "",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Virtus",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/kxj20hvwfrjv/Euroliga_Fenerbahce_VS_Virtus_310125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS EFES",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/zzj87auqyfrg/Euroliga_Olympiacos_VS_Efes_310125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "",
+	        	"info": "[31/01/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
