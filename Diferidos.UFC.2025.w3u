@@ -8,6 +8,59 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Adesanya vs Imavov",
+         "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Latino][Preliminares]",
+                "online":"",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Latino][Estelares]",
+                "online":"",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Español][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"https://filemoon.to/d/ewyx98xs1jkl",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Español][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"https://filemoon.to/d/7s89rs84sk3m",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
          "name": "UFC 311: Makhachev Vs Moicano",
          "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
          "imageScale": "",
