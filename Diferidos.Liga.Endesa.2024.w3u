@@ -1674,6 +1674,28 @@
         		"isHost": "true"
         		},
 			{
+       			"name": "Tenerife VS Breogan",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/5u4fx10kta35/Liga_Endesa_Tenerife_VS_Breogan_020225.mkv",
+	        	"info": "02/02/25",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Unicaja VS Baskonia",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/y6ns9tx1myac/Liga_Endesa_Unicaja_VS_Baskonia_020225.mkv",
+	        	"info": "02/02/25",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
        			"name": "Real Madrid VS Juventut",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/3vspit1nc1uf/Liga_Endesa_Madrid_VS_Juventut_020225.mkv",
