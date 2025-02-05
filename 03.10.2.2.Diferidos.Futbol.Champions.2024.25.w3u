@@ -491,6 +491,15 @@
 				"stations":
         				[
 						{
+						"name": "FC Barcelona VS Atalanta",
+						"info":"[29-01-2025]",
+						"image": "https://i.postimg.cc/43NJ3jF5/Champions-League-2024-2025.jpg",
+						"url":"https://filemoon.to/d/pyipuu8vnfuo/Liga_de_Campeones_FC_Barcelona_VS_Atalanta_290125.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
 						"name": "Brest VS Real Madrid",
 						"info":"[29-01-2025]",
 						"image": "https://i.postimg.cc/43NJ3jF5/Champions-League-2024-2025.jpg",
