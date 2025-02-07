@@ -943,6 +943,24 @@
     },
 
     {
+      "name": "No hamburg no Beatles",
+      "image": "https://www.banger.jp/wp-content/uploads/2024/10/nohamburg-nobeatles-p.jpg",
+      "stations": [
+        {
+          "name": "No hamburg no Beatles",
+          "image": "https://www.banger.jp/wp-content/uploads/2024/10/nohamburg-nobeatles-p.jpg",
+          "url": "https://listeamed.net/v/wP20501mWrBxdmy",
+          "info": "[2024][VOSE]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "No me llame Ternera",
       "image": "https://pics.filmaffinity.com/no_me_llame_ternera-164938634-large.jpg",
       "stations": [
