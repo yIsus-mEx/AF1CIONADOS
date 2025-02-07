@@ -749,6 +749,25 @@
       "info": "bY AdriDeCai",
       "import": false
     },
+
+    {
+      "name": "Justicia para Diego",
+      "image": "https://pics.filmaffinity.com/justicia_para_diego-671254984-large.jpg",
+      "stations": [
+        {
+          "name": "Justicia para Diego",
+          "image": "https://pics.filmaffinity.com/justicia_para_diego-671254984-large.jpg",
+          "url": "https://listeamed.net/v/wP20501mWrBxdmy",
+          "info": "[2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
     {
       "name": "Kathrin Bigelow, Hollywood en accion",
       "image": "https://pics.filmaffinity.com/kathryn_bigelow_hollywood_sous_adrenaline-806501527-large.jpg",
@@ -766,6 +785,7 @@
         }
       ]
     },
+
     {
       "name": "Kevin Spacey, al descubierto",
       "image": "https://pics.filmaffinity.com/spacey_unmasked-719072852-large.jpg",
@@ -773,6 +793,7 @@
       "info": "bY. Adri",
       "import": false
     },
+
     {
       "name": "LaLiga más allá del Gol",
       "image": "https://pics.filmaffinity.com/laliga_mas_alla_del_gol-946086125-large.jpg",
