@@ -35,6 +35,13 @@
         "online":"true",
 		"image": "",
 		"url": "acestream://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4"
+        },
+        {
+        "name": "TyC Sports",
+        "info": "php",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfJwHcUZK-6338mtQ-ggMRMFOwlBbAyfk4eANq8zZqtT5B-E9zXsyeBEVWWx2PjbfbyBR-zuLgCDLp1YEzhIfcoVZk72yOtRl_4PLCOZBaVQPW1g40ZCFj6kBYrRqyxZpVOpylLUufKf8hVT0YqmxxNHp2dd_17Gqtp_aXBgq9uv-ExVyVHMTMJ1xWEX7T/w590-h123/logo-TyC.png",
+        "url": "https://topembed.pw/channel/TYCSports[Argentina]",
+        "isHost": "true"
         }
     ]
 }
