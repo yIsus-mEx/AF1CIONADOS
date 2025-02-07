@@ -72,7 +72,7 @@
                 "name": "S01.E07",
                 "info":"[ESPAÑOL]",
                 "image": "https://pics.filmaffinity.com/Special_Ops_Lioness_Serie_de_TV-655357732-large.jpg",
-                "url":"https://filemoon.sx/d/gmo71sdlodli",
+                "url":"https://filemoon.sx/d/zekw3gyw0ux4",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost": "",
                 "online":"true"
@@ -81,7 +81,7 @@
                 "name": "S01.E08",
                 "info":"[ESPAÑOL]",
                 "image": "https://pics.filmaffinity.com/Special_Ops_Lioness_Serie_de_TV-655357732-large.jpg",
-                "url":"https://upstream.to/6kf1vvjrs1ur",
+                "url":"",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
@@ -124,9 +124,45 @@
                 },
                 {
                 "name": "S02.E04",
-                "info":"[Vose.Sub]",
+                "info":"[ESPAÑOL]",
                 "image": "https://www.justwatch.com/images/poster/321604817/s718/temporada-2.jpg",
-                "url":"https://filemoon.sx/d/q81lvhd1s46o",
+                "url":"https://filemoon.sx/d/hewqy3v3tzku",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "S02.E05",
+                "info":"[ESPAÑOL]",
+                "image": "https://www.justwatch.com/images/poster/321604817/s718/temporada-2.jpg",
+                "url":"https://filemoon.sx/d/fsrncrbuzrgb",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "S02.E06",
+                "info":"[ESPAÑOL]",
+                "image": "https://www.justwatch.com/images/poster/321604817/s718/temporada-2.jpg",
+                "url":"https://filemoon.sx/d/p3i5unkspkdx",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "S02.E07",
+                "info":"[ESPAÑOL]",
+                "image": "https://www.justwatch.com/images/poster/321604817/s718/temporada-2.jpg",
+                "url":"https://filemoon.sx/d/7y3jsjr07680",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "S02.E08",
+                "info":"[ESPAÑOL]",
+                "image": "https://www.justwatch.com/images/poster/321604817/s718/temporada-2.jpg",
+                "url":"https://filemoon.sx/d/ql137j1nbgm7",
                 "userAgent": "PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
