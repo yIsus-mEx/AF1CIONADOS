@@ -655,6 +655,24 @@
     },
 
     {
+      "name": "Hasta la eternidad",
+      "image": "https://pics.filmaffinity.com/eternal_you-408941877-large.jpg",
+      "stations": [
+        {
+          "name": "Hasta la eternidad",
+          "image": "https://pics.filmaffinity.com/eternal_you-408941877-large.jpg",
+          "url": "https://filemoon.to/d/8us9r08botpz/Hasta_la_eternidad__2024__Documental_castellano.mp4",
+          "info": "[2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "Historias de Crimenes",
       "image": "https://pics.filmaffinity.com/una_historia_de_crimenes-210550889-large.jpg",
       "url": "https://af1cionados.vercel.app/DocuSerie HISTORIA DE CRIMENES.w3u",
