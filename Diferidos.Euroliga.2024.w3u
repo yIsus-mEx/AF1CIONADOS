@@ -2178,15 +2178,81 @@
 
 	{
         "name": "JORNADA 25",
-        "image": "",
+        "image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "",
+       			"name": "Efes VS Real Madrid",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/spy3f330erug/Euroliga_Efes_VS_Real_Madrid_040225.mkv",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zalguiris VS Alba Berlin",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/3qgvqj3et5j4/Euroliga_Zalguiris_VS_Alba_040225.mkv",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Panathinaikos VS Fenerbache",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/kb8l0n8cn0pu/Euroliga_Panathinaikos_VS_Fenerbahce_040225.mkv",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Asvel",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/6l9tv4lu90m3/Euroliga_Estrella_Roja_VS_Asvel_040225.mkv",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Milan",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/hothx1d4za1y/Euroliga_Bayern_VS_Milan_040225.mkv",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Maccabi",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/upaq07gggdt0/Euroliga_Barsa_VS_Maccabi_050225.mkv",
+	        	"info": "[05/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monaco VS Baskonia",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/cjwc18qxdlci/Euroliga_Monaco_VS_Baskonia_050225.mkv",
+	        	"info": "[05/02/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
