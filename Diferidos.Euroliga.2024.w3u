@@ -2264,15 +2264,59 @@
 
 	{
         "name": "JORNADA 26",
-        "image": "",
+        "image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "",
+       			"name": "Bayern Munich VS Asvel",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/ob9j4zbimduj/Euroliga_Bayern_VS_Asvel_060225.mkv",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Real Madrid",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/1jeen2c4ssxr/Euroliga_Fenerbahce_VS_Real_Madrid_060225.mkv",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS Estrella Roja",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/k5x0cj0sjp64/Euroliga_Alba_Berlin_VS_Estrella_Roja_060225.mkv",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Maccabi",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/x38h2cw9swcx/Euroliga_Baskonia_VS_Maccabi_070225.mkv",
+	        	"info": "[07/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Olympiakos",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/wl39dj4es5i0/Euroliga_Barsa_VS_Olympiakos_070225.mkv",
+	        	"info": "[06/02/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
