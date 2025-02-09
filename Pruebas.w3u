@@ -19,13 +19,13 @@
         "isHost":"true"
         },
         {
-        "name": "Prueba 02",
+        "name": "Prueba 002",
         "info":"",
         "online":"true",
         "image": "",
         "url": "https://www.freeshot.live/live-tv/movistar-laliga/89",
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "https://love2live.wideiptv.top/LALIGAES/embed.html?token=d2ec03a3f708223dbb97e0330c1ad3880bae8eff-a40ddd5b945eb8955ebbc7602ca008df-1739102661-1739091861&remote=177.228.104.133",
+        "referer" : "https://love2live.wideiptv.top/LALIGAES/embed.html",
         "embed": "",
         "isHost":"true"
         },
