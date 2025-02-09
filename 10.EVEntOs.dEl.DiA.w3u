@@ -7,27 +7,6 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
     [
-
-        {
-        "name": "UFC 312 Du Plessis VS. Strickland 2",
-        "info":"[ANDROID]",
-        "image": "https://cdn.vox-cdn.com/thumbor/KC4wc4a7AjyVOvDUOgr3jbfkIys=/0x0:3303x2202/920x613/filters:focal(1421x39:1949x567):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73894236/2198124257.0.jpg",
-        "url": "https://vkvsd54.okcdn.ru/hls/7719387335194.m3u8/sig/bD6JWl8ODzU/srcIp/37.14.45.69/urls/45.136.20.58/expires/1739511881941/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9045847321370/id/7719387335194/7719387335194_fullhd/index.m3u8",
-        "userAgent": "",
-        "referer" : "",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "UFC 312 Du Plessis VS. Strickland 2",
-        "info":"[iPHONE]",
-        "image": "https://cdn.vox-cdn.com/thumbor/KC4wc4a7AjyVOvDUOgr3jbfkIys=/0x0:3303x2202/920x613/filters:focal(1421x39:1949x567):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73894236/2198124257.0.jpg",
-        "url": "https://vkvsd91.okcdn.ru/hls/7719387335194.m3u8/sig/LVIgCK7gWEg/expires/1739139161919/srcIp/37.14.45.69/urls/185.226.53.67/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9045847321370/7719387335194_fullhd/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":""
-        },
         {
         "name": "AdrENaliNa",
         "info": "[ACESTREAM bY. tOkyo]",
@@ -44,36 +23,25 @@
         "url": "https://eventos2023-julio.vercel.app/",
         "embed": "true"
         },
-        {
-        "name": "Rally Tv 🇬🇧",
-        "info":"",
-        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
-        "url": "https://bigembed.mizhls.ru/lb/eplayerrallytv_uk/playlist.m3u8",
+         {
+        "name": "Kansas City Chiefs Vs Philadelphia Eagles",
+        "info":"[Super Bowl LIX]",
+        "image": "https://i.postimg.cc/7Y4Txk4D/super.jpg",
+        "url": "https://www.telegratishd.com/azteca-7-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://topembed.pw/",
+        "referer" : "",
         "online":"true",
-        "isHost":""
+        "isHost":"true"
         },
         {
-        "name": "Rally Tv 🇬🇧",
-        "info":"",
-        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
-        "url": "https://hztnew.iosplayer.ru/hzt/eplayerrallytv_uk/mono.m3u8?token=none",
+        "name": "Kansas City Chiefs Vs Philadelphia Eagles",
+        "info":"[Super Bowl LIX]",
+        "image": "https://i.postimg.cc/7Y4Txk4D/super.jpg",
+        "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://topembed.pw/",
+        "referer" : "",
         "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Rally Tv 🇬🇧",
-        "info":"",
-        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
-        "url": "https://enz.gdplayertv.to/live-tv/rally-tv/?embed=1",
-        "userAgent": "",
-        "embed": "true",
-        "online":"true",
-        "isHost":""
+        "isHost":"true"
         }
-
     ]
 }
