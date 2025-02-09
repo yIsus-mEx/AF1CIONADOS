@@ -8,6 +8,59 @@
 "groups":
     [
         {
+         "name": "UFC 312: Du Plessis Vs Strickland",
+         "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"https://listeamed.net/v/kKJVORKkbRp53XD",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"https://listeamed.net/v/4bQVOjJRr19OwKm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[español][Parte 01]",
+                "online":"",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[español][Parte 02]",
+                "online":"",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Adesanya vs Imavov",
          "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
          "imageScale": "",
