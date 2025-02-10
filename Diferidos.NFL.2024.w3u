@@ -8,6 +8,34 @@
 "groups":
     [
 		{
+        "name": "Super Bowl LIX",
+        "image": "",
+        "imageScale": "",
+        "info":"",
+        "stations":
+        	[
+                
+                {
+                "name": "Kansas City Chiefs Vs Philadelphia Eagles",
+                "info":"[Español][Parte 01]",
+                "image": "https://www.record.com.mx/sites/default/files/articulos/2025/02/08/SB_LedsfdIX_nota.jpg",
+                "url":"https://ryderjet.com/file/19awqyi4brrf",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                },
+                {
+                "name": "Kansas City Chiefs Vs Philadelphia Eagles",
+                "info":"[Español][Parte 02]",
+                "image": "https://www.record.com.mx/sites/default/files/articulos/2025/02/08/SB_LedsfdIX_nota.jpg",
+                "url":"https://ryderjet.com/file/st6l6iiml0py",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"online":"true",
+				"isHost":"true"
+                }
+			]
+		},
+        {
         "name": "NFL Semana 11",
         "image": "",
         "imageScale": "",
