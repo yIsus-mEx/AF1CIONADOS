@@ -55,6 +55,34 @@
         "url": "http://canal-pro.xyz:8080/get.php?username=josewebtv2025@203&password=jdnh9qabpswz&type=M3u_plus",
         "info":"300 conex",
         "import": false
+        },
+        {
+        "name": "IPTV 08",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://canal-pro.xyz:8080/get.php?username=Mcardegari&password=Xyuypd5X3s&type=m3u_plus",
+        "info":"500 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV 09",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://canal-pro.xyz:8080/get.php?username=moont2024js9920*&password=zhwy9kgndkqn&type=M3u_plus",
+        "info":"200 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV 10",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://canal-pro.xyz:8080/get.php?username=PLAYLIFE@2024*&password=EeN3GBnSxaQf&type=m3u_plus",
+        "info":"300 conex",
+        "import": false
+        },
+        {
+        "name": "IPTV 11",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://canal-pro.xyz:8080/get.php?username=psstreamid@2*14&password=we3zq5x6raum&type=M3u_plus",
+        "info":"100 conex",
+        "import": false
         }
     ]
 }
