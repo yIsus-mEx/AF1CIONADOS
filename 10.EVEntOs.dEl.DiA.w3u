@@ -22,27 +22,6 @@
         "image": "https://i.postimg.cc/zGtZL9SY/Ace-Eventos.png",
         "url": "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q",
         "embed": "true"
-        },
-        {
-		"name": "Prueba",
-		"info":"",
-        "online":"true",
-		"image": "",
-		"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
-        },
-        {
-		"name": "Prueba 2",
-		"info":"",
-        "online":"true",
-		"image": "",
-		"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
-        },
-        {
-		"name": "Prueba 3",
-		"info":"",
-        "online":"true",
-		"image": "",
-		"url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
         }
     ]
 }
