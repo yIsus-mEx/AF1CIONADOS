@@ -24,12 +24,25 @@
         "embed": "true"
         },
         {
-        "name": "ACESTREAm",
-        "info": "[ACESTREAM]",
+		"name": "Prueba",
+		"info":"",
         "online":"true",
-        "image": "",
-        "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
-        "import": false
+		"image": "",
+		"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+        },
+        {
+		"name": "Prueba 2",
+		"info":"",
+        "online":"true",
+		"image": "",
+		"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+        },
+        {
+		"name": "Prueba 2",
+		"info":"",
+        "online":"true",
+		"image": "",
+		"url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
         }
     ]
 }
