@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+#EXTM3U     url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
