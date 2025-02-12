@@ -90,20 +90,6 @@
         "url": "http://fastream.xyz:8080/get.php?username=72ge9hPFGZNs&password=cdQ8YVktcY5T&type=m3u_plus",
         "info":"1000 conex",
         "import": false
-        },
-        {
-        "name": "Prueba",
-        "image": "",
-        "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
-        "info":"",
-        "import": false
-        },
-        {
-        "name": "Prueba 2",
-        "image": "",
-        "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.2.m3u",
-        "info":"",
-        "import": false
         }
     ]
 }
