@@ -20,6 +20,13 @@
          "url": "https://af1c1onados.vercel.app/DepORteS.24-7.m3u",
          "info":"",
          "import": false
+        },
+        {
+         "name": "Prueba",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/mergeita.m3u8",
+         "info":"",
+         "import": false
         }
     ]
 }
