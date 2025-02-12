@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="ABC USa" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="Undefined", ABC USa
+#EXTINF:-1 tvg-id="unknown" tvg-name="ABC USA" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="Undefined", ABC USA
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://zekonew.iosplayer.ru/zeko/premium51/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="A&E USA" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="Undefined", A&E USA
