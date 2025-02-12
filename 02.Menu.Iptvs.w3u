@@ -97,6 +97,13 @@
         "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
         "info":"",
         "import": false
+        },
+        {
+        "name": "Prueba 2",
+        "image": "",
+        "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.2.m3u",
+        "info":"",
+        "import": false
         }
     ]
 }
