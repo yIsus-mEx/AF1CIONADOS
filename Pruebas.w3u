@@ -26,8 +26,8 @@
         "url": "https://streamdz3.lat/player/embed.php?channel=mcampeones",
         "userAgent":"PlusMediaPlayer/0.0.9",
         "referer" : "",
-        "embed": "",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
 		"name": "Prueba 03",
