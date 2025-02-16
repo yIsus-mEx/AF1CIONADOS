@@ -8,6 +8,148 @@
 "groups": 
     [
         {
+        "name": "WRC: R02 Rally Sweden",
+        "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/01dn4efp2d3v",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/hxrxct62ansi",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/wnjastkb257e",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/vyhs083a8rv6",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/kbpol9zuzsxl",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/wbr5y4e9buvg",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/cuszn50e0ozg",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/d2xn6lx9450d",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/2uv4bz27vu1z",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/opvnkw0flpy5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/25zgi7zor674",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/m6j3oafz4v8f",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/llh5iz90q0q8",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/yufyk5p9qsii",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "https://filemoon.to/d/ry1drk861hdr",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        }
+        {
         "name": "WRC: R01 Rally MonteCarlo",
         "image": "https://i.postimg.cc/xd8PgT8N/wrc-montecarlo-2025.png",
         "stations": 
