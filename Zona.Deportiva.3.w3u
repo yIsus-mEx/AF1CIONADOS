@@ -19,6 +19,28 @@
         "isHost":""
         },
         {
+        "name": "M LaLiga 🇪🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/2560px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=mlaliga",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "M LaLiga 2 🇪🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/2560px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=mlaliga2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "LaLiga 🇬🇧",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png",
@@ -129,6 +151,17 @@
         "isHost":""
         },
         {
+        "name": "ESPN 🇲🇽",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=espnmx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "ESPN 🇨🇴",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
@@ -151,6 +184,17 @@
         "isHost":""
         },
         {
+        "name": "ESPN 2 🇲🇽",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=espnmx2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "ESPN 3 🇦🇷",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
@@ -162,10 +206,32 @@
         "isHost":""
         },
         {
+        "name": "ESPN 3 🇲🇽",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=espn3mx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "ESPN 4 🇦🇷",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
         "url": "https://streamdz3.lat/player/embed.php?channel=espn4ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 4 🇲🇽",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=espn4mx",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
