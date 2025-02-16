@@ -5,7 +5,44 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "telegram": "Lista_AF1CIONADOS",
   "info": "",
-  "groups": [
+  "groups": 
+  [
+    {
+      "name": "R04 Jeddah E-Prix",
+      "image": "https://i.postimg.cc/3w8kDL3t/Jeddah.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Jeddah E-Prix Carrera",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/3w8kDL3t/Jeddah.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "R03 Jeddah E-Prix",
+      "image": "https://i.postimg.cc/3w8kDL3t/Jeddah.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Jeddah E-Prix Carrera",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/3w8kDL3t/Jeddah.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "R02 Mexico E-Prix",
       "image": "https://i.postimg.cc/xTYQ4WCh/mexico-city-e-prix-2025.png",
