@@ -208,7 +208,7 @@
         {
         "name": "M Deportes 🇪🇸",
         "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "image": "https://i.postimg.cc/0yQ32w4h/Deportes-1-por-Movistar.webp",
         "url": "https://streamdz3.lat/player/embed.php?channel=mdeportes",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -219,7 +219,7 @@
         {
         "name": "M Deportes 2 🇪🇸",
         "info":"",
-        "image": "https://i.postimg.cc/zfGQvRP9/deportes-2-movistar.png",
+        "image": "https://i.postimg.cc/ht5YJGWv/Deportes-2-por-Movistar.webp",
         "url": "https://streamdz3.lat/player/embed.php?channel=mdeportes2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -481,6 +481,50 @@
         "isHost":""
         },
         {
+        "name": "FS Premium 🇲🇽",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=foxpremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Dsports 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=dsports",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Dsports 2 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=dsports2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Dsports + 🇦🇷",
+        "info":"",
+        "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
+        "url": "https://streamdz3.lat/player/embed.php?channel=dsportsplus",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "TUDN 🇲🇽",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",
@@ -507,6 +551,17 @@
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png",
         "url": "https://streamdz3.lat/player/embed.php?channel=tyc",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Premium 🇦🇷",
+        "info":"",
+        "image": "https://i.postimg.cc/QM6cNFRY/TNTSports-Premium2024.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=tntpremium",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
