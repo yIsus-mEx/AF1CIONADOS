@@ -1,0 +1,38 @@
+{
+"name": "The Agency",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.The.Agency.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+                "url":"https://maxfinishseveral.com/l1hiwtavezky",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 02",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+                "url":"https://maxfinishseveral.com/lhrmlpq1whuh",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}
