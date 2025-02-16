@@ -1,0 +1,74 @@
+{
+"name": "La Linea Invisible",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.La.Linea.Invisible.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+                "url":"https://filemoon.to/d/e3m3l07ktukh",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 02",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+                "url":"https://filemoon.to/d/1w27h1mlx9re",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 03",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+                "url":"https://filemoon.to/d/1uymr65oen5w",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 04",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+                "url":"https://filemoon.to/d/t5eqe7mqqlp1",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 05",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+                "url":"https://filemoon.to/d/spd05pr70frk",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 06",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+                "url":"https://filemoon.to/d/gqr4slbx61i4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}
