@@ -146,9 +146,36 @@
                 "url": "https://filemoon.to/d/ry1drk861hdr",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/R0PPxHW0/WRC-Sweden.png",
+                "url": "",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
                 }
             ]
-        }
+        },
         {
         "name": "WRC: R01 Rally MonteCarlo",
         "image": "https://i.postimg.cc/xd8PgT8N/wrc-montecarlo-2025.png",
