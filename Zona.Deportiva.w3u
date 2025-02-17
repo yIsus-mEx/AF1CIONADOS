@@ -937,7 +937,7 @@
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
         "url": "http://190.102.246.93:9005/play/a02l",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "referer" : "",
         "online":"true",
         "isHost":""
