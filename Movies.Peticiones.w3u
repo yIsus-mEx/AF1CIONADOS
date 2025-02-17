@@ -7,7 +7,15 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
   [
-
+     {
+      "name": "La Momia Regresa",
+      "info": "[Latinol][2001]",
+      "image": "https://pics.filmaffinity.com/El_regreso_de_la_momia-633071656-large.jpg",
+      "url": "https://ryderjet.com/file/745mg2l4a3ry",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
     {
       "name": "De vuelta al deseo",
       "image": "https://pics.filmaffinity.com/heaven_in_hell-611558223-large.jpg",
