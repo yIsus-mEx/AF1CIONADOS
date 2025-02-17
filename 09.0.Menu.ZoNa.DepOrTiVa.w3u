@@ -9,15 +9,22 @@
     [
         {
          "name": "zOna DepORtivA",
-         "image": "https://i.postimg.cc/66nwhW7P/zona-depor-new.png",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
          "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "zOna DepORtivA 2",
-         "image": "https://i.postimg.cc/66nwhW7P/zona-depor-new.png",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
          "url": "https://af1c1onados.vercel.app/Zona.Deportiva.2.m3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "zOna DepORtivA 3",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://raw.githubusercontent.com/Love4vn/love4vn/b5ccfb1e2037b368cf9852fd2c51e29733698da9/Sport.m3u",
          "info":"",
          "import": false
         },
