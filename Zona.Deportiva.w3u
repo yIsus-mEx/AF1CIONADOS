@@ -438,6 +438,16 @@
         "name": "TDP 🇪🇸",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+        "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TDP 🇪🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
         "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -457,16 +467,43 @@
         {
         "name": "SKY Sports LaLiga 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
+        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
         "url": "http://181.78.105.146:2000/play/a08m/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "isHost":""
         },
         {
         "name": "SKY Sports LaLiga 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
+        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
+        "url": "http://45.5.117.182:8000/play/jnl0/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "SKY Sports LaLiga 🇲🇽",
+        "info":"",
+        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
+        "url": "http://181.78.105.146:8800/play/a07h",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "SKY Sports LaLiga 🇲🇽",
+        "info":"",
+        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
+        "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "SKY Sports LaLiga 🇲🇽",
+        "info":"",
+        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
         "url": "https://mihd.tv/sky-sports-bundesliga-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
@@ -475,7 +512,7 @@
          {
         "name": "SKY Sports LaLiga 🇩🇪",
         "info":"",
-        "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
+        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
         "url": "https://mihd.tv/sky-sports-la-liga-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
@@ -486,7 +523,7 @@
         "info":"",
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
         "url": "http://190.92.10.66:4000/play/a002/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "isHost":""
         },
@@ -495,7 +532,7 @@
         "info":"",
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
         "url": "https://streamtp1.com/global1.php?stream=tudn_usa",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "isHost":"true"
         },
@@ -524,7 +561,7 @@
         "info":"",
         "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
         "url": "https://www.clarogratis.com/fox-sports-mexico-en-vivo-por-internet.html",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
@@ -534,7 +571,7 @@
         "info":"",
         "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
         "url": "https://streamtp1.com/global1.php?stream=foxsportsmx",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
@@ -544,7 +581,7 @@
         "info":"",
         "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://streamtp1.com/global1.php?stream=fox1ar",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
@@ -554,7 +591,7 @@
         "info":"",
         "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://www.clarogratis.com/fox-sports-en-vivo-por-internet.html",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
@@ -722,7 +759,7 @@
         {
         "name": "ESPN Deportes 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
         "url": "https://theiheizoogh4e.thintheory.net/hls/382f389faaf3bcd8-3c03eb9ea766ef2c8797969f8ade9140d51312aa9742f402fed98f5b4e9636f3/live.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -732,7 +769,7 @@
         {
         "name": "ESPN Deportes 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium375/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -742,7 +779,7 @@
         {
         "name": "ESPN 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://streamtp1.com/global1.php?stream=espnmx",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -752,7 +789,7 @@
         {
         "name": "ESPN 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.telegratishd.com/espn-mexico-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -762,7 +799,7 @@
         {
         "name": "ESPN 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.telegratishd.com/espn-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -773,7 +810,7 @@
         {
         "name": "ESPN 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -783,7 +820,7 @@
         {
         "name": "ESPN 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.telegratishd.com/espn-3-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -794,7 +831,7 @@
         {
         "name": "ESPN 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.clarogratis.com/espn-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -805,7 +842,7 @@
         {
         "name": "ESPN 2 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://www.telextrema.com/espn-2-mexico-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -813,9 +850,19 @@
         "isHost":"true"
         },
         {
+        "name": "ESPN 2 🇲🇽",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "http://45.71.254.1:8000/play/a0e7/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "ESPN 2 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://streamtp1.com/global1.php?stream=espn2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -826,7 +873,7 @@
         {
         "name": "ESPN 2 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://www.clarogratis.com/espn-2-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -837,7 +884,7 @@
         {
         "name": "ESPN 2 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://windnew.iosplayer.ru/wind/premium150/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -847,7 +894,7 @@
         {
         "name": "ESPN 3 🇲🇽",
         "info":"",
-        "image": "https://i.postimg.cc/fyf4Mjwz/ESPN3.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
         "url": "https://www.telextrema.com/espn-3-mexico-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -857,9 +904,9 @@
         {
         "name": "ESPN 3 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/fyf4Mjwz/ESPN3.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
         "url": "https://streamtp1.com/global1.php?stream=espn3",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "embed": "",
@@ -868,7 +915,7 @@
         {
         "name": "ESPN 3 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/fyf4Mjwz/ESPN3.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
         "url": "https://www.clarogratis.com/espn-3-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -878,7 +925,7 @@
         {
         "name": "ESPN 3 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/fyf4Mjwz/ESPN3.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
         "url": "https://antenatime.site/espn3arg.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -886,11 +933,21 @@
         "isHost":"true"
         },
         {
+        "name": "ESPN 3 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "http://190.102.246.93:9005/play/a02l",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
         "name": "ESPN 4 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/DzkccVrN/ESPN4.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
         "url": "http://45.5.151.151:8000/play/a0ix/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":""
@@ -898,7 +955,7 @@
         {
         "name": "ESPN 4 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/DzkccVrN/ESPN4.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
         "url": "https://www.clarogratis.com/espn-4-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -909,7 +966,7 @@
         {
         "name": "ESPN 4 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/DzkccVrN/ESPN4.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
         "url": "https://antenatime.site/espn4arg.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -917,11 +974,22 @@
         "isHost":"true"
         },
         {
+        "name": "ESPN 4 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "http://190.102.246.93:9005/play/a019",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
         "name": "ESPN 5 🇦🇷",
         "info":"",
         "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
         "url": "https://streamtp1.com/global1.php?stream=espn5",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "embed": "",
@@ -932,7 +1000,7 @@
         "info":"",
         "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
         "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed3.php",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "embed": "",
@@ -953,7 +1021,7 @@
         "info":"",
         "image": "https://i.postimg.cc/g20RWFkN/1280px-ESPN-6-logo-svg.png",
         "url": "https://streamtp1.com/global1.php?stream=espn6",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
         "isHost":"true"
         },
@@ -976,6 +1044,17 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 6 🇦🇷",
+        "info":"",
+        "image": "https://i.postimg.cc/g20RWFkN/1280px-ESPN-6-logo-svg.png",
+        "url": "http://190.102.246.93:9005/play/a02m",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
         "isHost":"true"
         },
         {
@@ -1012,7 +1091,7 @@
         {
         "name": "ESPN Premium 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/T2gCNJ2S/ESPNPRE.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
         "url": "https://www.clarogratis.com/espn-premium-en-vivo-por-internet.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1022,7 +1101,17 @@
         {
         "name": "ESPN Premium 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/T2gCNJ2S/ESPNPRE.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+        "url": "http://190.102.246.93:9005/play/a00x",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Premium 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
         "url": "https://streamtp1.com/global1.php?stream=espn_premium",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1032,7 +1121,7 @@
         {
         "name": "TYC Sports 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/Xvv4Sx1L/tyc.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png",
         "url": "https://7.tutl24.xyz/dash/ST609ab7f8a4d3f2a.mpd",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1042,7 +1131,7 @@
         {
         "name": "Dsports 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/43NYNsBZ/DSports.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
         "url": "https://www.telegratishd.com/directv-sports-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1053,7 +1142,7 @@
         {
         "name": "Dsports 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/43NYNsBZ/DSports.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
         "url": "https://streamtp1.com/global1.php?stream=dsports",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1063,7 +1152,7 @@
         {
         "name": "Dsports 2 🇦🇷" ,
         "info":"",
-        "image": "https://i.postimg.cc/fyFcYkqx/DSports2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
         "url": "https://www.telegratishd.com/directv-sports-2-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1073,7 +1162,7 @@
         {
         "name": "Dsports 2 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/fyFcYkqx/DSports2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
         "url": "https://streamtp1.com/global1.php?stream=dsports_2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1083,7 +1172,7 @@
         {
         "name": "Dsports + 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/5ywzQpvM/DSports.png",
+        "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
         "url": "https://www.telegratishd.com/directv-sports-plus-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1093,7 +1182,7 @@
         {
         "name": "Dsports + 🇦🇷",
         "info":"",
-        "image": "https://i.postimg.cc/5ywzQpvM/DSports.png",
+        "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
         "url": "https://streamtp1.com/global1.php?stream=dsports_plus",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1115,7 +1204,7 @@
         "info":"",
         "image": "https://i.postimg.cc/dtWHtTmH/Tigo-Sports-logo.png",
         "url": "https://cnm-tsl.otteravision.com/cnm/tsl/tsl_720.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":""
@@ -1143,7 +1232,17 @@
         {
         "name": "Sport tv 1 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/76VrSLJt/sporttv1.png",
+        "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
+        "url": "http://195.23.75.15:8000/udp/239.100.6.21:1234",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 1 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1153,7 +1252,7 @@
         {
         "name": "Sport tv 1 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/76VrSLJt/sporttv1.png",
+        "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
         "url": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1163,7 +1262,7 @@
         {
         "name": "Sport tv 1 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/76VrSLJt/sporttv1.png",
+        "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
         "url": "https://streamtp1.com/global1.php?stream=sportv_1pt",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -1173,7 +1272,17 @@
         {
         "name": "Sport tv 2 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/sD5qWxFY/sporttv2.png",
+        "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
+        "url": "http://195.23.75.15:8000/udp/239.100.6.22:1234",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 2 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV2/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1183,7 +1292,7 @@
         {
         "name": "Sport tv 2 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/sD5qWxFY/sporttv2.png",
+        "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1193,7 +1302,17 @@
         {
         "name": "Sport tv 3 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/7L5NgtCF/sporttv3.png",
+        "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
+        "url": "http://195.23.75.15:8000/udp/239.100.6.23:1234",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 3 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV3/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1203,7 +1322,7 @@
         {
         "name": "Sport tv 3 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/7L5NgtCF/sporttv3.png",
+        "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1213,7 +1332,17 @@
         {
         "name": "Sport tv 4 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/d1MGGscC/sporttv4.png",
+        "image": "https://i.postimg.cc/VvrxZcWD/sport4.png",
+        "url": "http://195.23.75.15:8000/udp/239.100.6.24:1234",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 4 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/VvrxZcWD/sport4.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV4/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1223,7 +1352,7 @@
         {
         "name": "Sport tv 4 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/d1MGGscC/sporttv4.png",
+        "image": "https://i.postimg.cc/VvrxZcWD/sport4.png",
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1233,7 +1362,17 @@
         {
         "name": "Sport tv 5 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/TwXWptnq/sporttv5.png",
+        "image": "https://i.postimg.cc/fRNbdHM6/sport5.png",
+        "url": "http://195.23.75.15:8000/udp/239.100.6.25:1234",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 5 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/fRNbdHM6/sport5.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV5/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1243,7 +1382,7 @@
         {
         "name": "Sport tv 5 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/TwXWptnq/sporttv5.png",
+        "image": "https://i.postimg.cc/fRNbdHM6/sport5.png",
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1253,7 +1392,17 @@
         {
         "name": "Sport tv 6 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/L6r49ntj/sporttv6.png",
+        "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
+        "url": "http://195.23.75.15:8000/udp/239.100.6.26:1234",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 6 🇵🇹",
+        "info":"",
+        "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV6/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1263,7 +1412,7 @@
         {
         "name": "Sport tv 6 🇵🇹",
         "info":"",
-        "image": "https://i.postimg.cc/L6r49ntj/sporttv6.png",
+        "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium291/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1473,7 +1622,7 @@
         {
         "name": "ESPN 2 🇺🇸",
         "info":"",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://esx1new.iosplayer.ru/esx1/primaespn2/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
@@ -1483,7 +1632,7 @@
         {
         "name": "ESPN 2 🇺🇸",
         "info":"",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://windnew.iosplayer.ru/wind/premium45/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
