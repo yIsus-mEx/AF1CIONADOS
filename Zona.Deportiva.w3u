@@ -710,6 +710,16 @@
         "isHost":""
         },
         {
+        "name": "ESPN Deportes 🇺🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
+        "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "ESPN Deportes 🇲🇽",
         "info":"",
         "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
