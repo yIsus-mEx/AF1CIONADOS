@@ -1,0 +1,74 @@
+{
+"name": "Los Favoritos de Midas",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Los.Favoritos.de.Midas.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]",
+ 				"image":"https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+ 				"url":"https://filemoon.to/d/phvogueul5k8",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 02",
+ 				"info":"[Español]",
+ 				"image":"https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+ 				"url":"https://filemoon.to/d/y2rzi8cdocyc",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+				"url":"https://filemoon.to/d/p1rneeuefppg",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+				"url":"https://filemoon.to/d/6idy6hvxh41w",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+				"url":"https://filemoon.to/d/mwdfbq6nf214",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
+				"url":"https://filemoon.to/d/n67achbmlsj6",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
