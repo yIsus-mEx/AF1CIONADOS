@@ -677,6 +677,61 @@
         "online":"true",
         "embed": "true",
         "isHost":""
+        },
+        {
+        "name": "TSN 1 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/j5qmtMDS/TSN1.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=tsn1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 2 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/jj80wV07/TSN2.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=tsn2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 3 🇨🇦",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=tsn3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 4 🇨🇦",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=tsn4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 5 🇨🇦",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=tsn5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
         }
 	]
 }
