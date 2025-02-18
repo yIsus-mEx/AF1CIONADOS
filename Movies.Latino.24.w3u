@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Mufasa",
+        "info": "[2024][Latino]",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/image_e01457a8.jpeg",
+        "url": "https://filemoon.to/d/i205twhm8seb",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "De Vuelta a la Acción",
         "info": "[2025][Latino]",
         "image": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/01/17/serie-tv-4030-mini.jpg",
