@@ -679,6 +679,28 @@
         "isHost":""
         },
         {
+        "name": "FS1 🇺🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=fox1usa",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "FS2 🇺🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png",
+        "url": "https://streamdz3.lat/player/embed.php?channel=fox2usa",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
         "name": "TSN 1 🇨🇦",
         "info":"",
         "image": "https://i.postimg.cc/j5qmtMDS/TSN1.png",
