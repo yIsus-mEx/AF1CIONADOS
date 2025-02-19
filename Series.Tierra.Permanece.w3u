@@ -2,91 +2,84 @@
 "name": "Tierra Permanece",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://af1c1onados.vercel.app/",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
 "stations":
 	[
- 		{
- 		"name": "Episodio 01",
- 		"info":"",
- 		"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
- 		"url":"",
- 		"isHost":"true",
- 		"online":"true"
-		},
-		{
-		"name": "Episodio 02",
-		"info":"",
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161949149793",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 03",
-		"info":"",
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161949543009",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 04",
-		"info":"",
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161950067297",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 05",
-		"info":"",  
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161950853729",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 06",
-		"info":"",  
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161955113569",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 07",
-		"info":"",  
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161955179105",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 08",
-		"info":"",  
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161955768929",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 09",
-		"info":"",  
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161955703393",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 10",
-		"info":"",  
-		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
-		"url":"https://ok.ru/video/2161980738145",
-		"isHost":"true",
-		"online":"true"
-		}
+
+ 	{
+ 	"name": "Episodio 01",
+        "info": "2024",
+ 	"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+ 	{
+ 	"name": "Episodio 02",
+        "info": "2024",
+ 	"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+ 	{
+ 	"name": "Episodio 03",
+        "info": "2024",
+ 	"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+ 	{
+ 	"name": "Episodio 04",
+        "info": "2024",
+ 	"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+ 	{
+ 	"name": "Episodio 05",
+        "info": "2024",
+ 	"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+ 	{
+ 	"name": "Episodio 06",
+        "info": "2024",
+ 	"image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }
 
 ]
 }
