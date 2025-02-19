@@ -7,19 +7,26 @@
 "info":"Lista_AF1CIONADOS",
 "groups":
     [
-         {
-         "name": "F1 2024",
-         "image": "https://i.postimg.cc/bN6DDvc8/F1-2024-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.F1.2024.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "F1 2023",
-         "image": "https://i.postimg.cc/8C00V12S/F1-2023-new.png",
-         "url": "https://af1c1onados.vercel.app/03.1.2.Diferidos.F1.2023.w3u",
-         "info":"",
-         "import": false
-        }
+          {
+          "name": "F1 2024",
+          "image": "https://i.postimg.cc/bN6DDvc8/F1-2024-new.png",
+          "url": "https://af1c1onados.vercel.app/Diferidos.F1.2024.w3u",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "F1 2023",
+          "image": "https://i.postimg.cc/8C00V12S/F1-2023-new.png",
+          "url": "https://af1c1onados.vercel.app/03.1.2.Diferidos.F1.2023.w3u",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "Box Box",
+          "image": "https://i.postimg.cc/rw6FcSzX/Box-Box-new.png",
+          "url": "https://af1c1onados.vercel.app/Diferidos.BOX.BOX.2025.w3u",
+          "info":"",
+          "import": false
+          }
      ]
 }

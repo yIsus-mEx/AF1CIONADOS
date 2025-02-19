@@ -8,6 +8,37 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+         "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+                "url":"https://filemoon.to/d/1ammswo274sq",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+                "url":"https://filemoon.to/d/0edyla6phttw",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
          "name": "UFC 312: Du Plessis Vs Strickland",
          "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
          "imageScale": "",
