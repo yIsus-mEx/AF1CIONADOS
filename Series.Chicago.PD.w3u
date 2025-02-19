@@ -1,7 +1,7 @@
 {
 "name": "Chicago PD",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/",
+"url": "https://af1c1onados.vercel.app/Series.Chicago.PD.w3u",
 "image":"https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
@@ -10,6 +10,30 @@
 
  	{
  	"name": "Episodio 01",
+  "info": "2024",
+ 	"image":"",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  "embed":"",
+  "isHost":"true",
+  "online":"true",
+  "import": false
+  },
+ 	{
+ 	"name": "Episodio 02",
+  "info": "2024",
+ 	"image":"",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  "embed":"",
+  "isHost":"true",
+  "online":"true",
+  "import": false
+  },
+ 	{
+ 	"name": "Episodio 03",
   "info": "2024",
  	"image":"",
  	"url":"",
