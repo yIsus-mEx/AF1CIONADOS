@@ -1,0 +1,30 @@
+{
+"name": "Nascar 2025",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Nascar.2025.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "R01 Daytona 500",
+        "info":"",
+        "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
+        "imageScale": "",
+        "stations":
+        	[
+            	{
+                "name": "Daytona 500",
+                "info":"[DAZN]",
+                "online":"true",
+                "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
+                "url":"https://listeamed.net/v/ZMVoEroaGYqO9Pa",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}
