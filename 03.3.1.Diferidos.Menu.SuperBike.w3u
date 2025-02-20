@@ -7,14 +7,13 @@
 "info":"",
 "groups":
     [
-
-         {
-         "name": "SuperBike 2023",
-         "image": "https://i.postimg.cc/vZGHjD0r/sbk2023-new.png",
-         "url": "https://af1cionados.vercel.app/Diferidos.SuperBike.2023.w3u",
-         "info":"",
-         "import": false
-        },
+          {
+          "name": "SuperBike 2025",
+          "image": "https://i.postimg.cc/mkNQV2dD/sbk-25-new.png",
+          "url": "https://af1cionados.vercel.app/",
+          "info":"",
+          "import": false
+          },
           {
           "name": "SuperBike 2024",
           "image": "https://i.postimg.cc/GtQdKc1h/SBK24-new.png",
@@ -23,11 +22,11 @@
           "import": false
           },
           {
-          "name": "SuperBike 2025",
-          "image": "",
-          "url": "https://af1cionados.vercel.app/",
+          "name": "SuperBike 2023",
+          "image": "https://i.postimg.cc/vZGHjD0r/sbk2023-new.png",
+          "url": "https://af1cionados.vercel.app/Diferidos.SuperBike.2023.w3u",
           "info":"",
           "import": false
-          }
+          }          
      ]
 }
