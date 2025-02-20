@@ -7,11 +7,10 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
      [
-
           {
-          "name": "MotoGp 2023",
-          "image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
-          "url": "https://af1cionados.vercel.app/Diferidos.MotoGP.2023.w3u",
+          "name": "MotoGP 2025",
+          "image": "https://i.postimg.cc/Bv0s27fg/Moto-Gp-25.png",
+          "url": "https://af1cionados.vercel.app/Diferidos.MotoGP.2025.w3u",
           "info":"",
           "import": false
           },
@@ -23,11 +22,11 @@
           "import": false
           },
           {
-          "name": "MotoGP 2025",
-          "image": "https://i.postimg.cc/kX5pZmsH/Moto-Gp-25.png",
-          "url": "https://af1cionados.vercel.app/Diferidos.MotoGP.2025.w3u",
+          "name": "MotoGp 2023",
+          "image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
+          "url": "https://af1cionados.vercel.app/Diferidos.MotoGP.2023.w3u",
           "info":"",
           "import": false
-          }
+          } 
      ]
 }
