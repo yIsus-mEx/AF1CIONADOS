@@ -31,6 +31,15 @@
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
+                },
+                {
+                "name": "Episodio 03",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+                "url":"https://maxfinishseveral.com/3eduwhkiysan",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
                 }
 			]
         }
