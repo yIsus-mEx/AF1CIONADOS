@@ -48,6 +48,13 @@
          "url": "https://af1c1onados.vercel.app/09.1.Deportes.NBA.StREamS.w3u",
          "info":"",
          "import": false
+        },
+        {
+         "name": "NHL StREamS",
+         "image": "https://i.postimg.cc/wxkLPF8d/NHL-new.png",
+         "url": "https://af1c1onados.vercel.app/09.3.Deportes.NHL.StREamS.w3u",
+         "info":"",
+         "import": false
         }
     ]
 }
