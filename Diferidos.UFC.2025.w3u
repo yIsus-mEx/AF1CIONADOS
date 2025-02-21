@@ -35,6 +35,17 @@
                 "isHost":"true",
                 "referer" : "",
                 "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+                "url":"https://filemoon.to/d/msv1lg9g7wzr",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
                 }
             ]
         },
