@@ -1,7 +1,7 @@
 {
-"name": "Ahsoka",
+"name": "Skeleton Crew",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Ahsoka.w3u",
+"url": "https://af1c1onados.vercel.app/Series.Skeleton.Crew.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
@@ -10,150 +10,78 @@
         {
         "name": "Temporada 01",
         "info":"",
-        "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
+        "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
         "imageScale": "",
         "stations":
             [
                 {
-                "name": "Maestro y Aprendiz",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://www.linkbox.to/f-detail/ZnA0MW44MDB3N3Qy0",
+                "name": "Episodio 01",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/i68d8omogahl",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "Maestro y Aprendiz",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://vtube.network/gwdx94zy6bvn.html",
+                "name": "Episodio 02",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/zpfma41dam3t",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "Penuria y Zozobra",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://www.linkbox.to/f-detail/ZnA0MW44MDBjOWY10",
+                "name": "Episodio 03",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/u606375q3u49",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "Penuria y Zozobra",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/acvixi3b324u",
+                "name": "Episodio 04",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/up7tg0m45len",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "Hora de Volar",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/hzac0vxwiv2y",
+                "name": "Episodio 05",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/sb5lsrrj3jih",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "Hora de Volar",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/4xrtwnk3rufi",
+                "name": "Episodio 06",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/5q0zi66gi021",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "La Caída de un Jedi",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/07rnsnufni33",
+                "name": "Episodio 07",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/9taa1k54t3ev",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
                 },
 				{
-                "name": "La Caída de un Jedi",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/yk4so8yj2i1n",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "El Guerrero de Las Sombras",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/6umbnazka5g7",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "El Guerrero de Las Sombras",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/pltnljcskt8w",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "Un lugar muy muy lejano",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/mt7ei5gtbv3v",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "Un lugar muy muy lejano",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/jqx77at2njor",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "Parte siete: Sueños y locura",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/b2kz7xdngylz",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "Parte siete: Sueños y locura",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://vtube.network/knvv94mf6sh7.html",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "Parte ocho: La Jedi, la bruja y el caudillo",
-                "info":"Latino",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/9xy3riximyvv",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "Parte ocho: La Jedi, la bruja y el caudillo",
-                "info":"Castellano",
-                "image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
-                "url":"https://upstream.to/b0emg8hlndak",
+                "name": "Episodio 08",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/fevr6utb5yia",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
