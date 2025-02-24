@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "MovIeS 2025",
+         "image": "",
+         "url": "https://af1c1onados.vercel.app/Movies.Latino.25.w3u",
+         "info":"",
+         "import": false
+        },
+        {
          "name": "MovIeS 2024",
          "image": "https://i.postimg.cc/zXK8g92r/2024-new.png",
          "url": "https://af1c1onados.vercel.app/Movies.Latino.24.w3u",
