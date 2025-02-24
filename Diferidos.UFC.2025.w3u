@@ -35,6 +35,17 @@
                 "isHost":"true",
                 "referer" : "",
                 "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cejudo Vs Song",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/ht7yYL5r/Cejudo-Vs-Song.png",
+                "url":"https://filemoon.to/d/1a8ylrgjwuni",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
                 }
             ]
         },

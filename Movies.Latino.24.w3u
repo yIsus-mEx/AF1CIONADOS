@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Conclave",
+        "info": "[2024][Latino]",
+        "image": "https://pics.filmaffinity.com/Caonclave-496920745-large.jpg",
+        "url": "https://filemoon.to/d/1pucorvkldih",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Mufasa",
         "info": "[2024][Latino]",
         "image": "https://lumiere-a.akamaihd.net/v1/images/image_e01457a8.jpeg",
