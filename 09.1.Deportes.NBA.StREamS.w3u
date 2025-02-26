@@ -6,157 +6,137 @@
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "stations":
-            [
-                {
-                "name": "NBA",
-                "info":"Canal 01",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba1.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 02",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba2.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 03",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba3.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 004",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba4.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "referer" : "",
-                "online":"true",
-                "embed": "",
-                "isHost": ""
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 05",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba5.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 06",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba6.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 07",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba7.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 08",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba8.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 09",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba9.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 10",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba10.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 11",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba11.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 12",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba12.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 13",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba13.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 14",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba14.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NBA",
-                "info":"Canal 14",
-                "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
-                "url": "https://flstv.online//embed/nba15.php",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            }
-        ]
+    [
+        {
+        "name": "NBA",
+        "info":"Canal 01",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_1/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 02",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_2/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 03",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_3/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 004",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_4/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+         {
+        "name": "NBA",
+        "info":"Canal 05",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_5/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 06",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_6/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 07",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_7/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 08",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://flstv.online//embed/nba8.php",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 09",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_9/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 10",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_10/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 11",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_11/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 12",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_12/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 13",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "http://fl5.moveonjoy.com/NBA_13/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        }
+    ]
 }
