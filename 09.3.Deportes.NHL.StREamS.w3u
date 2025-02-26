@@ -6,156 +6,136 @@
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "stations":
-        [
-         	{
-                "name": "NHL",
-                "info":"Canal 01",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh1.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 02",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh2.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 03",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh3.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 04",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh4.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 05",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh5.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 06",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh6.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 07",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh7.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 08",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh8.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 09",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh9.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 10",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh10.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 11",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh11.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 12",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh12.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 13",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh13.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 14",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh14.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            },
-            {
-                "name": "NHL",
-                "info":"Canal 15",
-                "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
-                "url": "https://flstv.online//embed/nh15.php/",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "online":"true",
-                "embed": "",
-                "isHost": "true"
-            }       
-        ]
+    [
+        {
+        "name": "NHL",
+        "info":"Canal 01",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_1/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {             
+        "name": "NHL",
+        "info":"Canal 02",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_2/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 03",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_3/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 04",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_4/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 05",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_5/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 06",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_6/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 07",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_7/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 08",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_8/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 09",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_9/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 10",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_10/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 11",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_11/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 12",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_12/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NHL",
+        "info":"Canal 13",
+        "image": "https://i.postimg.cc/JnqvSL66/NHL.png",
+        "url": "http://fl2.moveonjoy.com/NHL_13/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        }      
+    ]
 }
