@@ -8,6 +8,13 @@
 "groups":
     [
         {
+         "name": "Tu Amigo y Vecino Spider Man",
+         "image": "https://lumiere-a.akamaihd.net/v1/images/tu_amigo_y_vecino_spiderman_f43d4f96.jpeg",
+         "url": "https://af1c1onados.vercel.app/Cartoons.Tu.Amigo.y.Vecino.Spider.Man.w3u",
+         "info":"bY. yIsus",
+         "import": false
+        },
+        {
          "name": "La Leyenda de Vox Machina",
          "image": "https://static.wikia.nocookie.net/doblaje/images/1/14/La_Leyenda_De_Vox_Machina_-_Poster.jpg/revision/latest?cb=20231120094515&path-prefix=es",
          "url": "https://af1c1onados.vercel.app/Series.Vox.Machina.w3u",
