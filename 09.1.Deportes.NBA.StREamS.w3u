@@ -39,7 +39,7 @@
         },
         {
         "name": "NBA",
-        "info":"Canal 004",
+        "info":"Canal 04",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_4/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -86,7 +86,7 @@
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "online":"true",
         "embed": "",
-        "isHost": "true"
+        "isHost": ""
         },
         {
         "name": "NBA",
