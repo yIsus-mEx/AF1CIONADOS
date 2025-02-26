@@ -8,6 +8,15 @@
 "stations":
   [
      {
+      "name": "Conspiracion",
+      "info": "[Español][1997]",
+      "image": "https://pics.filmaffinity.com/Conspiraciaon-252322364-large.jpg",
+      "url": "https://ryderjet.com/file/axp8xov56iz6",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+     {
       "name": "La Momia Regresa",
       "info": "[Latinol][2001]",
       "image": "https://pics.filmaffinity.com/El_regreso_de_la_momia-633071656-large.jpg",
