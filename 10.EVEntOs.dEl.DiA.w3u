@@ -34,7 +34,7 @@
         "isHost":""
         },
         {
-        "name": "DazN F1 🇪🇸",
+        "name": "Dazn F1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
         "url": "https://esx1new.koskoros.ru/esx1/primadaznf1/mono.m3u8",
@@ -57,21 +57,21 @@
         "name": "Dazn F1 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/BY2rinNVR9bYYEADxtUDOlgHF3WBgJLMENHkSUOPXXxZIW9KacyvISI8VPRPzHuAeeLGXCCYDQev9CyQHfdagHY6U_tD-Z6eRXVdA2RnMP2kmpb-7X9fPWbsUubNGOsEfuA6wXIcSuLtbtCx0FiZzb-ed2ZZztFpQ1BJahT6AuWCAKiqWJ_Vkte5I9Ft-tNB/hls/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://huhu.to/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Dazn F1 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
         "url": "https://wiki2new.koskoros.ru/wiki2/wikidf1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://pkpakiplay.xyz/",
         "online":"true",
         "isHost":""
-        }
+        },
+        {
+        "name": "DazN F1 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://www.oha.to/play/270716645/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://huhu.to/",
+        "online":"true",
+        "isHost":""
+        }        
     ]
 }
