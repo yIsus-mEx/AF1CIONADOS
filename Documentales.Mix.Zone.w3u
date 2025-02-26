@@ -15,15 +15,15 @@
 		"stations":
     			[
 				{
-    				"name": "Cara A Cara: Badosa Y Corretja",
-    				"info":"[2024]",
-    				"image": "https://i.postimg.cc/x1QXTy1G/F4317573.jpg",
-    				"url":"https://filemoon.sx/d/nur3gy1actb6",
-    				"embed":"",
-    				"isHost":"true",
-    				"online":"true",
-                                "userAgent":"PlusMediaPlayer/0.0.9"
-    				},
+    			"name": "Cara A Cara: Badosa Y Corretja",
+    			"info":"[2024]",
+    			"image": "https://i.postimg.cc/x1QXTy1G/F4317573.jpg",
+    			"url":"https://filemoon.sx/d/nur3gy1actb6",
+    			"embed":"",
+    			"isHost":"true",
+    			"online":"true",
+                "userAgent":"PlusMediaPlayer/0.0.9"
+    			},
 				{
 				"name": "Michael Jordan to the Max 2015",
 				"info":"[Documental][Español]",
@@ -74,7 +74,14 @@
 				"isHost":"true",
 				"online":"true", 
 				"import": false
-				}
+				},
+				{
+          		"name": "SPRINT Los Humanos Mas Veloces",
+          		"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+          		"url": "https://af1c1onados.vercel.app/Documentales.SPRINT.Los.Humanos.Mas.Veloces.w3u",
+          		"info": "bY yIsus",
+          		"import": false
+        		}
 			]
 		},
 

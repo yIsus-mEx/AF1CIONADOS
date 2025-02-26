@@ -1,0 +1,115 @@
+{
+"name": "SPRINT Los Humanos Mas Veloces",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Documentales.SPRINT.Los.Humanos.Mas.Veloces.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+		{
+		"name":"Temporada 01",
+		"image":"https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+		"stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+				"url":"https://filemoon.to/d/46lok9x1ne5r",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+				"url":"https://filemoon.to/d/vhujkhif8r4y",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+				"url":"https://filemoon.to/d/fadhgxgkul23",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+				"url":"https://filemoon.to/d/tcfx2kcpp03x",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+				"url":"https://filemoon.to/d/4tymjmpppawg",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-938833497-large.jpg",
+				"url":"https://filemoon.to/d/fubc5lpgko5i",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name":"Temporada 02",
+		"image":"https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-318321514-large.jpg",
+		"stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-318321514-large.jpg",
+				"url":"https://filemoon.to/d/amp5xfx0u3qq",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-318321514-large.jpg",
+				"url":"https://filemoon.to/d/o8oonrg4xojk",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-318321514-large.jpg",
+				"url":"https://filemoon.to/d/lez90tbamx8v",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/Sprint_Los_humanos_maas_veloces_Serie_de_TV-318321514-large.jpg",
+				"url":"https://filemoon.to/d/62tqnm24z7jh",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
