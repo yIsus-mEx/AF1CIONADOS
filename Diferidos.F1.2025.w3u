@@ -8,107 +8,26 @@
 "groups":
     [
         {
-        "name": "Australia 2025 [14-16.Mar25]",
+        "name": "Test Bahréin 2025 [26-28.Feb25]",
         "info":"",
         "image": "",
         "imageScale": "",
         "stations":
             [
                 {
-                "name": "Libres 01",
-                "info":"[DAZN F1]",
-                "image": "",
-                "url":"",
+                "name": "Test Bahréin",
+                "info":"[Dia 1][Sesión De Mañana]",
+                "image": "https://i.postimg.cc/nhT0z3H4/Test.png",
+                "url":"https://filemoon.to/d/jve1e69sgz5a",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 				{
-                "name": "Libres 01",
-                "info":"[F1Tv]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Libres 02",
-                "info":"[DAZN F1]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Libres 02",
-                "info":"[F1Tv]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Libres 03",
-                "info":"[DAZN F1]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Libres 03",
-                "info":"[F1Tv]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Qualy",
-                "info":"[DAZN F1]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Qualy",
-                "info":"[F1Tv]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Carrera",
-                "info":"[DAZN F1]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Carrera",
-                "info":"[F1Tv]",
-                "image": "",
-                "url":"",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Post Carrera",
-                "info":"[DAZN F1]",
-                "image": "",
-                "url":"",
+                "name": "Test Bahréin",
+                "info":"[Dia 1][Sesión De Tarde]",
+                "image": "https://i.postimg.cc/nhT0z3H4/Test.png",
+                "url":"https://filemoon.to/d/w9jjaokopu78",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
