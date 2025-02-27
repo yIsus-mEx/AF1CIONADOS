@@ -13,23 +13,23 @@
         "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
         "imageScale": "",
         "stations":
-            [
+            	[
                 {
                 "name": "Episodio 01",
                 "info":"[Español]",
                 "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
                 "url":"https://maxfinishseveral.com/l1hiwtavezky",
                 "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
+		"isHost": "true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "Episodio 02",
                 "info":"[Español]",
                 "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
                 "url":"https://maxfinishseveral.com/lhrmlpq1whuh",
                 "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
+		"isHost": "true",
                 "online":"true"
                 },
                 {
@@ -38,10 +38,40 @@
                 "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
                 "url":"https://maxfinishseveral.com/3eduwhkiysan",
                 "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
+		"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 04",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+                "url":"https://ryderjet.com/file/092bjaox4c1v",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost": "true",
                 "online":"true"
                 }
-			]
-        }
+		]
+        },
+
+        {
+        "name": "Temporada 02",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+        "imageScale": "",
+        "stations":
+        	[
+                {
+                "name": "Episodio 01",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+                "url":"",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost": "true",
+                "online":"true"
+                }
+		]
+	}
+
+
 	]
 }
