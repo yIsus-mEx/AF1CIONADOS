@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-4-k" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-4-k-arabia.png",bein-4-k
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-4-k-arabia.png" group-title="beIN Sports",bein-4-k
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1500113&extension=ts&play_token=ysAhzGmJ4g
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 1
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363480&extension=ts&play_token=9O3Dgpav8z
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 1 (OPc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 1 (OPc2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016907&extension=ts&play_token=IUyVceMkpw
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 2
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1411395&extension=ts&play_token=0s1VIvMWLI
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 2 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 2 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016908&extension=ts&play_token=TNy7Mwz8jF
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 3 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363482&extension=ts&play_token=7HWXQ4d37y&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 3 (OPC2) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 3 (OPC2) 
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016909&extension=ts&play_token=sId510TUhY
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 4
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363483&extension=ts&play_token=5VwWXO1ujr&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 4 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 4 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016910&extension=ts&play_token=a3jMH7tRoz
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 5
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363484&extension=ts&play_token=AIpLs8pU4D&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 5 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 5 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016911&extension=ts&play_token=LY7EIy8D13
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 6
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363485&extension=ts&play_token=1UWaBJAGAs&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 6 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 6 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016912&extension=ts&play_token=KxiIIDjeEh
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 7
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363486&extension=ts&play_token=HGZBfIwXhX&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 7 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 7 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016913&extension=ts&play_token=udW29GNpdU
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein connect" tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:B5:4F:EA&stream=1363487&extension=ts&play_token=TX4MUIWVoI&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 8 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 8 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016914&extension=ts&play_token=j4VindxtP8
-#EXTINF:-1 tvg-ID="bein-connect" tvg-name="bein-connect " tvg-logo="https://cdn-1.webcatalog.io/catalog/bein-connect/bein-connect-icon.png" group-title="bein-connect",beIN Sports HD 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 9
 http://uhd3.one:80/play/live.php?mac=00:1A:79:C7:72:68&stream=1363488&extension=ts&play_token=qJwHKdSIn3&sn2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="bein-connect",beIN Sports HD 9 (OPC2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="beIN Sports",beIN Sports HD 9 (OPC2)
 http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016915&extension=ts&play_token=cuIMIiu0u7
