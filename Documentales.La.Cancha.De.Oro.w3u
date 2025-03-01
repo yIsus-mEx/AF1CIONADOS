@@ -1,0 +1,72 @@
+{
+"name": "La Cancha De Oro",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Documentales.La.Cancha.De.Oro.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+		{
+		"name":"Temporada 01",
+		"image":"https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+		"stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+				"url":"https://filemoon.to/d/p5zzojcer7jz",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+				"url":"https://filemoon.to/d/j2l8ey297bbz",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+				"url":"https://filemoon.to/d/ijtpy1gxd5ji",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+				"url":"https://filemoon.to/d/10p6fo9fm159",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+				"url":"https://filemoon.to/d/6urpbszsy5es",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",
+				"image": "https://pics.filmaffinity.com/court_of_gold-295473026-mmed.jpg",
+				"url":"https://filemoon.to/d/ouhwok22811b",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
