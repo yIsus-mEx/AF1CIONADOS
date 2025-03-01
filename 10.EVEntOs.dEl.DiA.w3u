@@ -24,54 +24,44 @@
         "embed": "true"
         },
         {
-        "name": "Dazn F1 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Dazn F1 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://esx1new.koskoros.ru/esx1/primadaznf1/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pkpakiplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Dazn F1 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://tv1.strm2234.xyz/f1/index.m3u8",
+        "name": "Indycar Series: Streets of St. Petersburg",
+        "info":"[14:30][Qualifying]",
+        "image": "https://i.postimg.cc/J4W0nrx1/INDY.webp",
+        "url": "https://streamtp3.com/global1.php?stream=disney13",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "Dazn F1 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://wiki2new.koskoros.ru/wiki2/wikidf1/mono.m3u8",
+        "name": "UFC: Manel Kape vs Asu Almabayev",
+        "info":"[16:00][Latino]",
+        "image": "https://i.postimg.cc/D0Dw7hxX/ufc-vegas-103.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=disney2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pkpakiplay.xyz/",
+        "referer" : "",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "DazN F1 🇪🇸",
+        "name": "Gervonta Davis vs Lamont Roach",
         "info":"",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://www.oha.to/play/270716645/index.m3u8",
+        "image": "https://a.espncdn.com/photo/2025/0224/box_davis-roach-breakdown_16x9.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=disney6",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://huhu.to/",
+        "referer" : "",
         "online":"true",
         "isHost":""
-        }        
+        },
+        {
+        "name": "WWE: Elimination Chamber 2025",
+        "info":"[17:00][Latino]",
+        "image": "https://cultaholic.com/media/WWE%20Elimination%20Chamber%202025%20Poster.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=peacock1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        }  
     ]
 }
