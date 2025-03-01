@@ -2,7 +2,7 @@
 "name": "MLB Stream",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://af1c1onados.vercel.app/09.4.Deportes.MLB.Stream.w3u",
-"image": "https://images3.alphacoders.com/595/595865.jpg",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "stations":
@@ -10,107 +10,92 @@
 		{
         "name": "MLB",
 		"info":"Canal 01",
+		"online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "https://v.markkystreams.com/video/mlb-01/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         },
 		{  
         "name": "MLB",
 		"info":"Canal 02",
+        "online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "http://v.markkystreams.com/video/mlb-02/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         }, 
 		{
 		"name": "MLB",
 		"info":"Canal 03",
+		"online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "http://v.markkystreams.com/video/mlb-03/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         }, 
 		{
 		"name": "MLB",
 		"info":"Canal 04",
+		"online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "http://v.markkystreams.com/video/mlb-04/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         }, 
 		{  
         "name": "MLB",
 		"info":"Canal 05",
+		"online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "http://v.markkystreams.com/video/mlb-05/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         }, 
 		{
 		"name": "MLB",
 		"info":"Canal 06",
+		"online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "http://v.markkystreams.com/video/mlb-06/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb6",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         }, 
 		{
 		"name": "MLB",
 		"info":"Canal 07",
+		"online":"true",
 		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-		"url" : "http://v.markkystreams.com/video/mlb-07/",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb7",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"isHost": "true"
         },
 		{
         "name": "MLB",
         "info":"Canal 08",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-08/",
-        "isHost": "true"
+        "online":"true",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
         },
 		{
         "name": "MLB",
         "info":"Canal 09",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-09/",
-        "isHost": "true"
+        "online":"true",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
         },
 		{
         "name": "MLB",
         "info":"Canal 10",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-10/",
-        "isHost": "true"
-        },
-		{
-        "name": "MLB",
-        "info":"Canal 11",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-11/",
-        "isHost": "true"
-        },
-		{
-        "name": "MLB",
-        "info":"Canal 12",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-12/",
-        "isHost": "true"
-        },
-		{
-        "name": "MLB",
-        "info":"Canal 13",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-13/",
-        "isHost": "true"
-        },
-		{
-        "name": "MLB",
-        "info":"Canal 14",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-14/",
-        "isHost": "true"
-        },
-		{
-        "name": "MLB",
-        "info":"Canal 15",
-        "image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
-        "url" : "https://v.markkystreams.com/video/mlb-15/",
-        "isHost": "true"
+        "online":"true",
+		"image": "https://i.postimg.cc/ydg2DggS/MLB-2.png",
+		"url" : "https://streamtp3.com/global1.php?stream=mlb10",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
         }
 	]
 }
