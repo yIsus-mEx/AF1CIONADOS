@@ -16,8 +16,26 @@
             [
                 {
                 "name": "Test Bahréin",
+                "info":"[Dia 3][Sesión De Mañana]",
+                "image": "https://i.postimg.cc/YqPWs4fH/Test-Day-3.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+				{
+                "name": "Test Bahréin",
+                "info":"[Dia 3][Sesión De Tarde]",
+                "image": "https://i.postimg.cc/YqPWs4fH/Test-Day-3.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Test Bahréin",
                 "info":"[Dia 2][Sesión De Mañana]",
-                "image": "https://i.postimg.cc/jjKKnzKF/Test-Day-2.png",
+                "image": "https://i.postimg.cc/02jSnGSn/Test-Day-2.png",
                 "url":"https://filemoon.to/d/x3j4yk9wp9io",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
@@ -26,7 +44,7 @@
 				{
                 "name": "Test Bahréin",
                 "info":"[Dia 2][Sesión De Tarde]",
-                "image": "https://i.postimg.cc/jjKKnzKF/Test-Day-2.png",
+                "image": "https://i.postimg.cc/02jSnGSn/Test-Day-2.png",
                 "url":"https://filemoon.to/d/rsdqtw3c8gcv",
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
