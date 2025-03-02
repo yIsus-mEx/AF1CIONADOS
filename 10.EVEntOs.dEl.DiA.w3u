@@ -24,78 +24,23 @@
         "embed": "true"
         },
         {
-        "name": "Indycar Series: Streets of St. Petersburg",
-        "info":"[14:30][Qualifying]",
-        "image": "https://i.postimg.cc/J4W0nrx1/INDY.webp",
-        "url": "https://streamtp3.com/global1.php?stream=disney13",
+        "name": "Ceremonia Oscars 2025",
+        "info":"[Español]",
+        "image": "https://larepublica.cronosmedia.glr.pe/original/2025/01/20/678eb6258d24644cf6268bf4.jpg",
+        "url": "https://huhu.to/play/2881668464/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://huhu.to/",
         "online":"true",
         "isHost":"true"
         },
         {
-        "name": "Nascar Xfinity Series Focused Health 250",
-        "info":"[14:30][Qualifying]",
-        "image": "https://i.postimg.cc/BvPSCbBP/nascar.png",
-        "url": "https://streamtp3.com/global1.php?stream=foxsports3mx",
+        "name": "Ceremonia Oscars 2025",
+        "info":"[Español]",
+        "image": "https://larepublica.cronosmedia.glr.pe/original/2025/01/20/678eb6258d24644cf6268bf4.jpg",
+        "url": "https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "UFC: Manel Kape vs Asu Almabayev",
-        "info":"[16:00][Latino]",
-        "image": "https://i.postimg.cc/D0Dw7hxX/ufc-vegas-103.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney2",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Gervonta Davis vs Lamont Roach",
-        "info":"",
-        "image": "https://a.espncdn.com/photo/2025/0224/box_davis-roach-breakdown_16x9.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney6",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-		"name": "Gervonta Davis vs Lamont Roach",
-		"info":"[Español][acestream]",
-        "online":"true",
-		"image": "https://a.espncdn.com/photo/2025/0224/box_davis-roach-breakdown_16x9.jpg",
-		"url": "acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77"
-        },
-        {
-		"name": "Gervonta Davis vs Lamont Roach",
-		"info":"[Español][acestream]",
-        "online":"true",
-		"image": "https://a.espncdn.com/photo/2025/0224/box_davis-roach-breakdown_16x9.jpg",
-		"url": "acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f"
-        },
-        {
-        "name": "WWE: Elimination Chamber 2025",
-        "info":"[17:00][Latino]",
-        "image": "https://cultaholic.com/media/WWE%20Elimination%20Chamber%202025%20Poster.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=peacock1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "PRUEBAS",
-        "info":"",
-        "image": "",
-        "url": "https://nebunexa.co/cvatt.php?get=VE5UU2VyaWVz&lang=1&start=true",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "embed": "true",
         "isHost":""
         }
     ]
