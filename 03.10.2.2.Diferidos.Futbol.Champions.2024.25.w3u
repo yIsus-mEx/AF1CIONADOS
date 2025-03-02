@@ -544,10 +544,10 @@
 				"image": "https://i.postimg.cc/D0VBPVMM/2024-25-Logo-Champions-League.webp",
 				"imageScale": "",
 				"stations":
-        		[
+        				[
 						{
-						"name": "",
-						"info":"[]",
+						"name": "Machester City VS Real Madrid",
+						"info":"[11-02-2025]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
@@ -555,64 +555,10 @@
 						"online":"true"
 						},
 						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
-            					"userAgent": "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
-            					"userAgent": "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
-            					"userAgent": "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
-            					"userAgent": "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
-            					"userAgent": "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
-            					"userAgent": "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "",
-						"info":"[]",
-						"image": "",
-						"url":"",
+						"name": "Real Madrid VS Mancheste City",
+						"info":"[19-02-2025]",
+						"image": "https://i.postimg.cc/43NJ3jF5/Champions-League-2024-2025.jpg",
+						"url":"https://filemoon.to/d/7tpp7hpwmd6m/2025-02-19_-_UEFA_Champions_League_2024-2025_-_Diecis_isavos_de_final_-_Vuelta_-_Real_Madrid_vs_Manchester_City__1080p_50fps___6_audios_.mkv",
             					"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
@@ -628,8 +574,8 @@
 				"stations":
         				[
 						{
-						"name": "",
-						"info":"[]",
+						"name": "Real Madrid VS Atletico de Madrid",
+						"info":"[04-03-2025]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
@@ -637,8 +583,8 @@
 						"online":"true"
 						},
       						{
-						"name": "",
-						"info":"[]",
+						"name": "benfica VS FC Barcelona",
+						"info":"[05-03-2025]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
@@ -646,8 +592,8 @@
 						"online":"true"
 						},
 						{
-						"name": "",
-						"info":"[]",
+						"name": "FC Barcelona VS Benfica",
+						"info":"[11-03-2025]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
@@ -655,8 +601,8 @@
 						"online":"true"
 						},
       						{
-						"name": "",
-						"info":"[]",
+						"name": "Atletico de Madrid VS Real Madrid",
+						"info":"[12-03-2025]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
