@@ -88,14 +88,14 @@
         "isHost":"true"
         },
         {
-        "name": "PRUEBAS",
+        "name": "PRUEBA",
         "info":"",
         "image": "",
-        "url": "https://nebunexa.co/cvatt2.php?get=VE5UU2VyaWVz&start",
+        "url": "https://nebunexa.co/cvatt.php?get=VE5UU2VyaWVz&lang=1&start=true",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "isHost":""
+        "isHost":"true"
         }
     ]
 }
