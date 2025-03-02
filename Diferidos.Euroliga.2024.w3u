@@ -2328,15 +2328,59 @@
 
 	{
         "name": "JORNADA 27",
-        "image": "",
+        "image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "",
+       			"name": "Paris VS Bayern Munich",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/dpk12cu3gy49/Euroliga_Paris_VS_Bayern_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Monaco",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/iy4mtgx8my4h/Euroliga_Milan_VS_Monaco_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi Tel Aviv VS Fenerbache",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/zgr53i85imk3/Euroliga_Maccabi_VS_fenerbahce_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS FC Barcelona",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/n72dzrt30y3d/Euroliga_Real_Madrid_VS_FC_Barcelona_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Partizan Belgrado VS Baskonia",
+	        	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
+	        	"url": "https://filemoon.to/d/t1i801k73plz/Euroliga_Partizan_vs_Baskonia280225.mkv",
+	        	"info": "[28/02/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
