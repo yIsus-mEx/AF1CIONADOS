@@ -276,6 +276,753 @@
                 "embed": "true"
                 }
             ]
+        },
+        {
+		"name": "Tv Cartoons",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[ 
+                {
+                "name": "DREAMWORKS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RHJlYW13b3Jrcw==",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "CARTOON NETWORK",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=Q2FydG9vbk5ldHdvcms=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "CARTOONITO",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=Qm9vbWVyYW5n",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISNEY CHANNEL",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RGlzbmV5Q2hhbm5lbEhE",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISNEY JUNIOR",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RGlzbmV5SnI=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY KIDS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "NICKELODEON",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=Tmlja2Vsb2Rlb24=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "NICK JUNIOR",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=Tmlja19Kcg==",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                }
+            ]
+        },
+        {
+		"name": "Tv Cultura",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[ 
+                {
+                "name": "CANAL DE LAS ESTRELLAS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TNT NOVELAS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=VEJT&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TLC",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt2.php?get=VExD&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "LIFETIME",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=TGlmZXRpbWU=&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "MAS CHIC",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=TWFzX0NoaWM=&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "COMEDY CENTRAL",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=Q29tZWR5Q2VudHJhbA&lang=1&start=true&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOOD NETWORK",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=Rm9vZF9OZXR3b3Jr&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "GOURMET",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nuskt.directory/cvatt.html?get=R291cm1ldA==&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "SUN CHANNEL",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=U3VuX0NoYW5uZWw=&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ENTERTAIMENT",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "EURO CHANNEL",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RXVyb2NoYW5uZWw=&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "EUROPA EUROPA",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RXVyb3BhX0V1cm9wYQ&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "EURONEWS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RXVyb25ld3M=&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "HOLA TV",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=SG9sYV9UVg==&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TVE",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=VFZfRXNwYW5h&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FILM & ARTS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RmlsbV9BcnRz&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY CHANNEL",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RGlzY292ZXJ5SEQ=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY WORLD",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RGlzY292ZXJ5X1dvcmxkX0hE",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY THEATER",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=VGhlYXRlcl9IRA==",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY SCIENCE",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=RGlzY292ZXJ5X1NjaWVuY2U=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY TLC",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=VExD",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY TURBO",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "	https://zzcointv.xyz/html/cvatt.html?get=RGlzY292ZXJ5VHVyYm8=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY H&H",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "	https://zzcointv.xyz/html/cvatt.html?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DISCOVERY INVESTIGATION",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=SUQ=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "HISTORY CHANNEL",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=SGlzdG9yeUhE",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "HISTORY CHANNEL 2",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "	https://zzcointv.xyz/html/cvatt.html?get=SGlzdG9yeV8y",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ANIMAL PLANET",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=QW5pbWFsUGxhbmV0",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "NATIONAL GEOGRAPHIC",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=TmF0R2VvSEQ=",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "A&E",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvatt.html?get=QUVIRA==",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                }
+            ]
+        },
+        {
+		"name": "Tv Deportes",
+ 		"image": "",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[ 
+                {
+                "name": "ESPN",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RVNQTjJIRA&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=RVNQTjJIRA&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 2",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/cvattde.html?get=RVNQTjJfQXJn&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 2",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=RVNQTjJfQXJn&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 2",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn2",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 3",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/cvattde.html?get=RVNQTjM&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 3",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=RVNQTjM&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 3",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn3",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 4",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/cvattde.html?get=RVNQTkhE&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 4",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=RVNQTkhE&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 4",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn4",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 5",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=RVNQTjQ=&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 5",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=RVNQTjQ=&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 5",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn5",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 6",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=Rm94U3BvcnRzM19VWQ==&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 6",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=Rm94U3BvcnRzM19VWQ==&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 6",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn6",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 7",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=Rm94U3BvcnRzMl9VWQ==&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 7",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=Rm94U3BvcnRzMl9VWQ==&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN 7",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espn7",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN PREMIUM",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvattde.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN PREMIUM",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "ESPN PREMIUM",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=espnpremium",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/cvattde.html?get=Rm94U3BvcnRz&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=Rm94U3BvcnRz&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=fox1ar",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS 2",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/html/cvattde.html?get=Rm94U3BvcnRzMkhE&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS 2",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=Rm94U3BvcnRzMkhE&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS 2",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=fox2ar",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS 3",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://zzcointv.xyz/cvattde.html?get=Rm94U3BvcnRzM0hE&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS 3",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=Rm94U3BvcnRzM0hE&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "FOX SPORTS 3",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=fox3ar",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DSPORTS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=dsports&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DSPORTS 2",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=dsports2&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DSPORTS PLUS",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=dsportsplus&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "DEPORTV",
+                "info":"",
+                "online":"true",
+                "image": "",
+                "url": "https://nuskt.directory/cvatt.html?get=RGVwb3JUVkhE&lang=1&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TNT Sports",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=VE5UX1Nwb3J0c19IRA&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TNT Sports",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=VE5UX1Nwb3J0c19IRA&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TNT Sports",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=tntsports",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TYC SPORTS",
+                "info":"[Opcion 1]",
+                "online":"true",
+                "image": "",
+                "url": "https://nebunexa.co/cvatt.php?get=VHlDU3BvcnQ&lang=1&start=true",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TYC SPORTS",
+                "info":"[Opcion 2]",
+                "online":"true",
+                "image": "",
+                "url": "https://cv.photocalltv.me/cv2.php?get=VHlDU3BvcnQ&lang=1",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                },
+                {
+                "name": "TYC SPORTS",
+                "info":"[Opcion 3]",
+                "online":"true",
+                "image": "",
+                "url": "https://streamtp3.com/global1.php?stream=tycsports",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "embed": "true"
+                }
+            ]
         }
     ]
 }
