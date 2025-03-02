@@ -8,10 +8,10 @@
 "groups":
     [   
         {
-        "name": "IPTV 01",
+        "name": "IPTV 01 [VIP]",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://fastream.xyz:8080/get.php?username=72ge9hPFGZNs&password=cdQ8YVktcY5T&type=m3u_plus",
-        "info":"1000 conex",
+        "url": "https://af1c1onados.vercel.app/IPTV.MPDs.w3u",
+        "info":"",
         "import": false
         },
         {
@@ -89,6 +89,13 @@
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/all_channels/tivimate_playlist.m3u8",
         "info":"Ilimitadas conex",
+        "import": false
+        },
+        {
+        "name": "IPTV 13",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://fastream.xyz:8080/get.php?username=72ge9hPFGZNs&password=cdQ8YVktcY5T&type=m3u_plus",
+        "info":"1000 conex",
         "import": false
         }
     ]
