@@ -7,6 +7,26 @@
 "info": "",
 "groups":
     [
+       {
+         "name": "UFC Fight Night: Kape Vs Almabayev",
+         "image": "https://i.postimg.cc/FK3wcdzj/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Kape Vs Almabayev",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/FK3wcdzj/ufc.png",
+                "url":"https://filemoon.to/d/ymbrlf5kv2yh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
         {
          "name": "UFC Fight Night: Cejudo Vs Song",
          "image": "https://i.postimg.cc/ht7yYL5r/Cejudo-Vs-Song.png",

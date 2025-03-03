@@ -8,6 +8,13 @@
 "groups":
     [
          {
+         "name": "Indycar 2025",
+         "image": "",
+         "url": "https://af1c1onados.vercel.app/Diferidos.Indycar.Series.2025.w3u",
+         "info":"",
+         "import": false
+         },
+         {
          "name": "Indycar 2024",
          "image": "https://i.postimg.cc/Gtf4tGVf/indycar2024-new.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.Indycar.Series.2024.w3u",

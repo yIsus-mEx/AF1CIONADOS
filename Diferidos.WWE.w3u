@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "WWE Elimination Chamber",
+        "info":"[2025]",
+        "image": "https://assets.khelnow.com/news/uploads/2025/02/WWE-Elimination-Chamber-2025.jpg",
+        "url": "https://filemoon.to/d/u39sr7jmjurz",
+        "online":"true",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost": "true"
+        },
+        {
         "name": "WWE SummerSlam",
         "info":"[2024]",
         "image": "https://i.postimg.cc/y88phHG8/wwe.png",

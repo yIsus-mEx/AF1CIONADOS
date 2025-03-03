@@ -1,0 +1,27 @@
+{
+"name": "Indycar Series 2025",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Indycar.Series.2025.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "R01 IndyCar Grand Prix of St. Petersburg",
+        "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/CKxc61sq/St-Peterburgo.png",
+                "url" :"https://filemoon.to/d/vyvbbncr1jhn",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}
