@@ -8,7 +8,7 @@
 "groups":
     [
         {
-        "name": "Temporada 1",
+        "name": "Opcion Latino",
         "info":"",
         "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
         "imageScale": "",
@@ -23,30 +23,12 @@
                 "isHost":"true",
                 "online":"true"
                 },
-                {
-                "name": "01.Cuando Estés Perdido En La Oscuridad",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://filemoon.to/d/r44tf64p53s6/The_last_of_us_1x02_1080p_Castellano.mp4",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
 				{
                 "name": "02.Infectados",
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
                 "url":"https://dood.pm/e/7y15p6nybl4g",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "02.Infectados",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://uqload.com/embed-5d9ha6vbwxdc.html",
-                "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -59,30 +41,12 @@
                 "isHost":"true",
                 "online":"true"
                 },
-                {
-                "name": "03.Mucho, Mucho Tiempo",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://uqload.com/embed-1pd4axby0i3s.html",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
 				{
                 "name": "04.Por Favor, Toma Mi Mano",
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
                 "url":"https://dood.pm/e/quxr3w55oou7",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "04.Por Favor, Toma Mi Mano",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://dood.pm/e/kgukrue36flq",
-                "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -95,30 +59,12 @@
                 "isHost":"true",
                 "online":"true"
                 },
-                {
-                "name": "05.Resistir y Sobrevivir",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://dood.pm/e/kyu7a35b8gbc",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
 				{
                 "name": "06.Parentesco",
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
                 "url":"https://dood.pm/e/mc1qkjch3d88",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "06.Parentesco",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://dood.pm/e/i2jwcjbo4hs9",
-                "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -131,30 +77,12 @@
                 "isHost":"true",
                 "online":"true"
                 },
-                {
-                "name": "07.Lo Que Dejamos Atrás",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://uqload.com/embed-wprhg84zj00i.html",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
 				{
                 "name": "08.Cuando Más Necesitamos",
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
                 "url":"https://uqload.com/embed-pyqpr0dfb7lb.html",
 				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "08.Cuando Más Necesitamos",
-                "info":"[Castellano]",
-                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://uqload.com/embed-9kaom2sifb0x.html",
-                "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
@@ -166,17 +94,100 @@
 				"userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                }
+		]
+        },
+
+        {
+        "name": "Opcion Castellano",
+        "info":"",
+        "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "01.Cuando Estés Perdido En La Oscuridad",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/sjthqu48hoyq/The_last_of_us_1x01_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "02.Infectados",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/r44tf64p53s6/The_last_of_us_1x02_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "03.Mucho, Mucho Tiempo",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/rl5lazadsn6l/The_last_of_us_1x03_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "04.Por Favor, Toma Mi Mano",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/84h8wm9rrpgq/The_last_of_us_1x04_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "05.Resistir y Sobrevivir",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/ryb0qy0y3nkf/The_last_of_us_1x05_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "06.Parentesco",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/ohfszxf96yft/The_last_of_us_1x06_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "07.Lo Que Dejamos Atrás",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/nyskgnk75mxw/The_last_of_us_1x07_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "08.Cuando Más Necesitamos",
+                "info":"[Castellano]",
+                "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+                "url":"https://filemoon.to/d/6lizaatr0ix8/The_last_of_us_1x08_1080p_Castellano.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 },
                 {
                 "name": "09.Busca La Luz",
                 "info":"[Castellano]",
                 "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
-                "url":"https://uqload.com/embed-oqz3ob7jomrl.html",
+                "url":"https://filemoon.to/d/x73nkxbnsn8k/The_last_of_us_1x09_1080p_Castellano.mp4",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 }
-			]
+		]
         }
+
     ]
 }
