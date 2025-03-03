@@ -450,9 +450,9 @@
         		},
 			{
         		"name": "Valencia vs Real Madrid",
-        		"info":"[]",
+        		"info":"[02-03-2024]",
         		"image": "https://i.postimg.cc/0Q5gxs1Z/2024-03-24-Valencia-vs-Real-Madrid.webp",
-        		"url": "https://filemoon.sx/d/c8no6hevcuqb/Liga_EA_Sport_Valencia_VS_Real_Madrid_020324.mp4",
+        		"url": "htps://filemoon.sx/d/c8no6hevcuqb/Liga_EA_Sport_Valencia_VS_Real_Madrid_020324.mp4",
 			"isHost":"true",
 			"userAgent": "",
         		"online":"true"
@@ -492,111 +492,188 @@
         "imageScale": "",
         "groups":
     		[
-				{
-				"name": "CUARTOS DE FINAL",
-				"info":"",
-				"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
-				"imageScale": "",
-				"stations":
-        			[
-						{
-						"name": "Atletico Madrid VS Sevilla",
-						"info":"[25-01-2024]",
-						"image": "https://i.postimg.cc/ZYVNqJ5X/Atletico-Madrid-vs-Sevilla-2024.webp",
-						"url":"https://filemoon.sx/d/ho1jm25bc6ay/Copa_del_Rey_Cuartos_Atletico_de_Madrid_VS_Sevilla_250124.mp4",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "Athletic Bilbao VS FC Barcelona",
-						"info":"[24-01-2024]",
-						"image": "https://i.postimg.cc/YqMd5ryV/Athletic-vs-Barcelona-2024.jpg",
-						"url":"https://filemoon.sx/d/d640s6d5qwzy/Copa_del_Rey_Bilbao_VS_FC_Barcelona_240124.mp4",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "RCD Mallorca VS Girona",
-						"info":"[24-01-2024]",
-						"image": "https://i.postimg.cc/XYNDCjfF/Mallorca-vs-Girona-2024.webp",
-						"url":"https://filemoon.sx/d/0nzq8mhbnn9e/Copa_del_Rey_Mallorca_VS_Girona_240124.mp4",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "Celta de Vigo VS Real Sociedad",
-						"info":"[23-01-2024]",
-						"image": "https://i.postimg.cc/vZdGFVdy/Celta-vs-Real-Sociedad-2024.jpg",
-						"url":"https://filemoon.sx/d/quyi1vva5q65/Copa_del_Rey_Cuartos_Celta_VS_Real_Sociedad_230124.mp4",
-						"isHost":"true",
-						"online":"true"
-						}
-       				]
-				},
-				{
-				"name": "SEMIFINALES",
-				"info":"",
-				"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
-				"imageScale": "",
-				"stations":
-        			[
-						{
-						"name": "RCD Mallorca VS Real Sociedad (IDA)",
-						"info":"[06-02-2024]",
-						"image": "https://i.postimg.cc/J440M44L/2024-02-06-Real-Mallorca-vs-Real-Sociedad.jpg",
-						"url":"https://filemoon.sx/d/zow3ti37np72/Semifinals_Copa_del_Rey_IDA_Mallorca_VS_Real_Sociedad_060224.mp4",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "Atletico Madrid VS Athletic Bilbao (IDA)",
-						"info":"[07-02-2024]",
-						"image": "https://i.postimg.cc/02nWfX4N/2024-02-07-Atletico-Madrid-vs-Athletic-Bilbao.png",
-						"url":"https://filemoon.sx/d/gpbt1vtfznmt/2_Semifinal_Copa_del_rey_Ida_Atletico_de_Madrid_VS_Athletic_de_Bilbao_Canal_Copa_del_Rey_070224.mp4",
-        					"userAgent" : "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "Real Sociedad VS RCD Mallorca (VUELTA)",
-						"info":"[27-02-2024]",
-						"image": "https://i.postimg.cc/CxQZpD5g/2024-02-27-Real-Sociedad-vs-RCD-Mallorca.png",
-						"url":"https://filemoon.sx/d/m570d28j56u4/Copa_del_Rey_Semifinales_Vuelta_Real_Sociedad_VS_Mallorca_270224.mp4",
-        					"userAgent" : "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						},
-						{
-						"name": "Athletic Bilbao VS Atletico Madrid (VUELTA)",
-						"info":"[29-02-2024]",
-						"image": "https://i.postimg.cc/85tdWcwP/2024-02-29-Athletic-Bilbao-vs-Atletico-Madrid.png",
-						"url":"https://filemoon.sx/d/xyzlca237r1p/Semifinales_Copa_del_Rey_Athletic_de_Bilbao_VS_Atletico_Madrid_290224.mp4",
-        					"userAgent" : "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						}
-       				]
-				},
-				{
-				"name": "FINAL",
-				"info":"[06-04-2024]",
-				"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
-				"imageScale": "",
-				"stations":
-        			[
-						{
-						"name": "Athletic Bilbao VS RCD Mallorca",
-						"info":"[06-04-2024]",
-						"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
-						"url":"https://filemoon.sx/d/0ukf1k9f41uo/Final_Copa_del_Rey_Athletic_Bilbao_VS_Mallorca_060424.mkv",
-                				"userAgent" : "PlusMediaPlayer/0.0.9",
-						"isHost":"true",
-						"online":"true"
-						}
-					]
-				}
+
+		{
+		"name": "CUARTOS DE FINAL",
+		"info":"",
+		"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
+		"imageScale": "",
+		"stations":
+        	[
+			{
+			"name": "Atletico Madrid VS Sevilla",
+			"info":"[25-01-2024]",
+			"image": "https://i.postimg.cc/ZYVNqJ5X/Atletico-Madrid-vs-Sevilla-2024.webp",
+			"url":"https://filemoon.sx/d/ho1jm25bc6ay/Copa_del_Rey_Cuartos_Atletico_de_Madrid_VS_Sevilla_250124.mp4",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Athletic Bilbao VS FC Barcelona",
+			"info":"[24-01-2024]",
+			"image": "https://i.postimg.cc/YqMd5ryV/Athletic-vs-Barcelona-2024.jpg",
+			"url":"https://filemoon.sx/d/d640s6d5qwzy/Copa_del_Rey_Bilbao_VS_FC_Barcelona_240124.mp4",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "RCD Mallorca VS Girona",
+			"info":"[24-01-2024]",
+			"image": "https://i.postimg.cc/XYNDCjfF/Mallorca-vs-Girona-2024.webp",
+			"url":"https://filemoon.sx/d/0nzq8mhbnn9e/Copa_del_Rey_Mallorca_VS_Girona_240124.mp4",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Celta de Vigo VS Real Sociedad",
+			"info":"[23-01-2024]",
+			"image": "https://i.postimg.cc/vZdGFVdy/Celta-vs-Real-Sociedad-2024.jpg",
+			"url":"https://filemoon.sx/d/quyi1vva5q65/Copa_del_Rey_Cuartos_Celta_VS_Real_Sociedad_230124.mp4",
+			"isHost":"true",
+			"online":"true"
+			}
+       			]
+			},
+
+		{
+		"name": "SEMIFINALES",
+		"info":"",
+		"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
+		"imageScale": "",
+		"stations":
+        	[
+			{
+			"name": "RCD Mallorca VS Real Sociedad (IDA)",
+			"info":"[06-02-2024]",
+			"image": "https://i.postimg.cc/J440M44L/2024-02-06-Real-Mallorca-vs-Real-Sociedad.jpg",
+			"url":"https://filemoon.sx/d/zow3ti37np72/Semifinals_Copa_del_Rey_IDA_Mallorca_VS_Real_Sociedad_060224.mp4",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Atletico Madrid VS Athletic Bilbao (IDA)",
+			"info":"[07-02-2024]",
+			"image": "https://i.postimg.cc/02nWfX4N/2024-02-07-Atletico-Madrid-vs-Athletic-Bilbao.png",
+			"url":"https://filemoon.sx/d/gpbt1vtfznmt/2_Semifinal_Copa_del_rey_Ida_Atletico_de_Madrid_VS_Athletic_de_Bilbao_Canal_Copa_del_Rey_070224.mp4",
+ 			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Real Sociedad VS RCD Mallorca (VUELTA)",
+			"info":"[27-02-2024]",
+			"image": "https://i.postimg.cc/CxQZpD5g/2024-02-27-Real-Sociedad-vs-RCD-Mallorca.png",
+			"url":"https://filemoon.sx/d/m570d28j56u4/Copa_del_Rey_Semifinales_Vuelta_Real_Sociedad_VS_Mallorca_270224.mp4",
+ 			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Athletic Bilbao VS Atletico Madrid (VUELTA)",
+			"info":"[29-02-2024]",
+			"image": "https://i.postimg.cc/85tdWcwP/2024-02-29-Athletic-Bilbao-vs-Atletico-Madrid.png",
+			"url":"https://filemoon.sx/d/xyzlca237r1p/Semifinales_Copa_del_Rey_Athletic_de_Bilbao_VS_Atletico_Madrid_290224.mp4",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			}
 			]
+			},
+
+		{
+		"name": "FINAL",
+		"info":"[06-04-2024]",
+		"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
+		"imageScale": "",
+		"stations":
+      			[
+			{
+			"name": "Athletic Bilbao VS RCD Mallorca",
+			"info":"[06-04-2024]",
+			"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
+			"url":"https://filemoon.sx/d/0ukf1k9f41uo/Final_Copa_del_Rey_Athletic_Bilbao_VS_Mallorca_060424.mkv",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			}
+			]
+		}
+		]
+	},
+
+	{
+       	"name": "Copa del Rey 2024/25",
+        "info":"",
+        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
+        "imageScale": "",
+        "groups":
+    		[
+		{
+		"name": "SEMIFINALES",
+		"info":"",
+		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
+		"imageScale": "",
+		"stations":
+        	[
+			{
+			"name": "FC Barcelona VS Atletico de Madrid (IDA)",
+			"info":"[06-02-2025]",
+			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/24/67bcc688beb57.webp",
+			"url":"https://filemoon.to/d/0zc94xjcyzbs/Copa_del_Rey_2025_-_Semifinal_-_Ida_-_FC_Barcelona_vs_Atl_tico_de_Madrid__WEB-DL_1080p_50fps___2_audios_.mkv",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Real Sociedad VS Real Madrid (IDA)",
+			"info":"[07-02-2025]",
+			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/26/67bf764dc8080.webp",
+			"url":"",
+ 			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Real Madrid VS Real Sociedad (VUELTA)",
+			"info":"[01-03-2025]",
+			"image": "",
+			"url":"https://filemoon.sx/d/m570d28j56u4/Copa_del_Rey_Semifinales_Vuelta_Real_Sociedad_VS_Mallorca_270224.mp4",
+ 			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Atletico de Madrid VS FC Barceloa (VUELTA",
+			"info":"[02-03-2025]",
+			"image": "",
+			"url":"",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			}
+		]
 		},
+
+		{
+		"name": "FINAL",
+		"info":"",
+		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
+		"imageScale": "",
+		"stations":
+      			[
+			{
+			"name": "",
+			"info":"[26-04-2025]",
+			"image": "",
+			"url":"",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			}
+			]
+		}
+		]
+	},
+
 
 	{
        	"name": "Euorpa League  2023/24",
