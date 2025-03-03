@@ -24,6 +24,17 @@
                 "isHost":"true",
                 "referer" : "",
                 "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Kape Vs Almabayev",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/FK3wcdzj/ufc.png",
+                "url":"https://filemoon.to/d/gdjrv7roabhe",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
                 }
             ]
         },
