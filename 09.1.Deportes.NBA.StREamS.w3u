@@ -10,6 +10,15 @@
         {
         "name": "NBA",
         "info":"Canal 01",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 01 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_1/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -20,6 +29,15 @@
         {
         "name": "NBA",
         "info":"Canal 02",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 02 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_2/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -30,6 +48,15 @@
         {
         "name": "NBA",
         "info":"Canal 03",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 03 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_3/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -40,6 +67,15 @@
         {
         "name": "NBA",
         "info":"Canal 04",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 04 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_4/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -48,9 +84,18 @@
         "embed": "",
         "isHost": ""
         },
-         {
+        {
         "name": "NBA",
         "info":"Canal 05",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 05 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_5/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -61,6 +106,15 @@
         {
         "name": "NBA",
         "info":"Canal 06",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba6",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 06 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_6/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -71,6 +125,15 @@
         {
         "name": "NBA",
         "info":"Canal 07",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba7",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 07 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_7/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -81,6 +144,15 @@
         {
         "name": "NBA",
         "info":"Canal 08",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 08 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "https://flstv.online//embed/nba8.php",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -91,6 +163,15 @@
         {
         "name": "NBA",
         "info":"Canal 09",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba9",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 09 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_9/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
@@ -101,6 +182,15 @@
         {
         "name": "NBA",
         "info":"Canal 10",
+        "online":"true",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+		"url" : "https://streamtp3.com/global1.php?stream=nba10",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost": "true"
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 10 [Opc 2]",
         "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
         "url": "http://fl5.moveonjoy.com/NBA_10/index.m3u8",
         "userAgent" : "PlusMediaPlayer/0.0.9",
