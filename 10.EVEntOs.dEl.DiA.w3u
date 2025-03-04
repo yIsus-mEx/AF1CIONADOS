@@ -135,6 +135,16 @@
         },
         {
         "name": "Borussia Dortmund 🆚 Lille",
+        "info":"[Español][ACESTREAM]",
+        "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/04/67c6d00c21f23.jpeg",
+        "url": "acestream://4d754e0b6b583d01668de8544c43cad6a1b253da",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Borussia Dortmund 🆚 Lille",
         "info":"[Español]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/04/67c6d00c21f23.jpeg",
         "url": "https://streamtp3.com/global1.php?stream=max1",
