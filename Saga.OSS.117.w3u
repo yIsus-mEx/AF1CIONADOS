@@ -1,0 +1,39 @@
+
+{
+"name": "OSS 117",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.OSS.117.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+    {
+      "name": "OSS 117: El Cairo Nido de Espias",
+      "info":"[Español][2006]",
+      "image": "https://i.postimg.cc/KYTTzyqt/cairo.png",
+      "url":"https://filemoon.to/d/dlt60a4st03y",
+      "userAgent" : "PlusMediaPlayer/0.0.9",
+      "isHost":"true",
+      "online":"true"
+    },
+    {
+      "name": "OSS 117: Perdido en Rio",
+      "info":"[Español][2009]",
+      "image": "https://i.postimg.cc/L4WmyZ66/perdido-en-rio.png",
+      "url":"https://filemoon.to/d/gpqd30ebckbs",
+      "userAgent" : "PlusMediaPlayer/0.0.9",
+      "isHost":"true",
+      "online":"true"
+    },
+    {
+      "name": "OSS 117: Desde Africa con Amor",
+      "info":"[Español][2021]",
+      "image": "https://i.postimg.cc/vT4bYGXs/oss-117-desde-africa-con-amor.png",
+      "url":"https://filemoon.to/d/sh2uxb2zfinn",
+      "userAgent" : "PlusMediaPlayer/0.0.9",
+      "isHost":"true",
+      "online":"true"
+    }
+  ]
+}
