@@ -575,16 +575,43 @@
         				[
 						{
 						"name": "Real Madrid VS Atletico de Madrid",
-						"info":"[04-03-2025]",
-						"image": "",
-						"url":"",
+						"info":"[04-03-2025][IDA]",
+						"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/04/67c647b62a8ee.webp",
+						"url":"https://filemoon.to/d/ltitrsrsf53i/Liga_Campeones_Real_Madrid_VS_Atletico_de_Madrid_040325.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Brujas VS Aston Vila",
+						"info":"[04-03-2025][IDA]",
+						"image": "https://balonlatino.net/wp-content/uploads/2024/11/America-4-1024x683.jpg",
+						"url":"https://filemoon.to/d/7ythndpxlte7/Liga_Campeones_Brujas_VS_Aston_Vila_040325.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSV Eindhoven VS Arsenal",
+						"info":"[04-03-2025][IDA]",
+						"image": "https://mrfixitstips.co.uk/wp-content/uploads/2022/10/MRF2022_PSVEindhovenvArsenal-1038x584.jpg",
+						"url":"https://filemoon.to/d/om51lyihvlp6/2025-03-04_-_UEFA_Champions_League_2024-2025_-_Octavos_de_final_-_Ida_-_PSV_vs_Arsenal__WEB-DL_1080p_50fps___2_audios_.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Borussia Dortmund VS Lille",
+						"info":"[04-03-2025][IDA]",
+						"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/10/02/17278840960765.jpg",
+						"url":"https://filemoon.to/d/f83oct19m68l/2025-03-04_-_UEFA_Champions_League_2024-2025_-_Octavos_de_final_-_Ida_-_Borussia_Dortmund_vs_LOSC__Lille___WEB-DL_1080p_50fps___2_audios_.mkv",
             					"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
 						},
       						{
 						"name": "benfica VS FC Barcelona",
-						"info":"[05-03-2025]",
+						"info":"[05-03-2025][IDA]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
@@ -594,7 +621,7 @@
 						{
 						"name": "FC Barcelona VS Benfica",
 						"info":"[11-03-2025]",
-						"image": "",
+						"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/04/67c7441b0d5ce.webp",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
