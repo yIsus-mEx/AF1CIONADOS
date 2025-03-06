@@ -610,10 +610,37 @@
 						"online":"true"
 						},
       						{
-						"name": "benfica VS FC Barcelona",
+						"name": "Benfica VS FC Barcelona",
 						"info":"[05-03-2025][IDA]",
-						"image": "",
+						"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/04/67c6e912edc91.webp",
 						"url":"https://filemoon.to/d/2rd2f1rxtsrv/Liga_Campeones_Benfica_VS_Barsa_050325.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+      						{
+						"name": "PSG VS Liverpool",
+						"info":"[05-03-2025][IDA]",
+						"image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/04/67c71fb9a992d.jpeg",
+						"url":"https://filemoon.to/d/2rd2f1rxtsrv/Liga_Campeones_Benfica_VS_Barsa_050325.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+      						{
+						"name": "Feyenoord VS Inter de Milan",
+						"info":"[05-03-2025][IDA]",
+						"image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/03/67c5ebc18f16c.jpeg",
+						"url":"https://filemoon.to/d/t4oadnkhw4fd/Liga_Campeones_Feyenoord_VS_Inter_de_Milan_050325.mkv",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+      						{
+						"name": "Bayern Munich VS Bayern Leverkusen",
+						"info":"[05-03-2025][IDA]",
+						"image": "https://i.postimg.cc/cJ8NHvWG/Pronostico-Champions-League-League-Bayern-vs-Bayer-Leverkusen-partido-de-ida-Master-Bets365-1024x536.jpg",
+						"url":"https://filemoon.to/d/k3xdok5blbau/Liga_Campeones_Bayern_VS_Leverkusen_050325.mkv",
             					"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
 						"online":"true"
