@@ -283,6 +283,24 @@
     },
 
     {
+      "name": "Cintas de Rosa Peral, Las",
+      "image": "https://pics.filmaffinity.com/las_cintas_de_rosa_peral-605824459-large.jpg",
+      "stations": [
+        {
+          "name": "Cintas de Rosa Peral, Las",
+          "image": "https://pics.filmaffinity.com/las_cintas_de_rosa_peral-605824459-large.jpg",
+          "url": "https://filemoon.to/d/jh6z1t3009yo/Las_cintas_de_Rosa_Peral_2023.mkv",
+          "info": "[2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+    {
       "name": "Colgar las alas (Iker Casillas)",
       "image": "https://pics.filmaffinity.com/colgar_las_alas-307527699-large.jpg",
       "url": "https://af1cionados.vercel.app/DocuSerie COLGAR LAS ALAS.w3u",
