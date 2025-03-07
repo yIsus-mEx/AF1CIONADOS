@@ -2425,17 +2425,52 @@
 
 	{
         "name": "JORNADA 28",
-        "image": "",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"info": "",
-			"online": "true",
-	        	"image": "",
-	        	"url": "",
+       			"name": "^Panathinaikos VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/id3fxzgxtfej/Euroliga_Panathinaikos_VS_Real_Madrid_060325.mkv",
+	        	"info": "[06/03/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Fenerbache",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/66clt8n6053j/Euroliga_Milan_VS_Fenerbahce_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Estrella Roja",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ums18of2ehij/Euroliga_Bayern_VS_Estrella_Roja_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Zalguiris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/o19vbk3b6s1n/Euroliga_Baskonia_VS_Zalguiris_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
         		"isHost": "true"
         		}
 		]
