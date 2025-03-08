@@ -2,19 +2,19 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD --> NEW ERA II
-acestream://31371f7ce7526039b74b0a866f25f78d53e63e0a
+acestream://54470f2db47abeff1f809a0a7262e6f7d7796a4e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD --> NEW ERA II
-acestream://2a96482aefa6ce18d2dd05ba0e86008cb637b3bf
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS ELLAS  FHD --> NEW ERA II
-acestream://bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
+acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA II
-acestream://43c07b04b414bfbaaaec1aed58f7157fca277583
+acestream://c367738691c63896679e523d4c1c7933729acc7b
 #EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", LaLiga TV BAR FHD --> NEW ERA II
-acestream://d4351e74c8466be658a16b84c933d08507a0a9e5
+acestream://ec6ce96a4e4eb523108418a84babc9eca4b4c507
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", LALIGA HYPERMOTION TV FHD --> NEW ERA II
-acestream://da368e734b639e993b610bcfb779a76e03ad9409
+acestream://4e066df67d118f95b41f850869abdc663c515186
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA II
-acestream://b1797c899abe3cbf7a075d2814bfbb0375832c7d
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", M.L. CAMPEONES 2
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS
