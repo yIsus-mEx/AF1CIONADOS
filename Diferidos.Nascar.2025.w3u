@@ -28,8 +28,8 @@
                 "info":"[Ingles]",
                 "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
                 "url":"https://ok.ru/video/9470183803539",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"",
+				"userAgent" : "",
+                "isHost":"true",
                 "online":"true"
                 }
             ]
