@@ -8,6 +8,103 @@
 "groups":
     [
 		{
+		"name":"Drive to Survive [Temporada 07]",
+		"image":"https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+		"stations":
+			[
+				{
+        		"name": "Aqui No Ha Pasado Nada",
+        		"info":"[S07.E01].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://filemoon.to/d/ncbq2vtdvr4h",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Amigos Enemigos",
+        		"info":"[S07.E02].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://filemoon.to/d/8g13hikyh378",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "En Busca De Un No 1",
+        		"info":"[S07.E03].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://listeamed.net/v/b4ZJx2rnLePx2P3",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Carlos Firma",
+        		"info":"[S07.E04].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://listeamed.net/v/njJYOdZawqYxe9o",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "La Maldicion de Leclerc",
+        		"info":"[S07.E05].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://listeamed.net/v/g9Vd5J6zYG65qQj",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Las Ruedas de la Fortuna",
+        		"info":"[S07.E06].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://listeamed.net/v/njJYOdZawkYxe9o",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Al Calor de la Noche",
+        		"info":"[S07.E07].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://filemoon.to/d/ozr9qofoqve2",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Sin Miedo a los Choques",
+        		"info":"[S07.E08].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://listeamed.net/v/MAlwEMeZq1WEJ39",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "Nueva Direccion",
+        		"info":"[S07.E09].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://listeamed.net/v/MAlwEMeZqDyEJ39",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+				{
+        		"name": "La Recta Final",
+        		"info":"[S07.E10].[Español]",
+        		"image": "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2025/01/Drive-to-Survive-Season-7-poster.jpeg",
+        		"url":"https://filemoon.to/d/5u15yakyu9hc",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		}
+			]
+		},
+		{
 		"name":"Drive to Survive [Temporada.06]",
 		"image":"https://i.postimg.cc/LsCsYVcb/drive06.png",
 		"stations":
