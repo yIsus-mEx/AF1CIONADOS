@@ -8,6 +8,15 @@
 "stations":
     [
         {
+        "name": "Capitán América: un Nuevo Mundo",
+        "info": "[2025][Latino]",
+        "image": "https://i.postimg.cc/GmjxH96M/67aa52d6f1706-940x940.webp",
+        "url": "https://smoothpre.com/file/s3pt12z9i0c9",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "El Abismo Secreto",
         "info": "[2025][Latino]",
         "image": "https://i0.wp.com/mundocine.es/wp-content/uploads/2025/02/e9c0d28749b84f24c778ca4e4af3099b.jpg",
