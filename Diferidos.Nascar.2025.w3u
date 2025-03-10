@@ -8,6 +8,24 @@
 "groups":
     [
         {
+        "name": "R04 Shriners Children’s 500",
+        "info":"",
+        "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Shriners Children’s 500",
+                "info":"[DAZN]",
+                "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
+                "url":"https://pixeldrain.com/u/SQt8DHi3",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R03 EchoPark Automotive",
         "info":"",
         "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
