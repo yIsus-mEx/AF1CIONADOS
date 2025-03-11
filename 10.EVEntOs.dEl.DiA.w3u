@@ -195,6 +195,26 @@
         },
         {
         "name": "Liverpool vs PSG",
+        "info":"[ACESTREAM]",
+        "image": "https://www.ole.com.ar/images/2025/03/10/i97Z9Mx4L_1290x760__1.jpg",
+        "url": "acestream://deb8972491e3817ba2335662d7855d2c2c05a900",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Liverpool vs PSG",
+        "info":"[ACESTREAM]",
+        "image": "https://www.ole.com.ar/images/2025/03/10/i97Z9Mx4L_1290x760__1.jpg",
+        "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Liverpool vs PSG",
         "info":"[Movistar Campeones]",
         "image": "https://www.ole.com.ar/images/2025/03/10/i97Z9Mx4L_1290x760__1.jpg",
         "url": "https://nfsnew.koskoros.ru/nfs/premium21/mono.m3u8",
