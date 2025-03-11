@@ -144,6 +144,16 @@
         "isHost":"true"
         },
         {
+        "name": "FC Barcelona vs Benfica",
+        "info":"[TUDN USA]",
+        "image": "https://www.ole.com.ar/images/2025/03/10/TlzDr_xIL_1290x760__1.jpg",
+        "url": "https://daddylive.mp/stream/stream-66.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Inter vs Feyenoord",
         "info":"[Espn]",
         "image": "https://www.ole.com.ar/images/2025/03/10/CwPhA1dH6_1290x760__1.jpg",
@@ -165,7 +175,7 @@
         },
         {
         "name": "Inter vs Feyenoord",
-        "info":"[Espn+]",
+        "info":"[Fox Sports 2]",
         "image": "https://www.ole.com.ar/images/2025/03/10/CwPhA1dH6_1290x760__1.jpg",
         "url": "https://streamtp3.com/global1.php?stream=fox2ar",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -175,9 +185,9 @@
         },
         {
         "name": "Inter vs Feyenoord",
-        "info":"[Latino]",
+        "info":"[Liga de Campeones]",
         "image": "https://www.ole.com.ar/images/2025/03/10/CwPhA1dH6_1290x760__1.jpg",
-        "url": "https://deporte-libre.fans/stream/stream-150.php",
+        "url": "https://daddylive.mp/stream/stream-19.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
@@ -185,23 +195,23 @@
         },
         {
         "name": "Liverpool vs PSG",
-        "info":"[]",
+        "info":"[Movistar Campeones]",
         "image": "https://www.ole.com.ar/images/2025/03/10/i97Z9Mx4L_1290x760__1.jpg",
-        "url": "",
+        "url": "https://daddylive.mp/stream/stream-21.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Liverpool vs PSG",
-        "info":"[]",
+        "info":"[TUDN USA]",
         "image": "https://www.ole.com.ar/images/2025/03/10/i97Z9Mx4L_1290x760__1.jpg",
-        "url": "",
+        "url": "https://daddylive.mp/stream/stream-66.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Liverpool vs PSG",
