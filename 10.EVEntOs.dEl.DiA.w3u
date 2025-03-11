@@ -25,6 +25,16 @@
         },
         {
         "name": "FC Barcelona vs Benfica",
+        "info":"[ACESTREAM]",
+        "image": "https://www.ole.com.ar/images/2025/03/10/TlzDr_xIL_1290x760__1.jpg",
+        "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FC Barcelona vs Benfica",
         "info":"[Fox Premium]",
         "image": "https://www.ole.com.ar/images/2025/03/10/TlzDr_xIL_1290x760__1.jpg",
         "url": "https://deporte-libre.top/stream/stream-830.php",
