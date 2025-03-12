@@ -27,7 +27,7 @@
         "name": "Lille VS Borussia Dortmund",
         "info":"[ACESTREAM]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/10/67cec1dce83c3.webp",
-        "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72",
+        "url": "",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -97,6 +97,7 @@
         "name": "Atletico Madrid VS Real Madrid",
         "info":"[ACESTREAM]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/11/67d069c3b879a.webp",     						
+<<<<<<< HEAD
         "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -128,6 +129,9 @@
         "info":"[ACESTREAM]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/11/67d069c3b879a.webp",     						
         "url": "acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9",
+=======
+        "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72",
+>>>>>>> 456e9959eb67dfec0b99616a7fcb88cc88e57517
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
