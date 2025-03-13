@@ -180,6 +180,16 @@
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
         "isHost":""
+        },
+        {
+        "name": "Atletico de Madrid vs Granada",
+        "info":"[DSPORTS]",
+        "image": "https://estaticos.esmadrid.com/cdn/farfuture/euUqSj6DgRJUgBmk3dqxTDS9jp175MwJXlAW_XMC-Is/mtime:1739892208/sites/default/files/eventos/eventos/atletico_de_madrid_-_granada_cf_copa_de_la_reina.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=dsportsplus",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
         }
     ]
 }
