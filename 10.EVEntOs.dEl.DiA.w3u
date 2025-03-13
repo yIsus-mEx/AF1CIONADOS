@@ -93,11 +93,13 @@
         "name": "Manchester United VS Real Sociedad",
         "info":"[ACESTREAM]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+        "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+        },
+        {
+        "name": "Manchester United VS Real Sociedad",
+        "info":"[ACESTREAM]",
+        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
+        "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
         },
         {
         "name": "Manchester United VS Real Sociedad",
@@ -151,53 +153,33 @@
         },
         {
         "name": "-Vitoria SC VS Real Betis",
-        "info":"[ACESTREAM]",
+        "info":"[MOVISTAR CAMPEONES 3]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "",
+        "url": "https://nfsnew.koskoros.ru/nfs/premium1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "-Vitoria SC VS Real Betis",
-        "info":"[]",
+        "info":"[MOVISTAR CAMPEONES 3]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "",
+        "url": "https://esx1new.koskoros.ru/esx1/primacampeones3/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "-Vitoria SC VS Real Betis",
-        "info":"[]",
+        "info":"[SPORTV 5]",
         "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "",
+        "url": "https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "-Vitoria SC VS Real Betis",
-        "info":"[]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "-Vitoria SC VS Real Betis",
-        "info":"[]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+        "isHost":""
         }
     ]
 }
