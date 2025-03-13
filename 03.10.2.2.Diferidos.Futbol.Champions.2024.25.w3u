@@ -647,7 +647,7 @@
 						},
 						{
 						"name": "FC Barcelona VS Benfica",
-						"info":"[11-03-2025]",
+						"info":"[11-03-2025][]",
 						"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/04/67c7441b0d5ce.webp",
 						"url":"https://filemoon.to/d/u6qxyfzkyf7j/Liga_de_Campeones_FC_Barcelona_VS_Benfica_110325.mkv",
             					"userAgent": "PlusMediaPlayer/0.0.9",
@@ -675,7 +675,7 @@
       						{
 						"name": "Aston Vila VS Brujas",
 						"info":"[12-03-2025]",
-						"image": "",
+						"image": "https://www.ole.com.ar/images/2025/03/11/Y3xyPuYmE_1290x760__1.jpg",
 						"url":"https://filemoon.to/d/cpv2j4nnxqyy/Liga_de_Campeones_Aston_Vila_VS_Brujas_120325.mkv",
             					"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
@@ -684,7 +684,7 @@
       						{
 						"name": "Arsenal VS PSV",
 						"info":"[12-03-2025]",
-						"image": "",
+						"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d14e987b908.webp",
 						"url":"https://filemoon.to/d/dxjt2lki9tlc/Liga_de_Campeones_Arsenal_VS_PSV_120325.mkv",
             					"userAgent": "PlusMediaPlayer/0.0.9",
 						"isHost":"true",
@@ -692,7 +692,90 @@
 						}
 					]
 				},
-    
+
+				{
+				"name": "CUARTOS",
+				"info":"",
+				"image": "https://i.postimg.cc/D0VBPVMM/2024-25-Logo-Champions-League.webp",
+				"imageScale": "",
+				"stations":
+        				[
+						{
+						"name": "Arsenal VS Real Madrid",
+						"info":"[08-04-2025][IDA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Bayern Munich VS Inter Milan",
+						"info":"[08-04-2025][IDA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSG VS Aston Vila",
+						"info":"[09-04-2025][IDA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+      						{
+						"name": "FC Barcelona VS Borussia Dortmund",
+						"info":"[09-04-2025][IDA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "PSG VS Aston Vila VS PSG",
+						"info":"[15-04-2025][VUELTA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+      						{
+						"name": "Borussia Dortmund VS FC Barcelona",
+						"info":"[15-04-2025][VUELTA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+						{
+						"name": "Real Madrid VS Arsenal",
+						"info":"[16-04-2025][VUELTA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Inter Milan VS Bayern Munich",
+						"info":"[16-04-2025][VUELTA]",
+						"image": "",
+						"url":"",
+            					"userAgent": "PlusMediaPlayer/0.0.9",
+						"isHost":"true",
+						"online":"true"
+						}
+					]
+				},
+
+
 				{
 				"name": "SEMIFINALES",
 				"info":"",
@@ -730,7 +813,7 @@
         				[
 						{
 						"name": "",
-						"info":"[]",
+						"info":"[31-05-2025]",
 						"image": "",
 						"url":"",
             					"userAgent": "PlusMediaPlayer/0.0.9",
