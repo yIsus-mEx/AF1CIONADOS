@@ -8,6 +8,51 @@
 "groups":
     [
         {
+        "name": "F1 2025 Australia [14-16.Mar25]",
+        "info":"",
+        "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[F1TV]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/ny8ijgj9uzwp",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 01",
+                "info":"[DAZNF1]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/lujtksrws9zn",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 02",
+                "info":"[F1TV]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://listeamed.net/v/MAlwEMeapeyEJ39",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 02",
+                "info":"[DAZNF1]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/vsy52i3if777",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                }
+            ]
+        },
+        {
         "name": "Test Bahréin 2025 [26-28.Feb25]",
         "info":"",
         "image": "",
