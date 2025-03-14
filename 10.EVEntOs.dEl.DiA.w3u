@@ -5,8 +5,14 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Enlace_Af1cionados",
 "info": "",
-"stations":
+"groups":
     [
+
+        {
+        "name": "F1 Australian Grand Prix",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "stations":
+        [
         {
         "name": "F1 Australian Grand Prix",
         "info":"[ACESTREAM]",
@@ -161,5 +167,76 @@
         "online":"true",
         "isHost":"true"
         }
+        ]
+        },
+
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "stations":
+        [
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "info":"[ACESTREAM 1080]",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "info":"[ACESTREAM 720]",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "info":"[iPHONE 1080]",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "url": "https://vkvsd44.okcdn.ru/hls/7877774084634.m3u8/sig/Iq8d7yv92D4/expires/1742042303954/srcIp/37.14.45.69/urls/185.226.52.55/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9153820633882/7877774084634_fullhd/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "info":"[ANDROID 1080]",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "url": "https://vkvsd51.okcdn.ru/hls/7877774084634.m3u8/sig/lf7kdrYxCmI/srcIp/37.14.45.69/urls/45.136.21.61/expires/1742415043979/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9153820633882/id/7877774084634/7877774084634_fullhd/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "info":"[iPHONE 7200]",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "url": "https://vkvsd44.okcdn.ru/hls/7877774084634.m3u8/sig/Iq8d7yv92D4/expires/1742042303954/srcIp/37.14.45.69/urls/185.226.52.55/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9153820633882/7877774084634_high/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Gran Premio Argentina MotoGP 2025",
+        "info":"[ANDROID 720]",
+        "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/03/05/67c873207d3b4.jpeg",
+        "url": "https://vkvsd11.okcdn.ru/hls/7877774084634.m3u8/sig/hDoVlXohtgs/expires/1742045541049/srcIp/37.14.45.69/urls/185.226.53.64/clientType/14/srcAg/CHROME_ANDROID/mid/9153820633882/7877774084634_high/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        }
+        ]
+        }
+
     ]
 }
