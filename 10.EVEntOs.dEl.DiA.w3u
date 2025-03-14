@@ -8,184 +8,84 @@
 "stations":
     [
         {
-        "name": "Athletic Bilbao VS Roma",
+        "name": "F1 Australian Grand Prix",
         "info":"[ACESTREAM]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
         },
         {
-        "name": "Athletic Bilbao VS Roma",
+        "name": "F1 Australian Grand Prix",
         "info":"[ACESTREAM]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
         },
         {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[MOVISTAR CAMPEONES]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://streamtp3.com/global1.php?stream=movistarligadecampeones",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[MOVISTAR CAMPEONES]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://zekonew.koskoros.ru/zeko/premium435/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[TUDN]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://windnew.koskoros.ru/wind/premium66/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[TUDN USA]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://streamtp3.com/global1.php?stream=tudn_usa",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[ESPN]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://streamtp3.com/global1.php?stream=espnmx",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[ESPN]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://streamtp3.com/global1.php?stream=disney3",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Athletic Bilbao VS Roma",
-        "info":"[ESPN]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1e46f7d920.webp",
-        "url": "https://streamtp3.com/global1.php?stream=espn",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Manchester United VS Real Sociedad",
+        "name": "F1 Australian Grand Prix",
         "info":"[ACESTREAM]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
         },
         {
-        "name": "Manchester United VS Real Sociedad",
+        "name": "F1 Australian Grand Prix",
         "info":"[ACESTREAM]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
         },
         {
-        "name": "Manchester United VS Real Sociedad",
+        "name": "F1 Australian Grand Prix",
+        "info":"[DAZN F1]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://paco@tv1.strm2234.xyz/f1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[DAZN F1]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[FOX PREMIUM]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamdz4.lat/player/embed.php?channel=foxpremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "F1 Australian Grand Prix",
         "info":"[ESPN]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "https://streamtp3.com/global1.php?stream=espn",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Manchester United VS Real Sociedad",
-        "info":"[TUDN USA]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "https://streamtp3.com/global1.php?stream=tudn_usa",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Manchester United VS Real Sociedad",
-        "info":"[MOVISTAR CAMPEONES]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "https://streamtp3.com/global1.php?stream=movistarligadecampeones",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Manchester United VS Real Sociedad",
-        "info":"[MOVISTAR CAMPEONES]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "https://nfsnew.koskoros.ru/nfs/premium29/mono.m3u8",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://zekonew.koskoros.ru/zeko/premium375/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "Manchester United VS Real Sociedad",
-        "info":"[ESPN]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/13/67d24aef763f3.webp",
-        "url": "https://streamtp3.com/global1.php?stream=disney12",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "-Vitoria SC VS Real Betis",
-        "info":"[MOVISTAR CAMPEONES 3]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "https://nfsnew.koskoros.ru/nfs/premium1/mono.m3u8",
+        "name": "F1 Australian Grand Prix",
+        "info":"[FOX SPORT 1]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
         "isHost":""
         },
         {
-        "name": "-Vitoria SC VS Real Betis",
-        "info":"[MOVISTAR CAMPEONES 3]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "https://esx1new.koskoros.ru/esx1/primacampeones3/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "-Vitoria SC VS Real Betis",
-        "info":"[SPORTV 5]",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/12/67d1619324151.webp",
-        "url": "https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Atletico de Madrid vs Granada",
-        "info":"[DSPORTS]",
-        "image": "https://estaticos.esmadrid.com/cdn/farfuture/euUqSj6DgRJUgBmk3dqxTDS9jp175MwJXlAW_XMC-Is/mtime:1739892208/sites/default/files/eventos/eventos/atletico_de_madrid_-_granada_cf_copa_de_la_reina.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=dsportsplus",
+        "name": "F1 Australian Grand Prix",
+        "info":"[SKY F1]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamdz4.lat/player/embed.php?channel=skyf1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
