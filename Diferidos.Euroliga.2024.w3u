@@ -2555,6 +2555,26 @@
 			"embed": "",
 			"online": "true",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Monaco",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/lrblv2eij52m/Euroliga_Maccabi_VS_Monaco_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Milan",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/gq60buloz0ec/Euroliga_Estrella_Roja_VS_Milan_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
         		}
 		]
 	},
