@@ -53,9 +53,9 @@
         },
         {
         "name": "F1 Australian Grand Prix",
-        "info":"[FOX PREMIUM]",
+        "info":"[ESPN]",
         "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=foxpremium",
+        "url": "https://streamtp3.com/global1.php?stream=disney2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -71,6 +71,56 @@
         "online":"true",
         "isHost":""
         },
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[ON BOARD]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=disney11",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[FOX PREMIUM]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=foxsportspremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },     
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[FOX PREMIUM]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamdz4.lat/player/embed.php?channel=foxpremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },     
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[FOX SPORT 1]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=foxsportsmx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        }, 
+        {
+        "name": "F1 Australian Grand Prix",
+        "info":"[FOX SPORT 1]",
+        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=fox1ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },    
         {
         "name": "F1 Australian Grand Prix",
         "info":"[FOX SPORT 1]",
