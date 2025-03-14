@@ -2575,6 +2575,16 @@
 			"embed": "",
 			"online": "true",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Virtus VS Real Madrid",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4i0pqedusu8e/Euroliga_Virtus_VS_Real_Madrid_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
         		}
 		]
 	},
