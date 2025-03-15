@@ -172,13 +172,13 @@
 
         {
         "name": "Gran Premio Argentina MotoGP 2025",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
         "stations":
         [
         {
         "name": "Gran Premio Argentina MotoGP 2025",
         "info":"[ACESTREAM 1080]",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
         "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -188,7 +188,7 @@
         {
         "name": "Gran Premio Argentina MotoGP 2025",
         "info":"[ACESTREAM 720]",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
         "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -196,19 +196,89 @@
         "isHost":"true"
         },
         {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "info":"[iPHONE 1080]",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
-        "url": "https://vkvsd44.okcdn.ru/hls/7877774084634.m3u8/sig/Iq8d7yv92D4/expires/1742042303954/srcIp/37.14.45.69/urls/185.226.52.55/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9153820633882/7877774084634_fullhd/index.m3u8",
+        "name": "MotoGP Argentina 2025",
+        "info":"[DAZN 1]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://streamdz4.lat/player/embed.php?channel=dazn1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
         },
         {
+        "name": "MotoGP Argentina 2025",
+        "info":"[DAZN 1]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://antenacentral.store/dazn1.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "MotoGP Argentina 2025",
+        "info":"[DAZN 1]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://windnew.koskoros.ru/wind/premium445/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "MotoGP Argentina 2025",
+        "info":"[ESPN]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://streamdz4.lat/player/embed.php?channel=espn2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "MotoGP Argentina 2025",
+        "info":"[ESPN]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=disney8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "MotoGP Argentina 2025",
+        "info":"[ESPN]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://streamdz4.lat/player/embed.php?channel=disney20",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "MotoGP Argentina 2025",
+        "info":"[ESPN]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://antenacentral.store/espnarg.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "MotoGP Argentina 2025",
+        "info":"[ESPN]",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+        "url": "https://ddy6new.koskoros.ru/ddy6/premium149/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "Gran Premio Argentina MotoGP 2025",
         "info":"[ANDROID 1080]",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
         "url": "https://vkvsd51.okcdn.ru/hls/7877774084634.m3u8/sig/lf7kdrYxCmI/srcIp/37.14.45.69/urls/45.136.21.61/expires/1742415043979/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9153820633882/id/7877774084634/7877774084634_fullhd/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -218,7 +288,7 @@
         {
         "name": "Gran Premio Argentina MotoGP 2025",
         "info":"[iPHONE 7200]",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
         "url": "https://vkvsd44.okcdn.ru/hls/7877774084634.m3u8/sig/Iq8d7yv92D4/expires/1742042303954/srcIp/37.14.45.69/urls/185.226.52.55/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9153820633882/7877774084634_high/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -228,7 +298,7 @@
         {
         "name": "Gran Premio Argentina MotoGP 2025",
         "info":"[ANDROID 720]",
-        "image": "https://images.polepositiontravel.com/venues/54/54-riohondo-trackmap.jpg",
+        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
         "url": "https://vkvsd11.okcdn.ru/hls/7877774084634.m3u8/sig/hDoVlXohtgs/expires/1742045541049/srcIp/37.14.45.69/urls/185.226.53.64/clientType/14/srcAg/CHROME_ANDROID/mid/9153820633882/7877774084634_high/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
