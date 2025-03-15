@@ -2585,6 +2585,36 @@
 			"embed": "",
 			"online": "true",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS Panathinaikos",
+	        	"info": "[14/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6rk4ytfbglsd/Euroliga_Olympiakos_VS_Panathinaikos_140325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Partizan Belgrado",
+	        	"info": "[14/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/agti8w9sholb/Euroliga_FC_Barcelona_VS_Partizan_140325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Efes",
+	        	"info": "[14/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/f5l5wtfnkiuv/Euroliga_Bayern_VS_Efes_140325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
         		}
 		]
 	},
