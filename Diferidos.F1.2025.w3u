@@ -49,6 +49,42 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[F1TV]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/eyee6feucba3",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZNF1]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/e4cvhclhxjpk",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Qualy",
+                "info":"[F1TV]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/2pkx11inxmx5",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Qualy",
+                "info":"[DAZNF1]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://filemoon.to/d/owv3lrkbuhuw",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
