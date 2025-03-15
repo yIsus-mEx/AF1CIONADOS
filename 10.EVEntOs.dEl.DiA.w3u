@@ -307,7 +307,53 @@
         }
         ]
         },
-
+        {
+        "name": "Rugby: Seis Naciones",
+        "image": "https://estaticos-cdn.prensaiberica.es/clip/c884c200-fb46-454a-986e-83ba72ba9d8d_alta-libre-aspect-ratio_default_0.jpg",
+        "stations":
+        [
+        {
+        "name": Gales vs. Inglaterra",
+        "info":"[#VAMOS]",
+        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+        "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": Gales vs. Inglaterra",
+        "info":"[#VAMOS]",
+        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=vamoses",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": Gales vs. Inglaterra",
+        "info":"[ESPN]",
+        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=espn4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": Gales vs. Inglaterra",
+        "info":"[ESPN]",
+        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+        "url": "https://streamtp3.com/global1.php?stream=disney16",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        }
+        ]
+        },
         {
         "name": "Plaza de Toros Valencia 2025",
         "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
