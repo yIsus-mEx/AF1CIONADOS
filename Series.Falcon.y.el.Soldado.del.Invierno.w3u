@@ -1,0 +1,74 @@
+{
+"name": "Falcon y el Soldado del Invierno",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Falcon.y.el.Soldado.del.Invierno.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]",
+ 				"image":"https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+ 				"url":"https://filemoon.to/d/d89x8mgx2r8j",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+				"url":"https://filemoon.to/d/yfx4khowmjnh",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+				"url":"https://filemoon.to/d/w6mwuzjmndih",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+				"url":"https://filemoon.to/d/hyxunazq8xgp",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+				"url":"https://filemoon.to/d/00osa7zduwv7",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/Falcon_y_el_Soldado_de_Invierno_Miniserie_de_TV-313905624-large.jpg",
+				"url":"https://filemoon.to/d/14o6d2dfyc5j",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
