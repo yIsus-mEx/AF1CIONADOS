@@ -1,433 +1,492 @@
 {
-"name": "EVEntOs deL dIA",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Enlace_Af1cionados",
-"info": "",
-"groups":
-    [
-
+  "name": "EVEntOs deL dIA",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Enlace_Af1cionados",
+  "info": "",
+  "groups": [
+    {
+      "name": "F1 Australian Grand Prix",
+      "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+      "stations": [
         {
-        "name": "F1 Australian Grand Prix",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "stations":
-        [
-        {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ACESTREAM]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ACESTREAM]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ACESTREAM]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ACESTREAM]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ACESTREAM]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ACESTREAM]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ACESTREAM]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ACESTREAM]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://paco@tv1.strm2234.xyz/f1/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":""
+          "name": "F1 Australian Grand Prix",
+          "info": "[DAZN F1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://paco@tv1.strm2234.xyz/f1/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "F1 Australian Grand Prix",
+          "info": "[DAZN F1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=daznf1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "F1 Australian Grand Prix",
+          "info": "[DAZN F1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamdz4.lat/player/embed.php?channel=daznf1",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ESPN+ DISNEY]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney10",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ESPN+ DISNEY]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=disney10",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ESPN]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=espn",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=espn",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ESPN]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://zekonew.koskoros.ru/zeko/premium375/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "F1 Australian Grand Prix",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://zekonew.koskoros.ru/zeko/premium375/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[ON BOARD]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney11",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "F1 Australian Grand Prix",
+          "info": "[ON BOARD]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=disney11",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[FOX PREMIUM]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=foxsportspremium",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },     
-        {
-        "name": "F1 Australian Grand Prix",
-        "info":"[FOX PREMIUM]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=foxpremium",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },     
-        {
-        "name": "F1 Australian Grand Prix",
-        "info":"[FOX SPORT 1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=foxsportsmx",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        }, 
-        {
-        "name": "F1 Australian Grand Prix",
-        "info":"[FOX SPORT 1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=fox1ar",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },    
-        {
-        "name": "F1 Australian Grand Prix",
-        "info":"[FOX SPORT 1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "F1 Australian Grand Prix",
+          "info": "[FOX PREMIUM]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=foxsportspremium",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "F1 Australian Grand Prix",
-        "info":"[SKY F1]",
-        "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=skyf1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "F1 Australian Grand Prix",
+          "info": "[FOX PREMIUM]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamdz4.lat/player/embed.php?channel=foxpremium",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "F1 Australian Grand Prix",
+          "info": "[FOX SPORT 1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=foxsportsmx",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "F1 Australian Grand Prix",
+          "info": "[FOX SPORT 1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=fox1ar",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "F1 Australian Grand Prix",
+          "info": "[FOX SPORT 1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
+        },
+        {
+          "name": "F1 Australian Grand Prix",
+          "info": "[SKY F1]",
+          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "url": "https://streamdz4.lat/player/embed.php?channel=skyf1",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         }
-        ]
-        },
-
+      ]
+    },
+    {
+      "name": "Gran Premio Argentina MotoGP 2025",
+      "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+      "stations": [
         {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "stations":
-        [
-        {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "info":"[ACESTREAM 1080]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gran Premio Argentina MotoGP 2025",
+          "info": "[ACESTREAM 1080]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "info":"[ACESTREAM 720]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gran Premio Argentina MotoGP 2025",
+          "info": "[ACESTREAM 720]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[DAZN 1]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=dazn1",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "MotoGP Argentina 2025",
+          "info": "[DAZN 1]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://streamdz4.lat/player/embed.php?channel=dazn1",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[DAZN 1]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://antenacentral.store/dazn1.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "MotoGP Argentina 2025",
+          "info": "[DAZN 1]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://antenacentral.store/dazn1.php",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[DAZN 1]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://windnew.koskoros.ru/wind/premium445/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "MotoGP Argentina 2025",
+          "info": "[DAZN 1]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://windnew.koskoros.ru/wind/premium445/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[ESPN]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=espn2",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "MotoGP Argentina 2025",
+          "info": "[ESPN]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://streamdz4.lat/player/embed.php?channel=espn2",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[ESPN]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "MotoGP Argentina 2025",
+          "info": "[ESPN]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=disney8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[ESPN]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://streamdz4.lat/player/embed.php?channel=disney20",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "MotoGP Argentina 2025",
+          "info": "[ESPN]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://streamdz4.lat/player/embed.php?channel=disney20",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[ESPN]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://antenacentral.store/espnarg.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "MotoGP Argentina 2025",
+          "info": "[ESPN]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://antenacentral.store/espnarg.php",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "MotoGP Argentina 2025",
-        "info":"[ESPN]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://ddy6new.koskoros.ru/ddy6/premium149/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "MotoGP Argentina 2025",
+          "info": "[ESPN]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://ddy6new.koskoros.ru/ddy6/premium149/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "info":"[ANDROID 1080]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://vkvsd51.okcdn.ru/hls/7877774084634.m3u8/sig/lf7kdrYxCmI/srcIp/37.14.45.69/urls/45.136.21.61/expires/1742415043979/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9153820633882/id/7877774084634/7877774084634_fullhd/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gran Premio Argentina MotoGP 2025",
+          "info": "[ANDROID 1080]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://vkvsd51.okcdn.ru/hls/7877774084634.m3u8/sig/lf7kdrYxCmI/srcIp/37.14.45.69/urls/45.136.21.61/expires/1742415043979/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9153820633882/id/7877774084634/7877774084634_fullhd/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "info":"[iPHONE 7200]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://vkvsd44.okcdn.ru/hls/7877774084634.m3u8/sig/Iq8d7yv92D4/expires/1742042303954/srcIp/37.14.45.69/urls/185.226.52.55/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9153820633882/7877774084634_high/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gran Premio Argentina MotoGP 2025",
+          "info": "[iPHONE 7200]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://vkvsd44.okcdn.ru/hls/7877774084634.m3u8/sig/Iq8d7yv92D4/expires/1742042303954/srcIp/37.14.45.69/urls/185.226.52.55/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9153820633882/7877774084634_high/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Gran Premio Argentina MotoGP 2025",
-        "info":"[ANDROID 720]",
-        "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
-        "url": "https://vkvsd11.okcdn.ru/hls/7877774084634.m3u8/sig/hDoVlXohtgs/expires/1742045541049/srcIp/37.14.45.69/urls/185.226.53.64/clientType/14/srcAg/CHROME_ANDROID/mid/9153820633882/7877774084634_high/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gran Premio Argentina MotoGP 2025",
+          "info": "[ANDROID 720]",
+          "image": "https://motograndprix.motorionline.com/wp-content/uploads/2025/03/diretta-conferenza-stampa-motogp-argentina-2025.jpg",
+          "url": "https://vkvsd11.okcdn.ru/hls/7877774084634.m3u8/sig/hDoVlXohtgs/expires/1742045541049/srcIp/37.14.45.69/urls/185.226.53.64/clientType/14/srcAg/CHROME_ANDROID/mid/9153820633882/7877774084634_high/index.m3u8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         }
-        ]
+      ]
+    },
+    {
+      "name": "Rugby: Seis Naciones",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/c884c200-fb46-454a-986e-83ba72ba9d8d_alta-libre-aspect-ratio_default_0.jpg",
+      "stations": [
+        {
+          "name": "Gales vs. Inglaterra",
+          "info": "[#VAMOS]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+          "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "Rugby: Seis Naciones",
-        "image": "https://estaticos-cdn.prensaiberica.es/clip/c884c200-fb46-454a-986e-83ba72ba9d8d_alta-libre-aspect-ratio_default_0.jpg",
-        "stations":
-        [
-        {
-        "name": "Gales vs. Inglaterra",
-        "info":"[#VAMOS]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-        "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "Gales vs. Inglaterra",
+          "info": "[#VAMOS]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=vamoses",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Gales vs. Inglaterra",
-        "info":"[#VAMOS]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=vamoses",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gales vs. Inglaterra",
+          "info": "[ESPN]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=espn4",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Gales vs. Inglaterra",
-        "info":"[ESPN]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=espn4",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "Gales vs. Inglaterra",
+          "info": "[ESPN]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=disney16",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Gales vs. Inglaterra",
-        "info":"[ESPN]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney16",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "France vs Scotland",
+          "info": "[#VAMOS]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
+          "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "France vs Scotland",
-        "info":"[#VAMOS]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
-        "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "France vs Scotland",
+          "info": "[ESPN]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=espn4",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "France vs Scotland",
-        "info":"[ESPN]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=espn4",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "France vs Scotland",
-        "info":"[ESPN]",
-        "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
-        "url": "https://streamtp3.com/global1.php?stream=disney12",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "France vs Scotland",
+          "info": "[ESPN]",
+          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=disney12",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         }
-        ]
+      ]
+    },
+    {
+      "name": "UFC: Vettori vs Dolidze",
+      "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+      "stations": [
+        {
+          "name": "UFC: Vettori vs Dolidze",
+          "info": "[EUROSPORT 2]",
+          "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+          "url": "https://ddy6new.koskoros.ru/ddy6/premium525/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         },
         {
-        "name": "Plaza de Toros Valencia 2025",
-        "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
-        "stations":
-        [
-        {
-        "name": "OneToro 🇪🇸",
-        "info":"",
-        "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
-        "url": "https://ddy6new.koskoros.ru/ddy6/premium749/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "UFC: Vettori vs Dolidze",
+          "info": "[ESPN]",
+          "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=disney13",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "OneToro 🇪🇸",
-        "info":"",
-        "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
-        "url": "https://ddy6new.koskoros.ru/ddy6/premium749/mono.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+          "name": "UFC: Vettori vs Dolidze",
+          "info": "[FOX PREMIUM]",
+          "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=foxsportspremium",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "OneToro",
-        "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
-        "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-VqoAfT2HvTIYb2pwaCOXDGGNWOem1tuPbVawFtpFCfRs7GVvpKweaDB2bS6cG7oieWaLx7ahz0rZ-SxpkbksyYQLggLgsRN7pNOQnin03GxsiyO7cwOVXDZWxjlZ9NFnN8fpRxfBKoVmmvJkcEa10y8Ov_-xhONRGZkNEWb2ws/hls/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "UFC: Vettori vs Dolidze",
+          "info": "[TNT 2]",
+          "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=tnt_2_gb",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "OneToro",
-        "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
-        "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-VqoAfT2HvTIYb2pwaCOXDGGNWOem1tuPbVawFtpFCfRs7GVvpKweaDB2bS6cG7oieWaLx7ahz0rZ-SxpkbksyYQLggLgsRN7pNOQnin03GxsiyO7cwOVXDZWxjlZ9NFnN8fpRxfBKoVmmvJkcEa10y8Ov_-xhONRGZkNEWb2ws/hls/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
+          "name": "UFC: Vettori vs Dolidze",
+          "info": "[ESPN+]",
+          "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+          "url": "https://windnew.koskoros.ru/wind/premium76/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
+        },
+        {
+          "name": "UFC: Vettori vs Dolidze",
+          "info": "[SPORT TV1]",
+          "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
+          "url": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
         }
-        ]
+      ]
+    },
+    {
+      "name": "Plaza de Toros Valencia 2025",
+      "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
+      "stations": [
+        {
+          "name": "OneToro 🇪🇸",
+          "info": "",
+          "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
+          "url": "https://ddy6new.koskoros.ru/ddy6/premium749/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
+        },
+        {
+          "name": "OneToro 🇪🇸",
+          "info": "",
+          "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
+          "url": "https://ddy6new.koskoros.ru/ddy6/premium749/mono.m3u8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "https://cookiewebplay.xyz/",
+          "online": "true",
+          "isHost": ""
+        },
+        {
+          "name": "OneToro",
+          "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
+          "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-VqoAfT2HvTIYb2pwaCOXDGGNWOem1tuPbVawFtpFCfRs7GVvpKweaDB2bS6cG7oieWaLx7ahz0rZ-SxpkbksyYQLggLgsRN7pNOQnin03GxsiyO7cwOVXDZWxjlZ9NFnN8fpRxfBKoVmmvJkcEa10y8Ov_-xhONRGZkNEWb2ws/hls/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "OneToro",
+          "image": "https://www.ateneovalencia.es/wp-content/uploads/2025/01/20250116-Tertulia-Taurina-Carteles-Fallas.jpg",
+          "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-VqoAfT2HvTIYb2pwaCOXDGGNWOem1tuPbVawFtpFCfRs7GVvpKweaDB2bS6cG7oieWaLx7ahz0rZ-SxpkbksyYQLggLgsRN7pNOQnin03GxsiyO7cwOVXDZWxjlZ9NFnN8fpRxfBKoVmmvJkcEa10y8Ov_-xhONRGZkNEWb2ws/hls/index.m3u8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "online": "true",
+          "isHost": "true"
         }
-    ]
+      ]
+    }
+  ]
 }
