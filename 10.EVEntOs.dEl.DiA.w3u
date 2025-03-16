@@ -7,97 +7,67 @@
   "info": "",
   "groups": [
     {
-      "name": "F1 Australian Grand Prix",
-      "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+      "name": "Atletico Vs Barcelona",
+      "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
       "stations": [
         {
-          "name": "F1 Australian Grand Prix",
+          "name": "Atletico Vs Barcelona",
           "info": "[ACESTREAM]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "acestream://"
         },
         {
-          "name": "F1 Australian Grand Prix",
+          "name": "Atletico Vs Barcelona",
           "info": "[ACESTREAM]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "acestream://"
         },
         {
-          "name": "F1 Australian Grand Prix",
+          "name": "Atletico Vs Barcelona",
           "info": "[ACESTREAM]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "acestream://"
         },
         {
-          "name": "F1 Australian Grand Prix",
+          "name": "Atletico Vs Barcelona",
           "info": "[ACESTREAM]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "acestream://"
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[DAZN F1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://glb.bozztv.com/glb/ssh101/aficionados/index.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "F1 Australian Grand Prix",
-          "info": "[DAZN F1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://paco@tv1.strm2234.xyz/f1/index.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "F1 Australian Grand Prix",
-          "info": "[DAZN F1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8",
+          "name": "Atletico Vs Barcelona",
+          "info": "[DAZN LALIGA]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://dokko1new.koskoros.ru/dokko1/premium538/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "https://cookiewebplay.xyz/",
           "online": "true",
           "isHost": ""
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[DAZN F1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamdz4.lat/player/embed.php?channel=daznf1",
+          "name": "Atletico Vs Barcelona",
+          "info": "[DAZN LALIGA]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=dazn_laliga",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "online": "true",
           "isHost": "true"
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[ESPN+ DISNEY]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=disney10",
+          "name": "Atletico Vs Barcelona",
+          "info": "[DAZN LALIGA 2]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://nfsnew.koskoros.ru/nfs/premium4/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
+          "referer": "https://cookiewebplay.xyz/",
           "online": "true",
-          "isHost": "true"
+          "isHost": ""
         },
         {
-          "name": "F1 Australian Grand Prix",
+          "name": "Atletico Vs Barcelona",
           "info": "[ESPN]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=espn",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "F1 Australian Grand Prix",
-          "info": "[ESPN]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
           "url": "https://zekonew.koskoros.ru/zeko/premium375/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "https://cookiewebplay.xyz/",
@@ -105,70 +75,40 @@
           "isHost": ""
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[ON BOARD]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=disney11",
+          "name": "Atletico Vs Barcelona",
+          "info": "[ESPN]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=espndeportes",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "online": "true",
           "isHost": "true"
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[FOX PREMIUM]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=foxsportspremium",
+          "name": "Atletico Vs Barcelona",
+          "info": "[ESPN+]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=espnplus6",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "online": "true",
           "isHost": "true"
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[FOX PREMIUM]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamdz4.lat/player/embed.php?channel=foxpremium",
+          "name": "Atletico Vs Barcelona",
+          "info": "[ESPN]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=espnplus5",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "online": "true",
           "isHost": "true"
         },
         {
-          "name": "F1 Australian Grand Prix",
-          "info": "[FOX SPORT 1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=foxsportsmx",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "F1 Australian Grand Prix",
-          "info": "[FOX SPORT 1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=fox1ar",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "F1 Australian Grand Prix",
-          "info": "[FOX SPORT 1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "F1 Australian Grand Prix",
-          "info": "[SKY F1]",
-          "image": "https://i.postimg.cc/VkvnzzhF/australia.jpg",
-          "url": "https://streamdz4.lat/player/embed.php?channel=skyf1",
+          "name": "Atletico Vs Barcelona",
+          "info": "[DSPORTS]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/15/67d5ee97b269a.jpeg",
+          "url": "https://streamtp3.com/global1.php?stream=dsports",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "online": "true",
