@@ -8,6 +8,33 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Vettori vs Dolidze 2",
+         "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Vettori vs Dolidze 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
+                "url":"https://pixeldrain.com/u/2fhJ4TdP",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Vettori vs Dolidze 2",
+                "info":"[Español]",
+                "online":"",
+                "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 313: Pereira vs Ankalaev",
          "image": "https://i.postimg.cc/gkcPQYwF/ufc313.png",
          "imageScale": "",
