@@ -85,6 +85,24 @@
 				"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[F1TV]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"https://pixeldrain.com/u/M69q63T8",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZNF1]",
+                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+                "url":"",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
                 }
             ]
         },
