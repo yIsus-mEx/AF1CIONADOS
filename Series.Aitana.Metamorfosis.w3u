@@ -1,0 +1,74 @@
+{
+"name": "Aitana Metamorfosis",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Aitana.Metamorfosis.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]",
+ 				"image":"https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+ 				"url":"https://filemoon.to/d/mmo0yfk6dt35",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+				"url":"https://filemoon.to/d/4dls8qheydme",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+				"url":"https://filemoon.to/d/ua4khyrfd9k0",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+				"url":"https://filemoon.to/d/ls71q54z71tr",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+				"url":"https://filemoon.to/d/3n2m5nu4cje1",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
+				"url":"https://filemoon.to/d/dskdjjiw8l6f",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
