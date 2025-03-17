@@ -8,6 +8,24 @@
 "groups":
     [
         {
+        "name": "R05 Pennzoil 400",
+        "info":"",
+        "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Pennzoil 400",
+                "info":"[DAZN]",
+                "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
+                "url":"https://pixeldrain.com/u/8cb6Nm3Z",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "R04 Shriners Children’s 500",
         "info":"",
         "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
