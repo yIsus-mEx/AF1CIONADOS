@@ -5,25 +5,25 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "telegram": "Lista_AF1CIONADOS",
   "info": "Lista_AF1CIONADOS",
-  "groups": 
+  "stations": 
   [
     {
+      "name": "BOX BOX: Australia",
+      "info": "[DaznF1]",
+      "image": "https://i.postimg.cc/nz1ht5Pn/australia.png",
+      "url": "https://filemoon.to/d/scz6ataahqfy",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "BOX BOX: Presentacion Mundial F1",
+      "info": "[DaznF1]",
       "image": "https://www.sopitas.com/wp-content/uploads/2024/11/formula-1-presentacion-autos-2025.jpeg",
-      "imageScale": "",
-      "info": "",
-      "stations": 
-      [
-        {
-          "name": "Presentacion Mundial F1",
-          "info": "[DaznF1]",
-          "image": "https://www.sopitas.com/wp-content/uploads/2024/11/formula-1-presentacion-autos-2025.jpeg",
-          "url": "https://filemoon.to/d/sh1ookfpelfk",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
+      "url": "https://filemoon.to/d/sh1ookfpelfk",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
     }
   ]
 }
