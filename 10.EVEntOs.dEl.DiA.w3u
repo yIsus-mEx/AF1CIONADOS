@@ -5,11 +5,102 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "telegram": "Enlace_Af1cionados",
   "info": "",
-  "groups": [
+  "groups": 
+  [
+    {
+      "name": "F1: Gran Premio de China",
+      "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+      "stations": 
+      [
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://tucanaldeportivo.org/daznf1.php",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://tv1.strm2234.xyz/f1/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://www.oha.to/play/270716645/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://huhu.to/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://tv1.strm2234.xyz/f1/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[Fox Premium]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://tucanaldeportivo.org/foxsportspremium.php",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[Fox Premium]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://streamtp1.com/global1.php?stream=foxsportspremium",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[Fox Premium]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://ddy6new.iosplayer.ru/ddy6/premium830/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        }
+      ]
+    },
     {
       "name": "FUTBOL",
       "image": "https://th.bing.com/th/id/OIP.V3nYJiYBqhvoEWYZ9crA7gHaEo?rs=1&pid=ImgDetMain",
-      "stations": [
+      "stations": 
+      [
         {
           "name": "FUTBOL",
           "info": "[ACESTREAM]",
@@ -126,7 +217,8 @@
     {
       "name": "MOTOCICLISMO",
       "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-      "stations": [
+      "stations": 
+      [
         {
           "name": "MOTOCICLISMO",
           "info": "[ACESTREAM 1080]",
@@ -270,82 +362,6 @@
       ]
     },
 
-    {
-      "name": "Rugby: Seis Naciones",
-      "image": "https://estaticos-cdn.prensaiberica.es/clip/c884c200-fb46-454a-986e-83ba72ba9d8d_alta-libre-aspect-ratio_default_0.jpg",
-      "stations": [
-        {
-          "name": "Gales vs. Inglaterra",
-          "info": "[#VAMOS]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-          "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "Gales vs. Inglaterra",
-          "info": "[#VAMOS]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=vamoses",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "Gales vs. Inglaterra",
-          "info": "[ESPN]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=espn4",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "Gales vs. Inglaterra",
-          "info": "[ESPN]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/walesengland_0834a040-ce92-40e6-b6f6-228b295e4d7a.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=disney16",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "France vs Scotland",
-          "info": "[#VAMOS]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
-          "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "France vs Scotland",
-          "info": "[ESPN]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=espn4",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "France vs Scotland",
-          "info": "[ESPN]",
-          "image": "https://www.rugbyboxoffice.com/cdn/shop/files/francescot.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=disney12",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        }
-      ]
-    },
     {
       "name": "UFC: Vettori vs Dolidze",
       "image": "https://goluchas.com/wp-content/uploads/2025/03/IMG_3068.jpeg",
