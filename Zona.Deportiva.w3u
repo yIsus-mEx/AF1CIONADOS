@@ -1399,21 +1399,11 @@
         "name": "Sport tv 6 🇵🇹",
         "info":"",
         "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
-        "url": "http://195.23.75.15:8000/udp/239.100.6.26:1234",
+        "url": "https://streamtp3.com/global1.php?stream=sporttv6",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "Sport tv 6 🇵🇹",
-        "info":"",
-        "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
-        "url": "https://esx1new.iosplayer.ru/esx1/primaSPORTTV6/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
+        "isHost":"true"
         },
         {
         "name": "Sport tv 6 🇵🇹",
