@@ -2638,7 +2638,7 @@
         		},
 			{
        			"name": "",
-	        	"info": "[18/03/25]",
+	        	"info": "[20/03/25]",
 	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
 	        	"url": "",
 			"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2649,7 +2649,40 @@
         		},
 			{
        			"name": "",
-	        	"info": "[18/03/25]",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[20/03/25]",
 	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
 	        	"url": "",
 			"userAgent":"PlusMediaPlayer/0.0.9",
