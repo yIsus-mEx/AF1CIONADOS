@@ -9,9 +9,20 @@
   [
     {
       "name": "F1: Gran Premio de China",
-      "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+      "image": "https://i.postimg.cc/wxXLrkhF/china-2025.jpg",
       "stations": 
       [
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://ssh101-fl.bozztv.com/ssh101/racingf1latam/index.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":""
+        },
         {
           "name": "China Gran Prix",
           "info": "[DAZNF1]",
@@ -90,6 +101,64 @@
           "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
           "url": "https://ddy6new.iosplayer.ru/ddy6/premium830/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[FOX 1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://streamtp3.com/global1.php?stream=fox1ar",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "https://streamtp3.com/global1.php?stream=espndeportes",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":"true"
+        }
+      ]
+    },
+    {
+      "name": "Rally Kenya 2025",
+      "image": "https://i.ytimg.com/vi/XOpJ8qyJQpE/maxresdefault.jpg",
+      "stations": 
+      [
+        {
+          "name": "Rally Kenya 2025",
+          "info": "[RallyTV]",
+          "image": "https://asset.hankooktire.com/content/dam/hankooktire/common/media/CL/es/2025/03/news_img_20250318.jpg",
+          "url": "https://dokko1new.koskoros.ru/dokko1/premium607/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "Rally Kenya 2025",
+          "info": "[TNT SPORTS  2]",
+          "image": "https://asset.hankooktire.com/content/dam/hankooktire/common/media/CL/es/2025/03/news_img_20250318.jpg",
+          "url": "https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://cookiewebplay.xyz/",
+          "embed": "",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "Rally Kenya 2025",
+          "info": "[TNT SPORTS  2]",
+          "image": "https://asset.hankooktire.com/content/dam/hankooktire/common/media/CL/es/2025/03/news_img_20250318.jpg",
+          "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt2/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
           "referer" : "https://cookiewebplay.xyz/",
           "online":"true",
           "isHost":""
