@@ -66,16 +66,6 @@
         },
         {
           "name": "China Gran Prix",
-          "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
-          "url": "https://tv1.strm2234.xyz/f1/index.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "China Gran Prix",
           "info": "[Fox Premium]",
           "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
           "url": "https://tucanaldeportivo.org/foxsportspremium.php",
