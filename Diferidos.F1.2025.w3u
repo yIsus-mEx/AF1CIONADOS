@@ -1,173 +1,272 @@
 {
-"name": "F1 2025",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Diferidos.F1.2025.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "",
-"groups":
-    [
+  "name": "F1 2025",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Diferidos.F1.2025.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "",
+  "groups": 
+  [
+    {
+      "name": "F1 2025 China [21-23.Mar25]",
+      "info": "",
+      "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+      "imageScale": "",
+      "stations": 
+      [
         {
-        "name": "F1 2025 Australia [14-16.Mar25]",
-        "info":"",
-        "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Libres 01",
-                "info":"[F1TV]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/ny8ijgj9uzwp",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Libres 01",
-                "info":"[DAZNF1]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/lujtksrws9zn",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Libres 02",
-                "info":"[F1TV]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://listeamed.net/v/MAlwEMeapeyEJ39",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Libres 02",
-                "info":"[DAZNF1]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/vsy52i3if777",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Libres 03",
-                "info":"[F1TV]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/eyee6feucba3",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Libres 03",
-                "info":"[DAZNF1]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/e4cvhclhxjpk",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Qualy",
-                "info":"[F1TV]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/2pkx11inxmx5",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Qualy",
-                "info":"[DAZNF1]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://filemoon.to/d/owv3lrkbuhuw",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Carrera",
-                "info":"[F1TV]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://pixeldrain.com/u/M69q63T8",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Carrera",
-                "info":"[DAZNF1]",
-                "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
-                "url":"https://pixeldrain.com/u/9hzqf5ut",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         },
         {
-        "name": "Test Bahréin 2025 [26-28.Feb25]",
-        "info":"",
-        "image": "",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Test Bahréin",
-                "info":"[Dia 3][Sesión De Mañana]",
-                "image": "https://i.postimg.cc/YqPWs4fH/Test-Day-3.png",
-                "url":"https://filemoon.to/d/k2jgh5a335fj",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Test Bahréin",
-                "info":"[Dia 3][Sesión De Tarde]",
-                "image": "https://i.postimg.cc/YqPWs4fH/Test-Day-3.png",
-                "url":"https://filemoon.to/d/b5jk277rrgir",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Test Bahréin",
-                "info":"[Dia 2][Sesión De Mañana]",
-                "image": "https://i.postimg.cc/02jSnGSn/Test-Day-2.png",
-                "url":"https://filemoon.to/d/x3j4yk9wp9io",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Test Bahréin",
-                "info":"[Dia 2][Sesión De Tarde]",
-                "image": "https://i.postimg.cc/02jSnGSn/Test-Day-2.png",
-                "url":"https://filemoon.to/d/rsdqtw3c8gcv",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Test Bahréin",
-                "info":"[Dia 1][Sesión De Mañana]",
-                "image": "https://i.postimg.cc/nhT0z3H4/Test.png",
-                "url":"https://filemoon.to/d/jve1e69sgz5a",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Test Bahréin",
-                "info":"[Dia 1][Sesión De Tarde]",
-                "image": "https://i.postimg.cc/nhT0z3H4/Test.png",
-                "url":"https://filemoon.to/d/w9jjaokopu78",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         }
-    ]
+      ]
+    },
+    {
+      "name": "F1 2025 Australia [14-16.Mar25]",
+      "info": "",
+      "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/ny8ijgj9uzwp",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/lujtksrws9zn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://listeamed.net/v/MAlwEMeapeyEJ39",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/vsy52i3if777",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/eyee6feucba3",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/e4cvhclhxjpk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/2pkx11inxmx5",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://filemoon.to/d/owv3lrkbuhuw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://pixeldrain.com/u/M69q63T8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",
+          "url": "https://pixeldrain.com/u/9hzqf5ut",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "Test Bahréin 2025 [26-28.Feb25]",
+      "info": "",
+      "image": "",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Test Bahréin",
+          "info": "[Dia 3][Sesión De Mañana]",
+          "image": "https://i.postimg.cc/YqPWs4fH/Test-Day-3.png",
+          "url": "https://filemoon.to/d/k2jgh5a335fj",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Test Bahréin",
+          "info": "[Dia 3][Sesión De Tarde]",
+          "image": "https://i.postimg.cc/YqPWs4fH/Test-Day-3.png",
+          "url": "https://filemoon.to/d/b5jk277rrgir",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Test Bahréin",
+          "info": "[Dia 2][Sesión De Mañana]",
+          "image": "https://i.postimg.cc/02jSnGSn/Test-Day-2.png",
+          "url": "https://filemoon.to/d/x3j4yk9wp9io",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Test Bahréin",
+          "info": "[Dia 2][Sesión De Tarde]",
+          "image": "https://i.postimg.cc/02jSnGSn/Test-Day-2.png",
+          "url": "https://filemoon.to/d/rsdqtw3c8gcv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Test Bahréin",
+          "info": "[Dia 1][Sesión De Mañana]",
+          "image": "https://i.postimg.cc/nhT0z3H4/Test.png",
+          "url": "https://filemoon.to/d/jve1e69sgz5a",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Test Bahréin",
+          "info": "[Dia 1][Sesión De Tarde]",
+          "image": "https://i.postimg.cc/nhT0z3H4/Test.png",
+          "url": "https://filemoon.to/d/w9jjaokopu78",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
 }
