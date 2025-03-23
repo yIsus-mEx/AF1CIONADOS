@@ -118,44 +118,6 @@
       ]
     },
     {
-      "name": "Rally Kenya 2025",
-      "image": "https://i.ytimg.com/vi/XOpJ8qyJQpE/maxresdefault.jpg",
-      "stations": 
-      [
-        {
-          "name": "Rally Kenya 2025",
-          "info": "[RallyTV]",
-          "image": "https://asset.hankooktire.com/content/dam/hankooktire/common/media/CL/es/2025/03/news_img_20250318.jpg",
-          "url": "https://dokko1new.koskoros.ru/dokko1/premium607/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://gamerushplay.cfd/",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "Rally Kenya 2025",
-          "info": "[TNT SPORTS  2]",
-          "image": "https://asset.hankooktire.com/content/dam/hankooktire/common/media/CL/es/2025/03/news_img_20250318.jpg",
-          "url": "https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://gamerushplay.cfd/",
-          "embed": "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "Rally Kenya 2025",
-          "info": "[TNT SPORTS]",
-          "image": "https://asset.hankooktire.com/content/dam/hankooktire/common/media/CL/es/2025/03/news_img_20250318.jpg",
-          "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt2/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://gamerushplay.cfd/",
-          "online":"true",
-          "isHost":""
-        }
-      ]
-    },
-    {
       "name": "FUTBOL",
       "image": "https://th.bing.com/th/id/OIP.V3nYJiYBqhvoEWYZ9crA7gHaEo?rs=1&pid=ImgDetMain",
       "stations": 
