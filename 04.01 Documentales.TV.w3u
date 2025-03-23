@@ -8,62 +8,29 @@
 "groups": 
   [
 
-        {
-        "name": "3 tonelada$, Asalto al Banco Central do Brasil",
-        "image": "https://pics.filmaffinity.com/3_tonelada_assalto_ao_banco_central-366525934-large.jpg",
-        "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20BANCO%20CENTRAL%20BRASIL.w3u",
-        "info": "bY AdriDeCai",
-        "import": false
-        },
+{
+"name": "3 tonelada$, Asalto al Banco Central do Brasil",
+"image": "https://pics.filmaffinity.com/3_tonelada_assalto_ao_banco_central-366525934-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20BANCO%20CENTRAL%20BRASIL.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 
-      {
-      "name": "7 dias en Marte",
-      "image": "https://pics.filmaffinity.com/brian_cox_seven_days_on_mars-908546731-large.jpg",
-      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%207%20DIAS%20EN%20MARTE..w3u",
-      "info": "bY AdriDeCai",
-      "import": false
-      },
+{
+"name": "7 dias en Marte",
+"image": "https://pics.filmaffinity.com/brian_cox_seven_days_on_mars-908546731-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%207%20DIAS%20EN%20MARTE..w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 
-    {
-      "name": "900 dias sin Anabel",
-      "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
-      "info": "2024",
-      "stations": [
-        {
-          "name": "CAPITULO 1",
-          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
-          "url": "https://listeamed.net/v/ZMVoErbQK9JE9Pa",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 2",
-          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
-          "url": "https://listeamed.net/v/3Q0lxBbyo4Mxj1J",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 3",
-          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
-          "url": "https://listeamed.net/v/MAlwEMWnk1y5J39",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-      ]
-    },
+{
+"name": "900 dias sin Anabel",
+"image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20900%20DIAS%20SIN%20ANABEL.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 
     {
       "name": "7291",
@@ -102,13 +69,13 @@
       ]
     },
 
-        {
-          "name": "Alaska Revelada",
-          "image": "https://pics.filmaffinity.com/alaska_revelada-231689832-large.jpg",
-          "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20ALASKA%20REVELADA.w3u",
-          "info": "bY AdriDeCai",
-          "import": false
-        },
+{
+"name": "Alaska Revelada",
+"image": "https://pics.filmaffinity.com/alaska_revelada-231689832-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20ALASKA%20REVELADA.w3u",
+"info": "bY AdriDeCai",
+"import": false
+},
 
     {
       "name": "Ambicion desmedida, C Tangana",
