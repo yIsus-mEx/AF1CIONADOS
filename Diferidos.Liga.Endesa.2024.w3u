@@ -2041,7 +2041,7 @@
         		},
 			{
        			"name": "Bilbao Basket VS Lenovo Tenerife",
-	        	"url": "https://filemoon.to/d/ybdzgyuk2g6m/Liga_Endesa_Leyma_VS_Breogan_160325.mkv",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/j4gzfldfuz0h/Liga_Endesa_Bilbao_VS_Tenerife_160325.mkv",
 	        	"info": "16/03/25",
 			"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2055,15 +2055,81 @@
 
 	{
         "name": "JORNADA 24",
-        "image": "",
-        "info": "",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+        "info": "[23-03-2025]",
         "stations":
             [
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "",
+       			"name": "Valencia VS Leyma Coruña",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/pyg3tvq91up1/Liga_Endesa_Valencia_VS_Leyma_220325.mkv",
+	        	"info": "[22-03-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Girona VS Gran Canaria",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/euflvk3zmf1o/Liga_Endesa_Girona_VS_Gran_Canaria_220325.mkv",
+	        	"info": "[22-03-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Breogan VS UCAM Murcia",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/zhofgupdno1e/Liga_Endesa_Breogan_VS_UCAM_220325.mkv",
+	        	"info": "[22-03-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Zaragoza",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/1d6iwhl2e4gn/Liga_Endesa_Barsa_VS_Zaragoza_230325.mkv",
+	        	"info": "[23-03-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Lleida VS Juventut",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/scdvig5u6czo/Liga_Endesa_Lleida_VS_Juventud_230325.mkv",
+	        	"info": "[23-03-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Tenerife VS Andorra",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/8ieczb9kgann/Liga_Endesa_Tenerife_VS_Andorra_230325.mkv",
+	        	"info": "[23-03-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Unicaja VS Real Madrid",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/3tgofvp6s9kn/Liga_Endesa_Unicaja_VS_Madrid_230325.mkv",
+	        	"info": "[23-03-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
