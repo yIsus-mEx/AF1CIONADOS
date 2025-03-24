@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Edwards vs Brady",
+         "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Edwards vs Brady",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
+                "url":"https://pixeldrain.com/u/UN6LYhYA",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Vettori vs Dolidze 2",
          "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
          "imageScale": "",

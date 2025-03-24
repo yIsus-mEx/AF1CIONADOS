@@ -8,6 +8,31 @@
 "groups":
     [
         {
+        "name": "R02 IndyCar The Thermal Club Grand Prix",
+        "image": "https://i.postimg.cc/9F7SsnKg/Indycar.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9F7SsnKg/Indycar.png",
+                "url" :"https://pixeldrain.com/u/wGqbXqVB",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9F7SsnKg/Indycar.png",
+                "url" :"https://pixeldrain.com/u/A89wXrWS",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        }
+        {
         "name": "R01 IndyCar Grand Prix of St. Petersburg",
         "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
         "stations":
