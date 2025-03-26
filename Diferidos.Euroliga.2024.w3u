@@ -2729,15 +2729,48 @@
 
 	{
         "name": "JORNADA 31",
-        "image": "",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "[]",
+       			"name": "Partizan Belgrado VS Alba Berlin",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/9nkkzmbwibwr/Euroliga_Partizan_VS_Alba_Berlin_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monaco VS Zalguiris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/sergk7ieckro/Euroliga_Monaco_VS_Zalguiris_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Paris Saint Germain",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/r5vwlrx8ykab/Euroliga_Fenerbahce_VS_Paris_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Olympiakos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ce9goms3826t/Euroliga_Asvel_VS_Olympiakos_250325.mkv",
+	        	"info": "[25/03/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
