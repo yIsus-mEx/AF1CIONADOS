@@ -2776,6 +2776,61 @@
 			"embed": "",
         		"referer" : "",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Milan",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/9nwxpmjcxkq4/Euroliga_Real_Madrid_VS_Milan_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Bayern Munich",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/yottiiuskyuz/Euroliga_Barsa_VS_Bayern_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Efes VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/boyr025kg4s7/Euroliga_Efes_VS_Baskonia_260325.mkv",
+	        	"info": "[26/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8nk0hiydvs6q/Euroliga_Estrella_Roja_VS_Virtus_260325.mkv",
+	        	"info": "[26/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Panathinaikos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6s7ew1icl9fr/Euroliga_Maccabi_VS_Panathinaikos_260325.mkv",
+	        	"info": "[26/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
         		}
 		]
 	},
