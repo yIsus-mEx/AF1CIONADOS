@@ -171,65 +171,6 @@
     },
 
     {
-      "name": "The Thermal Club INDYCAR Grand Prix",
-      "image": "https://i.postimg.cc/Y95pfWYK/race-week-2025-thermal-club-indycar-grand-prix.webp",
-      "stations": 
-      [
-        {
-          "name": "The Thermal Club Grand Prix",
-          "info": "[ESPN]",
-          "image": "https://i.postimg.cc/gcgd41pk/R02-Indy-Cars.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=disney19",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "The Thermal Club Grand Prix",
-          "info": "[#VAMOS]",
-          "image": "https://i.postimg.cc/gcgd41pk/R02-Indy-Cars.jpg",
-          "url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://gamerushplay.cfd/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "The Thermal Club Grand Prix",
-          "info": "[#VAMOS]",
-          "image": "https://i.postimg.cc/gcgd41pk/R02-Indy-Cars.jpg",
-          "url": "https://streamtp3.com/global1.php?stream=vamoses",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "The Thermal Club Grand Prix",
-          "info": "[FOX USA]",
-          "image": "https://i.postimg.cc/gcgd41pk/R02-Indy-Cars.jpg",
-          "url": "https://zekonew.koskoros.ru/zeko/premium54/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://gamerushplay.cfd/",
-          "embed": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "The Thermal Club Grand Prix",
-          "info": "[SKYF1]",
-          "image": "https://i.postimg.cc/gcgd41pk/R02-Indy-Cars.jpg",
-          "url": "https://windnew.koskoros.ru/wind/premium60/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://gamerushplay.cfd/",
-          "embed": "",
-          "online": "true",
-          "isHost": ""
-        }
-      ]
-    },
-    {
       "name": "F1: Gran Premio de China",
       "image": "https://i.postimg.cc/wxXLrkhF/china-2025.jpg",
       "stations": 
@@ -341,152 +282,91 @@
     },
 
     {
-      "name": "MOTOCICLISMO",
-      "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
+      "name": "MotoGP Grand Prix de las Américas",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/b2f47d79-f48a-4809-afa2-9deab2c3e7ec_alta-libre-aspect-ratio_default_0.jpg",
       "stations": 
       [
         {
-          "name": "MOTOCICLISMO",
-          "info": "[ACESTREAM 1080]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "acestream:",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
+          "name": "MotoGP Grand Prix de las Américas",
+          "info": "[ACESTREAM 1080p]",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "online": "true"
         },
         {
-          "name": "MOTOCICLISMO",
+          "name": "MotoGP Grand Prix de las Américas",
+          "info": "[ACESTREAM 1080p]",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
+          "online": "true"
+        },
+         {
+          "name": "MotoGP Grand Prix de las Américas",
+          "info": "[ACESTREAM 720p]",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
+          "online": "true"
+        },
+        {
+          "name": "MotoGP Grand Prix de las Américas",
           "info": "[ACESTREAM 720]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "acestream:",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421",
+          "online": "true"
         },
         {
-          "name": "MOTOCICLISMO",
+          "name": "MotoGP Grand Prix de las Américas",
           "info": "[DAZN 1]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
           "url": "",
+          "url": "https://tucanaldeportivo.org/dazn1.php",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
         },
         {
-          "name": "MOTOCICLISMO",
+          "name": "MotoGP Grand Prix de las Américas",
           "info": "[DAZN 1]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "https://streamtp1.com/global1.php?stream=dazn1",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
+          "referer" : "",
+          "online":"true",
+          "isHost":"true"
         },
         {
-          "name": "MOTOCICLISMO",
+          "name": "MotoGP Grand Prix de las Américas",
           "info": "[DAZN 1]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "https://windnew.koskoros.ru/wind/premium445/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "MotoGP Grand Prix de las Américas",
+          "info": "[DAZN 1]",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "https://antenacentral.store/dazn1.php",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://cookiewebplay.xyz/",
           "online": "true",
           "isHost": ""
         },
         {
-          "name": "MOTOCICLISMO",
-          "info": "[ESPN]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
+          "name": "MotoGP Grand Prix de las Américas",
+          "info": "[DAZN 1]",
+          "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
+          "url": "https://we.sharkattack.xyz/dazn-1-spain/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[ESPN]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[ESPN]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[ESPN]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[ESPN]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[iPHONE 1080]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[ANDROID 1080]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[iPHONE 720]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "MOTOCICLISMO",
-          "info": "[ANDROID 720]",
-          "image": "https://www.jahnnoom.com/wp-content/uploads/2025/03/motogp-2025.jpg",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
+          "referer": "https://wearechecking.live/",
           "online": "true",
           "isHost": ""
         }
       ]
     }
-
   ]
 }
