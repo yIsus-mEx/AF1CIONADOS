@@ -348,13 +348,13 @@
         },
         {
           "name": "MotoGP Grand Prix de las Américas",
-          "info": "[DAZN 1]",
+          "info": "[DAZn 1]",
           "image": "https://i.postimg.cc/xj3yjJgY/americas.jpg",
           "url": "https://antenacentral.store/dazn1.php",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://streamtp3.com/",
           "online": "true",
-          "isHost": ""
+          "isHost": "true"
         },
         {
           "name": "MotoGP Grand Prix de las Américas",
