@@ -2837,15 +2837,59 @@
 
 	{
         "name": "JORNADA 32",
-        "image": "",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
         "info": "",
         "stations":
             [
 			{
+       			"name": "Olympiakos VS Monaco",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4a40gi3ehq9g/Euroliga_Olympiakos_VS_Monaco_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS FC Barcelona",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/dhaacs07w1za/Euroliga_Milan_VS_Barsa_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Partizan Belgrado",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/7haxxi52v39q/Euroliga_Bayern_VS_Partizan_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asbel VS Zalguiris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/v7hbx0im8qwy/Euroliga_Asvel_VS_Zalguiris_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
        			"name": "",
-	        	"image": "",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
 	        	"url": "",
-	        	"info": "",
+	        	"info": "[27/03/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
