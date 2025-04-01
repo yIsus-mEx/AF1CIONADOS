@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Moreno vs Erceg",
+         "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Moreno vs Erceg",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
+                "url":"https://pixeldrain.com/u/AUkWja7H",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Edwards vs Brady",
          "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
          "imageScale": "",
@@ -20,6 +38,15 @@
                 "online":"true",
                 "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
                 "url":"https://pixeldrain.com/u/UN6LYhYA",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Edwards vs Brady",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
+                "url":"https://pixeldrain.com/u/B6wqbp9x",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true"
                 }
