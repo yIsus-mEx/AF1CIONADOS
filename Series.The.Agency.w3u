@@ -103,6 +103,15 @@
                 "userAgent":"PlusMediaPlayer/0.0.9",
 		"isHost": "true",
                 "online":"true"
+                },
+                {
+                "name": "Episodio 10",
+                "info":"[Español]",
+                "image": "",
+                "url":"",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost": "true",
+                "online":"true"
                 }
 
 		]
