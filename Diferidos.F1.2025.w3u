@@ -8,6 +8,51 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Japon [03-05.Abr25]",
+      "info": "",
+      "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/xaop3ek2zg1j",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/ih1fnbk1ixof",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/v4yqyojx72j4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/x7547z8g5sko",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2025 China [21-23.Mar25]",
       "info": "",
       "image": "https://i.postimg.cc/zvP3Jpbq/china-2025.png",

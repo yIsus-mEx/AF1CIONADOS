@@ -8,6 +8,15 @@
   "stations": 
   [
     {
+      "name": "BOX BOX: Japon",
+      "info": "[Round 03]",
+      "online": "true",
+      "image": "https://i.postimg.cc/zGh9wM7Z/Japon-Box-Box.png",
+      "url": "https://filemoon.to/d/ilt2u43v60vl",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true"      
+    },
+    {
       "name": "BOX BOX: China",
       "info": "[Round 02][20.03.25]",
       "online": "true",
