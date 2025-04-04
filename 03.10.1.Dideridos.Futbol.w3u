@@ -77,8 +77,8 @@
                 	"isHost":"true",
                 	"online":"true"
                 	}
-			]
-		},
+		]
+	},
 
 	{
     	"name": "sUPERcOPA dE EsPAÑa 2023/24",
@@ -105,6 +105,78 @@
                 "isHost":"true",
                 "online":"true"
                 }
+		]
+	},
+
+	{
+       	"name": "Copa del Rey 2024/25",
+        "info":"",
+        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
+        "imageScale": "",
+        "groups":
+    		[
+		{
+		"name": "SEMIFINALES",
+		"info":"[06-02-2025][01-03-2025]",
+		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
+		"imageScale": "",
+		"stations":
+        	[
+			{
+			"name": "FC Barcelona VS Atletico de Madrid (IDA)",
+			"info":"[06-02-2025]",
+			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/24/67bcc688beb57.webp",
+			"url":"https://filemoon.to/d/0zc94xjcyzbs/Copa_del_Rey_2025_-_Semifinal_-_Ida_-_FC_Barcelona_vs_Atl_tico_de_Madrid__WEB-DL_1080p_50fps___2_audios_.mkv",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Real Sociedad VS Real Madrid (IDA)",
+			"info":"[07-02-2025]",
+			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/26/67bf764dc8080.webp",
+			"url":"https://filemoon.to/d/y6mnir7gdir9/Copa_del_Rey_Real_Sociedad_VS_Real_Madrid_260225_multiaudio.mkv",
+ 			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Real Madrid VS Real Sociedad (VUELTA)",
+			"info":"[01-03-2025]",
+			"image": "",
+			"url":"",
+ 			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Atletico de Madrid VS FC Barceloa (VUELTA",
+			"info":"[02-03-2025]",
+			"image": "",
+			"url":"",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			}
+		]
+		},
+		{
+		"name": "FINAL",
+		"info":"",
+		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
+		"imageScale": "",
+		"stations":
+      			[
+			{
+			"name": "",
+			"info":"[26-04-2025]",
+			"image": "",
+			"url":"",
+			"userAgent" : "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+			}
+			]
+		}
 		]
 	},
 
@@ -239,78 +311,6 @@
                 	"isHost":"true",
                 	"online":"true"
                 	}
-		]
-	},
-
-	{
-       	"name": "Copa del Rey 2024/25",
-        "info":"",
-        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
-        "imageScale": "",
-        "groups":
-    		[
-		{
-		"name": "SEMIFINALES",
-		"info":"[06-02-2025][01-03-2025]",
-		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
-		"imageScale": "",
-		"stations":
-        	[
-			{
-			"name": "FC Barcelona VS Atletico de Madrid (IDA)",
-			"info":"[06-02-2025]",
-			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/24/67bcc688beb57.webp",
-			"url":"https://filemoon.to/d/0zc94xjcyzbs/Copa_del_Rey_2025_-_Semifinal_-_Ida_-_FC_Barcelona_vs_Atl_tico_de_Madrid__WEB-DL_1080p_50fps___2_audios_.mkv",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Real Sociedad VS Real Madrid (IDA)",
-			"info":"[07-02-2025]",
-			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/26/67bf764dc8080.webp",
-			"url":"https://filemoon.to/d/y6mnir7gdir9/Copa_del_Rey_Real_Sociedad_VS_Real_Madrid_260225_multiaudio.mkv",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Real Madrid VS Real Sociedad (VUELTA)",
-			"info":"[01-03-2025]",
-			"image": "",
-			"url":"",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Atletico de Madrid VS FC Barceloa (VUELTA",
-			"info":"[02-03-2025]",
-			"image": "",
-			"url":"",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-		]
-		},
-		{
-		"name": "FINAL",
-		"info":"",
-		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
-		"imageScale": "",
-		"stations":
-      			[
-			{
-			"name": "",
-			"info":"[26-04-2025]",
-			"image": "",
-			"url":"",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-			]
-		}
 		]
 	},
 
