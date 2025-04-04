@@ -198,79 +198,6 @@
 		},
 
 		{
-        	"name": "Soccer Champions Tour USA 2024",
-        	"image": "https://i.postimg.cc/c4RNsct9/USA.png",
-       		"imageScale": "",
-        	"info":"",
-        	"stations":
-            		[
-			{
-                	"name": "Manchester City VS Milan AD",
-	        	"info":"[27-Jul-24][Español]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/ioowapar9dgt/Champions_Tour_Manchester_City_VS_Milan_270724.mkv",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "FC Barcelona vs Manchester City",
-	        	"info":"[30-Jul-24][Español]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/hnuokpqoo1bf/Champions_Tour_FC_Barcelona_VS_Manchester_City_300724.mkv",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Milan AD vs Real Madrid",
-	        	"info":"[31-Jul-24][Español]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/52onwmzdchvz/Champions_Tour_Milan_VS_Real_Madrid_310724.mkv",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[03-Ago-24][Español]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/tt6qewjhfluo/Champions_Tour_FC_Barcelona_VS_Real_Madrid_030824.mkv",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[03-Ago-24][Latino]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/92h4i3s6s54q",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "FC Barcelona vs Milan AD",
-	        	"info":"[07-Ago-24][]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/xqjflejkslxk/Soccer_Tour_FC_Barcelona_VS_Milan_060824.mkv",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Real Madrid vs Chelsea",
-	        	"info":"[07-Ago-24][]",
-                	"image": "https://pbs.twimg.com/media/GTED0lSXMAA2dZP?format=jpg&name=small",
-                	"url":"https://filemoon.sx/d/68s22l6qam97/Soccer_Tour_Real_Madrid_VS_Chelsea_060824.mkv",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	}
-			]
-		},
-
-		{
 		"name": "Eurocopa Alemania 2024",
 		"image": "https://i.postimg.cc/SNMRfhMP/Euro2024-new.png",
 		"url": "https://af1c1onados.vercel.app/Diferidos.Euro.Copa.2024.w3u",
@@ -286,24 +213,6 @@
 		"import": false
 		},
 
-		{
-        	"name": "Mundial Qatar 2022",
-        	"info":"",
-        	"image": "https://i.postimg.cc/N0fKt8qk/qatar2022-new.png",
-        	"imageScale": "",
-        	"stations":
-        		[
-			{
-                	"name": "Argentina Vs Francia",
-	        	"info":"[18-Dic-22]",
-                	"image": "https://www.telecomasia.net/upload/iblock/a43/a4387ca2094b9e5c4161572bad6a8542.jpg",
-                	"url":"https://filemoon.sx/d/argc2dyg6olk",
-        		"userAgent" : "PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	}
-            		]
-		},
 
 	{
     	"name": "sUPERcOPA dE EsPAÑa",
