@@ -76,42 +76,6 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
-                	},
-			{
-                	"name": "Valencia VS Real Betis",
-	        	"info":"[23-Nov-24][Liga EA Sport 2024]",
-                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_webp/uploads/2024/11/22/6740c68d4d3ff.webp",
-                	"url":"https://filemoon.sx/d/ootnbpvim22u/Liga_EA_Sport_Valencia_VS_Betis_231124.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Almeria VS Cordoba",
-	        	"info":"[26-Nov-24][Liga HyperMotion 2024]",
-                	"image": "",
-                	"url":"https://filemoon.sx/d/8nambvcea9xf/Liga_Hypermotion_Almeria_VS_Cordoba_261124.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Mallorca VS FC Barcelona",
-	        	"info":"[02-Dic-24][Liga EA Sport 2024]",
-                	"image": "",
-                	"url":"https://filemoon.to/d/2wpj1lb5l33h/Liga_EA_Sport_Mallorca_VS_FC_Barcelona_021224.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Atletico de Madrid VS FC Barcelona",
-	        	"info":"[16-Mar-25][Liga EA Sport 2024-2025]",
-                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/14/78122238188854.webp",
-                	"url":"https://filemoon.to/d/bxvd9gw7oi79/Liga_Ea_Sport_Atletico_de_Madrid_VS_FC_Barcelona_160325.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
                 	}
 			]
 		},
@@ -216,7 +180,7 @@
 	},
 
 	{
-        "name": "Liga EA SPORT 2023/24",
+        "name": "Liga EA SPORT",
         "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
         "imageScale": "",
         "info":"",
@@ -224,7 +188,7 @@
             	[
 			{
         		"name": "FC Barcelona Vs Real Madrid [Clasico]",
-        		"info": "[28-10-2023]",
+        		"info": "[28-10-2023][Liga EA Sport 2023-2024]",
         		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
         		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
 			"isHot": "true",
@@ -232,7 +196,7 @@
 			},
 			{
         		"name": "Real Madrid vs Sevilla",
-        		"info":"[25-02-2024]",
+        		"info":"[25-02-2024][Liga EA Sport 2023-2024]",
         		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
         		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
 			"isHost":"true",
@@ -241,7 +205,7 @@
         		},
 			{
                 	"name": "Barcelona vs Real Valladolid",
-	        	"info":"[30-Ago-24]",
+	        	"info":"[30-Ago-24][Liga EA Sport 2024-2025]",
                 	"image": "https://i.postimg.cc/8zqZzxXS/barcareal.jpg",
                 	"url":"https://listeamed.net/v/g9Vd5JWMGygxqQj",
 			"userAgent":"PlusMediaPlayer/0.0.9",
@@ -250,7 +214,7 @@
                 	},
 			{
                 	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[25-Octu-24][Parte 1]",
+	        	"info":"[25-Octu-24][Parte 1][Liga EA Sport 2024-2025]",
                 	"image": "https://cdn2.mediotiempo.com/uploads/media/2024/10/26/real-madrid-vs-barcelona-2.jpg",
                 	"url":"https://listeamed.net/v/b4ZJx2mXbVQ52P3",
 			"userAgent":"PlusMediaPlayer/0.0.9",
@@ -259,9 +223,18 @@
                 	},
 			{
                 	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[25-Octu-24][Parte 2]",
+	        	"info":"[25-Octu-24][Parte 2][Liga EA Sport 2024-2025]",
                 	"image": "https://cdn2.mediotiempo.com/uploads/media/2024/10/26/real-madrid-vs-barcelona-2.jpg",
                 	"url":"https://listeamed.net/v/kKJVORNk2ABO3XD",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	},
+			{
+                	"name": "Atletico de Madrid vs FC Barcelona",
+	        	"info":"[16-Mar-25][Liga EA Sport 2024-2025]",
+                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/14/78122238188854.webp",
+                	"url":"https://filemoon.to/d/bxvd9gw7oi79/Liga_Ea_Sport_Atletico_de_Madrid_VS_FC_Barcelona_160325.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
                 	"isHost":"true",
                 	"online":"true"
