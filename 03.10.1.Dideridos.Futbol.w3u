@@ -87,15 +87,6 @@
                 	"online":"true"
                 	},
 			{
-                	"name": "Real Madrid vs Atalanta",
-	        	"info":"[14-Ago-24]",
-                	"image": "https://phantom-marca.unidadeditorial.es/0ca04992a03fa9562c28d24da42ddee1/resize/660/f/webp/assets/multimedia/imagenes/2024/08/15/17237110277584.jpg",
-                	"url":"https://listeamed.net/v/rabVOQQPngAOKdW",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
                 	"name": "Valencia vs Barcelona",
 	        	"info":"[17-Ago-24]",
                 	"image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/08/15/minvalbar.jpg",
@@ -197,71 +188,13 @@
 			]
 		},
 
-		{
-		"name": "Eurocopa Alemania 2024",
-		"image": "https://i.postimg.cc/SNMRfhMP/Euro2024-new.png",
-		"url": "https://af1c1onados.vercel.app/Diferidos.Euro.Copa.2024.w3u",
-		"info": "bY. aDri",
-		"import": false
-		},
-
-		{
-		"name": "Copa America EEUU 2024",
-		"image": "https://i.postimg.cc/W3DTb7M7/copa-america-2024-new.png",
-		"url": "https://af1c1onados.vercel.app/Diferidos.Copa.America.2024.w3u",
-		"info": "bY. aDri",
-		"import": false
-		},
-
-
-	{
-    	"name": "sUPERcOPA dE EsPAÑa",
-        "info":"",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
-        "imageScale": "",
-        "groups":
-	[
-	{
-    	"name": "sUPERcOPA dE EsPAÑa 2022/23",
-        "info":"",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
-        "imageScale": "",
-        "stations":
-        	[
-		{
-                "name": "Real Madrid vs Atletico",
-                "info":"[SemiFinal 1]",
-                "image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
-                "url":"https://filemoon.sx/d/hzqu4c6uvet4",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Barcelona vs Osasuna",
-                "info":"[SemiFinal 2]",
-                "image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
-                "url":"https://filemoon.sx/d/r6gfh411yjc7",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Real Madrid vs Barcelona",
-                "info":"[Final]",
-                "image": "https://i.postimg.cc/6QvjzK5b/Final-Super-Copa-Espa-a-2024.jpg",
-                "url":"https://filemoon.sx/d/hzindiudis1m/Supercopa_Espa_a_Partido_Real_Madrid_VS_Barcelona_Multi_140124.mp4",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-        },
-
 	{
     	"name": "sUPERcOPA dE EsPAÑa 2023/24",
         "info":"[12-01-2025]",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
+        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
         "imageScale": "",
         "stations":
-        	[
+	[
             	{
                 "name": "Real Madrid vs Barcelona",
                 "info":"[Final][Dialecto Catalan]",
@@ -276,64 +209,6 @@
                 "info":"[Final][Español]",
                 "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
                 "url":"https://filemoon.to/d/2riwu3guo779/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_O_120125.mkv",
-        	"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-        }
-	]
-	},
-
-	{
-        "name": "sUPERcOPA dE EsPAÑa 2022/23 FEMENINA",
-        "info":"",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
-        "imageScale": "",
-        "stations":
-        	[
-				{
-                "name": "Atletico vs Levante",
-	       	"info":"[SemiFinal 1]",
-                "image": "https://i.postimg.cc/wx14vTKM/semi1.png",
-                "url":"https://filemoon.sx/d/gc79kp960rep",
-        	"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Barcelona vs Real Madrid",
-                "info":"[SemiFinal 2]",
-	        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741419677148.png",
-                "url":"https://filemoon.sx/d/7630xdpr0ut4",
-        	"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Barcelona vs Levante",
-                "info":"[Final]",
-	        "image": "https://i.postimg.cc/t4N6M20n/2024-01-20-FC-Barcelona-UD-Levante-Supercopa-F-emenino.png",
-                "url":"https://filemoon.sx/d/ci05dov4wkjm/Final_Supercopa_de_Espa_a_Femenina_FC_BArcelona_VS_Levante_200124.mp4",
-        	"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-	},
-
-	{
-        "name": "sUPERcOPA dE EsPAÑa 2023/24 FEMENINA",
-        "info":"",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
-        "imageScale": "",
-        "stations":
-        	[
-		{
-                "name": "FC Barcelona VS Real Madrid",
-	       	"info":"[Final]",
-                "image": "https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2024/11/16/673909862be29.r_d.2110-1303.jpeg",
-                "url":"https://filemoon.to/d/dm71ap97g04z/Supercopa_Femenina_de_Espa_a_FC_Barcelona_VS_Real_Madrid_260125.mkv",
         	"userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -471,121 +346,6 @@
 			"isHot": "true",
         		"online": "true"
         		}
-			]
-		},
-
-	{
-       	"name": "Copa del Rey 2023/24",
-        "info":"",
-        "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-        "imageScale": "",
-        "groups":
-    		[
-
-		{
-		"name": "CUARTOS DE FINAL",
-		"info":"",
-		"image": "https://i.postimg.cc/7YWpdGgT/Cuartos-de-final-Copa-del-Rey-2024.jpg",
-		"imageScale": "",
-		"stations":
-        	[
-			{
-			"name": "Atletico Madrid VS Sevilla",
-			"info":"[25-01-2024]",
-			"image": "https://i.postimg.cc/ZYVNqJ5X/Atletico-Madrid-vs-Sevilla-2024.webp",
-			"url":"https://filemoon.sx/d/ho1jm25bc6ay/Copa_del_Rey_Cuartos_Atletico_de_Madrid_VS_Sevilla_250124.mp4",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Athletic Bilbao VS FC Barcelona",
-			"info":"[24-01-2024]",
-			"image": "https://i.postimg.cc/YqMd5ryV/Athletic-vs-Barcelona-2024.jpg",
-			"url":"https://filemoon.sx/d/d640s6d5qwzy/Copa_del_Rey_Bilbao_VS_FC_Barcelona_240124.mp4",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "RCD Mallorca VS Girona",
-			"info":"[24-01-2024]",
-			"image": "https://i.postimg.cc/XYNDCjfF/Mallorca-vs-Girona-2024.webp",
-			"url":"https://filemoon.sx/d/0nzq8mhbnn9e/Copa_del_Rey_Mallorca_VS_Girona_240124.mp4",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Celta de Vigo VS Real Sociedad",
-			"info":"[23-01-2024]",
-			"image": "https://i.postimg.cc/vZdGFVdy/Celta-vs-Real-Sociedad-2024.jpg",
-			"url":"https://filemoon.sx/d/quyi1vva5q65/Copa_del_Rey_Cuartos_Celta_VS_Real_Sociedad_230124.mp4",
-			"isHost":"true",
-			"online":"true"
-			}
-       			]
-			},
-
-		{
-		"name": "SEMIFINALES",
-		"info":"",
-		"image": "https://i.postimg.cc/ZqdBpdLP/Semifinales-Copa-del-Rey-2024.png",
-		"imageScale": "",
-		"stations":
-        	[
-			{
-			"name": "RCD Mallorca VS Real Sociedad (IDA)",
-			"info":"[06-02-2024]",
-			"image": "https://i.postimg.cc/J440M44L/2024-02-06-Real-Mallorca-vs-Real-Sociedad.jpg",
-			"url":"https://filemoon.sx/d/zow3ti37np72/Semifinals_Copa_del_Rey_IDA_Mallorca_VS_Real_Sociedad_060224.mp4",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Atletico Madrid VS Athletic Bilbao (IDA)",
-			"info":"[07-02-2024]",
-			"image": "https://i.postimg.cc/02nWfX4N/2024-02-07-Atletico-Madrid-vs-Athletic-Bilbao.png",
-			"url":"https://filemoon.sx/d/gpbt1vtfznmt/2_Semifinal_Copa_del_rey_Ida_Atletico_de_Madrid_VS_Athletic_de_Bilbao_Canal_Copa_del_Rey_070224.mp4",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Real Sociedad VS RCD Mallorca (VUELTA)",
-			"info":"[27-02-2024]",
-			"image": "https://i.postimg.cc/CxQZpD5g/2024-02-27-Real-Sociedad-vs-RCD-Mallorca.png",
-			"url":"https://filemoon.sx/d/m570d28j56u4/Copa_del_Rey_Semifinales_Vuelta_Real_Sociedad_VS_Mallorca_270224.mp4",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Athletic Bilbao VS Atletico Madrid (VUELTA)",
-			"info":"[29-02-2024]",
-			"image": "https://i.postimg.cc/85tdWcwP/2024-02-29-Athletic-Bilbao-vs-Atletico-Madrid.png",
-			"url":"https://filemoon.sx/d/xyzlca237r1p/Semifinales_Copa_del_Rey_Athletic_de_Bilbao_VS_Atletico_Madrid_290224.mp4",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-			]
-		},
-		{
-		"name": "FINAL",
-		"info":"[06-04-2024]",
-		"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
-		"imageScale": "",
-		"stations":
-      			[
-			{
-			"name": "Athletic Bilbao VS RCD Mallorca",
-			"info":"[06-04-2024]",
-			"image": "https://i.postimg.cc/rpqz07d3/2024-04-06-Athletic-VS-Mallorca-Final-Copa-Rey.png",
-			"url":"https://filemoon.sx/d/0ukf1k9f41uo/Final_Copa_del_Rey_Athletic_Bilbao_VS_Mallorca_060424.mkv",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-			]
-		}
 		]
 	},
 
@@ -598,7 +358,7 @@
     		[
 		{
 		"name": "SEMIFINALES",
-		"info":"",
+		"info":"[06-02-2025][01-03-2025]",
 		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
 		"imageScale": "",
 		"stations":
@@ -661,37 +421,36 @@
 		]
 	},
 
-
 	{
-       	"name": "Euorpa League  2023/24",
+       	"name": "Europe League 2024/25",
         "info":"",
         "image": "https://i.postimg.cc/br2WzBgb/euroligue-new.png",
         "imageScale": "",
         "stations":
         	[
 		{
-                "name": "Roma VS B. Leverkusen",
-	        "info":"[Semifinal Europa League 2024]",
-                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/02/17146834304900.jpg",
-                "url":"https://filemoon.sx/d/5fktoj5x2i6i/EuropeLeague_Semis_IDA_Roma_VS_Bayern_04_Leverkusen_020524.mkv",
+                "name": "",
+	        "info":"[Semifinal Europe League 2025]",
+                "image": "",
+                "url":"",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 		{
-                "name": "Olympic Maseille VS Atalanta",
-	        "info":"[Semifinal Europa League 2024]",
-                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/02/17146846854787.jpg",
-                "url":"https://filemoon.sx/d/wnvkb7aqcoif/EuropeLeague_Semis_IDA_Olympic_Marsella_VS_Atalanta_020524.mkv",
+                "name": "",
+	        "info":"[Semifinal Europe League 2025]",
+                "image": "",
+                "url":"",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
                 },
 		{
-                "name": "B. Leverkusen VS Atalanta",
-	        "info":"[Final Europa League 2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/040e612706680200248c050af88d5816/resize/660/f/webp/assets/multimedia/imagenes/2024/05/20/17162154803939.jpg",
-                "url":"https://filemoon.sx/d/dzduz2cvcov2/Final_Europa_League_Atalanta_VS_Leverkusen_220524_1080_50FPS.mkv",
+                "name": "",
+	        "info":"[Final Europe League 2025]",
+                "image": "",
+                "url":"",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -705,6 +464,25 @@
 	"image": "https://i.postimg.cc/NjC8PZdv/Logo-Champions-2.png",
 	"author": "by .Yisus",
 	"import": false
+	},
+
+	{
+       	"name": "Super Cup Europe 2023/24",
+        "info":"",
+        "image": "https://phantom-marca.unidadeditorial.es/0ca04992a03fa9562c28d24da42ddee1/resize/660/f/webp/assets/multimedia/imagenes/2024/08/15/17237110277584.jpg",
+        "imageScale": "",
+        "stations":
+		[
+			{
+                	"name": "Real Madrid vs Atalanta",
+	        	"info":"[14-Ago-24]",
+                	"image": "https://phantom-marca.unidadeditorial.es/0ca04992a03fa9562c28d24da42ddee1/resize/660/f/webp/assets/multimedia/imagenes/2024/08/15/17237110277584.jpg",
+                	"url":"https://listeamed.net/v/rabVOQQPngAOKdW",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	}
+		]
 	}
 
 	]
