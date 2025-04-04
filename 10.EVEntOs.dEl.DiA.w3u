@@ -16,19 +16,43 @@
         {
           "name": "China Gran Prix",
           "info": "[DAZNF1]",
-          "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
           "online":"true",
-          "isHost":""
+          "image": "F1: Gran Premio de Japon",
+          "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "online":"true",
+          "image": "F1: Gran Premio de Japon",
+          "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "online":"true",
+          "image": "F1: Gran Premio de Japon",
+          "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "online":"true",
+          "image": "F1: Gran Premio de Japon",
+          "url": "acestream://c367738691c63896679e523d4c1c7933729acc7b"
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[DAZNF1]",
+          "online":"true",
+          "image": "F1: Gran Premio de Japon",
+          "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
         },
         {
           "name": "China Gran Prix",
           "info": "[DAZNF1]",
           "image": "F1: Gran Premio de Japon",
-          "url": "",
+          "url": "https://tucanaldeportivo.org/daznf1.php",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "embed": "true",
@@ -39,68 +63,27 @@
           "name": "China Gran Prix",
           "info": "[DanzF1]",
           "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://gamerushplay.cfd/",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "China Gran Prix",
-          "info": "[DAZNF1]",
-          "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "China Gran Prix",
-          "info": "[DAZNF1]",
-          "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://huhu.to/",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "China Gran Prix",
-          "info": "[Fox Premium]",
-          "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "true",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "China Gran Prix",
-          "info": "[Fox Premium]",
-          "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "China Gran Prix",
-          "info": "[Fox Premium]",
-          "image": "F1: Gran Premio de Japon",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
           "referer" : "https://cookiewebplay.xyz/",
           "online":"true",
           "isHost":""
         },
         {
           "name": "China Gran Prix",
-          "info": "[FOX 1]",
+          "info": "[DAZNF1]",
           "image": "F1: Gran Premio de Japon",
-          "url": "",
+          "url": "https://esx1new.newkso.ru/esx1/primadaznf1/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
+          "info": "[FOX PREMIUM]",
+          "image": "F1: Gran Premio de Japon",
+          "url": "https://streamtp4.com/global1.php?stream=foxsportspremium",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "online":"true",
@@ -108,11 +91,22 @@
         },
         {
           "name": "China Gran Prix",
+          "info": "[FOX PREMIUM]",
+          "image": "F1: Gran Premio de Japon",
+          "url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "referer" : "https://cookiewebplay.xyz/",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "China Gran Prix",
           "info": "[ESPN]",
           "image": "F1: Gran Premio de Japon",
-          "url": "",
+          "url": "https://streamtp4.com/global1.php?stream=espndeportes",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
+          "embed": "true",
           "online":"true",
           "isHost":"true"
         }
