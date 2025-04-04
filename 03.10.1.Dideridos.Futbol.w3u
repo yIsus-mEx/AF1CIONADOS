@@ -87,42 +87,6 @@
                 	"online":"true"
                 	},
 			{
-                	"name": "Valencia vs Barcelona",
-	        	"info":"[17-Ago-24]",
-                	"image": "https://www.record.com.mx/sites/default/files/styles/v2-crop768x433/public/articulos/2024/08/15/minvalbar.jpg",
-                	"url":"https://filemoon.sx/d/6b1pto2psl9i",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-               		"online":"true"
-                	},
-			{
-                	"name": "Barcelona vs Rayo Vallecano",
-	        	"info":"[28-Ago-24]",
-                	"image": "https://i.postimg.cc/yY8grb8K/barca.jpg",
-                	"url":"https://filemoon.sx/d/f1d0hjve0mtf",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-               		"online":"true"
-                	},
-			{
-                	"name": "Barcelona vs Real Valladolid",
-	        	"info":"[30-Ago-24]",
-                	"image": "https://i.postimg.cc/8zqZzxXS/barcareal.jpg",
-                	"url":"https://listeamed.net/v/g9Vd5JWMGygxqQj",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Villarreal VS FC Barcelona",
-	        	"info":"[22-Sept-24]",
-                	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/09/21/17269383446976.jpg",
-                	"url":"https://filemoon.sx/d/mufx1so7r60p/Liga_EA_Sports_Villarreal_vs_FC_Barcelona_220924.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
                 	"name": "Atletico Madrid VS Real Madrid",
 	        	"info":"[29-Sept-24]",
                 	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/15/16632421241738.jpg",
@@ -295,32 +259,13 @@
         "stations":
             	[
 			{
-        		"name": "FC Barcelona VS Valencia CF",
-        		"info":"[26-04-2024]",
-        		"image": "https://i.postimg.cc/HLf3G2yn/2024-04-29-FC-Barcelona-vs-Valencia-CF.jpg",
-        		"url": "https://filemoon.sx/d/h4eqwh8gp7nx/Liga_EA_Sport_FC_Barcelona_VS_Valencia_290424.mkv",
-			"isHost":"true",
-			"userAgent": "",
+        		"name": "FC Barcelona Vs Real Madrid [Clasico]",
+        		"info": "[28-10-2023]",
+        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
+        		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
+			"isHot": "true",
         		"online":"true"
-        		},
-			{
-        		"name": "Atco Madrid vs FC Barcelona",
-        		"info":"[17-03-2024]",
-        		"image": "https://i.postimg.cc/vHVLLjZT/2024-03-17-Atletico-Madrid-VS-Barcelona.png",
-        		"url": "https://filemoon.sx/d/vwsfovzwtkb6",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
-			{
-        		"name": "Valencia vs Real Madrid",
-        		"info":"[02-03-2024]",
-        		"image": "https://i.postimg.cc/0Q5gxs1Z/2024-03-24-Valencia-vs-Real-Madrid.webp",
-        		"url": "htps://filemoon.sx/d/c8no6hevcuqb/Liga_EA_Sport_Valencia_VS_Real_Madrid_020324.mp4",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
+			},
 			{
         		"name": "Real Madrid vs Sevilla",
         		"info":"[25-02-2024]",
@@ -331,21 +276,14 @@
         		"online":"true"
         		},
 			{
-        		"name": "FC Barcelona Vs Real Madrid [Clasico]",
-        		"info": "[28-10-2023]",
-        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
-        		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-			"isHot": "true",
-        		"online":"true"
-			},
-			{
-        		"name": "Getafe vs Valencia",
-        		"info": "[08-12-2023]",
-        		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
-        		"url": "https://filemoon.sx/d/rdtgf3invur4",
-			"isHot": "true",
-        		"online": "true"
-        		}
+                	"name": "Barcelona vs Real Valladolid",
+	        	"info":"[30-Ago-24]",
+                	"image": "https://i.postimg.cc/8zqZzxXS/barcareal.jpg",
+                	"url":"https://listeamed.net/v/g9Vd5JWMGygxqQj",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+                	"isHost":"true",
+                	"online":"true"
+                	}
 		]
 	},
 
