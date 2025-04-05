@@ -1,0 +1,47 @@
+{
+"name": "The Virtues",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.The.Virtues.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "",
+"info": "",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"[Vose.Sub]",
+ 		"image":"https://i.postimg.cc/28jSJBK5/virtu.jpg",
+ 		"url":"https://filemoon.to/d/6gn0hk8npr84",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"[Vose.Sub]",
+		"image":"https://i.postimg.cc/28jSJBK5/virtu.jpg",
+		"url":"https://filemoon.to/d/a1z4sekx2rho",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"[Vose.Sub]",
+		"image":"https://i.postimg.cc/28jSJBK5/virtu.jpg",
+		"url":"https://filemoon.to/d/i70jtmukfrrw",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"[Vose.Sub]",
+		"image":"https://i.postimg.cc/28jSJBK5/virtu.jpg",
+		"url":"https://filemoon.to/d/90i6oumwduoq",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}

@@ -49,6 +49,42 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/w102xki1vqal",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/tqbe02u4ozix",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/ujl1zw7xwben",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/PJhxhYqN/F1-Japon-2025.png",
+          "url": "https://filemoon.to/d/jufdwchk1562",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         }
       ]
     },
