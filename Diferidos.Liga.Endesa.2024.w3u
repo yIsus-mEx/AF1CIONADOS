@@ -2271,15 +2271,48 @@
 
 	{
         "name": "JORNADA 26",
-        "image": "",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "",
+       			"name": "Valencia VS UCAM Murcia",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/1uv0mmemxz9m/Liga_Endesa_Valencia_VS_UCAM_050425.mkv",
+	        	"info": "[05-05-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Lleida VS Breogan",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/ih28jufv0cmo/Liga_Endesa_Lleida_VS_Breogan_050425.mkv",
+	        	"info": "[05-05-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Andorra VS Juventut",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/t7bk060s3djn/Liga_Endesa_Andorra_VS_Juventut_050425.mkv",
+	        	"info": "[05-05-2025]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bilbao VS Gran Canaria",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/efn6nzaqd6kq/Liga_Endesa_Bilbao_VS_Gran_Canaria_050425.mkv",
+	        	"info": "[05-05-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
