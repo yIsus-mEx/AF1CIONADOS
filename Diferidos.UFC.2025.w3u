@@ -7,6 +7,25 @@
 "info": "",
 "groups":
     [
+        
+        {
+         "name": "UFC Fight Night: Emmett vs Murphy",
+         "image": "https://i.postimg.cc/q7bLQxPd/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Emmett vs Murphy",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/q7bLQxPd/UFC.png",
+                "url":"https://pixeldrain.com/u/hyCKGrZj",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
         {
          "name": "UFC Fight Night: Moreno vs Erceg",
          "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
