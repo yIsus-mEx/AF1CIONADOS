@@ -111,9 +111,53 @@
         },
         {
           "name": "F1: Gran Premio de Japon",
+          "info": "[FOX 1 ARG]",
+          "image": "https://www.suzukacircuit.jp/eng/f1/home/img-main.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=fox1ar",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "F1: Gran Premio de Japon",
           "info": "[ESPN]",
           "image": "https://www.suzukacircuit.jp/eng/f1/home/img-main.jpg",
-          "url": "https://streamtp4.com/global1.php?stream=espndeportes",
+          "url": "https://streamtp4.com/global1.php?stream=disney15",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "F1: Gran Premio de Japon",
+          "info": "[ESPN]",
+          "image": "https://www.suzukacircuit.jp/eng/f1/home/img-main.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=espn",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },        
+        {
+          "name": "F1: Gran Premio de Japon",
+          "info": "[ESPN]",
+          "image": "https://www.suzukacircuit.jp/eng/f1/home/img-main.jpg",
+          "url": "https://streamtp3.com/global1.php?stream=espndeportes",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "F1: Gran Premio de Japon",
+          "info": "[ONBOARD]",
+          "image": "https://www.suzukacircuit.jp/eng/f1/home/img-main.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=disney16",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "embed": "",
@@ -122,6 +166,5 @@
         }
       ]
     }
-
   ]
 }
