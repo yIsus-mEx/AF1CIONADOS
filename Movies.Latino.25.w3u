@@ -8,6 +8,42 @@
 "stations":
     [
         {
+        "name": "El Maravilloso Mago de Oz",
+        "info": "[2025][Latino]",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJmNmRhNjUtN2I4Yi00MjgzLWFlN2EtZTYzOTFiYzE1MGVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://filemoon.to/d/uv2uf5vkoalu",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Minecraft (Ts)",
+        "info": "[2025][Latino]",
+        "image": "https://wallpapercave.com/wp/wp14534908.jpg",
+        "url": "https://filemoon.to/d/s13jdx13fs7l",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Mickey 17",
+        "info": "[2025][Latino]",
+        "image": "https://wallpapercave.com/wp/wp15089743.webp",
+        "url": "https://filemoon.to/d/77gyg95n3xr5",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "Mientras Cupido No Esta",
+        "info": "[2025][Latino]",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQ4Y2RkZmQtNjRlYy00OGJlLTgzODMtYjYzZmM2YmM3OTg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://filemoon.to/d/zgld3m4wt7vz",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Capitán América: un Nuevo Mundo",
         "info": "[2025][Latino]",
         "image": "https://i.postimg.cc/GmjxH96M/67aa52d6f1706-940x940.webp",

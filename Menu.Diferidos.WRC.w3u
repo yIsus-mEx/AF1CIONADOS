@@ -7,11 +7,18 @@
 "info":"Lista_AF1CIONADOS",
 "groups":
     [
-         {
+        {
           "name": "WRC 2025",
           "info":"",
           "image": "https://i.postimg.cc/63073sC3/WRC-2025.png",
           "url": "https://af1c1onados.vercel.app/Diferidos.WRC.2025.w3u",
+          "import": false
+        },
+        {
+          "name": "ERC 2025",
+          "info":"",
+          "image": "",
+          "url": "https://af1c1onados.vercel.app/Diferidos.ERC.2025.w3u",
           "import": false
         }
      ]
