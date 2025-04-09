@@ -8,15 +8,15 @@
 "stations":
 	[
 		{
-        "name": "Prueba 01",
+        "name": "Prueba 001",
         "info":"",
         "online":"true",
         "image": "",
-        "url": "https://cybervynx.com/kmcrhy47utr6",
+        "url": "https://82cme0ubfg.cdn-centaurus.com/hls2/01/09439/kmcrhy47utr6_n/index-v1-a1.m3u8?t=LtfSbmFG7FhAjz1TwnkP9nVuedyf2G6MAJPzg-q1wZk&s=1744226264&e=129600&f=47197510&srv=qeuviinny9&i=0.4&sp=500&p1=qeuviinny9&p2=qeuviinny9&asn=262916",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "embed": "",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Prueba 02",
