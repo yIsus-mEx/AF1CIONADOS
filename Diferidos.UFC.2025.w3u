@@ -7,7 +7,24 @@
 "info": "",
 "groups":
     [
-        
+        {
+         "name": "UFC 314: Volkanovski vs Lopes",
+         "image": "https://i.postimg.cc/cJNQRN6K/Rectangular-Final.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 314: Volkanovski vs Lopes",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/cJNQRN6K/Rectangular-Final.png",
+                "url":"https://pixeldrain.com/u/HdsjmRLJ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
         {
          "name": "UFC Fight Night: Emmett vs Murphy",
          "image": "https://i.postimg.cc/q7bLQxPd/UFC.png",
@@ -39,6 +56,15 @@
                 "online":"true",
                 "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
                 "url":"https://pixeldrain.com/u/AUkWja7H",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Moreno vs Erceg",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
+                "url":"https://pixeldrain.com/u/tLZXWGsB",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true"
                 }
