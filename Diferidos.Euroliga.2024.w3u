@@ -3069,7 +3069,7 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "Oñympiakos VS Maccabi",
+       			"name": "Olympiakos VS Maccabi",
 	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
 	        	"url": "https://filemoon.to/d/aq0gayiiqicy/Euroliga_Olympiacos_VS_Maccabi_100425.mkv",
 	        	"info": "[10/04/25]",
@@ -3102,9 +3102,9 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
+       			"name": "Partizan VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/l5wesyq5g5os/Euroliga_Partizan_VS_Real_Madrid_100425.mkv",
 	        	"info": "[10/04/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
@@ -3113,20 +3113,9 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
-	        	"info": "[10/04/25]",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-			"online": "true",
-			"embed": "",
-        		"referer" : "",
-        		"isHost": "true"
-        		},
-			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
+       			"name": "Panathinaikos VS Estrella Roja",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/njmqix4mi502/Euroliga_Panathinaikos_VS_Estrella_Roja_110425.mkv",
 	        	"info": "[11/04/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
@@ -3135,9 +3124,9 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
+       			"name": "Milan VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/cpf5ilmpf5yz/Euroliga_Milan_VS_Baskonia_100425.mkv",
 	        	"info": "[11/04/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
@@ -3146,9 +3135,9 @@
         		"isHost": "true"
         		},
 			{
-       			"name": "",
-	        	"image": "",
-	        	"url": "",
+       			"name": "FC Barcelona VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/a4abajzakp3p/Euroliga_Barsa_VS_Virtus_110425.mkv",
 	        	"info": "[11/04/25]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
@@ -3156,9 +3145,35 @@
         		"referer" : "",
         		"isHost": "true"
         		}
-
 		]
-	}
+		},
+
+ 		{
+        	"name": "PLAY IN ROUND 1",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+			{
+			"name": "Bayern Munich VS Estrella Roja",
+			"info": "[15/04/25]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Paris Saint Germain",
+	        	"info": "[15/04/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
+		}
 
 	]
 }
