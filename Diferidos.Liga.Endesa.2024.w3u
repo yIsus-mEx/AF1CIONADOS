@@ -2279,7 +2279,7 @@
        			"name": "Valencia VS UCAM Murcia",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/1uv0mmemxz9m/Liga_Endesa_Valencia_VS_UCAM_050425.mkv",
-	        	"info": "[05-05-2025]",
+	        	"info": "[05-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2290,7 +2290,7 @@
        			"name": "Lleida VS Breogan",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/ih28jufv0cmo/Liga_Endesa_Lleida_VS_Breogan_050425.mkv",
-	        	"info": "[05-05-2025]",
+	        	"info": "[05-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2301,7 +2301,7 @@
        			"name": "Andorra VS Juventut",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/t7bk060s3djn/Liga_Endesa_Andorra_VS_Juventut_050425.mkv",
-	        	"info": "[05-05-2025]",
+	        	"info": "[05-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2312,7 +2312,7 @@
        			"name": "Bilbao VS Gran Canaria",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/efn6nzaqd6kq/Liga_Endesa_Bilbao_VS_Gran_Canaria_050425.mkv",
-	        	"info": "[05-05-2025]",
+	        	"info": "[05-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2323,7 +2323,7 @@
        			"name": "FC Barcelona VS Real Madrid",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/cv5p70x18pgy/Liga_Endesa_Barsa_VS_Real_Madrid_060425.mkv",
-	        	"info": "[06-05-2025]",
+	        	"info": "[06-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2334,7 +2334,7 @@
        			"name": "Baskonia VS Girona",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/q8eh464es1q0/Liga_Endesa_Baskonia_VS_Girona_060425.mkv",
-	        	"info": "[06-05-2025]",
+	        	"info": "[06-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2345,7 +2345,7 @@
        			"name": "Manresa VS Zaragoza",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/s2k9qax0tgts/Liga_Endesa_Manresa_VS_Zaragoza_060425.mkv",
-	        	"info": "[06-05-2025]",
+	        	"info": "[06-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2356,7 +2356,7 @@
        			"name": "Tenerife VS Granada",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/2o6ju963wok0/Liga_Endesa_Tenerife_VS_Granada_060425.mkv",
-	        	"info": "[06-05-2025]",
+	        	"info": "[06-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2367,7 +2367,7 @@
        			"name": "Unicaja VS Leyma",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 	        	"url": "https://filemoon.to/d/u7jyakqjnjxp/Liga_Endesa_Unicaja_VS_Leyma_060425.mkv",
-	        	"info": "[06-05-2025]",
+	        	"info": "[06-04-2025]",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"online": "true",
 			"embed": "",
@@ -2379,16 +2379,34 @@
 
 	{
         "name": "JORNADA 27",
-        "image": "",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"info": "",
+       			"name": "UCAM VS Baskonia",
+	        	"info": "[12-04-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/ycr6ws4retrn/Liga_Endesa_UCAM_VS_Baskonia_120425.mkv",
 			"online": "true",
-	        	"image": "",
-	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Girona VS Breogan",
+	        	"info": "[12-04-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/9obssjbjfk5z/Liga_Endesa_Girona_VS_Breogan_120425.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Andorra VS Bilbao Basket",
+	        	"info": "[12-04-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/7v8fx94w5ne7/Liga_Endesa_Andorra_VS_Bilbao_120425.mkv",
+			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -2404,9 +2422,9 @@
 			{
        			"name": "",
 	        	"info": "",
-			"online": "true",
 	        	"image": "",
 	        	"url": "",
+			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -2422,9 +2440,9 @@
 			{
        			"name": "",
 	        	"info": "",
-			"online": "true",
 	        	"image": "",
 	        	"url": "",
+			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -2440,9 +2458,9 @@
 			{
        			"name": "",
 	        	"info": "",
-			"online": "true",
 	        	"image": "",
 	        	"url": "",
+			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -2458,9 +2476,9 @@
 			{
        			"name": "",
 	        	"info": "",
-			"online": "true",
 	        	"image": "",
 	        	"url": "",
+			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
@@ -2476,9 +2494,9 @@
 			{
        			"name": "",
 	        	"info": "",
-			"online": "true",
 	        	"image": "",
 	        	"url": "",
+			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
