@@ -103,8 +103,13 @@
         "info":"",
         "image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
         "imageScale": "",
-        "stations":
+        "groups":
             [
+		{
+		"name": "TEMPORADA 1",
+		"image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+		"stations":
+		[
                 {
                 "name": "01.Cuando Estés Perdido En La Oscuridad",
                 "info":"[Castellano]",
@@ -187,7 +192,26 @@
                 "online":"true"
                 }
 		]
-        }
+        	},
+
+		{
+		"name": "TEMPORADA 2",
+		"image": "https://i.postimg.cc/GpzZLFny/the-last-of-us.webp",
+		"stations":
+		[
+			{
+			"name": "CAPITULO 1",
+			"info":"[Castellano]",
+			"image": "https://i.postimg.cc/mgdmn1JP/IMG-20250414-223032-764.jpg",
+			"url":"https://filemoon.to/d/35in2ag5ojwy",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
+ 			}
+		]
+		}
+	]
+	}
 
     ]
 }
