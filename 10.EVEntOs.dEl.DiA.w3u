@@ -9,6 +9,70 @@
   [
 
     {
+      "name": "TENIS",
+      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "stations": 
+      [
+        {
+          "name": "",
+          "info": "[DAZNF1]",
+          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
+          "url": "https://wikihznew.newkso.ru/wikihz/wikiten5/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "",
+          "info": "[DAZNF1]",
+          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "",
+          "info": "[DAZNF1]",
+          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
+          "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "",
+          "info": "[DAZNF1]",
+          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
+          "url": "https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=720",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "",
+          "info": "[acestream]",
+          "online":"true",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[acestream]",
+          "online":"true",
+          "image": "",
+          "url": ""
+        },
+
+    {
       "name": "FORMULA 1",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
       "stations": 
