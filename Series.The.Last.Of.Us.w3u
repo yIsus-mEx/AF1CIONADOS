@@ -234,6 +234,24 @@
 		"userAgent": "PlusMediaPlayer/0.0.9",
 		"isHost":"true",
 		"online":"true"
+ 		},
+		{
+		"name": "CAPITULO 5",
+		"info":"[Castellano]",
+		"image": "",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+ 		},
+		{
+		"name": "CAPITULO 6",
+		"info":"[Castellano]",
+		"image": "",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
  		}
 		]
 		}
