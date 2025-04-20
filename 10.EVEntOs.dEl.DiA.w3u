@@ -9,58 +9,6 @@
   [
 
     {
-      "name": "TENIS",
-      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": 
-      [
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
-          "url": "https://wikihznew.newkso.ru/wikihz/wikiten5/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "true",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
-          "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "true",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
-          "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "true",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "https://e00-marca.uecdn.es/assets/amp/AMP-DIRECTO-tenis-es.png",
-          "url": "https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=720",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "true",
-          "online":"true",
-          "isHost":""
-        }
-    ]
-    },
-
-    {
       "name": "FORMULA 1",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
       "stations": 
@@ -97,8 +45,7 @@
           "name": "",
           "info": "[DAZNF1]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/13/67fbff518114a.webp",
-          "url": "FÓRMULA 1: Gran Premio de Arabia Saudí (Arabia Saudí) - Carrera, Formula 1 deportes en vivo en 04/20/2025 - MadPlay77 Motor deportes en vivo gratis 
-https://maybma4.thanfarmeraa3fhy.cfd/es/motorsport/formula-1-1909604/formula-1-saudi-arabian-grand-prix-saudi-arabia---race.html",
+          "url": "https://maybma4.thanfarmeraa3fhy.cfd/es/motorsport/formula-1-1909604/formula-1-saudi-arabian-grand-prix-saudi-arabia---race.html",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "embed": "true",
