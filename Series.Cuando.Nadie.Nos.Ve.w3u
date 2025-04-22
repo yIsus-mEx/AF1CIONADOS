@@ -58,6 +58,24 @@
           		"userAgent": "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://richardsignfish.com/4ok7b5z7vrwd",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"[Español]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://richardsignfish.com/xj1cj72utzne",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
 				}
 			]
 		}
