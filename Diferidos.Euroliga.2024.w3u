@@ -3149,26 +3149,89 @@
 		},
 
  		{
-        	"name": "PLAY IN ROUND 1",
+        	"name": "PLAY IN",
         	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
         	"info": "",
         	"stations":
             	[
 			{
 			"name": "Bayern Munich VS Estrella Roja",
-			"info": "[15/04/25]",
+			"info": "[15/04/25][ROUND 1]",
 			"online": "true",
 			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
-			"url": "",
+			"url": "https://filemoon.to/d/c1yax4k7khvg/Euroliga_Play-in_Bayern_VS_Estrella_Roja_150425.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"isHost": "true"
         		},
 	       		{
  	       		"name": "Real Madrid VS Paris Saint Germain",
-	        	"info": "[15/04/25]",
+	        	"info": "[15/04/25][ROUND 1]",
 			"online": "true",
 	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
-	        	"url": "",
+	        	"url": "https://filemoon.to/d/w04o62c2bsc3/Euroliga_Play-in_Real_Madrid_VS_Paris_150425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Bayern Munich",
+	        	"info": "[18/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/mdcs66flvukv/Euroliga_Play-in_Real_Madrid_VS_Bayern_180425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
+		},
+
+ 		{
+        	"name": "PLAY OFF",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+			{
+			"name": "Fenerbache VS Paris",
+			"info": "[22/04/25][ROUND 1]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/9qg8e3l0va3b/Euroliga_Play-offs_1_Partido_Fenerbahce_VS_Paris_220425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Efes",
+	        	"info": "[22/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/uqv9if1a9ckh/Euroliga_Play-offs_1_Partido_Phanathinaikos_VS_Efes_220425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS FC Barcelona",
+	         	"info": "[23/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/xeoytwdv0xou/Euroliga_Play-offs_1_Partido_Monaco_VS_Barsa_230425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Real Madrid",
+	         	"info": "[23/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/bgh5nl18q5o1/Euroliga_Play-offs_1_Partido_Olympiakos_VS_Real_Madrid_230425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Efes",
+	         	"info": "[24/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/x2fheyov9e8b/Euroliga_Play-offs_2_Partido_Phanathinaikos_VS_Efes_240425.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
