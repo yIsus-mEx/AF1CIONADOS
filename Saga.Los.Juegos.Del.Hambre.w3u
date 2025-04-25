@@ -1,0 +1,49 @@
+
+{
+"name": "Los Juegos Del Hambre",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.Los.Juegos.Del.Hambre.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Los Juegos del Hambre",
+		"info": "[Español][2012]",
+		"image": "https://es.web.img2.acsta.net/medias/nmedia/18/86/46/05/19945375.jpg",
+        "url": "https://filemoon.to/d/ee3gqw8is6qa",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+		},
+		{
+		"name": "Los Juegos del Hambre: En Llamas",
+		"info": "[Español][2013]",
+		"image": "https://www.aceprensa.com/wp-content/uploads/2013/11/101299-0.jpg",
+        "url": "https://filemoon.to/d/j5j8nctfss5v",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+		},
+		{
+		"name": "Los Juegos del Hambre: Sinsajo Parte 1",
+        "info": "[Español][2014]",
+		"image": "https://es.web.img3.acsta.net/pictures/14/09/12/10/51/011753.jpg",
+        "url": "https://filemoon.to/d/k2qls7cn8gsc",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+       	},
+		{
+		"name": "Los Juegos del Hambre: Sinsajo Parte 2",
+        "info": "[Español][2015]",
+		"image": "https://es.web.img2.acsta.net/pictures/15/10/05/09/45/058912.jpg",
+        "url": "https://filemoon.to/d/77lof2a0aqko",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+       	}
+	]
+}
+
