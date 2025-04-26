@@ -5,116 +5,89 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
-"groups":
-    [
+"stations":
+   [
+        {
+        "name": "R09 Food City 500",
+        "info":"[DAZN]",
+        "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
+        "url":"https://pixeldrain.com/u/gYcStdi6",
+    	"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R08 Goodyear 400",
+        "info":"[DAZN]",
+        "image": "https://i.postimg.cc/QNBJf7Kj/GOODYEAR-400.png",
+        "url":"https://pixeldrain.com/u/yEjVnShK",
+    	"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R07 Cook Out 400",
+        "info":"[DAZN]",
+        "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
+        "url":"https://pixeldrain.com/u/NoquJS4D",
+    	"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R06 Straight Talk Wireless 400",
+        "info":"[DAZN]",
+        "image": "https://i.postimg.cc/FK57FnWJ/Straight-Talk-400.png",
+        "url":"https://pixeldrain.com/u/vfnErfSF",
+    	"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
         {
         "name": "R05 Pennzoil 400",
-        "info":"",
+        "info":"[DAZN]",
         "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Pennzoil 400",
-                "info":"[DAZN]",
-                "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
-                "url":"https://pixeldrain.com/u/8cb6Nm3Z",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+        "url":"https://pixeldrain.com/u/8cb6Nm3Z",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
         },
         {
         "name": "R04 Shriners Children’s 500",
-        "info":"",
+        "info":"[DAZN]",
         "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Shriners Children’s 500",
-                "info":"[DAZN]",
-                "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
-                "url":"https://pixeldrain.com/u/SQt8DHi3",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+        "url":"https://pixeldrain.com/u/SQt8DHi3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
         },
         {
         "name": "R03 EchoPark Automotive",
-        "info":"",
+        "info":"[Español]",
         "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "EchoPark Automotive",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
-                "url":"https://pixeldrain.com/u/8viJrj9o",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "EchoPark Automotive",
-                "info":"[Ingles]",
-                "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
-                "url":"https://ok.ru/video/9470183803539",
-				"userAgent" : "",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+        "url":"https://pixeldrain.com/u/8viJrj9o",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
         },
         {
         "name": "R02 Ambetter Health 400",
-        "info":"",
+        "info":"[DAZN]",
         "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Ambetter Health 400",
-                "info":"[DAZN]",
-                "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
-                "url":"https://filemoon.to/d/edt3rc8yefx3",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Ambetter Health 400",
-                "info":"[Ingles]",
-                "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
-                "url":"https://luluvdo.com/e/x168sbue0rrk",
-				"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+        "url":"https://filemoon.to/d/edt3rc8yefx3",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
         },
         {
         "name": "R01 Daytona 500",
-        "info":"",
+        "info":"[DAZN]",
+        "online":"true",
         "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
-        "imageScale": "",
-        "stations":
-        	[
-            	{
-                "name": "Daytona 500",
-                "info":"[DAZN]",
-                "online":"true",
-                "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
-                "url":"https://listeamed.net/v/ZMVoEroaGYqO9Pa",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
+        "url":"https://listeamed.net/v/ZMVoEroaGYqO9Pa",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
         }
 	]
 }
