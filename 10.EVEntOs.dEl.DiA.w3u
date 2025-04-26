@@ -324,49 +324,14 @@
 
     {
       "name": "RALLY",
-      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "image": "https://rallyislascanarias.com/es/wp-content/uploads/2024/12/LOGO1.webp",
       "stations": 
       [
         {
           "name": "",
-          "info": "[acestream]",
-          "online":"true",
-          "image": "",
-          "url": ""
-        },
-        {
-          "name": "",
-          "info": "[acestream]",
-          "online":"true",
-          "image": "",
-          "url": ""
-        },
-        {
-          "name": "",
-          "info": "[acestream]",
-          "online":"true",
-          "image": "",
-          "url": ""
-        },
-        {
-          "name": "",
-          "info": "[acestream]",
-          "online":"true",
-          "image": "",
-          "url": ""
-        },
-        {
-          "name": "",
-          "info": "[acestream]",
-          "online":"true",
-          "image": "",
-          "url": ""
-        },
-        {
-          "name": "",
           "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
+          "image": "https://rallyislascanarias.com/es/wp-content/uploads/2024/12/LOGO1.webp",
+          "url": "https://vkvsd78.okcdn.ru/hls/8036539304608.m3u8/sig/ivvQevmLK5M/srcIp/37.14.45.69/urls/45.136.22.21/expires/1746130982689/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9299263499168/id/8036539304608/8036539304608_fullhd/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "embed": "true",
@@ -376,8 +341,8 @@
         {
           "name": "",
           "info": "[DanzF1]",
-          "image": "",
-          "url": "",
+          "image": "https://rallyislascanarias.com/es/wp-content/uploads/2024/12/LOGO1.webp",
+          "url": "https://vkvsd78.okcdn.ru/hls/8036539304608.m3u8/sig/RyfIyCvS78s/srcIp/37.14.45.69/urls/185.226.53.66/expires/1746130914683/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/9299263499168/id/8036539304608/8036539304608_fullhd/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://webxzplay.cfd/",
           "online":"true",
@@ -386,8 +351,8 @@
         {
           "name": "",
           "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
+          "image": "https://rallyislascanarias.com/es/wp-content/uploads/2024/12/LOGO1.webp",
+          "url": "https://vkvsd78.okcdn.ru/hls/8036539304608.m3u8/sig/ivvQevmLK5M/srcIp/37.14.45.69/urls/45.136.22.21/expires/1746130982689/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9299263499168/id/8036539304608/8036539304608_high/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://cookiewebplay.xyz/",
           "online":"true",
@@ -396,8 +361,8 @@
         {
           "name": "",
           "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
+          "image": "https://rallyislascanarias.com/es/wp-content/uploads/2024/12/LOGO1.webp",
+          "url": "https://vkvsd53.okcdn.ru/hls/8036539304608.m3u8/sig/B1a_m3fHcGg/srcIp/37.14.45.69/urls/45.136.22.21/expires/1746131177132/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/9299263499168/id/8036539304608/8036539304608_high/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://cookiewebplay.xyz/",
           "online":"true",
