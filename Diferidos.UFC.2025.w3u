@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Garry vs Prates",
+         "image": "https://i.postimg.cc/3wcVrs5s/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Garry vs Prates",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3wcVrs5s/UFC.png",
+                "url":"https://pixeldrain.com/u/tKq2gZfQ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 314: Volkanovski vs Lopes",
          "image": "https://i.postimg.cc/cJNQRN6K/Rectangular-Final.png",
          "imageScale": "",
