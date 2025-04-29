@@ -1,0 +1,740 @@
+{
+"name": "Heroes",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Heroes.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "",
+"info": "",
+"groups": 
+    [
+      {
+        "name": "Temporada 01",
+        "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+        [
+          {
+            "name": "Genesis",
+            "info": "[Capitulo 01][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/atf70zhvdr8y",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "No Mires Atras",
+            "info": "[Capitulo 02][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/66fpo9yt5w2f",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Un Gran Salto",
+            "info": "[Capitulo 03][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/n44n5d3pdenb",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Colision",
+            "info": "[Capitulo 04][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/rc1fkn8ie01o",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Hiros",
+            "info": "[Capitulo 05][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/x3vjkqorw4fd",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Nuestro Lado Bueno",
+            "info": "[Capitulo 06][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/3vp2354nd5vf",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Nada Que Ocultar",
+            "info": "[Capitulo 07][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/lhll4lkkrrqk",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Siete Minutos Para La Media Noche",
+            "info": "[Capitulo 08][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/f207fvk0c248",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Vuelta a Casa",
+            "info": "[Capitulo 09][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/ecreww3qhje4",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Seis Meses Antes",
+            "info": "[Capitulo 10][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/8avl6p8oakwq",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La Bomba Humana",
+            "info": "[Capitulo 11][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/53j2yapah5j4",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Un Don Divino",
+            "info": "[Capitulo 12][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/mcvxy9cqt6ia",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El Arreglo",
+            "info": "[Capitulo 13][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/ywc2ufc3q0mx",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Distracciones",
+            "info": "[Capitulo 14][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/2y3thetlair0",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Huye",
+            "info": "[Capitulo 15][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/hxsk8zoolfgc",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Inesperado",
+            "info": "[Capitulo 16][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/ukxdwaib73s9",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El Empleado Fiel",
+            "info": "[Capitulo 17][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/6japw5b3t2z8",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Parasito",
+            "info": "[Capitulo 18][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/bfh2aob9a92i",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "7 %",
+            "info": "[Capitulo 19][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/zwb25n2uu72w",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Cinco Años Despues",
+            "info": "[Capitulo 20][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/7cda3y1k3vpb",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Lo Mas Dificil",
+            "info": "[Capitulo 21][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/o9irejp56pq7",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Victoria Aplastante",
+            "info": "[Capitulo 22][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/4yymgvzupz81",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Como Detener a un Hombre Bomba",
+            "info": "[Capitulo 23][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/82d9j64mbnkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          }
+        ]
+      },
+      {
+        "name": "Temporada 02",
+        "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+        [
+          {
+            "name": "Cuatro meses más tarde",
+            "info": "[Capitulo 01][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/3cogxh2kwy98",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Lagartos",
+            "info": "[Capitulo 02][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/rals44sttnvq",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Familia",
+            "info": "[Capitulo 03][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/85er210xl38z",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La bondad de los desconocidos",
+            "info": "[Capitulo 04][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/hqbqiz2swgq6",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Huir o luchar",
+            "info": "[Capitulo 05][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/7tvj6vfqpo2w",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Mantenerse a raya",
+            "info": "[Capitulo 06][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/ze0t90ps6nkl",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Sin Tiempo",
+            "info": "[Capitulo 07][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/jmhwc7dbb6sl",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Cuatro meses antes",
+            "info": "[Capitulo 08][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/d3yfcfhhlcvp",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Lecciones de nuestros padres",
+            "info": "[Capitulo 09][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/eusbq0kw3u8n",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La verdad y sus consecuencias",
+            "info": "[Capitulo 10][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/wksw0n09wnlt",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Sin poderes",
+            "info": "[Capitulo 11][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/4dNK40m6/season-02.jpg",
+            "url": "https://filemoon.to/d/ell8b3dxshfk",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          }
+        ]
+      },
+      {
+        "name": "Temporada 03",
+        "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+        [
+          {
+            "name": "El segundo advenimiento",
+            "info": "[Capitulo 01][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/ikri2ysnmi69",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El efecto mariposa",
+            "info": "[Capitulo 02][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/tfo9vodfnnkf",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Uno de los nuestros, uno de los suyos",
+            "info": "[Capitulo 03][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/jty2lxfeanld",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Me he convertido en la muerte",
+            "info": "[Capitulo 04][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/5jldeyc4tbt0",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Ángeles y monstruos",
+            "info": "[Capitulo 05][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/bpxw35hfqtst",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La luz que se muere",
+            "info": "[Capitulo 06][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/ihj2cui8eval",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Eris Quod Sum",
+            "info": "[Capitulo 07][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/xxi8386beben",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Villanos",
+            "info": "[Capitulo 08][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/g67nwtnwqfyt",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Se aproxima",
+            "info": "[Capitulo 09][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/akrq8tpyyb83",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El Eclipse (Parte 1)",
+            "info": "[Capitulo 10][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/u0n3rxijlyo2",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El Eclipse (Parte 2)",
+            "info": "[Capitulo 11][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/zBKJrSkC/season-03.jpg",
+            "url": "https://filemoon.to/d/yefya8eg0hl0",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Nuestro padre",
+            "info": "[Capitulo 12][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/zv678oqjt10b",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Dual",
+            "info": "[Capitulo 13][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/pf6g90cpyx3w",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Peligro inminente",
+            "info": "[Capitulo 14][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/1vksj5xkoinp",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Confianza y sangre",
+            "info": "[Capitulo 15][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/v4z6g95agn4h",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El edificio 26",
+            "info": "[Capitulo 16][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/1a8zs4h56xv8",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La guerra fría",
+            "info": "[Capitulo 17][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/pjlczzibj48t",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Destapando la verdad",
+            "info": "[Capitulo 18][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/2slp9f6s9t49",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La familia Gray",
+            "info": "[Capitulo 19][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/uj43xvsj2nn6",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Aliento mortal",
+            "info": "[Capitulo 20][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/3yebvoq7kd6h",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "En manos de Dios",
+            "info": "[Capitulo 21][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/vpb0y72ceeer",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Enfréntate a lo desconocido",
+            "info": "[Capitulo 22][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/6ppu6z39ija0",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "1961",
+            "info": "[Capitulo 23][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/16r9qkcs5qtc/Heroes_S03E23_1961.mkv",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Yo soy Sylar",
+            "info": "[Capitulo 24][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/9dfrr0dqta8g",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Un hilo invisible",
+            "info": "[Capitulo 25][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/uk0gsk02vu83",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          }
+        ]
+      },
+      {
+        "name": "Temporada 04",
+        "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations": 
+        [
+          {
+            "name": "Orientación",
+            "info": "[Capitulo 01][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/d9rb6fee2e53",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Tinta",
+            "info": "[Capitulo 02][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/3d32sqmvzr1b",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Aceptación",
+            "info": "[Capitulo 03][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/iddlyk8ny3jf",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Ceguera histérica",
+            "info": "[Capitulo 04][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/dce8i7xlk13q",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Volver a empezar",
+            "info": "[Capitulo 05][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/aqvlh51ahnbp",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Opuestos compuestos",
+            "info": "[Capitulo 06][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/vio8jbmy8632",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Érase una vez en Texas",
+            "info": "[Capitulo 07][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/nof7qg62umtn",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Luchando contra las sombras",
+            "info": "[Capitulo 08][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/yn1yj6jc3yz1",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El guardián del hermano",
+            "info": "[Capitulo 09][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/lw4gar2udoei",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Acción de Gracias",
+            "info": "[Capitulo 10][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/6mv38ckedylr",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "La quinta fase",
+            "info": "[Capitulo 11][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/PfMjQqV5/season-04.jpg",
+            "url": "https://filemoon.to/d/o381rugu2335",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Sobre esta piedra",
+            "info": "[Capitulo 12][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/bxb2e6by6tij",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Dejad que sangre",
+            "info": "[Capitulo 13][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/860on6ener6g",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Junto a ti",
+            "info": "[Capitulo 14][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/lzp8rl0gvky8",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Aprobado - Suspenso",
+            "info": "[Capitulo 15][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/5e5sipyu74x6",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El arte del engaño",
+            "info": "[Capitulo 16][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/wp9i474mfn4o",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "El muro",
+            "info": "[Capitulo 17][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/tu81yveqxlg9",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          },
+          {
+            "name": "Un mundo feliz",
+            "info": "[Capitulo 18][Español]",
+            "online": "true",
+            "image": "https://i.postimg.cc/xdv4tD4v/season-01.jpg",
+            "url": "https://filemoon.to/d/l0v3npd793ew",
+            "userAgent": "PlusMediaPlayer/0.0.9",
+            "isHost": "true"
+          }
+        ]
+      }
+    ]
+}
