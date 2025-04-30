@@ -14,41 +14,41 @@
       "stations": 
       [
         {
-	"name": "FC Barcelona VS Inter Milan",
-	"info":"[acestream]",
-	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-	"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-	},
+	        "name": "FC Barcelona VS Inter Milan",
+	        "info":"[acestream]",
+	        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+	        "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+	      },
         {
-	"name": "FC Barcelona VS Inter Milan",
-	"info":"[acestream]",
-	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-	"url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
-	},
+	        "name": "FC Barcelona VS Inter Milan",
+	        "info":"[acestream]",
+	        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+	        "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
+	      },
         {
-	"name": "FC Barcelona VS Inter Milan",
-	"info":"[acestream]",
-	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-	"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
-	},
+	        "name": "FC Barcelona VS Inter Milan",
+	        "info":"[acestream]",
+	        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+	        "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+	      },
         {
           "name": "FC Barcelona VS Inter Milan",
           "info": "[CAMPEONES]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
+          "referer" : "https://webxzplay.cfd",
           "embed": "",
           "online":"true",
           "isHost":""
         },
         {
           "name": "FC Barcelona VS Inter Milan",
-          "info": "[Movistar +]",
+          "info": "[CAMPEONES]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://esx1new.newkso.ru/esx1/primacampeones/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
+          "referer" : "https://webxzplay.cfd",
           "embed": "",
           "online":"true",
           "isHost":""
@@ -57,17 +57,28 @@
           "name": "FC Barcelona VS Inter Milan",
           "info": "[Fox 1 🇦🇷]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://streamtp4.com/global1.php?stream=fox1ar",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
+          "embed": "",
           "online":"true",
           "isHost":"true"
         },
         {
           "name": "FC Barcelona VS Inter Milan",
-          "info": "[MAX]",
+          "info": "[Fox 1 🇦🇷]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://windnew.newkso.ru/wind/premium787/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://webxzplay.cfd",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "FC Barcelona VS Inter Milan",
+          "info": "[ESPN]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+          "url": "https://streamtp4.com/global1.php?stream=espn",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "online":"true",
@@ -77,19 +88,9 @@
           "name": "FC Barcelona VS Inter Milan",
           "info": "[ESPN]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[ESPN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
+          "referer" : "https://webxzplay.cfd",
           "embed": "",
           "online":"true",
           "isHost":""
@@ -98,7 +99,7 @@
           "name": "FC Barcelona VS Inter Milan",
           "info": "[TUDN]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://streamtp4.com/global1.php?stream=tudn_usa",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "online":"true",
@@ -108,19 +109,9 @@
           "name": "FC Barcelona VS Inter Milan",
           "info": "[TUDN]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[TUDN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
+          "referer" : "https://webxzplay.cfd",
           "embed": "",
           "online":"true",
           "isHost":""
@@ -129,18 +120,28 @@
           "name": "FC Barcelona VS Inter Milan",
           "info": "[Univision]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://streamtp4.com/global1.php?stream=univision_usa",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
-          "embed": "",
           "online":"true",
           "isHost":"true"
         },
         {
           "name": "FC Barcelona VS Inter Milan",
+          "info": "[Univision]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+          "url": "https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://webxzplay.cfd",
+          "embed": "",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "FC Barcelona VS Inter Milan",
           "info": "[Paramount]",
           "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "",
+          "url": "https://streamtp4.com/global1.php?stream=paramount1",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "online":"true",
