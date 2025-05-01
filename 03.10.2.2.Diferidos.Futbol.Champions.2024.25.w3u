@@ -783,6 +783,24 @@
 	"stations":
 	[
 		{
+		"name": "Arsenal VS Paris Saint Germain",
+		"info":"[29.04.2025]",
+		"image": "",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "FC Barcelona VS Inter Milan",
+		"info":"[30.04.2025]",
+		"image": "https://i.postimg.cc/D0VBPVMM/2024-25-Logo-Champions-League.webp",
+		"url":"https://filemoon.to/d/9tdbkchrn4fv/Liga_de_Campeones_Barsa_VS_Inter_290425.mkv",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
 		"name": "",
 		"info":"[]",
 		"image": "",
