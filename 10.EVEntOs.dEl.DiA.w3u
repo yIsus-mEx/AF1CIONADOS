@@ -13,6 +13,30 @@
       "stations": 
       [
         {
+          "name": "F1: GP Miami 2025",
+          "info": "[AceStream]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
+        },
+        {
+          "name": "F1: GP Miami 2025",
+          "info": "[AceStream]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
+        },
+        {
+          "name": "F1: GP Miami 2025",
+          "info": "[AceStream]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+        },
+        {
+          "name": "F1: GP Miami 2025",
+          "info": "[AceStream]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
+        },
+        {
           "name": "GP Miami",
           "info": "[DAZNF1]",
           "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
@@ -123,11 +147,11 @@
           "name": "GP Miami",
           "info": "[FOX PREMIUM]",
           "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
-          "url": "",
+          "url": "https://streamtp4.com/global1.php?stream=foxsportspremium",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "online":"true",
-          "isHost":""
+          "isHost":"true"
         },
       ]
     },
