@@ -8,6 +8,24 @@
   "groups": 
   [
      {
+      "name": "BOX",
+      "image": "https://i.postimg.cc/rw43XFLB/box.png",
+      "stations": 
+      [
+        {
+          "name": "Ryan García Vs Rolly Romero",
+          "info": "[DAZN]",
+          "image": "https://i.postimg.cc/rw43XFLB/box.png",
+          "url": "https://wikihznew.newkso.ru/wikihz/wikibox/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://caq21harderv991gpluralplay.xyz/",
+          "embed": "",
+          "online":"true",
+          "isHost":""
+        }
+      ]
+     },
+     {
       "name": "F1: GP Miami 2025",
       "image": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/MiamiGP/IntroToMiami/F1_Miami_Competition_Header-01.jpg",
       "stations": 
@@ -312,8 +330,8 @@
       ]
     },
     {
-      "name": "OTROS EVENTOS",
-      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "name": "BOX",
+      "image": "https://i.postimg.cc/rw43XFLB/box.png",
       "stations": 
       [
         {
