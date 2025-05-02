@@ -7,56 +7,57 @@
   "info": "",
   "groups": 
   [
-
-    {
-      "name": "FC Barcelona VS Inter Milan",
-      "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+     {
+      "name": "F1: GP Miami 2025",
+      "image": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/MiamiGP/IntroToMiami/F1_Miami_Competition_Header-01.jpg",
       "stations": 
       [
         {
-	        "name": "FC Barcelona VS Inter Milan",
-	        "info":"[acestream]",
-	        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-	        "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-	      },
-        {
-	        "name": "FC Barcelona VS Inter Milan",
-	        "info":"[acestream]",
-	        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-	        "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
-	      },
-        {
-	        "name": "FC Barcelona VS Inter Milan",
-	        "info":"[acestream]",
-	        "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-	        "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
-	      },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[CAMPEONES]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
+          "name": "GP Miami",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://tucanaldeportivo.org/daznf1.php",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://webxzplay.cfd",
-          "embed": "",
+          "referer" : "",
+          "embed": "true",
           "online":"true",
           "isHost":""
         },
         {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[CAMPEONES]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://esx1new.newkso.ru/esx1/primacampeones/mono.m3u8",
+          "name": "GP Miami",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://deporte-libre.fans/en-vivo-online/dazn-formula-1-es/embed.php",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://webxzplay.cfd",
-          "embed": "",
+          "referer" : "",
+          "embed": "true",
           "online":"true",
           "isHost":""
         },
         {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[Fox 1 🇦🇷]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
+          "name": "GP Miami",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://esx1new.newkso.ru/esx1/primadaznf1/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://webxzplay.cfd",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "GP Miami",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://webxzplay.cfd",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "GP Miami",
+          "info": "[FOX 1 ARG]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
           "url": "https://streamtp4.com/global1.php?stream=fox1ar",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
@@ -64,31 +65,44 @@
           "online":"true",
           "isHost":"true"
         },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[Fox 1 🇦🇷]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://windnew.newkso.ru/wind/premium787/mono.m3u8",
+          {
+          "name": "GP Miami",
+          "info": "[FOX Sport 1]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://nfsnew.newkso.ru/nfs/premium929/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://webxzplay.cfd",
+          "embed": "",
           "online":"true",
           "isHost":""
-        },
+        },   
         {
-          "name": "FC Barcelona VS Inter Milan",
+          "name": "GP Miami",
           "info": "[ESPN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://streamtp4.com/global1.php?stream=espn",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=espndeportes",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
+          "embed": "",
           "online":"true",
           "isHost":"true"
         },
         {
-          "name": "FC Barcelona VS Inter Milan",
+          "name": "GP Miami",
           "info": "[ESPN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=disney18",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "GP Miami",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://webxzplay.cfd",
           "embed": "",
@@ -96,61 +110,28 @@
           "isHost":""
         },
         {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[TUDN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://streamtp4.com/global1.php?stream=tudn_usa",
+          "name": "GP Miami",
+          "info": "[FOX PREMIUM]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=foxsportspremium",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
           "online":"true",
           "isHost":"true"
         },
         {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[TUDN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
+          "name": "GP Miami",
+          "info": "[FOX PREMIUM]",
+          "image": "https://i.postimg.cc/YqGDq127/miami-2025.jpg",
+          "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://webxzplay.cfd",
-          "embed": "",
+          "referer" : "",
           "online":"true",
           "isHost":""
         },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[Univision]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://streamtp4.com/global1.php?stream=univision_usa",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[Univision]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://webxzplay.cfd",
-          "embed": "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "FC Barcelona VS Inter Milan",
-          "info": "[Paramount]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/04/29/6810ee65b2f63.webp",
-          "url": "https://streamtp4.com/global1.php?stream=paramount1",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":"true"
-        }
       ]
     },
-
-    {
+     {
       "name": "MOTO GP",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
       "stations": 
@@ -297,163 +278,6 @@
           "name": "",
           "info": "[]",
           "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        }
-      ]
-    },
-
-    {
-      "name": "FORMULA 1",
-      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": 
-      [
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "true",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[FOX PREMIUM]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[FOX PREMIUM]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "",
-          "info": "[FOX 1 ARG]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[FOX 1 ARG]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },        
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "online":"true",
-          "isHost":"true"
-        },
-        {
-          "name": "",
-          "info": "[]",
-          "image": "",
           "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
