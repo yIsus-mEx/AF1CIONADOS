@@ -16,9 +16,31 @@
           "name": "Ryan García Vs Rolly Romero",
           "info": "[DAZN]",
           "image": "https://i.postimg.cc/rw43XFLB/box.png",
-          "url": "https://d5hbq5u35edv5.cloudfront.net/boxstre1",
+          "url": "https://wikihznew.newkso.ru/wikihz/wikibox/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://caq21harderv991gpluralplay.xyz/",
+          "embed": "",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "Ryan García Vs Rolly Romero",
+          "info": "[DAZN]",
+          "image": "https://i.postimg.cc/rw43XFLB/box.png",
+          "url": "https://ovo-gola.com/boxing/garcia-vs-romero/",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "https://goalstreamz.com/",
+          "embed": "true",
+          "online":"true",
+          "isHost":""
+        },
+        {
+          "name": "Ryan García Vs Rolly Romero",
+          "info": "[DAZN]",
+          "image": "https://i.postimg.cc/rw43XFLB/box.png",
+          "url": "https://m2.merichunidya.com:999/hls/mevent1.m3u8?md5=55MtF1hHblLkRDqpt804Bg&expires=1746235990",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://processbigger.com/",
           "embed": "",
           "online":"true",
           "isHost":"true"
@@ -66,17 +88,6 @@
           "embed": "",
           "online":"true",
           "isHost":"true"
-        },
-        {
-          "name": "Ryan García Vs Rolly Romero",
-          "info": "[DAZN]",
-          "image": "https://i.postimg.cc/rw43XFLB/box.png",
-          "url": "https://wikihznew.newkso.ru/wikihz/wikibox/mono.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://caq21harderv991gpluralplay.xyz/",
-          "embed": "",
-          "online":"true",
-          "isHost":""
         }
       ]
      },
