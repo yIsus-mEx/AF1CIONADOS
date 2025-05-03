@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Miami [02-03.May25]",
+      "info": "",
+      "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "https://filemoon.to/d/jwxhoyjzwb5k",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "https://filemoon.to/d/mrwce6fq0bo2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "https://filemoon.to/d/7n1ablyhpau8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "https://filemoon.to/d/gkzj5nb4ghar",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Jeddah [18-20.Abr25]",
       "info": "",
       "image": "https://i.postimg.cc/ryKPbLPJ/Jeddah-2025.png",
