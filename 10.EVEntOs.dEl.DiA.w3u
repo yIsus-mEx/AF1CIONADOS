@@ -9,6 +9,11 @@
   [
 
     {
+    "name": "Futbol",
+    "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+    "groups":
+    [
+    {
       "name": "Real Madrid vs Real Club Celta de Vigo",
       "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/02/73746103052651.webp",
       "stations": 
@@ -313,6 +318,8 @@
           "isHost":"true"
         }
       ]
+    }
+    ]
     },
 
      {
