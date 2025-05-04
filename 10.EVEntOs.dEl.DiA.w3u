@@ -8,86 +8,104 @@
   "groups": 
   [
      {
-      "name": "Real Valladolid VS FC Barcelona",
-      "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
+      "name": "UFC: Sandhagen vs Figueiredo",
+      "image": "https://espnpressroom.com/us/files/2025/05/UFC_FN_20250503_DesMoines_KA_1920x1080.jpg",
       "stations": 
       [
         {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
-          "url": "https://www.sports803.online/2024/09/sky-sport-laliga.html",
+          "name": "UFC: Sandhagen vs Figueiredo",
+          "info": "[ESPN]",
+          "image": "https://espnpressroom.com/us/files/2025/05/UFC_FN_20250503_DesMoines_KA_1920x1080.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=disney8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "UFC: Sandhagen vs Figueiredo",
+          "info": "[ESPN]",
+          "image": "https://espnpressroom.com/us/files/2025/05/UFC_FN_20250503_DesMoines_KA_1920x1080.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=espndeportes",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "UFC: Sandhagen vs Figueiredo",
+          "info": "[ESPN]",
+          "image": "https://espnpressroom.com/us/files/2025/05/UFC_FN_20250503_DesMoines_KA_1920x1080.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=espnplus1",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        },
+        {
+          "name": "UFC: Sandhagen vs Figueiredo",
+          "info": "[DAZN]",
+          "image": "https://espnpressroom.com/us/files/2025/05/UFC_FN_20250503_DesMoines_KA_1920x1080.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=espnplus2",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "online":"true",
+          "isHost":"true"
+        }
+      ]
+     },
+     {
+      "name": "Boxeo: Canelo Álvarez vs William Scull",
+      "image": "https://espnpressroom.com/us/files/2025/05/UFC_FN_20250503_DesMoines_KA_1920x1080.jpg",
+      "stations": 
+      [
+        {
+          "name": "Boxeo: Canelo Álvarez vs William Scull",
+          "info": "[DAZN][En Vivo]",
+          "image": "https://images.daznservices.com/di/library/DAZN_News/94/74/canelo-alvarez-vs-william-scull_1cfikjkmcny471j8rn4qc6599x.jpg",
+          "url": "https://nfsnew.newkso.ru/nfs/premium180/mono.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "https://webxzplay.cfd",
           "embed": "",
           "online":"true",
           "isHost":""
         },
         {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
-          "url": "https://tutvlive.xyz/tvtodo/mliga.php",
+          "name": "Boxeo: Canelo Álvarez vs William Scull",
+          "info": "[DAZN][En Vivo]",
+          "image": "https://images.daznservices.com/di/library/DAZN_News/94/74/canelo-alvarez-vs-william-scull_1cfikjkmcny471j8rn4qc6599x.jpg",
+          "url": "https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
+          "referer" : "https://webxzplay.cfd",
           "embed": "",
           "online":"true",
           "isHost":""
         },
         {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
-          "url": "https://wechtata.pro/hls/377qj1h2727.m3u8?st=r9zWdHD_lyoif-VbiwXjxoIcOjv5U2OI7HmV_SVaRqo&e=1745160433",
+          "name": "Boxeo: Canelo Álvarez vs. William Scull",
+          "info": "[Canal 5][Diferido]",
+          "image": "https://images.daznservices.com/di/library/DAZN_News/94/74/canelo-alvarez-vs-william-scull_1cfikjkmcny471j8rn4qc6599x.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=canal5mx",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
+          "referer" : "",
           "embed": "",
           "online":"true",
-          "isHost":""
+          "isHost":"true"
         },
         {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
-          "url": "http://45.68.35.218:4001/play/a01s/index.m3u8",
+          "name": "Boxeo: Canelo Álvarez vs William Scull",
+          "info": "[Canal 7][Diferido]",
+          "image": "https://images.daznservices.com/di/library/DAZN_News/94/74/canelo-alvarez-vs-william-scull_1cfikjkmcny471j8rn4qc6599x.jpg",
+          "url": "https://streamtp4.com/global1.php?stream=azteca7",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
+          "referer" : "",
           "embed": "",
           "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
-          "url": "http://167.114.169.230:8081/app/z2/playlist.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
-          "embed": "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/01/81165235315287.webp",
-          "url": "https://cup.evaulthub.com/match.php?id=29",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
-          "embed": "",
-          "online":"true",
-          "isHost":""
-        },
-        {
-          "name": "Real Valladolid VS FC Barcelona",
-          "info": "[DAZN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "https://processbigger.com/",
-          "embed": "",
-          "online":"true",
-          "isHost":""
+          "isHost":"true"
         }
       ]
      },
