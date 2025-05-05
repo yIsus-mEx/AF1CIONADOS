@@ -7,7 +7,23 @@
 "info": "",
 "groups":
     [
-
+        {
+        "name": "R04 IndyCar Grand Prix Alabama",
+        "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
+        "info": "[04-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
+                "url" :"https://pixeldrain.com/u/m2pk4Wzv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
         {
         "name": "R03 IndyCar Acura Long Beach Grand Prix",
         "image": "https://i.postimg.cc/MHLTh20v/Indycar-Long-Beach-2025.jpg",
