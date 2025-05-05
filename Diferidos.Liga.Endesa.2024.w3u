@@ -2613,15 +2613,60 @@
 
 	{
         "name": "JORNADA 30",
-        "image": "",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"info": "",
-	        	"image": "",
-	        	"url": "",
+       			"name": "Manresa vs Breogan",
+	        	"info": "[03-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/exsbds2cltb5/Liga_Endesa_Manresa_VS_Breogan_030525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Juventut vs Bilbado",
+	        	"info": "[03-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/961wjwb7iepj/Liga_Endesa_Juventut_VS_Bilbao_030525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia vs Zaragoza",
+	        	"info": "[03-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/w2q0ptsqvcwi/Liga_Endesa_Baskonia_VS_Zaragoza_030525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Unicaja vs Andorra",
+	        	"info": "[04-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/wkrqoera4sjf/Liga_Endesa_Unicaja_VS_Andorra_040525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid vs Valencia",
+	        	"info": "[04-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/1rj9krrobdo0/Liga_Endesa_Madrid_VS_Valencia_040525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Lleida vs UCAM",
+	        	"info": "[04-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/ra4nt602ipnv/Liga_Endesa_Lleida_VS_UCAM_040525.mkv",
 			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
