@@ -8,6 +8,33 @@
   "stations": 
   [
     {
+      "name": "BOX BOX: Miami",
+      "info": "[Round 06]",
+      "online": "true",
+      "image": "https://i.postimg.cc/hP6DS5SJ/Miami.png",
+      "url": "https://filemoon.to/d/xea1lx6a340x",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true"      
+    },
+    {
+      "name": "BOX BOX: Jeddah",
+      "info": "[Round 05]",
+      "online": "true",
+      "image": "https://i.postimg.cc/HWSWNLR9/Jeddah.png",
+      "url": "",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true"      
+    },
+    {
+      "name": "BOX BOX: Barein",
+      "info": "[Round 04]",
+      "online": "true",
+      "image": "https://i.postimg.cc/59pjMgYv/barein.png",
+      "url": "https://filemoon.to/d/zrtgbta022hl",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true"      
+    },
+    {
       "name": "BOX BOX: Japon",
       "info": "[Round 03]",
       "online": "true",
