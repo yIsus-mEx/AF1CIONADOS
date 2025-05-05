@@ -2607,6 +2607,24 @@
 			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona vs Unicaja",
+	        	"info": "[27-04-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/63e8s1s0sx9j/Liga_Endesa_Barsa_VS_Unicaja_270425.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bilbao vs UCAM Murcia",
+	        	"info": "[27-04-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/jmdymc3llpbo/Liga_Endesa_Bilbao_Basket_vs_Ucam_Murcia_270425.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
 		]
 	},
