@@ -8,6 +8,78 @@
   "groups": 
   [
     {
+      "name": "R06 & R07 Monaco E-Prix",
+      "image": "https://i.postimg.cc/CLNGXbY6/formula-e-monaco.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "R07 Monaco E-Prix",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/CLNGXbY6/formula-e-monaco.png",
+          "url": "https://filemoon.to/d/6zgn50moqpmk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R07 Monaco E-Prix",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/CLNGXbY6/formula-e-monaco.png",
+          "url": "https://filemoon.to/d/igl0sf4wyll8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R06 Monaco E-Prix",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/CLNGXbY6/formula-e-monaco.png",
+          "url": "https://filemoon.to/d/14nbgycuvjdy",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R06 Monaco E-Prix",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/CLNGXbY6/formula-e-monaco.png",
+          "url": "https://filemoon.to/d/ebqq7s4l2zw9",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "R05 Miami E-Prix",
+      "image": "https://i.postimg.cc/Gh1dBsWK/formula-e-miami.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Jeddah E-Prix Carrera",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/Gh1dBsWK/formula-e-miami.png",
+          "url": "https://filemoon.to/d/3orsichyngwk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Jeddah E-Prix Carrera",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Gh1dBsWK/formula-e-miami.png",
+          "url": "https://filemoon.to/d/4k424ds5ensd",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "R04 Jeddah E-Prix",
       "image": "https://i.postimg.cc/3w8kDL3t/Jeddah.png",
       "imageScale": "",
