@@ -1,68 +1,65 @@
-
 {
-"name": "Rocky",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Saga.Rocky.w3u",
-"image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"stations":
-	[
-
-                {
-                "name": "Rocky (Pelicula)",
-                "info":"(1976)",
-                "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
-                "url": "https://filemoon.sx/d/0cnporojo3qm/Ver_rocky_1_1976_esp_bluray_1080p_mkv.mp4",
-                "embed":"",
-                "isHost":"true",
-                "online":"true"
-                },                
-                {
-                "name": "Rocky II (Pelicula)",
-                "info":"(1979)",
-                "image": "https://pics.filmaffinity.com/rocky_ii-638848007-large.jpg",
-                "url": "https://filemoon.sx/d/rh6j67abr9e8/Ver_rocky_2_1979_esp_1080p_mp4.mp4",
-                "embed":"",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Rocky III (Pelicula)",
-                "info":"(1982)",
-                "image": "https://pics.filmaffinity.com/rocky_iii-182829734-large.jpg",
-                "url": "https://filemoon.sx/d/t5tcw5e0j8pg/Ver_rocky_3_1982_esp_1080p_mp4.mp4",
-                "embed":"",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Rocky IV (Pelicula)",
-                "info":"(1985)",
-                "image": "https://pics.filmaffinity.com/rocky_iv-104851625-large.jpg",
-                "url": "https://filemoon.sx/d/yljv5f2aciuj/Ver_rocky_4_1985_esp_1080p_mp4.mp4",
-                "embed":"",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Rocky V (Pelicula)",
-                "info":"(1990)",
-                "image": "https://pics.filmaffinity.com/rocky_v-872053278-large.jpg",
-                "url": "https://filemoon.sx/d/s8jr3z5vh6ct/Ver_rocky_5_1990_esp_1080p_mp4.mp4",
-                "embed":"",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Rocky Balboa (Pelicula)",
-                "info":"(2006)",
-                "image": "https://pics.filmaffinity.com/rocky_balboa-314141025-large.jpg",
-                "url": "https://filemoon.sx/d/zleecwnmcuox/Ver_rocky_6_balboa_2006_esp_1080p_mp4.mp4",
-                "embed":"",
-                "isHost":"true",
-                "online":"true"
-                }
-
-]
+  "name": "Rocky",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Saga.Rocky.w3u",
+  "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista_AF1CIONADOS",
+  "stations": 
+  [
+    {
+      "name": "Rocky (Pelicula)",
+      "info": "[1976][MultiAudio]",
+      "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
+      "url": "https://filemoon.to/d/cratgvcov6n8",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Rocky II (Pelicula)",
+      "info": "[1979][MultiAudio]",
+      "image": "https://pics.filmaffinity.com/rocky_ii-638848007-large.jpg",
+      "url": "https://filemoon.to/d/rwisj4fixidr",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Rocky III (Pelicula)",
+      "info": "[1982][MultiAudio]",
+      "image": "https://pics.filmaffinity.com/rocky_iii-182829734-large.jpg",
+      "url": "https://filemoon.to/d/jmxvh770iftn",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Rocky IV (Pelicula)",
+      "info": "[1985][MultiAudio]",
+      "image": "https://pics.filmaffinity.com/rocky_iv-104851625-large.jpg",
+      "url": "https://filemoon.to/d/t3kz8e19lrwq",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Rocky V (Pelicula)",
+      "info": "(1990)",
+      "image": "https://pics.filmaffinity.com/rocky_v-872053278-large.jpg",
+      "url": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "Rocky Balboa",
+      "info": "[2006]",
+      "image": "https://pics.filmaffinity.com/rocky_balboa-314141025-large.jpg",
+      "url": "https://filemoon.to/d/ght07245v68y",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    }
+  ]
 }
