@@ -3324,6 +3324,24 @@
 	        	"url": "https://filemoon.to/d/b0zukju1u9c4/Euroliga_Barsa_VS_Monaco_020525.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos vs EFES",
+	         	"info": "[06/05/25][ROUND 5]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/rgwjm8qc0p23/Euroliga_Panathinaikos_VS_Efes_060525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS FC Barcelona",
+	         	"info": "[06/05/25][ROUND 5]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/wyenl834ae2j/Euroliga_Monaco_VS_Barsa_060525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
 		]
 		}
