@@ -13,13 +13,13 @@
     "stations": 
         [
           {
-            "name": "Deportes De HOY",
+            "name": "DeporteS De HOY",
             "info": "[Celular y Pc]",
             "image": "",
             "url": "https://jeinzmacias01.blogspot.com/p/index.html",
             "userAgent": "",
             "referer": "",
-            "embed": "true",
+            "embed": "",
             "online": "true",
             "isHost": ""
           }
