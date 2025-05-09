@@ -5,24 +5,18 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"groups":
+"stations":
 	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://images.justwatch.com/poster/329545770/s718/una-buena-familia-americana.jpg",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[Español]",
- 				"image":"https://images.justwatch.com/poster/329545770/s718/una-buena-familia-americana.jpg",
- 				"url":"https://diananatureforeign.com/neqk5u3jvtko",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
+
+{
+"name": "Episodio 01",
+"info":"[Español]",
+"image":"https://images.justwatch.com/poster/329545770/s718/una-buena-familia-americana.jpg",
+"url":"https://diananatureforeign.com/neqk5u3jvtko",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true"
+},
 				{
 				"name": "Episodio 02",
 				"info":"[Español]",
@@ -76,8 +70,19 @@
           		"userAgent": "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
-				}
-			]
-		}
-	]
+				},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/good_american_family-407075648-large.jpg",
+"url": "https://filemoon.to/d/yxqbcs8wxtsn/Una_buena_familia_americana_S01E08_Sangre_en_sus_manos.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
 }
