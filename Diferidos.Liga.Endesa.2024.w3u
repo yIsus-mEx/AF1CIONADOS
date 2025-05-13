@@ -2787,6 +2787,15 @@
 			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+			{
+       			"name": "UCAM Murcia vs Manresa",
+	        	"info": "[11-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/9rzssntjjtr4/Liga_Endesa_Murcia_VS_Manresa_110525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
 		]
 	},
