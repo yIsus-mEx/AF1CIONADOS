@@ -8,6 +8,32 @@
 "groups":
     [
         {
+        "name": "R05 IndyCar Indy Road Course",
+        "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
+        "info": "[10-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
+                "url" :"https://pixeldrain.com/u/ojfggWDx",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
+                "url" :"https://pixeldrain.com/u/sp2m8L6k",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R04 IndyCar Grand Prix Alabama",
         "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
         "info": "[04-05-2025]",
@@ -19,6 +45,15 @@
                 "online": "true",
                 "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
                 "url" :"https://pixeldrain.com/u/m2pk4Wzv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
+                "url" :"https://pixeldrain.com/u/TkrgtLd3",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
                 }
