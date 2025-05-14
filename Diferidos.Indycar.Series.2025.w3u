@@ -61,15 +61,24 @@
         },
         {
         "name": "R03 IndyCar Acura Long Beach Grand Prix",
-        "image": "https://i.postimg.cc/MHLTh20v/Indycar-Long-Beach-2025.jpg",
+        "image": "https://i.postimg.cc/4NZLRmrM/Long-Beach.png",
         "info": "[13-04-2025]",
         "stations":
             [
                 {
                 "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/4NZLRmrM/Long-Beach.png",
+                "url" :"https://pixeldrain.com/u/zB5qHvbV",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
                 "info":"[Español]",
                 "online": "true",
-                "image": "https://i.postimg.cc/MHLTh20v/Indycar-Long-Beach-2025.jpg",
+                "image": "https://i.postimg.cc/4NZLRmrM/Long-Beach.png",
                 "url" :"https://filemoon.to/d/u66mbltq37s3/Indicar_Long_Beach_130425.mkv",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
