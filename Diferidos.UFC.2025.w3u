@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC 315: Muhammad vs Della Maddalena",
+         "image": "https://i.postimg.cc/L4zHCdjp/UFC-315.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 315: Muhammad vs Della Maddalena",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/L4zHCdjp/UFC-315.png",
+                "url":"https://pixeldrain.com/u/rWbMirGk",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night:Sandhagen vs Figueiredo",
          "image": "https://i.postimg.cc/LXYwYKZZ/UFC.png",
          "imageScale": "",
