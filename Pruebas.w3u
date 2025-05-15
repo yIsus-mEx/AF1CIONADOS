@@ -8,6 +8,13 @@
 "stations":
 	[
 		{
+         "name": "ZOna DepORtivA",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://www.dropbox.com/scl/fi/rz65onwmkin2i7h97cut4/Zona.Deportiva.w3u?rlkey=ia70nvgo4oail1a7eni6rstrz&dl=1",
+         "info":"",
+         "import": false
+        },
+        {
         "name": "Prueba 001",
         "info":"",
         "online":"true",
