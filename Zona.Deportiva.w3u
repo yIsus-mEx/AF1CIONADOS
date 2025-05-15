@@ -8,11 +8,11 @@
 "stations":
 	[
 		{
-        "name": "LaLiga Tv 🇪🇸",
+        "name": "LaLiga TV 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
         "url": "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",                
         "referer" : "https://forcedtoplay.xyz/",
         "online":"true",
         "embed": "",
