@@ -15,12 +15,12 @@
 		"stations":
     		[
         		{
-        		"name": "Bulma y Son Goku",
+        		"name": "Bulma y Son goku",
         		"info":"Capitulo 01",
        		 	"image": "https://i.postimg.cc/VNS0bSMG/01-Pilaf.png",
         		"url":"https://ok.ru/video/1780412779159",
         		"userAgent" : "",
-        		"isHost":"true",
+        		"isHost":"",
         		"online":"true"
         		},
 				{
