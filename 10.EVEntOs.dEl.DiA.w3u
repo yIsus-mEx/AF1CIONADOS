@@ -29,10 +29,76 @@
       "stations": 
           [
             {
-              "name": "16:15 Deportivo La Coruna 🆚 Granada CF",
-              "info": "[ESPN]",
+              "name": "19:00 🆚 Osasuna - Espanyol",
+              "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://paco@x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994949/ca-osasuna-vs-rcd-espanyol-de-barcelona.html",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer": "",
+              "embed": "true",
+              "online": "true",
+              "isHost": "true"
+            },
+            {
+              "name": "19:00 🆚 Osasuna - Espanyol",
+              "info": "[]",
+              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994949/ca-osasuna-vs-rcd-espanyol-de-barcelona-05-2025.html",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer": "",
+              "embed": "true",
+              "online": "true",
+              "isHost": "true"
+            },
+            {
+              "name": "19:00 🆚 UD Las Palmas - Leganés",
+              "info": "[]",
+              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994937/ud-las-palmas-vs-cd-leganes.html",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer": "",
+              "embed": "true",
+              "online": "true",
+              "isHost": "true"
+            },
+            {
+              "name": "19:00 🆚 UD Las Palmas - Leganés",
+              "info": "[]",
+              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994937/ud-las-palmas-vs-cd-leganes-05-2025.html",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer": "",
+              "embed": "true",
+              "online": "true",
+              "isHost": "true"
+            },
+            {
+              "name": "19:00 🆚 FC Barcelona - Villarreal",
+              "info": "[]",
+              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3995035/fc-barcelona-vs-villarreal-cf.html",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer": "",
+              "embed": "true",
+              "online": "true",
+              "isHost": "true"
+            },
+            {
+              "name": "19:00 🆚 FC Barcelona - Villarreal",
+              "info": "[]",
+              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3995035/fc-barcelona-vs-villarreal-cf-05-2025.html",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer": "",
+              "embed": "true",
+              "online": "true",
+              "isHost": "true"
+            },
+            {
+              "name": "19:00 🆚 Mallorca - Getafe",
+              "info": "[]",
+              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994964/rcd-mallorca-vs-getafe.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "",
@@ -40,21 +106,10 @@
               "isHost": "true"
             },
             {
-              "name": "16:15 Deportivo La Coruna 🆚 Granada CF",
-              "info": "[ESPN]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://paco@esx1new.newkso.ru/esx1/primaliga1/mono.m3u8",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "16:15 Deportivo La Coruna 🆚 Granada CF",
+              "name": "19:00 🆚 Mallorca - Getafe",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brit31ui.carriedstay5thet.cfd/es/football/spanish-segunda-division-4002158/deportivo-la-coruna-vs-granada-cf.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994964/rcd-mallorca-vs-getafe-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -62,10 +117,10 @@
               "isHost": "true"
             },
             {
-              "name": "16:15 Deportivo La Coruna 🆚 Granada CF",
+              "name": "19:00 🆚 At. Madrid - Real Betis",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-segunda-division-4002158/deportivo-la-coruna-vs-granada-cf.html",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994848/atletico-madrid-vs-real-betis.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -73,10 +128,10 @@
               "isHost": "true"
             },
             {
-              "name": "16:15 Deportivo La Coruna 🆚 Granada CF",
+              "name": "19:00 🆚 At. Madrid - Real Betis",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://www.fctv77.live/es/football/spanish-segunda-division-match-4002158/deportivo-la-coruna-vs-granada-cf-05-2025.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994848/atletico-madrid-vs-real-betis-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -84,32 +139,10 @@
               "isHost": "true"
             },
             {
-              "name": "16:15 Eibar 🆚 Burgos CF",
+              "name": "19:00 🆚 Valencia CF - Athletic Club",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://paco@x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "16:15 Eibar 🆚 Burgos CF",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://paco@esx1new.newkso.ru/esx1/primaliga2/mono.m3u8",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "16:15 Eibar 🆚 Burgos CF",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://may2w78.thanfarmeraa3fhy.cfd/es/football/spanish-segunda-division-4002252/eibar-vs-burgos-cf.html",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994857/valencia-cf-vs-athletic-club.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -117,10 +150,10 @@
               "isHost": "true"
             },
             {
-              "name": "16:15 Eibar 🆚 Burgos CF",
+              "name": "19:00 🆚 Valencia CF - Athletic Club",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://www.fctv77.live/es/football/spanish-segunda-division-match-4002252/eibar-vs-burgos-cf-05-2025.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994857/valencia-cf-vs-athletic-club-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -128,10 +161,10 @@
               "isHost": "true"
             },
             {
-              "name": "16:15 Eibar 🆚 Burgos CF",
+              "name": "19:00 🆚 Sevilla FC - Real Madrid",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-segunda-division-4002252/eibar-vs-burgos-cf.html",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3995034/sevilla-fc-vs-real-madrid.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -139,10 +172,10 @@
               "isHost": "true"
             },
             {
-              "name": "17:30 Crystal Palace 🆚 Manchester City",
+              "name": "19:00 🆚 Sevilla FC - Real Madrid",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brit4op7.carriedstay5thet.cfd/es/football/fa-cup-4176912/crystal-palace-vs-manchester-city.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3995034/sevilla-fc-vs-real-madrid-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -150,10 +183,10 @@
               "isHost": "true"
             },
             {
-              "name": "17:30 Crystal Palace 🆚 Manchester City",
+              "name": "19:00 🆚 Real Sociedad - Girona",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brit4op7.carriedstay5thet.cfd/es/football/fa-cup-4176912/crystal-palace-vs-manchester-city.html",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994847/real-sociedad-vs-girona-fc.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -161,10 +194,10 @@
               "isHost": "true"
             },
             {
-              "name": "17:30 Crystal Palace 🆚 Manchester City",
+              "name": "19:00 🆚 Real Sociedad - Girona",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brit4op7.carriedstay5thet.cfd/es/football/fa-cup-4176912/crystal-palace-vs-manchester-city.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994847/real-sociedad-vs-girona-fc-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -172,10 +205,10 @@
               "isHost": "true"
             },
             {
-              "name": "17:30 Crystal Palace 🆚 Manchester City",
+              "name": "19:00 🆚 Celta - Rayo Vallecano",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://evaulthub.com/match/24",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994935/rc-celta-vs-rayo-vallecano.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -183,10 +216,10 @@
               "isHost": "true"
             },
             {
-              "name": "18:30 🆚 Huesca - Elche",
+              "name": "19:00 🆚 Celta - Rayo Vallecano",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-segunda-division-4002304/sd-huesca-vs-elche.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994935/rc-celta-vs-rayo-vallecano-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -194,10 +227,10 @@
               "isHost": "true"
             },
             {
-              "name": "18:30 🆚 Huesca - Elche",
+              "name": "19:00 🆚 Real Valladolid - Alavés",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://www.fctv77.live/es/football/spanish-segunda-division-match-4002304/sd-huesca-vs-elche-05-2025.html",
+              "url": "https://www.fctv77.live/es/football/spanish-la-liga-match-3994844/real-valladolid-cf-vs-deportivo-alavs-05-2025.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
@@ -205,120 +238,10 @@
               "isHost": "true"
             },
             {
-              "name": "18:30 🆚 FC Cartagena - CD Tenerife",
+              "name": "19:00 🆚 Real Valladolid - Alavés",
               "info": "[]",
               "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://www.fctv77.live/es/football/spanish-segunda-division-match-4001968/fc-cartagena-vs-tenerife-05-2025.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "18:30 🆚 FC Cartagena - CD Tenerife",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-segunda-division-4001968/fc-cartagena-vs-tenerife.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 Andorra CF 🆚 Sestao",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brit5ljw.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4023989/andorra-cf-vs-sestao.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 Celta Vigo B 🆚 Athletic Bilbao B",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brityxgc.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4024075/celta-vigo-b-vs-athletic-bilbao-b.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 CD Lugo 🆚 Zamora CF",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://britzck5.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4024111/cd-lugo-vs-zamora-cf.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 Ponferradina 🆚 Cultural Leonesa",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://britcrny.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4024117/ponferradina-vs-cultural-leonesa.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 Atletico de Madrid B 🆚 Ibiza Eivissa",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://brit5o2t.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4024406/atletico-de-madrid-b-vs-ibiza-eivissa.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 Atletico Sanluqueno 🆚 Real Murcia",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://britpq44.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4024407/atletico-sanluqueno-vs-real-murcia.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "19:00 AD Ceuta 🆚 Yeclano Deportivo",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://briti5x6.carriedstay5thet.cfd/es/football/spanish-primera-division-rfef-4024595/ad-ceuta-vs-yeclano-deportivo.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "21:00 🆚 Málaga - Sporting Gijón",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-segunda-division-4002164/malaga-vs-sporting-gijon.html",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "21:00 🆚 Málaga - Sporting Gijón",
-              "info": "[]",
-              "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-              "url": "https://www.fctv77.live/es/football/spanish-segunda-division-match-4002164/malaga-vs-sporting-gijon-05-2025.html",
+              "url": "https://elsegd02.slippedducko4u5yk.sbs/es/football/spanish-la-liga-3994844/real-valladolid-cf-vs-deportivo-alavs.html",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "embed": "true",
