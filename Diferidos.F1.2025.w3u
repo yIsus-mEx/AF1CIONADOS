@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Imola [16-18.May25]",
+      "info": "",
+      "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/spu4sgbww11w",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/ujiznyfkv7kn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/ofo7p32fyox7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/ucavtsd38uey",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/cr2lpmccjqhi",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/k9yce0sx1wd2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/meyg9x73eipk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "https://filemoon.to/d/4qh9jntb2xai",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/mZmV759d/Imolaf1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Miami [02-03.May25]",
       "info": "",
       "image": "https://i.postimg.cc/ncqVbYxq/F1-Miami-25.png",
