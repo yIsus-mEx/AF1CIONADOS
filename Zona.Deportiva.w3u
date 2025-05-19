@@ -18,25 +18,12 @@
         "isHost":""
         },
         {
-        "name": "LaLiga TV 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
-        "url": "https://deporte-libre.link/en-vivo-online/laliga/embed.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "name": "LaLiga Tv 🇪🇸",
+        "info":"[MiHD],
         "online":"true",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "LaLiga TV 🇬🇧",
-        "info":"",
-        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "url": "https://mihd.tv/movistar-la-liga-en-vivo-por-internet.html",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "embed": "",
         "isHost":"true"
         },
         {
@@ -57,7 +44,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
         "url": "https://esx1new.newkso.ru/esx1/primaliga1/mono.m3u8",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "LaLiga TV Hypermotion 2 🇪🇸",
@@ -80,52 +67,29 @@
         "isHost":""
         },
         {
-        "name": "Dazn LaLiga 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
-        "url": "https://deporte-libre.link/en-vivo-online/dazn-laliga/embed2.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
-        "online":"true",
-        "embed": "true",
-        "isHost":""
-        },
-        {
         "name": "M CampeoneS 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
-        "url": "https://thedaddy.to/embed/stream-435.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "info":"[Daddy]",
         "online":"true",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "M Campeones 🇪🇸",
-        "info":"",
         "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
-        "url": "https://deporte-libre.link/en-vivo-online/m-campeones/embed3.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "embed": "true",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
         "isHost":""
         },
         {
         "name": "#Vamos 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
         "url": "https://thedaddy.to/embed/stream-521.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
-        "online":"true",
-        "embed": "true",
         "isHost":""
         },
         {
         "name": "#Vamos 🇪🇸",
-        "info" : "",
+        "info":"",
+        "online":"true",
 		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
         "url" : "https://catchthrust.net/embed/xfkc2i", 
         "referer" : "https://tarjetarojaenvivo.lat/",
@@ -133,35 +97,32 @@
         },
         {
         "name": "Movistar + 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png",
-        "url": "https://thedaddy.to/embed/stream-437.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "info":"[Daddy]",
         "online":"true",
-        "embed": "true",
+        "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://zekonew.newkso.ru/zeko/premium437/mono.m3u8",
         "isHost":""
         },
         {
         "name": "M Deportes 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",
-        "url": "https://thedaddy.to/embed/stream-436.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "info":"[Daddy]",
         "online":"true",
-        "embed": "true",
+        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://zekonew.newkso.ru/zeko/premium436/mono.m3u8",
         "isHost":""
         },
         {
         "name": "M Deportes 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",
-        "url": "https://antenaplanet.store/movistar1.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "info":"[Antena]",
         "online":"true",
-        "embed": "true",
+        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://esx1new.newkso.ru/esx1/primamovistar2/mono.m3u8",
         "isHost":""
         },
         {
@@ -170,7 +131,7 @@
         "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
         "url": "https://thedaddy.to/embed/stream-438.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -181,7 +142,7 @@
         "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
         "url": "https://antenaplanet.store/movistar2.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -192,7 +153,7 @@
         "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",
         "url": "https://thedaddy.to/embed/stream-526.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -203,7 +164,7 @@
         "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",
         "url": "https://antenaplanet.store/movistar3.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -214,7 +175,7 @@
         "image": "https://i.postimg.cc/Df4fq5s4/movistar-deportes-4-Logo.png",
         "url": "https://thedaddy.to/embed/stream-527.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -225,7 +186,7 @@
         "image": "https://i.postimg.cc/vmXvrkDW/Golf-por-Movistar-Logo.png",
         "url": "https://thedaddy.to/embed/stream-528.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -287,7 +248,7 @@
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
         "url": "https://thedaddy.to/embed/stream-445.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -320,7 +281,7 @@
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",
         "url": "https://thedaddy.to/embed/stream-446.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -403,7 +364,7 @@
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "https://thedaddy.to/embed/stream-524.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -424,7 +385,7 @@
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
         "url": "https://thedaddy.to/embed/stream-525.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -445,7 +406,7 @@
         "image": "https://i.postimg.cc/3NPg03dN/Onetoro-Logo.png",
         "url": "https://thedaddy.to/embed/stream-749.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -456,7 +417,7 @@
         "image": "https://i.postimg.cc/RCHt5NQy/GolPlay.png",
         "url": "https://thedaddy.to/embed/stream-530.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -487,7 +448,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
         "url": "https://thedaddy.to/embed/stream-529.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -551,7 +512,7 @@
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
         "url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "embed": "true",
         "isHost":""
@@ -562,7 +523,7 @@
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "url": "https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -582,7 +543,7 @@
         "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
         "url": "https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -632,7 +593,7 @@
         "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://windnew.newkso.ru/wind/premium787/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -652,7 +613,7 @@
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://nfsnew.koskoros.ru/nfs/premium930/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -672,7 +633,7 @@
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzMkhE",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -682,7 +643,7 @@
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://la12hd.com/vivo/canal.php?stream=foxsports2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -692,7 +653,7 @@
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://windnew.newkso.ru/wind/premium788/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -712,7 +673,7 @@
         "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://nfsnew.koskoros.ru/nfs/premium931/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -762,7 +723,7 @@
         "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://windnew.newkso.ru/wind/premium789/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -814,7 +775,7 @@
         "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
         "url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -834,7 +795,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
         "url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -875,7 +836,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -927,7 +888,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://windnew.newkso.ru/wind/premium150/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -958,7 +919,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
         "url": "https://antenacentral.store/espn3arg.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1009,7 +970,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
         "url": "https://antenacentral.store/espn4arg.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1071,7 +1032,7 @@
         "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
         "url": "https://antenacentral.store/espn5sur.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1110,7 +1071,7 @@
         "image": "https://i.postimg.cc/g20RWFkN/1280px-ESPN-6-logo-svg.png",
         "url": "https://antenacentral.store/espn6sur.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1139,7 +1100,7 @@
         "image": "https://i.postimg.cc/vTL0VL5X/800px-ESPN-7-logo-svg.png",
         "url": "https://antenacentral.store/espn7sur.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1360,7 +1321,7 @@
         "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
         "url": "ttps://windnew.newkso.ru/wind/premium49/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1380,7 +1341,7 @@
         "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
         "url": "https://streamtp3.com/global1.php?stream=sportv_2pt",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1390,7 +1351,7 @@
         "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
         "url": "https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1400,7 +1361,7 @@
         "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
         "url": "https://streamtp3.com/global1.php?stream=sportv_3pt",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1410,7 +1371,7 @@
         "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
         "url": "https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1430,7 +1391,7 @@
         "image": "https://i.postimg.cc/VvrxZcWD/sport4.png",
         "url": "https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1450,7 +1411,7 @@
         "image": "https://i.postimg.cc/fRNbdHM6/sport5.png",
         "url": "https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1470,7 +1431,7 @@
         "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
         "url": "https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1480,7 +1441,7 @@
         "image": "https://i.postimg.cc/FzzM58L3/CBS-Sport.png",
         "url": "https://nix1-dc4new.iosplayer.ru/nix1-dc4/cbssn/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1490,7 +1451,7 @@
         "image": "https://i.postimg.cc/FzzM58L3/CBS-Sport.png",
         "url": "https://zekonew.newkso.ru/zeko/premium308/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1500,7 +1461,7 @@
         "image": "https://i.postimg.cc/SKc3xYNY/FS1.png",
         "url": "https://wikinew.koskoros.ru/wiki/eplayerfs1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1510,7 +1471,7 @@
         "image": "https://i.postimg.cc/SKc3xYNY/FS1.png",
         "url": "https://zekonew.newkso.ru/zeko/premium39/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1530,7 +1491,7 @@
         "image": "https://i.postimg.cc/J7H6rB6r/fs2.png",
         "url": "https://zekonew.newkso.ru/zeko/premium758/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1540,7 +1501,7 @@
         "image": "https://i.postimg.cc/1X4xK0ZG/fox-502.png",
         "url": "https://zekonew.newkso.ru/zeko/premium820/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1550,7 +1511,7 @@
         "image": "https://i.postimg.cc/GpBqzMBh/Fox-Sports503-HD.png",
         "url": "https://zekonew.newkso.ru/zeko/premium821/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1560,7 +1521,7 @@
         "image": "https://i.postimg.cc/C5TR94Fg/fox-504.png",
         "url": "https://zekonew.newkso.ru/zeko/premium822/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1570,7 +1531,7 @@
         "image": "https://i.postimg.cc/sxTR5VHN/Fox-Sports505.png",
         "url": "https://windnew.newkso.ru/wind/premium823/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1580,7 +1541,7 @@
         "image": "https://i.postimg.cc/dVpZ8Fz3/Untitled-design.png",
         "url": "https://windnew.newkso.ru/wind/premium824/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1590,7 +1551,7 @@
         "image": "https://i.postimg.cc/pVsTfxjv/fox-507.png",
         "url": "https://windnew.newkso.ru/wind/premium825/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1600,7 +1561,7 @@
         "image": "https://i.postimg.cc/WzKbQMhp/ESPN-USA.png",
         "url": "https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1610,7 +1571,7 @@
         "image": "https://i.postimg.cc/WzKbQMhp/ESPN-USA.png",
         "url": "https://hztnew.koskoros.ru/hzt/eplayerespn_usa/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1620,7 +1581,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://windnew.koskoros.ru/wind/premium45/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1630,7 +1591,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://windnew.newkso.ru/wind/premium45/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1640,7 +1601,7 @@
         "image": "https://i.postimg.cc/3R1ZCwWF/Bein-Sports.png",
         "url": "https://zekonew.newkso.ru/zeko/premium425/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1650,7 +1611,7 @@
         "image": "https://i.postimg.cc/PqCrwyWJ/NBA-Tv.png",
         "url": "https://zekonew.newkso.ru/zeko/premium404/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1660,7 +1621,7 @@
         "image": "https://i.postimg.cc/fRZH2WBQ/nfl.png",
         "url": "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1680,7 +1641,7 @@
         "image": "https://i.postimg.cc/m2f5LPCt/TSN1.png",
         "url": "https://zekonew.newkso.ru/zeko/premium111/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1690,7 +1651,7 @@
         "image": "https://i.postimg.cc/m2f5LPCt/TSN1.png",
         "url": "https://antenacentral.store/tsn1.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1710,7 +1671,7 @@
         "image": "https://i.postimg.cc/Mpz3Bgsw/TSN2.png",
         "url": "https://zekonew.newkso.ru/zeko/premium112/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1720,7 +1681,7 @@
         "image": "https://i.postimg.cc/Mpz3Bgsw/TSN2.png",
         "url": "https://antenacentral.store/tsn2.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1740,7 +1701,7 @@
         "image": "https://i.postimg.cc/MKmdzdzF/TSN3.png",
         "url": "https://zekonew.newkso.ru/zeko/premium113/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1750,7 +1711,7 @@
         "image": "https://i.postimg.cc/MKmdzdzF/TSN3.png",
         "url": "https://antenacentral.store/tsn3.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1770,7 +1731,7 @@
         "image": "https://i.postimg.cc/Pq9MS7MP/TSN4.png",
         "url": "https://zekonew.newkso.ru/zeko/premium114/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1780,7 +1741,7 @@
         "image": "https://i.postimg.cc/Pq9MS7MP/TSN4.png",
         "url": "https://antenacentral.store/tsn4.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1800,7 +1761,7 @@
         "image": "https://i.postimg.cc/3NCCJxQv/TSN5.png",
         "url": "https://zekonew.newkso.ru/zeko/premium115/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1810,7 +1771,7 @@
         "image": "https://i.postimg.cc/3NCCJxQv/TSN5.png",
         "url": "https://antenacentral.store/tsn5.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":"true"
         },
@@ -1820,7 +1781,7 @@
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "https://windnew.newkso.ru/wind/premium41/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1830,7 +1791,7 @@
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayereurosp1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1840,7 +1801,7 @@
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
         "url": "https://windnew.koskoros.ru/wind/premium42/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1850,7 +1811,7 @@
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
         "url": "https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayereurosp2/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1860,7 +1821,7 @@
         "image": "https://i.postimg.cc/9QRGkpgS/tnt.png",
         "url": "https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1870,7 +1831,7 @@
         "image": "https://i.postimg.cc/9QRGkpgS/tnt.png",
         "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1880,7 +1841,7 @@
         "image": "https://i.postimg.cc/Z5Grzd1q/tnt2.png",
         "url": "https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1890,7 +1851,7 @@
         "image": "https://i.postimg.cc/Z5Grzd1q/tnt2.png",
         "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt2/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1900,7 +1861,7 @@
         "image": "https://i.postimg.cc/cHZwrN1y/tnt3.png",
         "url": "https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1910,7 +1871,7 @@
         "image": "https://i.postimg.cc/cHZwrN1y/tnt3.png",
         "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt3/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1920,7 +1881,7 @@
         "image": "https://i.postimg.cc/JnqJXdty/tnt4.png",
         "url": "https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1930,7 +1891,7 @@
         "image": "https://i.postimg.cc/JnqJXdty/tnt4.png",
         "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt4/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1940,7 +1901,7 @@
         "image": "",
         "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt5/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1950,7 +1911,7 @@
         "image": "",
         "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt6/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1960,7 +1921,7 @@
         "image": "https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png",
         "url": "https://esx1new.koskoros.ru/esx1/primaskyf1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1970,7 +1931,7 @@
         "image": "https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png",
         "url": "https://windnew.newkso.ru/wind/premium60/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1980,7 +1941,7 @@
         "image": "https://i.postimg.cc/q7N7zr9M/Sky-Sports-Football.png",
         "url": "https://top2new.iosplayer.ru/top2/eplayerskyfoot/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -1990,7 +1951,7 @@
         "image": "https://i.postimg.cc/q7N7zr9M/Sky-Sports-Football.png",
         "url": "https://zekonew.newkso.ru/zeko/premium35/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2000,7 +1961,7 @@
         "image": "https://i.postimg.cc/qvMqHywK/sky-sports-premier-league-uk.png",
         "url": "https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2010,7 +1971,7 @@
         "image": "https://i.postimg.cc/Kvb4QdgJ/Sky-Sports-NFL.png",
         "url": "https://top2new.iosplayer.ru/top2/skyaction/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2020,7 +1981,7 @@
         "image": "https://i.postimg.cc/Kvb4QdgJ/Sky-Sports-NFL.png",
         "url": "https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2030,7 +1991,7 @@
         "image": "https://i.postimg.cc/VNvJnnbw/Sky-Sport-Arena.png",
         "url": "https://top2new.koskoros.ru/top2/skyarena/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2040,7 +2001,7 @@
         "image": "https://i.postimg.cc/VNvJnnbw/Sky-Sport-Arena.png",
         "url": "https://zekonew.newkso.ru/zeko/premium36/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2050,7 +2011,7 @@
         "image": "https://i.postimg.cc/qMc6TkdP/sky-sports-cricket-uk.png",
         "url": "https://top2new.koskoros.ru/top2/eplayerskycric/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2060,7 +2021,7 @@
         "image": "https://i.postimg.cc/qMc6TkdP/sky-sports-cricket-uk.png",
         "url": "https://zekonew.newkso.ru/zeko/premium65/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2070,7 +2031,7 @@
         "image": "https://i.postimg.cc/66vGMrb5/sky-sports-golf-uk.png",
         "url": "https://top2new.iosplayer.ru/top2/skygolf/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2080,7 +2041,7 @@
         "image": "https://i.postimg.cc/66vGMrb5/sky-sports-golf-uk.png",
         "url": "https://windnew.newkso.ru/wind/premium70/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2090,7 +2051,7 @@
         "image": "",
         "url": "https://top2new.iosplayer.ru/top2/eplayerskymain2/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2100,7 +2061,7 @@
         "image": "",
         "url": "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2110,7 +2071,7 @@
         "image": "https://i.postimg.cc/vmnhn3SR/racing-tv.png",
         "url": "https://zekonew.newkso.ru/zeko/premium555/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2120,7 +2081,7 @@
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "https://windnew.newkso.ru/wind/premium878/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2130,7 +2091,7 @@
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
         "url": "https://windnew.newkso.ru/wind/premium879/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         },
@@ -2140,7 +2101,7 @@
         "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
         "url": "https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "referer" : "https://alldownplay.xyz",
         "online":"true",
         "isHost":""
         }
