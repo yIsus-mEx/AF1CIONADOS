@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Burns vs Morales",
+         "image": "https://i.postimg.cc/Pr6hDdpr/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Burns vs Morales",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/Pr6hDdpr/UFC.png",
+                "url":"https://pixeldrain.com/u/NCwLSvRQ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 315: Muhammad vs Della Maddalena",
          "image": "https://i.postimg.cc/L4zHCdjp/UFC-315.png",
          "imageScale": "",
@@ -26,7 +44,7 @@
             ]
         },
         {
-         "name": "UFC Fight Night:Sandhagen vs Figueiredo",
+         "name": "UFC Fight Night: Sandhagen vs Figueiredo",
          "image": "https://i.postimg.cc/LXYwYKZZ/UFC.png",
          "imageScale": "",
          "info":"",
