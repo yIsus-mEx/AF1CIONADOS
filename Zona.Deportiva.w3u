@@ -51,24 +51,32 @@
         },
         {
         "name": "LaLiga TV Hypermotion 🇪🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
-        "url": "https://antenaplanet.store/liga1.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd",
+        "info":"[Antena]",
         "online":"true",
-        "embed": "true",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://esx1new.newkso.ru/esx1/primaliga1/mono.m3u8",
         "isHost":"true"
         },
         {
         "name": "LaLiga TV Hypermotion 2 🇪🇸",
-        "info":"",
+        "info":"[Antena]",
+        "online":"true",
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
-        "url": "https://antenaplanet.store/liga2.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://webxzplay.cfd",
+        "url": "https://esx1new.newkso.ru/esx1/primaliga2/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn LaLiga 🇪🇸",
+        "info":"[Daddy]",
         "online":"true",
-        "embed": "true",
+        "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
         "isHost":""
         },
         {
