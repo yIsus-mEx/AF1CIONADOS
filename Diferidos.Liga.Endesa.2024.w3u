@@ -2796,21 +2796,57 @@
 			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
+        		},
+			{
+       			"name": "Tenerive vs Unicaja",
+	        	"info": "[11-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/gvs8bqxani98/Liga_Endesa_Tenerife_VS_Unicaja_010525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
         		}
 		]
 	},
 
 	{
         "name": "JORNADA 32",
-        "image": "",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
         "info": "",
         "stations":
             [
 			{
-       			"name": "",
-	        	"info": "",
-	        	"image": "",
-	        	"url": "",
+       			"name": "Leyma vs Andorra",
+	        	"info": "[17-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/zkeuwyf2h8t9/Liga_Endesa_Leyma_VS_Andorra_170525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Granada vs Breogan",
+	        	"info": "[17-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/uo0groef777f/Liga_Endesa_Granada_VS_Breogan_170525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Gran Canaria vs Juventut",
+	        	"info": "[17-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/gv3l0w0k883n/Liga_Endesa_Gran_Canaria_VS_Juventut_170525.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Girona vs Valencia",
+	        	"info": "[17-05-2025]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/723eenzpo4c9/Liga_Endesa_Girona_VS_Valencia_170525.mkv",
 			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
