@@ -43,7 +43,7 @@
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://esx1new.newkso.ru",
-        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://esx1new.newkso.ru/esx1/primaliga1/mono.m3u8",
+        "url": "https://esx1new.newkso.ru/esx1/primaliga1/mono.m3u8",
         "isHost":""
         },
         {
@@ -319,6 +319,16 @@
         },
         {
         "name": "TDP 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://thedaddy.to/embed/stream-529.php",
+        "isHost":""
+        },
+        {
+        "name": "TDP 🇪🇸",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
         "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8",
@@ -337,16 +347,7 @@
         "online":"true",
         "isHost":""
         },
-        {
-        "name": "TDP 🇪🇸",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-        "url": "https://thedaddy.to/embed/stream-529.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "online":"true",
-        "isHost":""
-        },
+        
         {
         "name": "SKY Sports LaLiga 🇲🇽",
         "info":"",
