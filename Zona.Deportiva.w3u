@@ -90,7 +90,7 @@
         },
         {
         "name": "#Vamos 🇪🇸",
-        "info":"",
+        "info":"[TV]",
         "online":"true",
 		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
         "url" : "https://catchthrust.net/embed/xfkc2i", 
@@ -124,7 +124,8 @@
         "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "url": "https://esx1new.newkso.ru/esx1/primamovistar2/mono.m3u8",
+        "url": "https://antenaplanet.store/movistar1.php",
+        "embed": "true",
         "isHost":""
         },
         {
@@ -139,7 +140,7 @@
         },
         {
         "name": "M Deportes 2 🇪🇸",
-        "info":"",
+        "info":"[Antena][CEL]",
         "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
         "url": "https://antenaplanet.store/movistar2.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -160,7 +161,7 @@
         },
         {
         "name": "M Deportes 3 🇪🇸",
-        "info":"",
+        "info":"[Antena][CEL]",
         "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",
         "url": "https://antenaplanet.store/movistar3.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -196,17 +197,18 @@
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://daddylive.dad/stream/stream-445.php",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium445/mono.m3u8",
         "isHost":""
-        },   
+        },
         {
         "name": "Dazn 1 🇪🇸",
-        "info":"[Antena][CEL]",
+        "info":"[CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "url": "https://azonew.newkso.ru/azo/dazn1es/mono.m3u8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://enz.gdplayertv.to/embed/dazn-1-es/",
+        "embed": "true",
         "isHost":""
         },
         {
@@ -226,7 +228,8 @@
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "url": "https://azonew.newkso.ru/azo/dazn2es/mono.m3u8",
+        "url": "https://antenaplanet.store/dazn2.php",
+        "embed": "true",
         "isHost":""
         },  
         {
@@ -256,12 +259,13 @@
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://alldownplay.xyz",
-        "url": "https://esx1new.newkso.ru/esx1/primadaznf1/mono.m3u8",
+        "url": "https://antenaplanet.store/daznf1.php",
+        "embed": "true",
         "isHost":""
         },
         {
         "name": "DazN F1 🇪🇸",
-        "info":"",
+        "info":[huhu]"",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
         "url": "https://www.oha.to/play/270716645/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -281,7 +285,7 @@
         },
         {
         "name": "EuroSport 1 🇪🇸",
-        "info":"",
+        "info":"[IP]",
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "http://185.189.225.157/EuroSport1/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -301,7 +305,7 @@
         },
         {
         "name": "EuroSport 2 🇪🇸",
-        "info":"",
+        "info":"[IP]",
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
         "url": "http://185.189.225.157/EuroSport2/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
