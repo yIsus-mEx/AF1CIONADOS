@@ -38,22 +38,24 @@
         },
         {
         "name": "LaLiga Tv Hypermotion 🇪🇸",
-        "info":"[Antena]",
+        "info":"[Antena][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "url": "https://antenacentral.store/channel/exY3VzdG9tU2FsdDc3ODE1OTI=",
+        "url": "https://antenaplanet.store/liga1.php",
+        "embed": "true",
         "isHost":""
         },
         {
         "name": "LaLiga Tv Hypermotion 2 🇪🇸",
-        "info":"[Antena]",
+        "info":"[Antena][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "url": "https://antenacentral.store/channel/exY3VzdG9tU2FsdDc3ODE1OTI=",
+        "url": "https://antenaplanet.store/liga2.php",
+        "embed": "true",
         "isHost":"true"
         },
         {
@@ -117,7 +119,7 @@
         },
         {
         "name": "M Deportes 🇪🇸",
-        "info":"[Antena]",
+        "info":"[Antena][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -199,7 +201,7 @@
         },   
         {
         "name": "Dazn 1 🇪🇸",
-        "info":"[Antena]",
+        "info":"[Antena][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -219,7 +221,7 @@
         },  
         {
         "name": "Dazn 2 🇪🇸",
-        "info":"[Antena]",
+        "info":"[Antena][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -249,7 +251,7 @@
         },
         {
         "name": "Dazn F1 🇪🇸",
-        "info":"[Antena]",
+        "info":"[Antena][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
