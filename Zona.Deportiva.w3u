@@ -201,17 +201,6 @@
         "isHost":""
         },
         {
-        "name": "Dazn 1 🇪🇸",
-        "info":"[CEL]",
-        "online":"true",
-        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "url": "https://enz.gdplayertv.to/live-tv/dazn-1-es/?alt=0",
-        "embed": "true",
-        "isHost":""
-        },
-        {
         "name": "Dazn 2 🇪🇸",
         "info":"[Daddy]",
         "online":"true",
@@ -345,7 +334,7 @@
         },
         {
         "name": "TDP 🇪🇸",
-        "info":"",
+        "info":"[IP]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
         "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -355,7 +344,7 @@
         },
         {
         "name": "TDP 🇪🇸",
-        "info":"",
+        "info":"[IP]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
         "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
