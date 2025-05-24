@@ -352,85 +352,38 @@
         "online":"true",
         "isHost":""
         },
-        
-        {
-        "name": "SKY Sports LaLiga 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
-        "url": "http://181.78.105.146:2000/play/a08m/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY Sports LaLiga 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
-        "url": "http://45.5.117.182:8000/play/jnl0/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY Sports LaLiga 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
-        "url": "http://181.78.105.146:8800/play/a07h",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "SKY Sports LaLiga 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
-        "url": "https://mihd.tv/sky-sports-bundesliga-en-vivo-por-internet.html",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "SKY Sports LaLiga 🇩🇪",
-        "info":"",
-        "image": "https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png",
-        "url": "https://mihd.tv/sky-sports-la-liga-en-vivo-por-internet.html",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "online":"true",
-        "isHost":"true"
-        },
         {
         "name": "TUDN 🇺🇸",
-        "info":"",
-        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
-        "url": "https://streamtp1.com/global1.php?stream=tudn_usa",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "info":"[Daddy]",
         "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "TUDN 🇺🇸",
-        "info":"",
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
-        "url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
-        "embed": "true",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8",
         "isHost":""
+        },
+        {
+        "name": "TUDN 🇲🇽",
+        "info":"[MiHD]",
+        "online":"true",
+        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "url": "https://mihd.tv/tudn-en-vivo-por-internet.html",     
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost":"true"
         },
         {
         "name": "Fox Deportes 🇺🇸",
-        "info":"",
+        "info":"[Daddy]",
+        "online":"true",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8",
         "isHost":""
         },
         {
         "name": "Fox Deportes 🇺🇸",
-        "info":"",
+        "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "url": "https://tucanaldeportivo.org/foxdeportes.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -440,17 +393,17 @@
         },
         {
         "name": "FoxSport 1 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
-        "url": "https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.koskoros.ru/nfs/premium929/mono.m3u8",
         "isHost":""
         },
         {
         "name": "FoxSport 1 🇲🇽",
-        "info":"",
+        "info":"[streamtp1]",
         "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
         "url": "https://streamtp1.com/global1.php?stream=foxsportsmx",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -460,7 +413,17 @@
         },
         {
         "name": "FoxSport 1 🇦🇷",
-        "info":"",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium787/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 1 🇦🇷",
+        "info":"[streamtp1]",
         "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://streamtp1.com/global1.php?stream=fox1ar",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -470,33 +433,13 @@
         },
         {
         "name": "FoxSport 1 🇦🇷",
-        "info":"",
-        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
-        "url": "https://television-libre.tv/html/fl/?get=Rm94U3BvcnRz",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "FoxSport 1 🇦🇷",
-        "info":"",
+        "info":"[Cable]",
         "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://www.cablevisionhd.com/fox-sports-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
-        },
-        {
-        "name": "FoxSport 1 🇦🇷",
-        "info":"",
-        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
-        "url": "https://windnew.newkso.ru/wind/premium787/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "online":"true",
-        "isHost":""
         },
         {
         "name": "FoxSport 2 🇲🇽",
