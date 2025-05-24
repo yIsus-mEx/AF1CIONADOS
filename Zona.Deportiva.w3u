@@ -423,7 +423,7 @@
         },
         {
         "name": "FoxSport 1 🇦🇷",
-        "info":"[streamtp1]",
+        "info":"[streamtp]",
         "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
         "url": "https://streamtp1.com/global1.php?stream=fox1ar",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -443,7 +443,7 @@
         },
         {
         "name": "FoxSport 2 🇲🇽",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://streamtp3.com/global1.php?stream=foxsports2mx",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -453,17 +453,27 @@
         },
         {
         "name": "FoxSport 2 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
-        "url": "https://nfsnew.koskoros.ru/nfs/premium930/mono.m3u8",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.koskoros.ru/nfs/premium930/mono.m3u8",
+        "isHost":""
+        },
+         {
+        "name": "FoxSport 2 🇦🇷",
+        "info":"[Daddy]",
         "online":"true",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium788/mono.m3u8",
         "isHost":""
         },
         {
         "name": "FoxSport 2 🇦🇷",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://streamtp1.com/global1.php?stream=fox2ar",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -473,17 +483,7 @@
         },
         {
         "name": "FoxSport 2 🇦🇷",
-        "info":"",
-        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
-        "url": "https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzMkhE",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "FoxSport 2 🇦🇷",
-        "info":"",
+        "info":"[12HD]",
         "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
         "url": "https://la12hd.com/vivo/canal.php?stream=foxsports2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -491,19 +491,19 @@
         "online":"true",
         "isHost":"true"
         },
-        {
-        "name": "FoxSport 2 🇦🇷",
-        "info":"",
-        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
-        "url": "https://windnew.newkso.ru/wind/premium788/mono.m3u8",
+            {
+        "name": "FoxSport 3 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.koskoros.ru/nfs/premium931/mono.m3u8",
         "isHost":""
         },
         {
         "name": "FoxSport 3 🇲🇽",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://streamtp3.com/global1.php?stream=foxsports3mx",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -513,17 +513,7 @@
         },
         {
         "name": "FoxSport 3 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
-        "url": "https://nfsnew.koskoros.ru/nfs/premium931/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "FoxSport 3 🇲🇽",
-        "info":"",
+        "info":"[TeleHD]",
         "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://www.telegratishd.com/fox-sports-3-mexico-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -533,7 +523,17 @@
         },
         {
         "name": "FoxSport 3 🇦🇷",
-        "info":"",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium789/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 3 🇦🇷",
+        "info":"[streamtp]",
         "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://streamtp1.com/global1.php?stream=fox3ar",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -543,17 +543,7 @@
         },
         {
         "name": "FoxSport 3 🇦🇷",
-        "info":"",
-        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
-        "url": "https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzM0hE",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "FoxSport 3 🇦🇷",
-        "info":"",
+        "info":"[12HD]",
         "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
         "url": "https://la12hd.com/vivo/canal.php?stream=foxsports3",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -562,18 +552,18 @@
         "isHost":"true"
         },
         {
-        "name": "FoxSport 3 🇦🇷",
-        "info":"",
-        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
-        "url": "https://windnew.newkso.ru/wind/premium789/mono.m3u8",
+        "name": "FoxSport Premium 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://tinworld-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
         "isHost":""
         },
         {
         "name": "FoxSport Premium 🇲🇽",
-        "info":"",
+        "info":"[TuCanal]",
         "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
         "url": "https://tucanaldeportivo.org/foxsportspremium.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -584,7 +574,7 @@
         },
         {
         "name": "FoxSport Premium 🇲🇽",
-        "info":"",
+        "info":"[Nuskt]",
         "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
         "url": "https://nuskt.directory/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mZHg3NHpxemh1L291dC92MS83ZDdhOGM2OTgxYTg0MmI5OGE2ODNlOWZiZmU1MWQxNy9jZW5jLm1wZA==&key=OWYzMjdkMjRjNjZmYmQ4NGUxNWFiNWM5ZWFkN2M3YTQ=&key2=ODM4MzcxODU1MjljMGM0MDQ4ZjgxMzg2YzJkMzY0MjY=",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -595,7 +585,7 @@
         },
         {
         "name": "FoxSport Premium 🇲🇽",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
         "url": "https://streamtp1.com/global1.php?stream=foxsportspremium",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -605,23 +595,13 @@
         },
         {
         "name": "FoxSport Premium 🇲🇽",
-        "info":"",
+        "info":"[12HD]",
         "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
         "url": "https://la12hd.com/vivo/canal.php?stream=foxsportspremium",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
-        },
-        {
-        "name": "FoxSport Premium 🇲🇽",
-        "info":"",
-        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
-        "url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "online":"true",
-        "isHost":""
         },
         {
         "name": "ESPN Deportes 🇲🇽",
