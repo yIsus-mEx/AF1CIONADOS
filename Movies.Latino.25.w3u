@@ -8,9 +8,18 @@
 "stations":
     [
         {
+        "name": "La Fuente de la Juventud",
+        "info": "[2025][Latino]",
+        "image": "https://pics.filmaffinity.com/La_fuente_de_la_eterna_juventud-109538437-large.jpg",
+        "url": "https://filemoon.to/d/a1v76izlgvmu",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "Ash",
         "info": "[2025][Latino]",
-        "image": "https://m.media-amazon.com/images/M/MV5BNDJmNmRhNjUtN2I4Yi00MjgzLWFlN2EtZTYzOTFiYzE1MGVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "image": "https://pics.filmaffinity.com/Ash-296434606-large.jpg",
         "url": "https://filemoon.to/d/ttr0ce3242a7",
         "isHost": "true",
         "online": "true",
