@@ -7,21 +7,14 @@
 "info": "Lista_AF1CIONADOS",
 "stations":
 	[
-		{
-         "name": "ZOna DepORtivA",
-         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-         "url": "https://www.dropbox.com/scl/fi/rz65onwmkin2i7h97cut4/Zona.Deportiva.w3u?rlkey=ia70nvgo4oail1a7eni6rstrz&dl=1",
-         "info":"",
-         "import": false
-        },
         {
-        "name": "Prueba 001",
+        "name": "Prueba 01",
         "info":"",
         "online":"true",
         "image": "",
-        "url": "https://ok.ru/video/6924749507156",
-        "userAgent": "",
-        "referer" : "",
+        "url": "https://www.livehdtv.com/ch617/",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://www.livehdtv.com/",
         "embed": "",
         "isHost":"true"
         },
