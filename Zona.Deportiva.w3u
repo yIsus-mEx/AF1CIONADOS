@@ -38,14 +38,14 @@
         },
         {
         "name": "LaLiga Tv Hypermotion 🇪🇸",
-        "info":"[Antena][CEL]",
+        "info":"[AntenA][CEL]",
         "online":"true",
         "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
         "url": "https://antenaplanet.store/liga1.php",
-        "embed": "true",
-        "isHost":""
+        "embed": "",
+        "isHost":"true"
         },
         {
         "name": "LaLiga Tv Hypermotion 2 🇪🇸",
