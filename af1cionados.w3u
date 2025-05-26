@@ -33,12 +33,6 @@
         "import": false
         },
         {
-        "name": "       乙ᗝᑎᗩ Ꭵᑭ丅ᐯ",
-        "image": "https://i.postimg.cc/vmQpQ8Sc/iptv-new-2.png",
-        "url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
-        "import": false
-        },
-        {
         "name": "        ᗪᎥᖴᗴᖇᎥᗪᗝᔕ",
         "image": "https://i.postimg.cc/D0NBQm0C/Sport-new.png",
         "url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
@@ -49,13 +43,7 @@
         "image": "https://i.postimg.cc/VNFc93y4/documental.png",
         "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
         "import": false
-        },
-        {
-        "name": "      丅ᐯ ᔕTREAM",
-        "image": "https://i.postimg.cc/YCQNydjf/tv-new.png",
-        "url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
-        "import": false
-        },
+        },        
         {
         "name": "     丅ᕼᗴ ᗰᗝᐯᎥᗴᔕ",
         "image": "https://i.postimg.cc/SNg68BB5/cine2-new.png",
@@ -66,6 +54,12 @@
         "name": "     丅ᕼᗴ ᔕᗴᖇᎥᗴᔕ",
         "image": "https://i.postimg.cc/zfsSvTsG/serie-new.png",
         "url": "https://series-af1cionados.vercel.app/Menu%20SeRies.w3u",
+        "import": false
+        },
+        {
+        "name": "      丅ᐯ ᔕTREAM",
+        "image": "https://i.postimg.cc/YCQNydjf/tv-new.png",
+        "url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
         "import": false
         },
         {
