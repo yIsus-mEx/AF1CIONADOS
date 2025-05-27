@@ -8,6 +8,32 @@
 "groups":
     [
         {
+        "name": "R06 IndyCar Indianapolis 500",
+        "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
+        "info": "[10-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
+                "url" :"https://pixeldrain.com/u/Kdkt49Hm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
+                "url" :"https://pixeldrain.com/u/GA16rPQD",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R05 IndyCar Indy Road Course",
         "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
         "info": "[10-05-2025]",
