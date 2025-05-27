@@ -8,6 +8,33 @@
 "groups": 
   [
     {
+    "name": "PRUEBAS",
+    "image": "",
+    "stations": 
+        [
+          {
+          "name": "PRUEBA 01",
+          "info": "",
+          "image": "",
+          "url": "https://netfree2.cc/hls/81053953.m3u8?in=a0959d7c64a72de2257d39c68d8239ef::af11d7aa8ee31da321798272f68ff434::1748378449::xm",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "isHost":""        
+          },
+          {
+          "name": "PRUEBA 02",
+          "info": "",
+          "image": "",
+          "url": "https://netfree2.cc/hls/81053953.m3u8?in=a0959d7c64a72de2257d39c68d8239ef::af11d7aa8ee31da321798272f68ff434::1748378449::se",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "isHost":""        
+          }
+        ]
+     },
+    {
     "name": "Eventos Deportivos Diarios",
     "image": "https://w0.peakpx.com/wallpaper/678/338/HD-wallpaper-sports-other-baseball-basketball-collage-football-hockey-sport.jpg",
     "stations": 
