@@ -7,36 +7,10 @@
 "info": "",
 "groups": 
   [
-    {
-    "name": "PRUEBAS",
-    "image": "",
-    "stations": 
-        [
-          {
-          "name": "PRUEBA 01",
-          "info": "",
-          "image": "",
-          "url": "https://netfree2.cc/hls/81053953.m3u8?in=a0959d7c64a72de2257d39c68d8239ef::af11d7aa8ee31da321798272f68ff434::1748378449::xm",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "isHost":""        
-          },
-          {
-          "name": "PRUEBA 02",
-          "info": "",
-          "image": "",
-          "url": "https://netfree2.cc/hls/81053953.m3u8?in=4df88b36dad59d9fff17eb9660d10d2e::5ca77ec0b22140a9ccba12b1151cf2de::1748382068::se",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer" : "",
-          "embed": "",
-          "isHost":""        
-          }
-        ]
-     },
+
      {
       "name": "FUTBOL",
-      "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
+      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
       "stations": 
           [
             {
@@ -75,144 +49,151 @@
               "url": ""
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
+              "name": "",
+              "info": "[DAZNF1]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
-              "embed": "",
+              "embed": "true",
               "online": "true",
               "isHost": ""
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@zekonew.newkso.ru/zeko/premium437/mono.m3u8",
+              "name": "",
+              "info": "[DanzF1]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "https://webxzplay.cfd/",
               "online": "true",
               "isHost": ""
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@zekonew.newkso.ru/zeko/premium375/mono.m3u8",
+              "name": "",
+              "info": "[DAZNF1]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "https://cookiewebplay.xyz/",
               "online": "true",
               "isHost": ""
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@top2new.newkso.ru/top2/eplayerespn_dep/mono.m3u8",
+              "name": "",
+              "info": "[DAZNF1]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "https://cookiewebplay.xyz/",
               "online": "true",
               "isHost": ""
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+              "name": "",
+              "info": "[FOX PREMIUM]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://antenaplanet.store/tudnusa.php",
+              "name": "",
+              "info": "[FOX PREMIUM]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
-              "referer": "",
+              "referer": "https://cookiewebplay.xyz/",
               "online": "true",
               "isHost": ""
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://antenaplanet.store/movistarplus.php",
+              "name": "",
+              "info": "[FOX 1 ARG]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://antenaplanet.store/movistarcampeones.php",
+              "name": "",
+              "info": "[ESPN]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://britn5ax.carriedstay5thet.cfd/es/football/uefa-europa-conference-league-4181316/real-betis-vs-chelsea.html",
+              "name": "",
+              "info": "[ESPN]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://jeinzmacias01.blogspot.com/p/uc.html?id=hgfjh5bhf5",
+              "name": "",
+              "info": "[ESPN]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://www.zonadeporteshd.pl/stream/mligacampeones.php",
+              "name": "",
+              "info": "[ESPN]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
-              "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://www.sportsbay.dk/futbol/paris-saint-germain-vs-arsenal.html",
+              "name": "",
+              "info": "[ESPN]",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
+              "name": "",
               "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@antenaplanet.store/movistarplus.php",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             },
             {
-              "name": "Real Betis vs Chelsea",
+              "name": "",
               "info": "[]",
-              "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/05/26/68342e4f2ca84.webp",
-              "url": "https://paco@ovelulestrng.xyz/string/xixsponksssd1",
+              "image": "",
+              "url": "",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "embed": "true",
+              "referer": "",
+              "embed": "",
               "online": "true",
               "isHost": "true"
             }
@@ -793,7 +774,36 @@
               "isHost": "true"
             }
           ]
-        }
+        },
+
+    {
+    "name": "PRUEBAS",
+    "image": "",
+    "stations": 
+        [
+          {
+          "name": "PRUEBA 01",
+          "info": "",
+          "image": "",
+          "url": "https://netfree2.cc/hls/81053953.m3u8?in=a0959d7c64a72de2257d39c68d8239ef::af11d7aa8ee31da321798272f68ff434::1748378449::xm",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "isHost":""        
+          },
+          {
+          "name": "PRUEBA 02",
+          "info": "",
+          "image": "",
+          "url": "https://netfree2.cc/hls/81053953.m3u8?in=4df88b36dad59d9fff17eb9660d10d2e::5ca77ec0b22140a9ccba12b1151cf2de::1748382068::se",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "embed": "",
+          "isHost":""        
+          }
+        ]
+     }
+
       ]
     }
   ]
