@@ -285,6 +285,16 @@
         },
         {
         "name": "EuroSport 1 🇪🇸",
+        "info":"[huhu]",
+        "online":"true",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://huhu.to/",
+        "url": "https://www.oha.to/play/1364676535/index.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 1 🇪🇸",
         "info":"[IP]",
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
         "url": "http://185.189.225.157/EuroSport1/index.m3u8",
