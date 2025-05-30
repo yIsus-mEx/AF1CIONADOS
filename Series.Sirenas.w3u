@@ -1,0 +1,65 @@
+{
+"name": "Sirenas",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Sirenas.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]",
+ 				"image":"https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+ 				"url":"https://filemoon.to/d/blp1qbo7orqi",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+				"url":"https://filemoon.to/d/z41tc83jv03l",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+				"url":"https://filemoon.to/d/8j1xd2tmygyt",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+				"url":"https://filemoon.to/d/ousan6l7wuyn",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image":"https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+				"url":"https://filemoon.to/d/s37sy5upt9dc",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
