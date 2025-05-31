@@ -705,23 +705,23 @@
     "stations": 
         [
           {
-          "name": "PRUEBA 01",
+          "name": "France Tv 2",
           "info": "",
-          "image": "",
-          "url": "https://netfree2.cc/hls/81053953.m3u8?in=a0959d7c64a72de2257d39c68d8239ef::af11d7aa8ee31da321798272f68ff434::1748378449::xm",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/2362px-France_2_2018.svg.png",
+          "url": "https://www.livehdtv.com/embed/ch617",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
-          "embed": "",
+          "embed": "true",
           "isHost":""        
           },
           {
-          "name": "PRUEBA 02",
+          "name": "France Tv 3",
           "info": "",
-          "image": "",
-          "url": "https://netfree2.cc/hls/81053953.m3u8?in=4df88b36dad59d9fff17eb9660d10d2e::5ca77ec0b22140a9ccba12b1151cf2de::1748382068::se",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/2398px-France_3_2018.svg.png",
+          "url": "https://www.livehdtv.com/embed/fr3/",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
-          "embed": "",
+          "embed": "true",
           "isHost":""        
           }
         ]
