@@ -44,7 +44,6 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://veplay.top/",
         "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGFjY2NjMjY4NTNhLWNmNzktOWRmNC1jY2QwLTVmYjc0YWI4/master.m3u8?md5=t5uYCEblXzrx11W3HNP79A&expires=1748788086&t=1748744886",
-        "embed": "true",
         "isHost":""
         },
         {
@@ -66,8 +65,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://veplay.top/",
         "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODAxY2YyM2U2ZDAyLTM4ZTktMDdiNC05NGZmLTliNjlkOGE1/master.m3u8?md5=D0s2CHCqXZ7rGpjHjUpHbA&expires=1748788299&t=1748745099",
-        "embed": "true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "LaLiga Tv Hypermotion 2 🇪🇸",
@@ -78,7 +76,7 @@
         "referer" : "https://alldownplay.xyz",
         "url": "https://antenaplanet.store/liga2.php",
         "embed": "true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Dazn LaLiga 🇪🇸",
