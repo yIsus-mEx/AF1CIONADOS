@@ -256,13 +256,12 @@
         },
         {
         "name": "Dazn 1 🇪🇸",
-        "info":"[Antena][CEL]",
+        "info":"[Antena]",
         "online":"true",
         "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "url": "https://antenaplanet.store/dazn1.php",
-        "embed": "true",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://azonew.newkso.ru/azo/dazn1es/mono.m3u8",
         "isHost":""
         },
         {
@@ -277,13 +276,12 @@
         },  
         {
         "name": "Dazn 2 🇪🇸",
-        "info":"[Antena][CEL]",
+        "info":"[Antena]",
         "online":"true",
         "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://alldownplay.xyz",
-        "url": "https://antenaplanet.store/dazn2.php",
-        "embed": "true",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://azonew.newkso.ru/azo/dazn2es/mono.m3u8",
         "isHost":""
         },  
         {
@@ -308,14 +306,22 @@
         },
         {
         "name": "Dazn F1 🇪🇸",
-        "info":"[Antena][CEL]",
+        "info":"[Antena]",
         "online":"true",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://alldownplay.xyz",
-        "url": "https://antenaplanet.store/daznf1.php",
-        "embed": "true",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTQ5MWM3M2RmN2E0LTJhMmEtYTNjNC1mMmMyLWFlMjEyZmYz/master.m3u8?md5=uEM4S150ZRGT1Fp8afMHCg&expires=1748793637&t=1748750437",
         "isHost":""
+        },
+        {
+        "name": "Dazn F1 🇪🇸",
+        "info": "[Tele]",
+        "online": "true",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://www.telegratishd.com/dazn-f1-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost": "true"
         },
         {
         "name": "DazN F1 🇪🇸",
