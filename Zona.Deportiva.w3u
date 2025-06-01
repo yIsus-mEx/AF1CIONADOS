@@ -155,6 +155,16 @@
         "isHost":""
         },
         {
+        "name": "Movistar + 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://esx1new.newkso.ru/esx1/primamovistarplus/mono.m3u8",
+        "isHost":""
+        },
+        {
         "name": "M Deportes 🇪🇸",
         "info":"[Daddy]",
         "online":"true",
