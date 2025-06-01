@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 España [30-01.Jun25]",
+      "info": "",
+      "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/lzs654i6yw0a",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/ntcjekqa1o9t",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/o0291565o5yy",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/97sn5yywer7n",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/p09tl91frgak",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/mxfgettt3vbh",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/i369j0m04ezv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://filemoon.to/d/8mddxianuh5h",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "https://pixeldrain.com/u/7YpfhWKY",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/TwZ0vBbZ/ESpa-a.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Monaco [23-25.May25]",
       "info": "",
       "image": "https://i.postimg.cc/hvvH9vvb/F1Monaco.png",
