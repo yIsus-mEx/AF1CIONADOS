@@ -8,6 +8,32 @@
 "groups":
     [
         {
+        "name": "R07 IndyCar Detroit",
+        "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
+        "info": "[10-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "",
+                "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
+                "url" :"https://filemoon.to/d/9rebegfhfyx5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R06 IndyCar Indianapolis 500",
         "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
         "info": "[10-05-2025]",
