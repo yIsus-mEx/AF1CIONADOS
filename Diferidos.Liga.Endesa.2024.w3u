@@ -3077,7 +3077,89 @@
         		"isHost": "true"
         		}
 		]
+	},
+
+	{
+        "name": "RONDAS 1/4 DE FINAL",
+        "image": "",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Valencia vs Gran Canaria",
+	        	"info": "[02-06-2025][RONDA 1]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/16h12x36r19k/Cuartos_Liga_Endesa_Valencia_VS_Gran_Canaria_020625.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Tenerife vs Juventut",
+	        	"info": "[02-06-2025][RONDA 1]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+	        	"url": "https://filemoon.to/d/b0yshcs2mtxr/Cuartos_Liga_Endesa_Tenerife_VS_Juventut_020625.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[03-06-2025][RONDA 1]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[03-06-2025][RONDA 1]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[04-06-2025][RONDA 2]",
+	        	"image": "",
+			"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[04-06-2025][RONDA 2]",
+	        	"image": "",
+			"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[05-06-2025][RONDA 2]",
+	        	"image": "",
+			"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "",
+	        	"info": "[05-06-2025][RONDA 2]",
+	        	"image": "",
+			"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
 	}
+
 
 	]
 }
