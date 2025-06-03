@@ -8,6 +8,96 @@
   "groups": 
   [
     {
+      "name": "R10 & R11 Shanghai E-Prix",
+      "image": "https://i.postimg.cc/x8LMDVJY/Shanghai.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "R10 Shanghai E-Prix",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/x8LMDVJY/Shanghai.png",
+          "url": "https://filemoon.to/d/wx152ij08ych",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R10 Shanghai E-Prix",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/x8LMDVJY/Shanghai.png",
+          "url": "https://filemoon.to/d/qhn7mtkuetv2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R11 Shanghai E-Prix",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/x8LMDVJY/Shanghai.png",
+          "url": "https://filemoon.to/d/neiwbf7mbo1c",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R11 Shanghai E-Prix",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/x8LMDVJY/Shanghai.png",
+          "url": "https://filemoon.to/d/qt8x9wb2ds3h",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "R08 & R09 Tokyo E-Prix",
+      "image": "https://i.postimg.cc/hjg23s3X/tokyo.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "R08 Tokyo E-Prix",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/hjg23s3X/tokyo.png",
+          "url": "https://filemoon.to/d/8dgjo671xwei",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R08 Tokyo E-Prix",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/hjg23s3X/tokyo.png",
+          "url": "https://filemoon.to/d/eifoedu3y8or",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R09 Tokyo E-Prix",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/hjg23s3X/tokyo.png",
+          "url": "https://filemoon.to/d/h1ua5wvh39p6",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "R09 Tokyo E-Prix",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/hjg23s3X/tokyo.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": ""
+        }
+      ]
+    },
+    {
       "name": "R06 & R07 Monaco E-Prix",
       "image": "https://i.postimg.cc/CLNGXbY6/formula-e-monaco.png",
       "imageScale": "",
