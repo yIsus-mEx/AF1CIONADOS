@@ -698,7 +698,7 @@
         },
         {
         "name": "ESPN Deportes 🇲🇽",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
         "url": "https://streamtp3.com/global1.php?stream=espndeportes",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -708,17 +708,17 @@
         },
         {
         "name": "ESPN Deportes 🇲🇽",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
-        "url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",        
         "isHost":""
         },
         {
         "name": "ESPN 🇲🇽",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://streamtp1.com/global1.php?stream=espnmx",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -728,7 +728,7 @@
         },
         {
         "name": "ESPN 🇲🇽",
-        "info":"",
+        "info":"[Tele]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.telegratishd.com/espn-mexico-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -738,7 +738,7 @@
         },
         {
         "name": "ESPN 🇦🇷",
-        "info":"",
+        "info":"[Tele]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.telegratishd.com/espn-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -749,17 +749,17 @@
         },
         {
         "name": "ESPN 🇦🇷",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
-        "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",        
         "isHost":""
         },
         {
         "name": "ESPN 🇦🇷",
-        "info":"",
+        "info":"[Tele]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
         "url": "https://www.telegratishd.com/espn-3-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -769,8 +769,18 @@
         "isHost":"true"
         },
         {
+        "name": "ESPN 🇦🇷",
+        "info":"[Cable]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://embed.sdfgnksbounce.com/embed2/espn.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
         "name": "ESPN 2 🇲🇽",
-        "info":"",
+        "info":"[Tele]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://www.telextrema.com/espn-2-mexico-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -780,7 +790,7 @@
         },
         {
         "name": "ESPN 2 🇲🇽",
-        "info":"",
+        "info":"[Iptv]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "http://45.71.254.1:8000/play/a0e7/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -790,7 +800,7 @@
         },
         {
         "name": "ESPN 2 🇦🇷",
-        "info":"",
+        "info":"[streamtp]",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
         "url": "https://streamtp1.com/global1.php?stream=espn2",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -801,13 +811,23 @@
         },
         {
         "name": "ESPN 2 🇦🇷",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
-        "url": "https://windnew.newkso.ru/wind/premium150/mono.m3u8",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
-        "online":"true",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium150/mono.m3u8",        
         "isHost":""
+        },
+        {
+        "name": "ESPN 2 🇦🇷",
+        "info":"[Cable]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "url": "https://embed.sdfgnksbounce.com/embed2/espn2.html",        
+        "isHost":"true"
         },
         {
         "name": "ESPN 3 🇲🇽",
@@ -1101,12 +1121,12 @@
         "online":"true",
         "embed": "",
         "isHost":"true"
-        },
+        },        
         {
         "name": "Dsports 🇦🇷",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "url": "https://streamtp3.com/global1.php?stream=dsports",
+        "url": "https://embed.sdfgnksbounce.com/embed2/directvsports.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -1116,7 +1136,7 @@
         "name": "Dsports 🇦🇷",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "url": "https://tucanaldeportivo.org/directvsports.php",
+        "url": "https://streamtp3.com/global1.php?stream=dsports",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -1146,32 +1166,32 @@
         "name": "Dsports 2 🇦🇷",
         "info":"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
-        "url": "https://streamtp3.com/global1.php?stream=dsports2",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Dsports 2 🇦🇷",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
-        "url": "https://la12hd.com/vivo/canal.php?stream=dsports2",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },
-        {
-        "name": "Dsports 2 🇦🇷",
-        "info":"",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
         "url": "https://www.cablevisionhd.com/directv-sports-2-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
         },
+        {
+        "name": "Dsports 2 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://embed.sdfgnksbounce.com/embed2/directvsports2.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 2 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://streamtp3.com/global1.php?stream=dsports2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },        
         {
         "name": "Dsports + 🇦🇷",
         "info":"",
