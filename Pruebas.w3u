@@ -20,13 +20,13 @@
         "isHost":"true"
         },
         {
-        "name": "Prueba 002",
+        "name": "Prueba 02",
         "info":"",
         "online":"true",
         "image": "",
         "url": "https://vsd136.okcdn.ru/cmaf/8368002370169/sig/a5i1_O6jFb0/expires/1749432781409/srcIp/177.228.105.157/urls/185.226.52.52/clientType/36/srcAg/CHROME/mid/9621989181305/get/dash_9621989181305.ZlEtaJyc6u0.mpd?offset_p=6000",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://live.vkvideo.ru/app/embed/mltv14",
+        "userAgent": "",
+        "referer" : "",
         "embed": "",
         "isHost":"true"
         },
