@@ -15,7 +15,7 @@
           [
             {
               "name": "GP GoPro de Aragón",
-              "info": "[DAZN 1]",
+              "info": "[DAZN 1][OPC1]",
               "online": "true",
               "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -25,12 +25,42 @@
             },
             {
               "name": "GP GoPro de Aragón",
-              "info": "[DAZN 1]",
+              "info": "[DAZN 1][OPC2]",
               "online": "true",
               "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "https://tvableon.me/sd0embed/F1?pid=5&gacat=MotoGP+Aragon+GP%3A+MotoGP+Race&gatxt=F1&v=motogpeshd%7Emotogpessd",
               "url": "https://s-c3.aistrem.net/plyvivo/cik0m0rugitih02oginu/chunklist.m3u8",
+              "isHost":""
+            },
+            {
+              "name": "GP GoPro de Aragón",
+              "info": "[DAZN 1][OPC3]",
+              "online": "true",
+              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://bleedfilter.net/",
+              "url": "https://frksp94uyev75h3bq26djc.cdnshave.net:8443/hls/pz65xpc.m3u8?s=rCV_RprNsW1CT078jV1E4Q&e=1749388874",
+              "isHost":""
+            },
+            {
+              "name": "GP GoPro de Aragón",
+              "info": "[DAZN 1][OPC4]",
+              "online": "true",
+              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "",
+              "url": "https://enz.gdplayertv.to/embed/dazn-1-es/",
+              "embed":"true"
+            },
+            {
+              "name": "GP GoPro de Aragón",
+              "info": "[ESPN]",
+              "online": "true",
+              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://alldownplay.xyz",
+              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
               "isHost":""
             }
           ]
