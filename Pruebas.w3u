@@ -20,7 +20,7 @@
         "isHost":"true"
         },
         {
-        "name": "Prueba 002",
+        "name": "Prueba 02",
         "info":"",
         "online":"true",
         "image": "",
@@ -28,7 +28,7 @@
         "userAgent": "",
         "referer" : "",
         "embed": "",
-        "isHost":"true"
+        "isHost":""
         },
         {
 		"name": "Prueba 03",
