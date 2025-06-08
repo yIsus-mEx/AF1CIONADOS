@@ -20,8 +20,17 @@
               "image": "https://i.postimg.cc/5022p3XK/hq720.jpg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "https://streamxu.lat/",
-              "url": "https://prospectivetoday.fun/hls/cr7star001.m3u8
-",
+              "url": "https://prospectivetoday.fun/hls/cr7star001.m3u8",
+              "isHost":""
+            },
+            {
+              "name": "Money in the Bank",
+              "info": "[Latino]",
+              "online": "true",
+              "image": "https://i.postimg.cc/5022p3XK/hq720.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "",
+              "url": "https://live20.bozztv.com/giatv/giatv-lapuerkaes/lapuerkaes/chunks.m3u8",
               "isHost":""
             }
           ]
