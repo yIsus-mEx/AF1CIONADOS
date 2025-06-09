@@ -71,30 +71,43 @@ http://38.44.109.41:8003/play/a038/index.m3u8
 #EXTINF:-1 group-title="-",EJTV
 http://38.44.109.41:8003/play/a014/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a02v/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a00v/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a00w/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a03m/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a02t/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a00u/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a02u/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a02m/index.m3u8
 #EXTINF:-1 group-title="-",ESPN2_MOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a03u/index.m3u8
 #EXTINF:-1 group-title="-",ESPN3_MOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a03v/index.m3u8
 #EXTINF:-1 group-title="-",ESPN5_MOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a03w/index.m3u8
 #EXTINF:-1 group-title="-",ESPNPremium_MOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a03y/index.m3u8
 #EXTINF:-1 group-title="-",ESPN_MOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a03x/index.m3u8
 #EXTINF:-1 group-title="-",EWTN
 http://38.44.109.41:8003/play/a01u/index.m3u8
