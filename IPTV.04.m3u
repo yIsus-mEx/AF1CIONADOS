@@ -1,13 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",A3Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a01k/index.m3u8
 #EXTINF:-1 group-title="-",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a02a/index.m3u8
 #EXTINF:-1 group-title="-",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a00r/index.m3u8
 #EXTINF:-1 group-title="-",ATV Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a02r/index.m3u8
 #EXTINF:-1 group-title="-",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://38.44.109.41:8003/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",AlJazeera
 http://38.44.109.41:8003/play/a00q/index.m3u8
