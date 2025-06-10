@@ -3150,9 +3150,18 @@
         		},
 			{
        			"name": "FC Barcelona vs Unicaja",
-	        	"info": "[06-06-2025][RONDA 2]",
+	        	"info": "[06-06-2025][RONDA 3]",
 	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
 			"url": "https://filemoon.to/d/f712kzdhk64e/Cuartos_Liga_Endesa_Barsa_VS_Unicaja_060625.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Unicaja vs FC Barcelona",
+	        	"info": "[08-06-2025][RONDA 4]",
+	        	"image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+			"url": "https://filemoon.to/d/sokhhxyis5y3/Cuartos_Liga_Endesa_Unicaja_VS_Barsa_080625.mkv",
 			"online": "true",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
