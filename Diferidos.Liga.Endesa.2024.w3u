@@ -3081,7 +3081,7 @@
 
 	{
         "name": "RONDAS 1/4 DE FINAL",
-        "image": "",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
         "info": "",
         "stations":
             [
@@ -3167,7 +3167,26 @@
         		"isHost": "true"
         		}
 		]
+	},
+
+	{
+        "name": "RONDAS SEMIFINALES",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Valencia vs Tenerife",
+	        	"info": "[10-06-2025][RONDA 1]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
 	}
+
 
 
 	]
