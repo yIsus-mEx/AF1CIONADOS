@@ -9,85 +9,112 @@
   [
 
      {
-      "name": "GP GoPro de Aragón",
-      "image": "https://resources.motogp.pulselive.com/motogp/photo/2025/05/28/6ff627ff-96cb-4b33-b464-70a6140c9b58/IMG_7138.jpg",
+      "name": "F1: GP Canada 2025",
+      "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
       "stations": 
           [
             {
-              "name": "GP GoPro de Aragón",
-              "info": "[DAZN 1][OPC1]",
+              "name": "GP Canada 2025",
+              "info": "[acestream]",
               "online": "true",
-              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
-              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer" : "https://alldownplay.xyz",
-              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium445/mono.m3u8",
-              "isHost":""
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
+              "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
             },
             {
-              "name": "GP GoPro de Aragón",
-              "info": "[DAZN 1][OPC2]",
+              "name": "GP Canada",
+              "info": "[Daddy][DAZN F1]",
               "online": "true",
-              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
-              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer" : "https://tvableon.me/sd0embed/F1?pid=5&gacat=MotoGP+Aragon+GP%3A+MotoGP+Race&gatxt=F1&v=motogpeshd%7Emotogpessd",
-              "url": "https://s-c3.aistrem.net/plyvivo/cik0m0rugitih02oginu/chunklist.m3u8",
-              "isHost":""
-            },
-            {
-              "name": "GP GoPro de Aragón",
-              "info": "[DAZN 1][OPC3]",
-              "online": "true",
-              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
-              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer" : "https://bleedfilter.net/",
-              "url": "https://frksp94uyev75h3bq26djc.cdnshave.net:8443/hls/pz65xpc.m3u8?s=rCV_RprNsW1CT078jV1E4Q&e=1749388874",
-              "isHost":""
-            },
-            {
-              "name": "GP GoPro de Aragón",
-              "info": "[DAZN 1][OPC4]",
-              "online": "true",
-              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "",
-              "url": "https://enz.gdplayertv.to/embed/dazn-1-es/",
+              "url": "https://idx.gdplayertv.to/live-tv/dazn-f1/?embed=1",
               "embed":"true"
             },
             {
-              "name": "GP GoPro de Aragón",
-              "info": "[ESPN]",
+              "name": "GP Canada",
+              "info": "[Daddy][DAZN F1]",
               "online": "true",
-              "image": "https://cdn.rri.co.id/berita/Takengon/t/1749095509779-Screenshot_20250605-104548/kklmihr8arwf77g.jpeg",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "https://alldownplay.xyz",
-              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+              "isHost":""
+            },
+            {
+              "name": "GP Canada",
+              "info": "[Antena][DAZN F1]",
+              "online": "true",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://veplay.top/",
+              "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTQ5MWM3M2RmN2E0LTJhMmEtYTNjNC1mMmMyLWFlMjEyZmYz/master.m3u8?md5=uEM4S150ZRGT1Fp8afMHCg&expires=1748793637&t=1748750437",
+              "isHost":""
+            },
+            {
+              "name": "GP Canada",
+              "info": "[TELE][DAZN F1]",
+              "online": "true",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "",
+              "url": "https://www.telegratishd.com/dazn-f1-en-vivo.html",
+              "isHost": "true"
+            },
+            {
+              "name": "GP Canada",
+              "info": "[Hulu][DAZN F1]",
+              "online": "true",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://huhu.to/",
+              "url": "https://www.oha.to/play/270716645/index.m3u8",
               "isHost":""
             }
           ]
      },
      {
-      "name": "WWE: Money in the Bank",
-      "image": "https://i.postimg.cc/5022p3XK/hq720.jpg",
+      "name": "24 Horas de Le Mans",
+      "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
       "stations": 
           [
             {
-              "name": "Money in the Bank",
-              "info": "[Latino]",
+              "name": "24 Horas de Le Mans",
+              "info": "[IP][Eurosport 1]",
               "online": "true",
-              "image": "https://i.postimg.cc/5022p3XK/hq720.jpg",
+              "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer" : "https://streamxu.lat/",
-              "url": "https://prospectivetoday.fun/hls/cr7star001.m3u8",
+              "referer" : "",
+              "url": "http://185.189.225.157/EuroSport1/index.m3u8",
               "isHost":""
             },
             {
-              "name": "Money in the Bank",
-              "info": "[Latino]",
+              "name": "24 Horas de Le Mans",
+              "info": "[Daddy][Eurosport 1]",
               "online": "true",
-              "image": "https://i.postimg.cc/5022p3XK/hq720.jpg",
+              "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://alldownplay.xyz",
+              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium524/mono.m3u8",
+              "isHost":""
+            },
+            {
+              "name": "24 Horas de Le Mans",
+              "info": "[Daddy][Eurosport 2]",
+              "online": "true",
+              "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://alldownplay.xyz",
+              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8",
+              "isHost":""
+            },
+            {
+              "name": "24 Horas de Le Mans",
+              "info": "[IP][Eurosport 2]",
+              "online": "true",
+              "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "",
-              "url": "https://live20.bozztv.com/giatv/giatv-lapuerkaes/lapuerkaes/chunks.m3u8",
+              "url": "http://185.189.225.157/EuroSport2/index.m3u8",
               "isHost":""
             }
           ]
@@ -310,199 +337,6 @@
             }
           ]
         },
-
-        {
-          "name": "F1: ",
-          "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": 
-          [
-            {
-              "name": "",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[DAZNF1]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "true",
-              "online": "true",
-              "isHost": ""
-            },
-            {
-              "name": "",
-              "info": "[DanzF1]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "https://webxzplay.cfd/",
-              "online": "true",
-              "isHost": ""
-            },
-            {
-              "name": "",
-              "info": "[DAZNF1]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "https://cookiewebplay.xyz/",
-              "online": "true",
-              "isHost": ""
-            },
-            {
-              "name": "",
-              "info": "[DAZNF1]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "https://cookiewebplay.xyz/",
-              "online": "true",
-              "isHost": ""
-            },
-            {
-              "name": "",
-              "info": "[FOX PREMIUM]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[FOX PREMIUM]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "https://cookiewebplay.xyz/",
-              "online": "true",
-              "isHost": ""
-            },
-            {
-              "name": "",
-              "info": "[FOX 1 ARG]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[ESPN]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[ESPN]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[ESPN]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[ESPN]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[ESPN]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            }
-          ]
-        },
-
         {
           "name": "MOTO GP: ",
           "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
