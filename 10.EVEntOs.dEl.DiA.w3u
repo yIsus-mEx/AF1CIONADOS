@@ -27,7 +27,7 @@
               "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "",
-              "url": "https://idx.gdplayertv.to/live-tv/dazn-f1/?embed=1",
+              "url": "https://enz.gdplayertv.to/live-tv/dazn-f1/?embed=1",
               "embed":"true"
             },
             {
@@ -69,6 +69,26 @@
               "referer" : "https://huhu.to/",
               "url": "https://www.oha.to/play/270716645/index.m3u8",
               "isHost":""
+            },
+            {
+              "name": "GP Canada",
+              "info": "[ESPN][F1]",
+              "online": "true",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "",
+              "url": "https://stream196tp.com/global1.php?stream=espndeportes",
+              "isHost":"true"
+            },
+            {
+              "name": "GP Canada",
+              "info": "[FOX][F1]",
+              "online": "true",
+              "image": "https://i.postimg.cc/63DJtvpb/1-Ferrari-Canadian-GP-poster-1.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "",
+              "url": "https://stream196tp.com/global1.php?stream=fox1ar",
+              "isHost":"true"
             }
           ]
      },
@@ -116,33 +136,53 @@
               "referer" : "",
               "url": "http://185.189.225.157/EuroSport2/index.m3u8",
               "isHost":""
+            },
+            {
+              "name": "24 Horas de Le Mans",
+              "info": "[Daddy][Motor]",
+              "online": "true",
+              "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://alldownplay.xyz",
+              "url": "https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8",
+              "isHost":""
             }
           ]
      },
      {
-      "name": "UFC 316: Dvalishvili vs O'Malley 2",
-      "image": "https://i.postimg.cc/VLq5fdPR/ufc-316.jpg",
+      "name": "UFC Fight Night: Usman vs Buckley",
+      "image": "https://i.postimg.cc/cHptFGdX/UFCC.jpg",
       "stations": 
           [
             {
-              "name": "UFC 316: Dvalishvili vs O'Malley 2",
+              "name": "Fight Night: Usman vs Buckley",
               "info": "[Latino]",
               "online": "true",
-              "image": "https://i.postimg.cc/VLq5fdPR/ufc-316.jpg",
+              "image": "https://i.postimg.cc/cHptFGdX/UFCC.jpg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
               "referer" : "https://streamxu.lat/",
-              "url": "https://stream196tp.com/global1.php?stream=disney16",
+              "url": "https://stream196tp.com/global1.php?stream=disney2",
               "isHost":"true"
             },
             {
-              "name": "UFC 316: Dvalishvili vs O'Malley 2",
-              "info": "[Latino]",
+              "name": "Fight Night: Usman vs Buckley",
+              "info": "[Eurosport]",
               "online": "true",
-              "image": "https://i.postimg.cc/VLq5fdPR/ufc-316.jpg",
+              "image": "https://i.postimg.cc/cHptFGdX/UFCC.jpg",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer" : "",
-              "url": "https://stream196tp.com/global1.php?stream=foxsportspremium",
-              "isHost":"true"
+              "referer" : "https://alldownplay.xyz",
+              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8",
+              "isHost":""
+            },
+            {
+              "name": "Fight Night: Usman vs Buckley",
+              "info": "[TNT Sport 1]",
+              "online": "true",
+              "image": "https://i.postimg.cc/cHptFGdX/UFCC.jpg",
+              "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+              "referer" : "https://alldownplay.xyz",
+              "url": "https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8",
+              "isHost":""
             }
           ]
      },
