@@ -95,6 +95,16 @@
       "stations": [
         {
           "name": "24 Horas de Le Mans",
+          "info": "[FOX DEPORTES]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://alldownplay.xyz",
+          "url": "https://aegis-akamai.tubi.video/c5dacf9a-08c0-4d28-9e76-a26dbc575267/playlist720p.m3u8",
+          "isHost": ""
+        },
+        {
+          "name": "24 Horas de Le Mans",
           "info": "[Daddy][Eurosport 1]",
           "online": "true",
           "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
