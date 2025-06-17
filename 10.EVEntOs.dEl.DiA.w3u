@@ -10,7 +10,13 @@
     {
       "name": "Mundialito de Clubes",
       "image": "https://tse2.mm.bing.net/th/id/OIP.zkvVE58ZWLQo5RMnYBo7SAHaFu?cb=thvnextc1&rs=1&pid=ImgDetMain",
-      "stations": 
+      "groups": 
+        [
+
+        {
+        "name": "00:00 Ulsan Hyundai vs Mamelodi",
+        "image": "https://image.discovery.indazn.com/eu/v3/eu/none/3adxvj4wblndfyzuqhbh9a7zo_image-header_pEs_1749733959000/fill/center/top/none/85/512/288/webp/image",
+        "stations":
         [
         {
           "name": "00:00 Ulsan Hyundai vs Mamelodi",
@@ -66,7 +72,15 @@
           "embed": "true",
           "online": "true",
           "isHost": ""
+        }
+        ]
         },
+
+        {
+        "name": "03:00 Monterrey vs Inter de Milán",
+        "image": "https://image.discovery.indazn.com/eu/v3/eu/none/3kbixcxh9kwptcvs5o5icj9rj_image-header_pEs_1749925856000/fill/center/top/none/85/512/288/webp/image",
+        "stations":
+        [
         {
           "name": "03:00 Monterrey vs Inter de Milán",
           "image": "https://image.discovery.indazn.com/eu/v3/eu/none/3kbixcxh9kwptcvs5o5icj9rj_image-header_pEs_1749925856000/fill/center/top/none/85/512/288/webp/image",
@@ -122,6 +136,9 @@
           "online": "true",
           "isHost": ""
         }
+        ]
+        }
+
       ]
     },
 
