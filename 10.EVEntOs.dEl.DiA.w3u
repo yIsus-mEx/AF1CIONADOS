@@ -143,7 +143,7 @@
     },
 
     {
-      "name": "FORMULA 1:",
+      "name": "Formula 1:",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
       "stations": 
         [
@@ -330,83 +330,6 @@
           "embed": "",
           "online": "true",
           "isHost": "true"
-        }
-      ]
-    },
-
-    {
-      "name": "24 Horas de Le Mans",
-      "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-      "stations": [
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[FOX DEPORTES]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://alldownplay.xyz",
-          "url": "https://aegis-akamai.tubi.video/c5dacf9a-08c0-4d28-9e76-a26dbc575267/playlist720p.m3u8",
-          "isHost": ""
-        },
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[Daddy][Eurosport 1]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://alldownplay.xyz",
-          "url": "https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium524/mono.m3u8",
-          "isHost": ""
-        },
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[IP][Eurosport 1]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "url": "http://185.189.225.157/EuroSport1/index.m3u8",
-          "isHost": ""
-        },
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[Daddy][Eurosport 2]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://alldownplay.xyz",
-          "url": "https://tinworld-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8",
-          "isHost": ""
-        },
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[IP][Eurosport 2]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "url": "http://185.189.225.157/EuroSport2/index.m3u8",
-          "isHost": ""
-        },
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[TNT Sport 4]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://alldownplay.xyz",
-          "url": "https://sporturi-live.ro/rapid2.html?id=tnt4uk",
-          "embed": "true"
-        },
-        {
-          "name": "24 Horas de Le Mans",
-          "info": "[Daddy][Motor]",
-          "online": "true",
-          "image": "https://i.postimg.cc/1tk93TzQ/lemans-2025.webp",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://alldownplay.xyz",
-          "url": "https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8",
-          "isHost": ""
         }
       ]
     },
