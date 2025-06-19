@@ -8,9 +8,35 @@
 "groups":
     [
         {
+        "name": "R08 IndyCar iLLinois",
+        "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
+        "info": "[15-06-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "",
+                "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
+                "url" :"https://pixeldrain.com/u/X3fP2Goy",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R07 IndyCar Detroit",
         "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
-        "info": "[10-05-2025]",
+        "info": "[01-06-2025]",
         "stations":
             [
                 {
@@ -36,7 +62,7 @@
         {
         "name": "R06 IndyCar Indianapolis 500",
         "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
-        "info": "[10-05-2025]",
+        "info": "[25-05-2025]",
         "stations":
             [
                 {
