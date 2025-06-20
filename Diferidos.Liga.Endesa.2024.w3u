@@ -3248,7 +3248,62 @@
         		"isHost": "true"
         		}
 		]
+	},
+
+	{
+        "name": "FINAL",
+        "image": "https://estaticos.sport.es/resources/jpg/5/3/nuevo-logo-liga-endesa-1501006168735.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Real Madrid vs Valencia",
+	        	"info": "[20-06-2025][PARTIDO 1]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid vs Valencia",
+	        	"info": "[22-06-2025][PARTIDO 2]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Valencia vs Real Madrid",
+	        	"info": "[25-06-2025][PARTIDO 2]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Valencia vs Real Madrid",
+	        	"info": "[25-06-2025][PARTIDO 2]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid vs Valencia",
+	        	"info": "[30-06-2025][PARTIDO 2]",
+	        	"image": "",
+	        	"url": "",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
 	}
+
 
 
 
