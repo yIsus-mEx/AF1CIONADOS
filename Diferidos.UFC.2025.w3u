@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Usman vs Buckley",
+         "image": "https://i.postimg.cc/kgnfX6C8/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Usman vs Buckley",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/kgnfX6C8/UFC.png",
+                "url":"https://pixeldrain.com/u/KETReste",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 316: Dvalishvili vs O'Malley 2",
          "image": "https://i.postimg.cc/zDK7nW77/UFC-316.png",
          "imageScale": "",
