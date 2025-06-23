@@ -1,0 +1,74 @@
+{
+"name": "Ladrones",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Ladrones.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+ 				"url":"https://filemoon.to/d/4rknhowlxh4f",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+				"url":"https://filemoon.to/d/6knzyvb2gc6i",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+				"url":"https://filemoon.to/d/n4jrleqyjfdf",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+				"url":"https://filemoon.to/d/ztz3t6xh5kre",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+				"url":"https://filemoon.to/d/u7w95pvuno8j",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Ladrones_La_tiara_de_santa_aAgueda_Serie_de_TV-217755292-large.jpg",
+				"url":"https://filemoon.to/d/h0hw73ackv0e",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
