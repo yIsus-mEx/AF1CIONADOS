@@ -1,0 +1,92 @@
+{
+"name": "Jugando con Fuego España",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Jugando.con.Fuego.España.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+ 				"url":"https://filemoon.to/d/5riy9xergv7r",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/7ppvkfak76v2",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/cgof88axbjvn",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/eckggn8dl3je",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/v0r1og39ot7c",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/px8lvzh4mzyf",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/mhfyfpkfu7bj",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/332205722/s718/jugando-con-fuego.jpg",
+				"url":"https://filemoon.to/d/1es8pe955djo",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
