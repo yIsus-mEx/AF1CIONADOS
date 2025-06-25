@@ -8,6 +8,32 @@
 "groups":
     [
         {
+        "name": "R09 IndyCar Road America",
+        "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
+        "info": "[22-06-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
+                "url" :"https://pixeldrain.com/u/ykfV3o8u",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
+                "url" :"https://pixeldrain.com/u/E1EBhHta",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R08 IndyCar iLLinois",
         "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
         "info": "[15-06-2025]",
@@ -16,9 +42,9 @@
                 {
                 "name": "Carrera",
                 "info":"[Latino]",
-                "online": "",
+                "online": "true",
                 "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
-                "url" :"",
+                "url" :"https://pixeldrain.com/u/ET4wCNYL",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
                 },

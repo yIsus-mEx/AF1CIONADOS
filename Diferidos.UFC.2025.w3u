@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Night Hill vs Rountree Jr",
+         "image": "https://i.postimg.cc/9QRWDNk7/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Night Hill vs Rountree Jr",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/9QRWDNk7/UFC.png",
+                "url":"https://pixeldrain.com/u/hqGmxREh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Usman vs Buckley",
          "image": "https://i.postimg.cc/kgnfX6C8/UFC.png",
          "imageScale": "",
