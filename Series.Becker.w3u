@@ -1,0 +1,443 @@
+{
+"name": "Becker",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Becker.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+ 		"imageScale": "",
+ 		"info":"", 
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]", 
+ 				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+ 				"url":"https://filemoon.to/d/cxh35ia7e8a3",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/ke4r1orlcew1",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/ylxa2dot4v49",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/43q2zw9658nh",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/vwki6opnit99",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/yn2zwt88lc2a",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/qiz5jzntqa8j",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/jlqmowe1rcsi",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 09",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/b3n8ogm36qta",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 10",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/enx0gu1812ay",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 11",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/zqk9szd81gjf",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 12",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/rt2ejn2uezte",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 13",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/uhafykwlpmxk",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+ 				"name": "Episodio 14",
+ 				"info":"[Español]", 
+ 				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+ 				"url":"https://filemoon.to/d/uobveeucbmra",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 15",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/38hq3e75phyb",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 16",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/5v7t9n07auz3",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 17",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/yafuzbo3grtw",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 18",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/ldneviks27lm",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 19",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/3fnf77z8qzva",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 20",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/29kbwraht7pc",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 21",
+				"info":"[Español]",   
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/ngeyqnhsj9ky",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 22",
+				"info":"[Español]",  
+				"image":"https://m.media-amazon.com/images/M/MV5BMTg3MjY3ODIyMF5BMl5BanBnXkFtZTcwNTcyNzM2MQ@@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/6mpcrzb5fqig",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+ 		"imageScale": "",
+ 		"info":"", 
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]", 
+ 				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+ 				"url":"https://filemoon.to/d/wc6gpti7u2xi",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]", 
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/qf7x89qe2l1z",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]", 
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/07etsmqh7ple",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]", 
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/3tftmsodbbcs",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/6sumn3w3zm6e",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/qoi1c3d9d39i",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/tfokihigeqof",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/vq41w24769mw",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 09",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/qlx5nyrnhc2w",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 10",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/erfbnrddv48i",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 11",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/6hbe85v725x9",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 12",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/9fe1pzkj1bas",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 13",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/r2i4on2kp4gf",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+ 				"name": "Episodio 14",
+ 				"info":"[Español]", 
+ 				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+ 				"url":"https://filemoon.to/d/t9sp4ntcfopw",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 15",
+				"info":"[Español]", 
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/48nlrwy2b2gc",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 16",
+				"info":"[Español]", 
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/nberrubn7jbd",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 17",
+				"info":"[Español]", 
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/esmt0hp6o238",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 18",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/j40exjrr1wy5",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 19",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/4oj4ravo1104",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 20",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/bivh4j2gd0ld",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 21",
+				"info":"[Español]",   
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/2tl5pv3nqtgv",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 22",
+				"info":"[Español]",  
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/x7frht61rzii",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 23",
+				"info":"[Español]",  
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/kbzn1g086gwn",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 24",
+				"info":"[Español]",  
+				"image":"https://image.tmdb.org/t/p/w500/p5GmsCwFgDk1Z2KLfJ8JuM0auKj.jpg",
+				"url":"https://filemoon.to/d/w2yisc5gt2fb",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
