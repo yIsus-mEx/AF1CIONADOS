@@ -140,8 +140,9 @@
         "info":"[Antena]",
         "online":"true",
 		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
-        "url" : "https://esx1new.newkso.ru/esx1/primavamos/mono.m3u8", 
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://andrenalynrushplay.cfd/",
+        "url" : "https://esx1new.newkso.ru/esx1/primavamos/mono.m3u8",        
 		"isHost":""
         },
         {
@@ -310,8 +311,8 @@
         "online":"true",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://veplay.top/",
-        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTQ5MWM3M2RmN2E0LTJhMmEtYTNjNC1mMmMyLWFlMjEyZmYz/master.m3u8?md5=uEM4S150ZRGT1Fp8afMHCg&expires=1748793637&t=1748750437",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://top2new.newkso.ru/top2/daznf1/mono.m3u8",
         "isHost":""
         },
         {
@@ -340,8 +341,8 @@
         "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://zekonew.newkso.ru/zeko/premium524/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-524.php",
+        "isHost":"true"
         },
         {
         "name": "EuroSport 1 🇪🇸",
@@ -364,25 +365,14 @@
         "isHost":""
         },
         {
-        "name": "EuroSport 1 🇬🇧",
-        "info":"[Antena][CEL]",
-        "online":"true",
-        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://antenaplanet.store/eurosport1uk.php",
-        "embed": "true",
-        "isHost":""
-        },
-        {
         "name": "EuroSport 2 🇪🇸",
         "info":"[Daddy]",
         "online":"true",
         "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-525.php",
+        "isHost":"true"
         },
         {
         "name": "EuroSport 2 🇪🇸",
@@ -392,17 +382,6 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "EuroSport 2 🇬🇧",
-        "info":"[Antena][CEL]",
-        "online":"true",
-        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://antenaplanet.store/eurosport2uk.php",
-        "embed": "true",
         "isHost":""
         },
         {
@@ -422,8 +401,8 @@
         "image": "https://i.postimg.cc/RCHt5NQy/GolPlay.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium530/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-530.php",
+        "isHost":"true"
         },
         {
         "name": "TDP 🇪🇸",
@@ -432,8 +411,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-529.php",
+        "isHost":"true"
         },
         {
         "name": "TDP 🇪🇸",
@@ -462,8 +441,8 @@
         "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-66.php",
+        "isHost":"true"
         },
         {
         "name": "TUDN 🇲🇽",
@@ -490,8 +469,8 @@
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-643.php",
+        "isHost":"true"
         },
         {
         "name": "Fox Deportes 🇺🇸",
@@ -520,8 +499,8 @@
         "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://nfsnew.newkso.ru/nfs/premium929/mono.m3u8",
-        "isHost":""
+        "url": "https://rockhd.lol/live/stream-929.php",
+        "isHost":"true"
         },
         {
         "name": "FoxSport 1 🇲🇽",
