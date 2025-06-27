@@ -137,21 +137,12 @@
         },
         {
         "name": "#Vamos 🇪🇸",
-        "info":"[Tarjeta]",
+        "info":"[Antena]",
         "online":"true",
 		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
-        "url" : "https://m1.merichunidya.com:999/hls/wsmkmlfeed55.m3u8?md5=il1Zn-hK4s9UX2UFgMGGGQ&expires=1749262037", 
-        "referer" : "",
+        "url" : "https://esx1new.newkso.ru/esx1/primavamos/mono.m3u8", 
+        "referer" : "https://andrenalynrushplay.cfd/",
 		"isHost":""
-        },
-        {
-        "name": "#Vamos 🇪🇸",
-        "info":"[TV]",
-        "online":"true",
-		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
-        "url" : "https://catchthrust.net/embed/xfkc2i", 
-        "referer" : "https://tarjetarojaenvivo.lat/",
-		"isHost":"true"
         },
         {
         "name": "Movistar + 🇪🇸",
