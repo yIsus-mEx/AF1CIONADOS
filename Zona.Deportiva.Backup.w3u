@@ -1,0 +1,2185 @@
+{
+"name": "Zona Deportiva",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+        {
+        "name": "LaLiga Tv 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "LaLiga Tv 🇪🇸",
+        "info":"[MiHD]",
+        "online":"true",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "url": "https://mihd.tv/movistar-la-liga-en-vivo-por-internet.html",     
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost":"true"
+        },
+        {
+        "name": "LaLiga Tv Hypermotion 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "LaLiga Tv Hypermotion 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://veplay.top/",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGFjY2NjMjY4NTNhLWNmNzktOWRmNC1jY2QwLTVmYjc0YWI4/master.m3u8?md5=t5uYCEblXzrx11W3HNP79A&expires=1748788086&t=1748744886",
+        "isHost":""
+        },
+        {
+        "name": "LaLiga Tv Hypermotion 🇪🇸",
+        "info":"[Antena][CEL]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://antenaplanet.store/liga1.php",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "LaLiga Tv Hypermotion 2 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://veplay.top/",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODAxY2YyM2U2ZDAyLTM4ZTktMDdiNC05NGZmLTliNjlkOGE1/master.m3u8?md5=D0s2CHCqXZ7rGpjHjUpHbA&expires=1748788299&t=1748745099",
+        "isHost":""
+        },
+        {
+        "name": "LaLiga Tv Hypermotion 2 🇪🇸",
+        "info":"[Antena][CEL]",
+        "online":"true",
+        "image": "https://i.postimg.cc/sDRLFRcj/LALIGA-TV-Hypermotion-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://antenaplanet.store/liga2.php",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Dazn LaLigA 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn LaLiga 🇪🇸",
+        "info":"[Tele]",
+        "online":"true",
+        "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://www.telegratishd.com/dazn-la-liga-en-vivo.html",
+        "isHost":"true"
+        },
+        {
+        "name": "M CampeoneS 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://rockhd.lol/live/stream-435.php",
+        "isHost":"true"
+        },
+        {
+        "name": "M CampeoneS 🇪🇸",
+        "info":"[MiHD]",
+        "online": "true",
+        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
+        "url": "https://mihd.tv/movistar-liga-de-campeones-en-vivo-por-internet.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost": "true"
+        },
+        {
+        "name": "M CampeoneS 🇪🇸",
+        "info": "[Tele]",
+        "online": "true",
+        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
+        "url": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost": "true"
+        },
+        {
+        "name": "#Vamos 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium521/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "#Vamos 🇪🇸",
+        "info":"[Tarjeta]",
+        "online":"true",
+		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
+        "url" : "https://m1.merichunidya.com:999/hls/wsmkmlfeed55.m3u8?md5=il1Zn-hK4s9UX2UFgMGGGQ&expires=1749262037", 
+        "referer" : "",
+		"isHost":""
+        },
+        {
+        "name": "#Vamos 🇪🇸",
+        "info":"[TV]",
+        "online":"true",
+		"image": "https://i.postimg.cc/mg44mdVP/Vamos-Logo.png",
+        "url" : "https://catchthrust.net/embed/xfkc2i", 
+        "referer" : "https://tarjetarojaenvivo.lat/",
+		"isHost":"true"
+        },
+        {
+        "name": "Movistar + 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://rockhd.lol/live/stream-437.php",
+        "isHost":"true"
+        },
+        {
+        "name": "Movistar + 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://esx1new.newkso.ru/esx1/primamovistarplus/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://zekonew.newkso.ru/zeko/premium436/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://esx1new.newkso.ru/esx1/primamovistar1/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 2 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://zekonew.newkso.ru/zeko/premium438/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 2 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",       
+        "url": "https://esx1new.newkso.ru/esx1/primamovistar2/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 3 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 3 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/wB8Qjt91/Liga-de-Campeones-3-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",        
+        "url": "https://esx1new.newkso.ru/esx1/primamovistar3/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "M Deportes 4 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Df4fq5s4/movistar-deportes-4-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Movistar Golf 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/vmXvrkDW/Golf-por-Movistar-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 1 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium445/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 1 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://esx1new.newkso.ru/esx1/primadazn1/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 1 🇪🇸",
+        "info":"[Tarjeta]",
+        "online":"true",
+        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "url": "https://m7.merichunidya.com:999/hls/wsmkmlfeed56.m3u8?md5=89re0JEXhO2S3-NnRFrxSQ&expires=1749261685",
+        "isHost":""
+        },
+        {
+        "name": "Dazn 2 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://zekonew.newkso.ru/zeko/premium446/mono.m3u8",
+        "isHost":""
+        },  
+        {
+        "name": "Dazn 2 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://azonew.newkso.ru/azo/dazn2es/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn F1 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Dazn F1 🇪🇸",
+        "info":"[Antena]",
+        "online":"true",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://veplay.top/",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTQ5MWM3M2RmN2E0LTJhMmEtYTNjNC1mMmMyLWFlMjEyZmYz/master.m3u8?md5=uEM4S150ZRGT1Fp8afMHCg&expires=1748793637&t=1748750437",
+        "isHost":""
+        },
+        {
+        "name": "Dazn F1 🇪🇸",
+        "info": "[Tele]",
+        "online": "true",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://www.telegratishd.com/dazn-f1-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost": "true"
+        },
+        {
+        "name": "DazN F1 🇪🇸",
+        "info":"[huhu]",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://www.oha.to/play/270716645/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://huhu.to/",
+        "online":"true",
+        "isHost":""
+        },        
+        {
+        "name": "EuroSport 1 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://zekonew.newkso.ru/zeko/premium524/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 1 🇪🇸",
+        "info":"[huhu]",
+        "online":"true",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://huhu.to/",
+        "url": "https://www.oha.to/play/1364676535/index.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 1 🇪🇸",
+        "info":"[IP]",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "url": "http://185.189.225.157/EuroSport1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 1 🇬🇧",
+        "info":"[Antena][CEL]",
+        "online":"true",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://antenaplanet.store/eurosport1uk.php",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 2 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 2 🇪🇸",
+        "info":"[IP]",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "url": "http://185.189.225.157/EuroSport2/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EuroSport 2 🇬🇧",
+        "info":"[Antena][CEL]",
+        "online":"true",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://antenaplanet.store/eurosport2uk.php",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "OneToro 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/3NPg03dN/Onetoro-Logo.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Gol Play 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/RCHt5NQy/GolPlay.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium530/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "TDP 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "TDP 🇪🇸",
+        "info":"[IP]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+        "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TDP 🇪🇸",
+        "info":"[IP]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+        "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TUDN 🇺🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "TUDN 🇲🇽",
+        "info":"[12HD]",
+        "online":"true",
+        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=tudn",     
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost":"true"
+        },
+        {
+        "name": "TUDN 🇲🇽",
+        "info":"[MiHD]",
+        "online":"true",
+        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "url": "https://mihd.tv/tudn-en-vivo-por-internet.html",     
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "isHost":"true"
+        },
+        {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[treamdp]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://streamdp1.xyz/global1.php?channel=fox_deportes_usa",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://tucanaldeportivo.org/foxdeportes.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 1 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://nfsnew.newkso.ru/nfs/premium929/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 1 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=foxsportsmx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 1 🇲🇽",
+        "info":"[streamtp1]",
+        "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
+        "url": "https://streamtp1.com/global1.php?stream=foxsportsmx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 1 🇦🇷",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium787/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 1 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=foxsports",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 1 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
+        "url": "https://streamtp1.com/global1.php?stream=fox1ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 1 🇦🇷",
+        "info":"[Cable]",
+        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
+        "url": "https://www.cablevisionhd.com/fox-sports-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 2 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=foxsports2mx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 2 🇲🇽",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
+        "url": "https://streamtp3.com/global1.php?stream=foxsports2mx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 2 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://nfsnew.koskoros.ru/nfs/premium930/mono.m3u8",
+        "isHost":""
+        },
+         {
+        "name": "FoxSport 2 🇦🇷",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium788/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 2 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
+        "url": "https://streamtp1.com/global1.php?stream=fox2ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 2 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=foxsports2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 3 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://nfsnew.koskoros.ru/nfs/premium931/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 3 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=foxsports3mx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 3 🇲🇽",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
+        "url": "https://streamtp3.com/global1.php?stream=foxsports3mx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 3 🇲🇽",
+        "info":"[TeleHD]",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
+        "url": "https://www.telegratishd.com/fox-sports-3-mexico-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 3 🇦🇷",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://windnew.newkso.ru/wind/premium789/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport 3 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
+        "url": "https://streamtp1.com/global1.php?stream=fox3ar",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport 3 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=foxsports3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport Premium 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport Premium 🇲🇽",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
+        "url": "https://tucanaldeportivo.org/foxsportspremium.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "embed": "true",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport Premium 🇲🇽",
+        "info":"[Nuskt]",
+        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
+        "url": "https://nuskt.directory/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mZHg3NHpxemh1L291dC92MS83ZDdhOGM2OTgxYTg0MmI5OGE2ODNlOWZiZmU1MWQxNy9jZW5jLm1wZA==&key=OWYzMjdkMjRjNjZmYmQ4NGUxNWFiNWM5ZWFkN2M3YTQ=&key2=ODM4MzcxODU1MjljMGM0MDQ4ZjgxMzg2YzJkMzY0MjY=",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "embed": "true",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FoxSport Premium 🇲🇽",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
+        "url": "https://streamtp1.com/global1.php?stream=foxsportspremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FoxSport Premium 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=foxsportspremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Deportes 🇲🇽",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
+        "url": "https://streamtp3.com/global1.php?stream=espndeportes",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Deportes 🇲🇽",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",        
+        "isHost":""
+        },
+        {
+        "name": "ESPN 🇲🇽",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://streamtp1.com/global1.php?stream=espnmx",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=espn",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 🇲🇽",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://www.telegratishd.com/espn-mexico-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://www.telegratishd.com/espn-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 🇦🇷",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",        
+        "isHost":""
+        },
+        {
+        "name": "ESPN 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://www.telegratishd.com/espn-3-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 🇦🇷",
+        "info":"[Cable]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",
+        "url": "https://embed.sdfgnksbounce.com/embed2/espn.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 2 🇲🇽",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "https://www.telextrema.com/espn-2-mexico-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 2 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=espn2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 2 🇲🇽",
+        "info":"[Iptv]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "http://45.71.254.1:8000/play/a0e7/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "https://streamtp1.com/global1.php?stream=espn2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 2 🇦🇷",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium150/mono.m3u8",        
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2 🇦🇷",
+        "info":"[Cable]",
+        "online":"true",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "url": "https://embed.sdfgnksbounce.com/embed2/espn2.html",        
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇲🇽",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://www.telextrema.com/espn-3-mexico-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇲🇽",
+        "info":"[12HD]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=espn3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://streamtp3.com/global1.php?stream=espn3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://antenacentral.store/espn3arg.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://tucanaldeportivo.org/espn3hd.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=espn3",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 3 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+        "url": "https://www.cablevisionhd.com/espn-3-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 4 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=espn4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 4 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "https://streamtp3.com/global1.php?stream=espn4",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 4 🇦🇷",
+        "info":"[Antena]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "https://antenacentral.store/espn4arg.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 4 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "https://television-libre.tv/html/fl/?get=RVNQTkhE",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 4 🇦🇷",
+        "info":"[Cable]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+        "url": "https://www.cablevisionhd.com/espn-4-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=espn5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
+        "url": "https://streamtp1.com/global1.php?stream=espn5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"[Libre]",
+        "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
+        "url": "https://deporte-libre.fans/en-vivo-online/espn-5/embed3.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"[Antena]",
+        "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
+        "url": "https://antenacentral.store/espn5sur.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 5 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://i.postimg.cc/4d4x3qS3/1280px-ESPN-5-logo-svg.png",
+        "url": "https://television-libre.tv/html/fl/?get=RVNQTjQ=",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 6 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/g20RWFkN/1280px-ESPN-6-logo-svg.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=espn6",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 6 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/g20RWFkN/1280px-ESPN-6-logo-svg.png",
+        "url": "https://streamtp3.com/global1.php?stream=espn6",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 6 🇦🇷",
+        "info":"[Antena]",
+        "image": "https://i.postimg.cc/g20RWFkN/1280px-ESPN-6-logo-svg.png",
+        "url": "https://antenacentral.store/espn6sur.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 7 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/vTL0VL5X/800px-ESPN-7-logo-svg.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=espn7",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 7 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/vTL0VL5X/800px-ESPN-7-logo-svg.png",
+        "url": "https://streamtp2.com/global1.php?stream=espn7",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPn 7 🇦🇷",
+        "info":"[Antena]",
+        "image": "https://i.postimg.cc/vTL0VL5X/800px-ESPN-7-logo-svg.png",
+        "url": "https://antenacentral.store/espn7sur.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN 7 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://i.postimg.cc/vTL0VL5X/800px-ESPN-7-logo-svg.png",
+        "url": "https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzMl9VWQ==",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Premium 🇦🇷",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=espnpremium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Premium 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+        "url": "https://streamtp3.com/global1.php?stream=espn_premium",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Premium 🇦🇷",
+        "info":"[welivesport]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+        "url": "https://welivesport.shop/embed/espnpremarg.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "ESPN Premium 🇦🇷",
+        "info":"[Tarjeta]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+        "url": "https://m1.merichunidya.com:999/hls/wsmkmlfeed76.m3u8?md5=DDz3w8vhpgvx6dLlSZ3syA&expires=1749262695",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TYC Sports 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png",
+        "url": "https://streamtp3.com/global1.php?stream=tycsports",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "url": "https://la12hd.com/vivo/canal.php?stream=dsports",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "url": "https://www.telegratishd.com/directv-sports-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost":"true"
+        },        
+        {
+        "name": "Dsports 🇦🇷",
+        "info":"[Cable]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "url": "https://embed.sdfgnksbounce.com/embed2/directvsports.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "url": "https://streamtp3.com/global1.php?stream=dsports",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 2 🇦🇷" ,
+        "info":"[12HD]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=dsports2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 2 🇦🇷" ,
+        "info":"[Tele]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://www.telegratishd.com/directv-sports-2-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 2 🇦🇷",
+        "info":"[Cable]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://embed.sdfgnksbounce.com/embed2/directvsports2.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports 2 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+        "url": "https://streamtp3.com/global1.php?stream=dsports2",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },        
+        {
+        "name": "Dsports + 🇦🇷",
+        "info":"[12HD]",
+        "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
+        "url": "https://la12hd.com/vivo/canales.php?stream=dsportsplus",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports + 🇦🇷",
+        "info":"[Tele]",
+        "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
+        "url": "https://www.telegratishd.com/directv-sports-plus-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Dsports + 🇦🇷",
+        "info":"[streamtp]",
+        "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
+        "url": "https://streamtp3.com/global1.php?stream=dsportsplus",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Claro Sports 🇲🇽",
+        "info":"[Claro]",
+        "image": "https://i.postimg.cc/L4rbGBtb/1280px-Claro-Sports-logo-svg.png",
+        "url": "https://www.clarogratis.com/claro-sports-en-vivo-por-internet.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Tigo Sports 🇵🇪",
+        "info":"[Claro]",
+        "image": "https://i.postimg.cc/dtWHtTmH/Tigo-Sports-logo.png",
+        "url": "https://cnm-tsl.otteravision.com/cnm/tsl/tsl_720.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "beIN SPORTS XTRA Ñ",
+        "info":"",
+        "image": "https://i.postimg.cc/wMHcs09V/Bein-Sports-Xtra.png",
+        "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "beIN SPORTS XTRA Ñ",
+        "info":"",
+        "image": "https://i.postimg.cc/wMHcs09V/Bein-Sports-Xtra.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 1 🇵🇹",
+        "info":"[Daddy]",
+        "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
+        "url": "https://windnew.newkso.ru/wind/premium49/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 1 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/BnKvLrW5/sport01.png",
+        "url": "https://streamtp1.com/global1.php?stream=sportv_1pt",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Sport tv 2 🇵🇹",
+        "info":"[Daddy]",
+        "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 2 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/W3WVf8Lb/sport2.png",
+        "url": "https://streamtp3.com/global1.php?stream=sportv_2pt",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 3 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
+        "url": "https://streamtp3.com/global1.php?stream=sportv_3pt",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 3 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/RFDrT0KW/sport3.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 4 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/VvrxZcWD/sport4.png",
+        "url": "https://streamtp3.com/global1.php?stream=sportv_4pt",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Sport tv 4 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/VvrxZcWD/sport4.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 5 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/fRNbdHM6/sport5.png",
+        "url": "https://streamtp3.com/global1.php?stream=sporttv5",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Sport tv 5 🇵🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/fRNbdHM6/sport5.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sport tv 6 🇵🇹",
+        "info":"",
+        "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
+        "url": "https://streamtp3.com/global1.php?stream=sporttv6",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Sport tv 6 🇵🇹",
+        "info":"",
+        "image": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "CBS Sports 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/FzzM58L3/CBS-Sport.png",
+        "url": "https://nix1-dc4new.iosplayer.ru/nix1-dc4/cbssn/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "CBS Sports 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/FzzM58L3/CBS-Sport.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium308/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FS1 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/SKc3xYNY/FS1.png",
+        "url": "https://wikinew.koskoros.ru/wiki/eplayerfs1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FS1 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/SKc3xYNY/FS1.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium39/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FS1 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/SKc3xYNY/FS1.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=foxsports1_usa",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FS2 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/J7H6rB6r/fs2.png",
+        "url": "https://antenacentral.store/fox2.php",
+         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "FS2 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/J7H6rB6r/fs2.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium758/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "FS2 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/J7H6rB6r/fs2.png",
+        "url": "https://la12hd.com/vivo/canales.php?stream=foxsports2_usa",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Fox 502 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/1X4xK0ZG/fox-502.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium820/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox 503 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/GpBqzMBh/Fox-Sports503-HD.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium821/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox 504 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/C5TR94Fg/fox-504.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium822/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox 505 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/sxTR5VHN/Fox-Sports505.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium823/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox 506 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/dVpZ8Fz3/Untitled-design.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium824/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Fox 507 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/pVsTfxjv/fox-507.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium825/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/WzKbQMhp/ESPN-USA.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/WzKbQMhp/ESPN-USA.png",
+        "url": "https://hztnew.koskoros.ru/hzt/eplayerespn_usa/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2 🇺🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.koskoros.ru/wind/premium45/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2 🇺🇸",
+        "info":"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium45/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Bein Sport 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/3R1ZCwWF/Bein-Sports.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium425/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "NBA Tv 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/PqCrwyWJ/NBA-Tv.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium404/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "NFL Network 🇺🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/fRZH2WBQ/nfl.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium405/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 1 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/m2f5LPCt/TSN1.png",
+        "url": "http://fl5.moveonjoy.com/TSN_1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 1 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/m2f5LPCt/TSN1.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium111/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 1 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/m2f5LPCt/TSN1.png",
+        "url": "https://antenacentral.store/tsn1.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "TSN 2 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/Mpz3Bgsw/TSN2.png",
+        "url": "http://fl5.moveonjoy.com/TSN_2/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 2 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/Mpz3Bgsw/TSN2.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium112/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 2 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/Mpz3Bgsw/TSN2.png",
+        "url": "https://antenacentral.store/tsn2.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "TSN 3 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/MKmdzdzF/TSN3.png",
+        "url": "http://fl5.moveonjoy.com/TSN_3/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 3 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/MKmdzdzF/TSN3.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium113/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 3 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/MKmdzdzF/TSN3.png",
+        "url": "https://antenacentral.store/tsn3.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "TSN 4 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/Pq9MS7MP/TSN4.png",
+        "url": "http://fl5.moveonjoy.com/TSN_4/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 4 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/Pq9MS7MP/TSN4.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium114/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 4 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/Pq9MS7MP/TSN4.png",
+        "url": "https://antenacentral.store/tsn4.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "TSN 5 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/3NCCJxQv/TSN5.png",
+        "url": "http://fl5.moveonjoy.com/TSN_5/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 5 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/3NCCJxQv/TSN5.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium115/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TSN 5 🇨🇦",
+        "info":"",
+        "image": "https://i.postimg.cc/3NCCJxQv/TSN5.png",
+        "url": "https://antenacentral.store/tsn5.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":"true"
+        },
+        {
+        "name": "Eurosport 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium41/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "url": "https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayereurosp1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.koskoros.ru/wind/premium42/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "url": "https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayereurosp2/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/9QRGkpgS/tnt.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/9QRGkpgS/tnt.png",
+        "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Z5Grzd1q/tnt2.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 2 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Z5Grzd1q/tnt2.png",
+        "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt2/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 3 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/cHZwrN1y/tnt3.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 3 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/cHZwrN1y/tnt3.png",
+        "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt3/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 4 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/JnqJXdty/tnt4.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 4 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/JnqJXdty/tnt4.png",
+        "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt4/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 5 🇬🇧",
+        "info":"",
+        "image": "",
+        "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt5/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT Sports 6 🇬🇧",
+        "info":"",
+        "image": "",
+        "url": "https://azonew.koskoros.ru/azo/eplayerdigitvbt6/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports F1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png",
+        "url": "https://esx1new.koskoros.ru/esx1/primaskyf1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports F1 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Football 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/q7N7zr9M/Sky-Sports-Football.png",
+        "url": "https://top2new.iosplayer.ru/top2/eplayerskyfoot/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Football 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/q7N7zr9M/Sky-Sports-Football.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium35/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Premiere Legue 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/qvMqHywK/sky-sports-premier-league-uk.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports NFL 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Kvb4QdgJ/Sky-Sports-NFL.png",
+        "url": "https://top2new.iosplayer.ru/top2/skyaction/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports NFL 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/Kvb4QdgJ/Sky-Sports-NFL.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Arena 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/VNvJnnbw/Sky-Sport-Arena.png",
+        "url": "https://top2new.koskoros.ru/top2/skyarena/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Arena 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/VNvJnnbw/Sky-Sport-Arena.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium36/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Cricket 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/qMc6TkdP/sky-sports-cricket-uk.png",
+        "url": "https://top2new.koskoros.ru/top2/eplayerskycric/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Cricket 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/qMc6TkdP/sky-sports-cricket-uk.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium65/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Golf 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/66vGMrb5/sky-sports-golf-uk.png",
+        "url": "https://top2new.iosplayer.ru/top2/skygolf/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Golf 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/66vGMrb5/sky-sports-golf-uk.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium70/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Main Event 🇬🇧",
+        "info":"",
+        "image": "",
+        "url": "https://top2new.iosplayer.ru/top2/eplayerskymain2/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Sky Sports Main Event 🇬🇧",
+        "info":"",
+        "image": "",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium38/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Racing Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/vmnhn3SR/racing-tv.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium555/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 1 🇮🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/fLKzn5dK/Euro1.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Eurosport 2 🇮🇹",
+        "info":"",
+        "image": "https://i.postimg.cc/50NBM7G9/Euro2.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "Rally Tv 🇬🇧",
+        "info":"",
+        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
+        "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "online":"true",
+        "isHost":""
+        }
+	]
+}
