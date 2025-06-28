@@ -53,6 +53,16 @@
         "isHost":"true"
         },
         {
+        "name": "UFC Fight Pass",
+        "info":"[freestreams]",
+        "online":"true",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://wikihznew.newkso.ru/wikihz/wikiufc/mono.m3u8",
+        "isHost":""
+        }
+        {
         "name": "TNT Sports",
         "info":"[Daddy]",
         "online":"true",
