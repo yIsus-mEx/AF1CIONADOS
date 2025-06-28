@@ -358,6 +358,70 @@
                 "online":"true"
                 }
 	]
+	},
+
+        {
+        "name": "Juego del Calamar 3",
+        "info":"Temporada 3",
+        "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+        "imageScale": "",
+        "stations":
+        [
+                {
+                "name": "Episodio 01",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+                "url": "https://filemoon.to/d/01xoy73doz7k/El_juego_del_calamar_3X01.mp4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 02",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+                "url": "https://filemoon.to/d/swscjtg6g1xt/El_juego_del_calamar_3X02.mp4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 03",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+                "url": "https://filemoon.to/d/25p47x7dewpr/El_juego_del_calamar_3X03.mp4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 04",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+                "url": "https://filemoon.to/d/ljbyat1pkvf6/El_juego_del_calamar_3X04.mp4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 05",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+                "url": "https://filemoon.to/d/z7ygkyjsp72v/El_juego_del_calamar_3X05.mp4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Episodio 06",
+                "info":"[Español]",
+                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+                "url": "https://filemoon.to/d/lbax6i2027ud/El_juego_del_calamar_3X06.mp4",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost": "true",
+                "online":"true"
+                }
+	]
 	}
 
     ]
