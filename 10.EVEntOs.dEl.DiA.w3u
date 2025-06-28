@@ -200,6 +200,23 @@
       ]
     },
     {
+      "name": "MotoGP: Paises Bajos",
+      "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",
+      "stations": 
+        [
+        {
+        "name": "DAZN 1",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://rockhd.lol/live/stream-445.php",
+        "isHost":"true"
+        }
+      ]
+    },
+    {
       "name": "Mundialito de Clubes",
       "image": "https://tse2.mm.bing.net/th/id/OIP.zkvVE58ZWLQo5RMnYBo7SAHaFu?cb=thvnextc1&rs=1&pid=ImgDetMain",
       "groups": 
