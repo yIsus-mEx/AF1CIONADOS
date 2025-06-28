@@ -1,0 +1,92 @@
+{
+"name": "Desagertuta",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Desagertuta.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]",
+ 				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+ 				"url":"https://filemoon.to/d/b50vyssjxmwr",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/lzqb0lrwgo3k",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/kwsgvoysi6zi",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/6e2vlzpqb2lf",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/zxbcwny639hw",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/s4p7aaro8qv8",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"[Español]", 
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"https://filemoon.to/d/epvpooio71xn",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"[Español]",  
+				"image":"https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+				"url":"",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		}
+	]
+}
