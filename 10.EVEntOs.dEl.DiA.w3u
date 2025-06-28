@@ -71,195 +71,81 @@
         }
       ]
     },
-
     {
-      "name": "Formula 1:",
-      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "name": "Formula 1: GP Austria",
+      "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
       "stations": 
         [
         {
-          "name": "",
+          "name": "Dazn F1 🇪🇸",
           "info": "[acestream]",
           "online": "true",
-          "image": "",
-          "url": ""
+          "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
+          "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
         },
         {
-          "name": "",
+          "name": "Dazn F1 🇪🇸",
           "info": "[acestream]",
           "online": "true",
-          "image": "",
-          "url": ""
+          "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
+          "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
         },
         {
-          "name": "",
+          "name": "Dazn F1 🇪🇸",
           "info": "[acestream]",
           "online": "true",
-          "image": "",
-          "url": ""
+          "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
+          "url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727"
         },
         {
-          "name": "",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "",
-          "url": ""
+        "name": "Dazn F1 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://rockhd.lol/live/stream-537.php",
+        "isHost":"true"
         },
         {
-          "name": "",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "",
-          "url": ""
+        "name": "DazN F1 🇪🇸",
+        "info":"[huhu]",
+        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
+        "url": "https://www.oha.to/play/270716645/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://huhu.to/",
+        "online":"true",
+        "isHost":""
+        },    
+        {
+        "name": "ESPN Deportes",
+        "info":"[Stream]",
+        "online":"true",
+        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://streamtpglobal.com/global1.php?stream=espndeportes",
+        "isHost":"true"
         },
         {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "true",
-          "online": "true",
-          "isHost": ""
+        "name": "Fox Sports 1",
+        "info":"[Stream]",
+        "online":"true",
+        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
+        "isHost":"true"
         },
         {
-          "name": "",
-          "info": "[DanzF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://webxzplay.cfd/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "",
-          "info": "[DAZNF1]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "",
-          "info": "[FOX PREMIUM]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[FOX PREMIUM]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "https://cookiewebplay.xyz/",
-          "online": "true",
-          "isHost": ""
-        },
-        {
-          "name": "",
-          "info": "[FOX 1 ARG]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[ESPN]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "",
-          "info": "[]",
-          "image": "",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "online": "true",
-          "isHost": "true"
+        "name": "Fox Premium",
+        "info":"[Stream]",
+        "online":"true",
+        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://streamtpglobal.com/global1.php?stream=foxsportspremium",
+        "isHost":"true"
         }
       ]
     },
