@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC 317: Topuria vs Oliveira",
+         "image": "https://i.postimg.cc/15t9J5Mh/UFC-317.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 317: Topuria vs Oliveira",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/15t9J5Mh/UFC-317.png",
+                "url":"https://pixeldrain.com/u/AKgt683U",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Night Hill vs Rountree Jr",
          "image": "https://i.postimg.cc/9QRWDNk7/UFC.png",
          "imageScale": "",
