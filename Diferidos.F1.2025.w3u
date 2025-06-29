@@ -7,7 +7,105 @@
   "info": "",
   "groups": 
   [
-
+    {
+      "name": "F1 2025 Austria [27-29.Jun25]",
+      "info": "",
+      "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "https://pixeldrain.com/u/wYkDEg3g",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/pTHBY1Dy/Austria.png",
+          "url": "https://pixeldrain.com/u/i2htrXzB",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "F1 2025 Canada [14-15.Jun25]",
       "info": "",
