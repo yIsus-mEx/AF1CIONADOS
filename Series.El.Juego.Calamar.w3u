@@ -1,347 +1,232 @@
 {
-"name": "El Juego del Calamar",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.El.Juego.Calamar.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "",
-"groups":
-    [
+  "name": "El Juego del Calamar",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.El.Juego.Calamar.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "",
+  "groups": [
+    {
+      "name": "Juego del Calamar",
+      "info": "Temporada 1",
+      "image": "https://i.postimg.cc/L8SVDMG6/calamar.png",
+      "imageScale": "",
+      "stations": [
         {
-        "name": "El Desafio",
-        "info":"Temporada 1",
-        "image": "https://i.postimg.cc/x8KzNXfG/desafio.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "1.- Luz roja, luz verde",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },                
-                {
-                "name": "2.- El hombre del paraguas",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/a47qj2yr5h2w",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },                
-                {
-                "name": "3.- Guerra",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/rufy096ntq03",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },                
-                {
-                "name": "4.- No hay dónde esconderse",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/cqojf1paksqw",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },                
-                {
-                "name": "5.- Un respiro",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/pzspzph1hnsz",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },               
-                {
-                "name": "6.- Adiós",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/vdy7kzgzca94",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },               
-                {
-                "name": "7.-  Amigos y enemigos",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/09phh9009y2t",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },              
-                {
-                "name": "8.- Un paso más cerca",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/1v10p2thqf9d",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "9.- Círculo de confianza",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://upstream.to/cy9mex210zca",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "10.- Un Día de Suerte",
-                "info":"Latino",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://filemoon.sx/e/iejlrkq528aa",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "10.- Un Día de Suerte",
-                "info":"Castellano",
-                "image": "https://cinepremiere.com.mx/wp-content/uploads/2023/11/el-juego-del-calamar-el-desafio-poster-900x1333.jpg",
-                "url":"https://filemoon.sx/e/90xj5qimcuaj",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                }
-	        ]
+          "name": "Episodio 01",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/mkemgd93oj4y",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         },
         {
-        "name": "Juego del Calamar",
-        "info":"Temporada 1",
-        "image": "https://i.postimg.cc/L8SVDMG6/calamar.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Episodio 01",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/mkemgd93oj4y",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 02",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/5qvijhezq10o",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 03",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/r6dbcelc9rjc",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 04",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/vidbajyzod3t",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 05",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/t6ioogdhfxrg",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 06",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/uaxkt7zortko",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 07",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/eafghhefq1aw",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 08",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/xa0gsvuv3i9m",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 09",
-                "info":"[Español]",
-                "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
-                "url":"https://donaldlineelse.com/tjonbie0rx2g",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                }
-            ]
+          "name": "Episodio 02",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/5qvijhezq10o",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         },
-
         {
-        "name": "Juego del Calamar 2",
-        "info":"Temporada 2",
-        "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-        "imageScale": "",
-        "stations":
-        [
-                {
-                "name": "Episodio 01",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/m7WJxg1ZeyrOBze",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 02",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/eL2157KvaYm5rw4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 03",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/e028E6ep8DdxYAv",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 04",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/JzkPxzz2jJ4xbyd",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 05",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/KrdZ5kMrv7bEmX4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 06",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/0DogOGW04KPOKjM",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 07",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
-                "url": "https://listeamed.net/v/3Q0lxBb03enxj1J",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                }
-	]
-	},
-
+          "name": "Episodio 03",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/r6dbcelc9rjc",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
         {
-        "name": "Juego del Calamar 3",
-        "info":"Temporada 3",
-        "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-        "imageScale": "",
-        "stations":
-        [
-                {
-                "name": "Episodio 01",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-                "url": "https://filemoon.to/d/01xoy73doz7k/El_juego_del_calamar_3X01.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 02",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-                "url": "https://filemoon.to/d/swscjtg6g1xt/El_juego_del_calamar_3X02.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 03",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-                "url": "https://filemoon.to/d/25p47x7dewpr/El_juego_del_calamar_3X03.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 04",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-                "url": "https://filemoon.to/d/ljbyat1pkvf6/El_juego_del_calamar_3X04.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 05",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-                "url": "https://filemoon.to/d/z7ygkyjsp72v/El_juego_del_calamar_3X05.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Episodio 06",
-                "info":"[Español]",
-                "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
-                "url": "https://filemoon.to/d/lbax6i2027ud/El_juego_del_calamar_3X06.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost": "true",
-                "online":"true"
-                }
-	]
-	}
-
-    ]
-}				
+          "name": "Episodio 04",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/vidbajyzod3t",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 05",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/t6ioogdhfxrg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 06",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/uaxkt7zortko",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 07",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/eafghhefq1aw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 08",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/xa0gsvuv3i9m",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 09",
+          "info": "[Español]",
+          "image": "https://i.postimg.cc/Dzjd7408/El-juego-del-calamar.jpg",
+          "url": "https://donaldlineelse.com/tjonbie0rx2g",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "Juego del Calamar 2",
+      "info": "Temporada 2",
+      "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+      "imageScale": "",
+      "stations": [
+        {
+          "name": "Episodio 01",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/nhraro9u5cqe",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 02",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/1r1nv85oie1p",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 03",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/ehtvrdebktbn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 04",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/3i3zg58euqa8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 05",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/p2zeucnw9mgq",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 06",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/3y2n0vrkkazc",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 07",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_2-988066591-large.jpg",
+          "url": "https://filemoon.to/d/7fr2rqc8j46o",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "Juego del Calamar 3",
+      "info": "Temporada 3",
+      "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+      "imageScale": "",
+      "stations": [
+        {
+          "name": "Episodio 01",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+          "url": "https://filemoon.to/d/01xoy73doz7k/El_juego_del_calamar_3X01.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 02",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+          "url": "https://filemoon.to/d/swscjtg6g1xt/El_juego_del_calamar_3X02.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 03",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+          "url": "https://filemoon.to/d/25p47x7dewpr/El_juego_del_calamar_3X03.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 04",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+          "url": "https://filemoon.to/d/ljbyat1pkvf6/El_juego_del_calamar_3X04.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 05",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+          "url": "https://filemoon.to/d/z7ygkyjsp72v/El_juego_del_calamar_3X05.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 06",
+          "info": "[Español]",
+          "image": "https://pics.filmaffinity.com/squid_game_3-768922572-large.jpg",
+          "url": "https://filemoon.to/d/lbax6i2027ud/El_juego_del_calamar_3X06.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
+}
