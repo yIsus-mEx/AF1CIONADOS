@@ -1,0 +1,65 @@
+{
+  "name": "Jurassic",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Saga.Jurassic.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Af1cionqdos",
+  "info": "",
+  "stations": 
+  [
+    {
+      "name": "Jurassic Park",
+      "info": "[Español][1993]",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/f00bf346385235.58520f9022451.jpg",
+      "url": "https://filemoon.to/d/tzysmciran74",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "Jurassic Park II: El Mundo Perdido",
+      "info": "[Español][1997]",
+      "image": "https://elcriticoabulico.wordpress.com/wp-content/uploads/2015/06/el-mundo-perdido-jurassic-park.jpg",
+      "url": "https://filemoon.to/d/7f9ph8rnkmnx",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "Jurassic Park III",
+      "info": "[Español][2001]",
+      "image": "https://m.media-amazon.com/images/I/91O+ga8xzqL._UF894,1000_QL80_.jpg",
+      "url": "https://filemoon.to/d/pdhszo1ucu4e",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "Jurassic World I: Mundo Jurasico",
+      "info": "[Español][2015]",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/cf95e51178c49bcc167fe7ad0a8972ffcd9e48c1d90a3fc34f00b6b2b3f6dbc8.jpg",
+      "url": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "Jurassic World II: El Reino Caido",
+      "info": "[Español][2018]",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/e62b72ce54727a24f69d793f63a9fdfa7f74e68b220fa53b8de6507cf301c325.jpg",
+      "url": "https://filemoon.to/d/rgukn0tc1o4q",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "Jurassic World III: Dominio",
+      "info": "[Español][2021]",
+      "image": "https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg",
+      "url": "https://filemoon.to/d/qtgyfzfbzr86",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    }
+  ]
+}
