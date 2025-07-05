@@ -1,0 +1,56 @@
+{
+"name": "Chespirito: Sin Querer Queriendo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Chespirito.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+ 		"url":"https://filemoon.to/d/oznztiy4w5vb",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+		"url":"https://filemoon.to/d/7jdiandg5t1j",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+		"url":"https://filemoon.to/d/01eprt199nid",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+		"url":"https://filemoon.to/d/botgkzq2hx51",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+		"url":"https://filemoon.to/d/toosvhrbuowt",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
