@@ -8,6 +8,32 @@
 "groups":
     [
         {
+        "name": "R010 IndyCar Mid Ohio",
+        "image": "https://i.postimg.cc/k4kYnjZt/Mid-Ohio.png",
+        "info": "[06-07-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/k4kYnjZt/Mid-Ohio.png",
+                "url" :"https://pixeldrain.com/u/7RXiNAZo",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/k4kYnjZt/Mid-Ohio.png",
+                "url" :"https://pixeldrain.com/u/jBWu74re",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R09 IndyCar Road America",
         "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
         "info": "[22-06-2025]",
