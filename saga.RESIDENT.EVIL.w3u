@@ -6,21 +6,19 @@
 "image": "https://pics.filmaffinity.com/resident_evil-587544510-large.jpg",
 "telegram": "@yIsus_mEX",
 "info": "by yIsus_mEx",
-"stations":
+"groups":
     [
+
+	{
+	"name": "LATINO",
+	"image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
+	"stations": 
+	[
         {
         "name": "Resident Evil: El Huésped Maldito",
         "info":"[Latino][2002]",
         "image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
         "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        },
-        {
-        "name": "Resident Evil: El Huésped Maldito",
-        "info":"[Español][2002]",
-        "image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
-        "url":"https://filemoon.to/d/5nvly225kh0t/1_Resident_Evil__2002_.mp4",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "online":"true"
         },
@@ -33,26 +31,10 @@
         "online":"true"
         },
         {
-        "name": "Resident Evil 2: Apocalipsis",
-        "info":"[Español][2004]",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/9/w1280/goVSqAsY54LJZ29gNRM8Kq8lDlp.jpg",
-        "url":"https://filemoon.to/d/zcu57x1ckm56/2_Resident_Evil_2._Apocalipsis__2004_.mp4",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        },
-        {
         "name": "Resident Evil 3: Extinción",
         "info":"[Latino][2007]",
         "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/9/w1280/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg",
         "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20extinction.mkv",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        },
-        {
-        "name": "Resident Evil 3: Extinción",
-        "info":"[Español][2007]",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/9/w1280/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg",
-        "url":"https://filemoon.to/d/4q10uef5z6el/3_Resident_Evil_3._Extinci_n__2007_.mp4",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "online":"true"
         },
@@ -65,26 +47,10 @@
         "online":"true"
         },
         {
-        "name": "Resident Evil 4: La Resurrección",
-        "info":"[Español][2010]",
-        "image": "https://es.web.img2.acsta.net/medias/nmedia/18/93/09/10/20235332.jpg",
-        "url":"https://filemoon.to/d/mlg0m72ks3hw/4_Resident_Evil_4._Ultratumba__2010_.mp4",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        },
-        {
         "name": "Resident Evil 5: La Venganza",
         "info":"[Latino][2012]",
         "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/9/w1280/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg",
         "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20retribution.mkv",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        },
-        {
-        "name": "Resident Evil 5: La Venganza",
-        "info":"[Español][2012]",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/9/w1280/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg",
-        "url":"https://filemoon.to/d/tsnrk5qllzfe/5_Resident_Evil_5._Venganza_2012.mp4",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "online":"true"
         },
@@ -95,23 +61,94 @@
         "url":"http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20the%20final%20chapter.mkv",
         "userAgent" : "PlusMediaPlayer/0.0.9",
         "online":"true"
+        }
+	]
+	},
+
+	{
+	"name": "CASTELLANO",
+	"image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
+	"stations": 
+	[
+        {
+        "name": "Resident Evil: El Huésped Maldito",
+        "info":"[Español][2002]",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg",
+        "url":"https://filemoon.to/d/5nvly225kh0t/1_Resident_Evil__2002_.mp4",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
         },
+        {
+        "name": "Resident Evil 2: Apocalipsis",
+        "info":"[Español][2004]",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/9/w1280/goVSqAsY54LJZ29gNRM8Kq8lDlp.jpg",
+        "url":"https://filemoon.to/d/zcu57x1ckm56/2_Resident_Evil_2._Apocalipsis__2004_.mp4",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+        "name": "Resident Evil 3: Extinción",
+        "info":"[Español][2007]",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/9/w1280/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg",
+        "url":"https://filemoon.to/d/4q10uef5z6el/3_Resident_Evil_3._Extinci_n__2007_.mp4",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+        "name": "Resident Evil 4: La Resurrección",
+        "info":"[Español][2010]",
+        "image": "https://es.web.img2.acsta.net/medias/nmedia/18/93/09/10/20235332.jpg",
+        "url":"https://filemoon.to/d/mlg0m72ks3hw/4_Resident_Evil_4._Ultratumba__2010_.mp4",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+        "name": "Resident Evil 5: La Venganza",
+        "info":"[Español][2012]",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/9/w1280/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg",
+        "url":"https://filemoon.to/d/tsnrk5qllzfe/5_Resident_Evil_5._Venganza_2012.mp4",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
         {
         "name": "Resident Evil: Capítulo Final",
         "info":"[Español][2016]",
         "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/il1B9mM7Cn9ccavnilzUGKL1xzQ.jpg",
         "url":"https://filemoon.to/d/ckezpbxpafwp/6_Resident_Evil._Cap_tulo_final_2017.mp4",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        },
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
         {
         "name": "Resident Evil: Bienvenidos a Raccoon City ",
         "info":"[Español][2021]",
         "image": "https://pics.filmaffinity.com/Resident_Evil_Bienvenidos_a_Raccoon_City-196278630-large.jpg",
         "url":"https://filemoon.to/d/p9bmf98yoz9z/7_Resident_Evil._Bienvenidos_a_Raccoon_City.__2021_.mp4",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "online":"true"
-        }
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 	]
 }
