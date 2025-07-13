@@ -130,97 +130,91 @@
 
     {
       "name": "Formula 1: ",
-      "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
+      "image": "",
       "stations": 
         [
         {
           "name": "Dazn F1 🇪🇸",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
-          "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
+          "image": "",
+          "url": "acestream://"
         },
         {
           "name": "Dazn F1 🇪🇸",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
-          "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
+          "image": "",
+          "url": "acestream://"
         },
         {
           "name": "Dazn F1 🇪🇸",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
-          "url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727"
+          "image": "",
+          "url": "acestream://"
         },
         {
         "name": "Dazn F1 🇪🇸",
         "info":"[Daddy]",
         "online":"true",
-        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "image": "",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-537.php",
+        "referer" : "",
+        "url": "",
         "isHost":"true"
         },
         {
         "name": "DazN F1 🇪🇸",
         "info":"[huhu]",
-        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
-        "url": "https://www.oha.to/play/270716645/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://huhu.to/",
         "online":"true",
-        "isHost":""
+        "image": "",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "",
+        "isHost":"true"
         },    
         {
         "name": "ESPN Deportes",
         "info":"[Stream]",
         "online":"true",
-        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "image": "",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
-        "url": "https://streamtpglobal.com/global1.php?stream=espndeportes",
+        "url": "",
         "isHost":"true"
         },
         {
         "name": "Fox Sports 1",
         "info":"[Stream]",
         "online":"true",
-        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "image": "",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
-        "url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
+        "url": "",
         "isHost":"true"
         },
         {
         "name": "Fox Premium",
         "info":"[Stream]",
         "online":"true",
-        "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",        
+        "image": "",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
-        "url": "https://streamtpglobal.com/global1.php?stream=foxsportspremium",
+        "url": "",
         "isHost":"true"
         }
       ]
     },
 
     {
-      "name": "Mundialito de Clubes",
-      "image": "https://tse2.mm.bing.net/th/id/OIP.zkvVE58ZWLQo5RMnYBo7SAHaFu?cb=thvnextc1&rs=1&pid=ImgDetMain",
-      "groups": 
-        [
-
-        {
-        "name": "00:00 ",
-        "image": "https://image.discovery.indazn.com/eu/v3/eu/none/cykbukrli9ep2fj0kft53ev6w_image-header_pEs_1750439939000/fill/center/top/none/85/512/288/webp/image",
-        "stations":
+      "name": "Final Mundialito de Clubes: Chelsea VS PSG",
+      "image": "https://cms-images.acc.indazn.com/di/library/DAZN_News/2a/4d/156pijxlkd7w61qtsynzjv04fnimagehero16x9_156pijxlkd7w61qtsynzjv04fn_IMAGE_HERO_16x9.jpg?t=-103648361&quality=85&w=684",
+      "stations": 
         [
         {
-          "name": "00:00 ",
-          "image": "",
+          "name": "21:00 horas Chelsea VS PSG",
+          "image": "https://cms-images.acc.indazn.com/di/library/DAZN_News/2a/4d/156pijxlkd7w61qtsynzjv04fnimagehero16x9_156pijxlkd7w61qtsynzjv04fn_IMAGE_HERO_16x9.jpg?t=-103648361&quality=85&w=684",
           "info": "[]",
           "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -228,18 +222,10 @@
           "embed": "true",
           "online": "true",
           "isHost": ""
-        }
-        ]
         },
-
         {
-        "name": "03:00 ",
-        "image": "https://image.discovery.indazn.com/eu/v3/eu/none/cykbukrli9ep2fj0kft53ev6w_image-header_pEs_1750439939000/fill/center/top/none/85/512/288/webp/image",
-        "stations":
-        [
-        {
-          "name": "03:00 ",
-          "image": "",
+          "name": "21:00 horas Chelsea VS PSG",
+          "image": "https://cms-images.acc.indazn.com/di/library/DAZN_News/2a/4d/156pijxlkd7w61qtsynzjv04fnimagehero16x9_156pijxlkd7w61qtsynzjv04fn_IMAGE_HERO_16x9.jpg?t=-103648361&quality=85&w=684",
           "info": "[]",
           "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -247,18 +233,10 @@
           "embed": "true",
           "online": "true",
           "isHost": ""
-        }
-        ]
         },
-
         {
-        "name": "00:00 ",
-        "image": "https://image.discovery.indazn.com/eu/v3/eu/none/cykbukrli9ep2fj0kft53ev6w_image-header_pEs_1750439939000/fill/center/top/none/85/512/288/webp/image",
-        "stations":
-        [
-        {
-          "name": "00:00 ",
-          "image": "",
+          "name": "21:00 horas Chelsea VS PSG",
+          "image": "https://cms-images.acc.indazn.com/di/library/DAZN_News/2a/4d/156pijxlkd7w61qtsynzjv04fnimagehero16x9_156pijxlkd7w61qtsynzjv04fn_IMAGE_HERO_16x9.jpg?t=-103648361&quality=85&w=684",
           "info": "[]",
           "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -266,11 +244,21 @@
           "embed": "true",
           "online": "true",
           "isHost": ""
-        }
-        ]
+        },
+        {
+          "name": "21:00 horas Chelsea VS PSG",
+          "image": "https://cms-images.acc.indazn.com/di/library/DAZN_News/2a/4d/156pijxlkd7w61qtsynzjv04fnimagehero16x9_156pijxlkd7w61qtsynzjv04fn_IMAGE_HERO_16x9.jpg?t=-103648361&quality=85&w=684",
+          "info": "[]",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "online": "true",
+          "isHost": ""
         }
       ]
     },
+
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
