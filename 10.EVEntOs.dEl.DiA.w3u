@@ -7,122 +7,52 @@
   "info": "",
   "groups": 
   [
+
     {
-      "name": "UFC 317: Oliveira vs Topuria",
-      "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",
+      "name": "Final Wimbledon: Sinner VS ALcaraz",
+      "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/07/11/687158f80c11e.webp",
       "stations": 
-        [
+      [
         {
-        "name": "ESPN KO",
-        "info":"[Stream]",
-        "online":"true",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "https://streamtpglobal.com/global1.php?stream=disney2",
-        "isHost":"true"
+          "name": "Final Wimbledon: Sinner VS ALcaraz",
+          "info": "[13-07-2025]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/07/11/687158f80c11e.webp",
+          "url": "https://live20.bozztv.com/giatv/giatv-Deporte_Motor/Deporte_Motor/chunks.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "Fox Premiun",
-        "info":"[Stream]",
-        "online":"true",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "https://streamtpglobal.com/global1.php?stream=foxsportspremium",
-        "isHost":"true"
+          "name": "Final Wimbledon: Sinner VS ALcaraz",
+          "info": "[13-07-2025]",
+          "image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/07/11/687158f80c11e.webp",
+          "url": "https://live20.bozztv.com/giatv/giatv-Deporte_Motor/Deporte_Motor/playlist.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
         },
         {
-        "name": "ESPN Deportes",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-375.php",
-        "isHost":"true"
-        },
-        {
-        "name": "UFC Fight Pass",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-86.php",
-        "isHost":"true"
-        },
-        {
-        "name": "UFC Fight Pass",
-        "info":"[freestreams]",
-        "online":"true",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://wikihznew.newkso.ru/wikihz/wikiufc/mono.m3u8",
-        "isHost":""
-        },
-        {
-        "name": "TNT Sports",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/6/w1280/nMdjudaUKePXVSaCaqYFTTGZIik.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-31.php",
-        "isHost":"true"
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
         }
-      ]
-    },  
+
+    ]
+    },
+
+
     {
-      "name": "Boxing: Jake Paul vs Julio Cesar Chavez Jr",
-      "image": "https://i.postimg.cc/5yjvLn8Z/Jake-Paul-vs-Julio-Cesar-Chavez-Jr.jpg",
-      "stations": 
-        [
-        {
-        "name": "PPV DAZN",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://i.postimg.cc/5yjvLn8Z/Jake-Paul-vs-Julio-Cesar-Chavez-Jr.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-177.php",
-        "isHost":"true"
-        },
-        {
-        "name": "PPV DAZN",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://i.postimg.cc/5yjvLn8Z/Jake-Paul-vs-Julio-Cesar-Chavez-Jr.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-178.php",
-        "isHost":"true"
-        },
-        {
-        "name": "PPV DAZN",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://i.postimg.cc/5yjvLn8Z/Jake-Paul-vs-Julio-Cesar-Chavez-Jr.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-69.php",
-        "isHost":"true"
-        },
-        {
-        "name": "PPV DAZN",
-        "info":"[freestreams]",
-        "online":"true",
-        "image": "https://i.postimg.cc/5yjvLn8Z/Jake-Paul-vs-Julio-Cesar-Chavez-Jr.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://wikihznew.newkso.ru/wikihz/wikibox/mono.m3u8",
-        "isHost":""
-        }
-      ]
-    },  
-    {
-      "name": "Formula 1: GP Austria",
+      "name": "Formula 1: ",
       "image": "https://i.postimg.cc/DyhNTGd1/1-Ferrari-Austrian-GP-poster-1.jpg",
       "stations": 
         [
@@ -199,53 +129,7 @@
         }
       ]
     },
-    {
-      "name": "MotoGP: Paises Bajos",
-      "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",
-      "stations": 
-        [
-        {
-        "name": "DAZN 1",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-445.php",
-        "isHost":"true"
-        },
-        {
-        "name": "ESPN",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-149.php",
-        "isHost":"true"
-        },
-        {
-        "name": "ESPN",
-        "info":"[Stream]",
-        "online":"true",
-        "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "https://streamtpglobal.com/global1.php?stream=espn",
-        "isHost":"true"
-        },
-        {
-        "name": "TNT Sports 2",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "https://i.postimg.cc/Wbd7fbpK/Gran-Premio-de-Pa-ses-Bajos.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://forcedtoplay.xyz/",
-        "url": "https://rockhd.lol/live/stream-32.php",
-        "isHost":"true"
-        }
-      ]
-    },
+
     {
       "name": "Mundialito de Clubes",
       "image": "https://tse2.mm.bing.net/th/id/OIP.zkvVE58ZWLQo5RMnYBo7SAHaFu?cb=thvnextc1&rs=1&pid=ImgDetMain",
