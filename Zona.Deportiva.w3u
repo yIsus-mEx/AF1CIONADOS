@@ -263,7 +263,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://forcedtoplay.xyz/",
         "url": "https://rockhd.lol/live/stream-445.php",
-        "isHost":""
+        "isHost":"true"
         },
         {
         "name": "Dazn 1 🇪🇸",
@@ -274,16 +274,6 @@
         "referer" : "https://andrenalynrushplay.cfd/",
         "url": "https://welivesport.shop/embed/dazn1es.php",
         "isHost":"true"
-        },
-        {
-        "name": "Dazn 1 🇪🇸",
-        "info":"[Tarjeta]",
-        "online":"true",
-        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "url": "https://m7.merichunidya.com:999/hls/wsmkmlfeed56.m3u8?md5=89re0JEXhO2S3-NnRFrxSQ&expires=1749261685",
-        "isHost":""
         },
         {
         "name": "Dazn 2 🇪🇸",
