@@ -1,0 +1,74 @@
+{
+"name": "Indomable",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Indomable.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+ 				"url":"https://filemoon.to/d/u82r0hqz6igr",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+				"url":"https://filemoon.to/d/kiccv2ne87vx",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+				"url":"https://filemoon.to/d/gloz57dg843l",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+				"url":"https://filemoon.to/d/am1u8si9gyst",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+				"url":"https://filemoon.to/d/2nwfhb2o0kxl",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+				"url":"https://filemoon.to/d/2jn8qlgebyew",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
