@@ -139,6 +139,24 @@
             	"userAgent" : "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
 				"online":"true"
+				},
+				{
+				"name": "Episodio 15",
+				"info":"",  
+				"image":"https://telepick.es/wp-content/uploads/2025/06/good-boy.jpg",
+				"url":"https://filemoon.to/d/ydwrp24agxfk",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 16",
+				"info":"",  
+				"image":"https://telepick.es/wp-content/uploads/2025/06/good-boy.jpg",
+				"url":"https://filemoon.to/d/vpvbko1fymbz",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
 				}
 			]
 		}
