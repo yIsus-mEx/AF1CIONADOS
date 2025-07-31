@@ -27,8 +27,8 @@
         },
 
         {
-        "name": "13. Streets of Toronto",
-        "image": "https://th.bing.com/th/id/R.ee41a7c2853abe40a4d47fb2c9e9fa03?rik=ttxeltHRs%2bjh1A&riu=http%3a%2f%2fd2i8ejbvsgsqtt.cloudfront.net%2fgallery%2ftoronto%2f2022%2f20220715-cjones%2fmed%2f_4CJ7590.jpg&ehk=CbdSihkSWioN78shOidU0NkGjP2ifgvOzbkR6%2bsa1cw%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Streets of Toronto",
+        "image": "https://i.postimg.cc/YCq9LHXv/Indycar-Toronto-Carrera-200725.jpg",
         "info": "[20-07-2025]",
         "stations":
             [
@@ -36,7 +36,7 @@
                 "name": "Carrera",
                 "info":"[Español]",
                 "online": "true",
-                "image": "https://th.bing.com/th/id/R.ee41a7c2853abe40a4d47fb2c9e9fa03?rik=ttxeltHRs%2bjh1A&riu=http%3a%2f%2fd2i8ejbvsgsqtt.cloudfront.net%2fgallery%2ftoronto%2f2022%2f20220715-cjones%2fmed%2f_4CJ7590.jpg&ehk=CbdSihkSWioN78shOidU0NkGjP2ifgvOzbkR6%2bsa1cw%3d&risl=&pid=ImgRaw&r=0",
+                "image": "https://i.postimg.cc/YCq9LHXv/Indycar-Toronto-Carrera-200725.jpg",
                 "url" :"https://pixeldrain.com/u/GZaic8v9",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
@@ -46,16 +46,25 @@
 
         {
         "name": "Iowa Speedway",
-        "image": "https://tse1.mm.bing.net/th/id/OIP.UqpeheMIz_xHqVbzG9GQhAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "image": "https://i.postimg.cc/RFwbzjxR/Indycar-Iowa-Carrera-1-120725.jpg",
         "info": "[12-07-2025]",
         "stations":
             [
                 {
-                "name": "Carrera",
+                "name": "Carrera 1",
                 "info":"[Español]",
                 "online": "true",
-                "image": "https://tse1.mm.bing.net/th/id/OIP.UqpeheMIz_xHqVbzG9GQhAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
-                "url" :"https://pixeldrain.com/u/y9HqhabS",
+                "image": "https://i.postimg.cc/RFwbzjxR/Indycar-Iowa-Carrera-1-120725.jpg",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera 2",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/ryrtqMbc/Indycar-Iowa-Carrera-2-130725.jpg",
+                "url" :"",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "isHost": "true"
                 }
