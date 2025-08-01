@@ -265,6 +265,17 @@
         "url": "https://rockhd.lol/live/stream-445.php",
         "isHost":"true"
         },
+        { 
+        "name": "Dazn 1 🇪🇸",
+        "info":"[Daddy 2]",
+        "online":"true",
+        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
+        "url": "https://thedaddy.click/cast/stream-445.php",
+        "referer": "https://lefttoplay.xyz/", 
+        "origin": "https://lefttoplay.xyz", 
+        "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148", 
+        "isHost": true 
+        },
         {
         "name": "Dazn 1 🇪🇸",
         "info":"[GDPlayer]",
