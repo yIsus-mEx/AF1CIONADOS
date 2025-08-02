@@ -1,0 +1,56 @@
+{
+"name": "WWE Unreal",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.WWE.Unreal.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"[2025][Español]",
+ 		"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+ 		"url":"https://filemoon.to/d/ijk7y9qlwfim",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"[2025][Español]",
+		"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+		"url":"https://filemoon.to/d/ww77c2btk1k2",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"[2025][Español]",
+		"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+		"url":"https://filemoon.to/d/971284g6bm32",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"[2025][Español]",
+		"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+		"url":"https://filemoon.to/d/o107mqyez25z",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"[2025][Español]",  
+		"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+		"url":"https://filemoon.to/d/d3tswsza1d20",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
