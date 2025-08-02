@@ -1,0 +1,47 @@
+{
+"name": "Los Ojos de Wakanda",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Los.Ojos.de.Wakanda.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"[2025][Español]",
+ 		"image":"https://lumiere-a.akamaihd.net/v1/images/gcity_001a_g_spa-es_70x100_5_2_592b5a23.jpeg",
+ 		"url":"https://filemoon.to/d/kmhzqhjrc34e",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"[2025][Español]",
+		"image":"https://lumiere-a.akamaihd.net/v1/images/gcity_001a_g_spa-es_70x100_5_2_592b5a23.jpeg",
+		"url":"https://filemoon.to/d/06o3ci04po3z",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"[2025][Español]",
+		"image":"https://lumiere-a.akamaihd.net/v1/images/gcity_001a_g_spa-es_70x100_5_2_592b5a23.jpeg",
+		"url":"https://filemoon.to/d/54ngrra96c2p",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"[2025][Español]",
+		"image":"https://lumiere-a.akamaihd.net/v1/images/gcity_001a_g_spa-es_70x100_5_2_592b5a23.jpeg",
+		"url":"https://filemoon.to/d/uwtspgdm7mrl",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
