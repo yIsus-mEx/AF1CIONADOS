@@ -1,0 +1,65 @@
+{
+"name": "Marcada",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Marcada.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"[2025][Español]",
+ 		"image":"https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+ 		"url":"https://filemoon.to/d/3mt6bjioocuf",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"[2025][Español]",
+		"image":"https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+		"url":"https://filemoon.to/d/7zj3ki5ga16j",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"[2025][Español]",
+		"image":"https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+		"url":"https://filemoon.to/d/z0wmxm7t58dh",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"[2025][Español]",
+		"image":"https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+		"url":"https://filemoon.to/d/sm3loql94n4q",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"[2025][Español]",  
+		"image":"https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+		"url":"https://filemoon.to/d/3ctr3drp5qg4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"[2025][Español]",  
+		"image":"https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+		"url":"https://filemoon.to/d/3eg0nhyi1ipf",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
