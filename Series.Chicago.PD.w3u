@@ -5,24 +5,971 @@
 "image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"stations":
+"groups":
 	[
 
+
+	{
+	"name": "Temporada 01",
+	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+	"stations":
+	[
  	{
  	"name": "Episodio 01",
-  "info": "2024",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/q8qzfjfb0rac/Chicago_P_D__1x1",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 02",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/1blwl8mx8zbk/Chicago_P_D__1x2",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 03",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/lxqigxa322ob/Chicago_P_D__1x3",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 04",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/miyvt76reob3/Chicago_P_D__1x4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 05",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/8tj19sgdmz86/Chicago_P_D__1x5",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 06",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/hafvycgr5ulc/Chicago_P_D__1x6",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 07",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/wvk8l4w04s4z/Chicago_P_D__1x7",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 08",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/ecttq6gwiz0p/Chicago_P_D__1x8",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 09",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/v88fitt9b9q6/Chicago_P_D__1x9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 10",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/ct5ua1kq9ep4/Chicago_P_D__1x10",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 11",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/lulxejp4v9x5/Chicago_P_D__1x11",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 12",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/xj7lja4vt680/Chicago_P_D__1x12",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 13",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/z1235uppng8f/Chicago_P_D__1x13",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 14",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/8latdbzk7gmu/Chicago_P_D__1x14",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 15",
+  	"info": "2014",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"https://filemoon.to/d/cwk8bbrujlu3/Chicago_P_D__1x15",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	}
+	]
+	},
+
+	{
+	"name": "Temporada 02",
+	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+	"stations":
+	[
+ 	{
+ 	"name": "Episodio 01",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 02",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 03",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 04",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 05",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 06",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 07",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 08",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 09",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 10",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 11",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 12",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 13",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 14",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 15",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	}
+	]
+	},
+
+	{
+	"name": "Temporada 03",
+	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+	"stations":
+	[
+ 	{
+ 	"name": "Episodio 01",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 02",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 03",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 04",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 05",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 06",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 07",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 08",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 09",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 10",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 11",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 12",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 13",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 14",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 15",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	}
+	]
+	},
+
+	{
+	"name": "Temporada 04",
+	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+	"stations":
+	[
+ 	{
+ 	"name": "Episodio 01",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 02",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 03",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 04",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 05",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 06",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 07",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 08",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 09",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 10",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 11",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 12",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 13",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 14",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 15",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	}
+	]
+	},
+
+	{
+	"name": "Temporada 05",
+	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+	"stations":
+	[
+ 	{
+ 	"name": "Episodio 01",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 02",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 03",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 04",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 05",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 06",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 07",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 08",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 09",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 10",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 11",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 12",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 13",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 14",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
+ 	{
+ 	"name": "Episodio 15",
+  	"info": "2024",
+ 	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+ 	"url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	}
+	]
+	},
+
+
+	{
+	"name": "Temporada 11",
+	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
+	"stations":
+	[
+ 	{
+ 	"name": "Episodio 01",
+  	"info": "2024",
  	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
  	"url":"https://filemoon.to/d/7hhc401r3rlo/Chicago_P.D._11x1__HDTV_720p_l_Cap.1101_.mkv",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-  "embed":"",
-  "isHost":"true",
-  "online":"true",
-  "import": false
-  },
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	},
  	{
  	"name": "Episodio 02",
-  "info": "2024",
+  	"info": "2024",
  	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
  	"url":"https://filemoon.to/d/mv3bphqm8imu/Chicago_P.D._11x2__HDTV_720p_l_Cap.1102_.mkv",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -154,16 +1101,18 @@
   },
  	{
  	"name": "Episodio 13",
-  "info": "2024",
+  	"info": "2024",
  	"image":"https://pics.filmaffinity.com/chicago_p_d-461971610-large.jpg",
  	"url":"https://filemoon.to/d/xkfjo53lbwpa/Chicago_P.D_11x13__HDTV_720p_l_Cap.1113_.mkv",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-  "embed":"",
-  "isHost":"true",
-  "online":"true",
-  "import": false
-  }
+  	"embed":"",
+  	"isHost":"true",
+  	"online":"true",
+  	"import": false
+  	}
+	]
+	}
 
 ]
 }
