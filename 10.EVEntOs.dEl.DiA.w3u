@@ -41,6 +41,26 @@
         "referer" : "",
         "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8",
         "isHost":""
+        },
+        {
+        "name": "Barcelona Vs Como 1907",
+        "info":"[TV3]",
+        "online":"true",
+        "image": "https://i.postimg.cc/05zxzhgb/barcavscomo.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://antenasport.org/barcelonatv.php",
+        "isHost":""
+        },
+        {
+        "name": "Barcelona Vs Como 1907",
+        "info":"[TV3]",
+        "online":"true",
+        "image": "https://i.postimg.cc/05zxzhgb/barcavscomo.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://antenasport.org/tv3cat.php",
+        "isHost":""
         }
         ]
     },
