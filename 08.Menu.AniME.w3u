@@ -8,52 +8,59 @@
 "groups":
     [
         {
+         "name": "Invasion en Las Alturas",
+         "image": "https://pics.filmaffinity.com/Invasiaon_de_altura_Serie_de_TV-513734500-large.jpg",
+         "url": "https://af1c1onados.vercel.app/Anime.Invasion.en.Las.Alturas.w3u",
+         "info": "bY Af1cionados",
+         "import": false
+        },
+        {
          "name": "Los Ojos De Wakanda",
          "image": "https://lumiere-a.akamaihd.net/v1/images/gcity_001a_g_spa-es_70x100_5_2_592b5a23.jpeg",
          "url": "https://af1c1onados.vercel.app/Series.Los.Ojos.de.Wakanda.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Gungave",
          "image": "https://m.media-amazon.com/images/I/81+KjWTjzzL._AC_UF894,1000_QL80_.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Gungrave.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Los Simpson",
          "image": "https://i.postimg.cc/hGNrj1Y4/simpson.jpg",
          "url": "https://af1c1onados.vercel.app/Cartoons.Los.Simpson.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
-         "name": "Invensible",
+         "name": "Invencible",
          "image": "https://i.postimg.cc/pTQ7m3TR/Amazon-Original-Invincible.webp",
          "url": "https://af1c1onados.vercel.app/Cartoons.Invensible.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Tu Amigo y Vecino Spider Man",
          "image": "https://lumiere-a.akamaihd.net/v1/images/tu_amigo_y_vecino_spiderman_f43d4f96.jpeg",
          "url": "https://af1c1onados.vercel.app/Cartoons.Tu.Amigo.y.Vecino.Spider.Man.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "La Leyenda de Vox Machina",
          "image": "https://static.wikia.nocookie.net/doblaje/images/1/14/La_Leyenda_De_Vox_Machina_-_Poster.jpg/revision/latest?cb=20231120094515&path-prefix=es",
          "url": "https://af1c1onados.vercel.app/Series.Vox.Machina.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Batman El Enmascarado",
          "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Batman.El.Enmascarado.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
@@ -88,21 +95,21 @@
          "name": "Initial D",
          "image": "https://i.postimg.cc/6pFw3PW2/Initial-D-Integrale-First-Stage.png",
          "url": "https://af1c1onados.vercel.app/Anime.Initial.D.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },        
         {
          "name": "El Espectacular Spider-Man",
          "image": "https://i.postimg.cc/bJzjY8b5/spider.png",
          "url": "https://af1c1onados.vercel.app/Cartoons.El.Espectacular.Spider-Man.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Spy X Family",
          "image": "https://i.postimg.cc/MH36rbVL/spyxfamily.png",
          "url": "https://af1c1onados.vercel.app/Anime.SpyXFamily.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
@@ -116,14 +123,14 @@
          "name": "Saint Young Men",
          "image": "https://m.media-amazon.com/images/M/MV5BZDE4MzI0OGYtMjYwNS00YTc5LTlhZmYtYjRjMzM5NDgzYTA0XkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Saint.Young.Men.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Overtake",
          "image": "https://pictures.betaseries.com/fonds/poster/1546c4e452dd8de1f575acdb558d559a.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Overtake.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
@@ -144,63 +151,63 @@
          "name": "Samurai X",
          "image": "https://i.postimg.cc/wB4h7yfK/kenshin.png",
          "url": "https://af1c1onados.vercel.app/Anime.Samurai.X.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Kengan Ashura",
          "image": "https://i.postimg.cc/Y0z0CMcz/PCXG-50731.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Kengan.Ashura.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
 		{
          "name": "Jujutsu Kaisen (TV)",
          "image": "https://i.postimg.cc/9MXrpZPP/Jujutsu-No-Kaisen.png",
          "url": "https://af1c1onados.vercel.app/Anime.Jujutsu.Kaisen.%5BTV%5D.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
 		{
          "name": "Kimetsu No Yaiba",
          "image": "https://i.postimg.cc/qMW6Tt00/Kimitsu-No-Jaiba.png",
          "url": "https://af1c1onados.vercel.app/Anime.Kimetsu.No.Yaiba.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
 		{
          "name": "Death Note",
          "image": "https://i.postimg.cc/FFB7yfYc/Death-Note.png",
          "url": "https://af1c1onados.vercel.app/Anime.Death.Note.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
 		 "import": false
         },
 		{
          "name": "Dragon Ball",
          "image": "https://mx.web.img3.acsta.net/c_310_420/pictures/22/08/17/02/21/0992049.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Dragon.Ball.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
 		 "import": false
         },
 		{
          "name": "Dragon Ball Z",
          "image": "https://pics.filmaffinity.com/Dragon_Ball_Z_Serie_de_TV-697937148-large.jpg",
          "url": "https://af1c1onados.vercel.app/Anime.Dragon.Ball.Z.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
          "name": "Saint Seiya Omega",
          "image": "https://i.postimg.cc/8zW9WMxL/saint-seiya-omega.png",
          "url": "https://af1c1onados.vercel.app/Anime.Saint.Seiya.Omega.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
 		{
          "name": "Slam Dunk",
          "image": "https://i.postimg.cc/pdbJQ81z/Slam-Dunk.webp",
          "url": "https://af1c1onados.vercel.app/Anime.Slam.Dunk.w3u",
-         "info":"bY. yIsus",
+         "info": "bY Af1cionados",
          "import": false
         },
         {
