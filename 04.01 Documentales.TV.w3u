@@ -235,6 +235,25 @@
 },
 
     {
+      "name": "Canciones desde el encierro",
+      "image": "https://pics.filmaffinity.com/songs_from_the_hole-738951671-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "Canciones desde el encierro",
+          "image": "https://pics.filmaffinity.com/songs_from_the_hole-738951671-large.jpg",
+          "url": "https://filemoon.to/d/hjxjpw5a3j0l/Canciones_desde_el_encierro",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+        ]
+      },
+
+    {
       "name": "Caso Sancho",
       "image": "https://pics.filmaffinity.com/el_caso_sancho_episodio_cero-437192192-large.jpg",
       "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20CASO%20SANCHO.w3u",
