@@ -1,0 +1,56 @@
+{
+"name": "Rebels",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Rebels.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
+ 		"url":"https://filemoon.to/d/r5day2v8jrge",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
+		"url":"https://filemoon.to/d/g90bv9ninmq0",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
+		"url":"https://filemoon.to/d/ym2qvq25e55h",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
+		"url":"https://filemoon.to/d/t64tsecedltz",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
+		"url":"https://filemoon.to/d/pmoln7oscq6z",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
