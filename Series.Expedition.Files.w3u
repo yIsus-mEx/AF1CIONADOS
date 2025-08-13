@@ -1,0 +1,137 @@
+{
+"name": "Expedition Files",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Expedition.Files.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+				"url":"https://filemoon.to/d/50gbwd3wn34q",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+				"url":"https://filemoon.to/d/n6fxi7pmvi0e",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+				"url":"https://filemoon.to/d/92u7ej9y6rv7",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+				"url":"https://filemoon.to/d/xocpzs7fn3n9",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+				"url":"https://filemoon.to/d/7zy8to3yysa9",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+				"url":"https://filemoon.to/d/j8ndlmqllzkt",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+				{
+				"name": "Episodio 01",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+				"url":"https://filemoon.to/d/dx4wcez0d3gn",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+				"url":"https://filemoon.to/d/s5pt6ng3l7jh",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+				"url":"https://filemoon.to/d/wap6yo2hlbml",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+				"url":"https://filemoon.to/d/oebqxn3p58ne",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+				"url":"https://filemoon.to/d/5uy659jg86kc",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://images.justwatch.com/poster/334052064/s718/season-2.jpg",
+				"url":"https://filemoon.to/d/91137pue3gc1",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
