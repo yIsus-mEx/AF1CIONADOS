@@ -170,6 +170,24 @@
         "userAgent":"PlusMediaPlayer/0.0.9",
         "online": "true",
         "isHost": "true"
+        },
+        {
+        "name": "Dzumhur VS Alcaraz",
+        "info": "[10-08-2025][Cincinnati]",
+        "image": "https://i.postimg.cc/1tq5ScF5/Torneo-de-Cincinnati-Dzumhur-VS-Alcaraz-100825.jpg",
+        "url": "https://filemoon.to/d/p2lamgmx65ul/Torneo_de_Cincinnati_Dzumhur_VS_Alcaraz_100825.mkv",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "online": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "Medjedovic VS Alcaraz",
+        "info": "[13-08-2025][Cincinnati]",
+        "image": "https://i.postimg.cc/ZKrHRGm6/Torneo-de-Cincinnati-Medjedovic-VS-Alcaraz-120825.jpg",
+        "url": "https://filemoon.to/d/2ltzn9z4uhyb/Torneo_de_Cincinnati_Medjedovic_VS_Alcaraz_120825.mkv",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "online": "true",
+        "isHost": "true"
         }
 
     ]
