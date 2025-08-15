@@ -1,6 +1,6 @@
 {
 "name": "Saga Avengers",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"image": "https://i.postimg.cc/k5WpBtMw/Los-Vengadores-2013-Saga.jpg",
 "url": "https://af1c1onados.vercel.app/Saga.Avengers.w3u",
 "info": "Lista_AF1CIONADOS",
 "author": "bY yIsus",
@@ -8,11 +8,20 @@
 "stations":
 	[
 		{
+		"name": "Avengers",
+		"info": "[2012][MultiAudio]",
+		"online": "true",
+        "image": "https://i.postimg.cc/k5WpBtMw/Los-Vengadores-2013-Saga.jpg",
+        "url": "https://filemoon.to/d/jf81p4hpdafb/Los_Vengadores",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
 		"name": "Avengers: Infinity War",
 		"info": "[2018][MultiAudio]",
 		"online": "true",
         "image": "https://i.postimg.cc/K8G9XLvX/AV-INFINITY.png",
-        "url": "https://filemoon.sx/d/h9jobhnwd4kd",
+        "url": "https://filemoon.to/d/hv6xhixyu9oa/Los_vengadores_Infinity_war",
        	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost": "true"
        	},
@@ -21,7 +30,7 @@
 		"info": "[2019][MultiAudio]",
 		"online": "true",
         "image": "https://i.postimg.cc/tRFDYDsQ/AV-ENDGAME.png",
-        "url": "https://filemoon.sx/d/v0i7bi6m1vdd",
+        "url": "https://filemoon.to/d/mxg1ngyat2aa/Los_vengadores_Endgame",
        	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost": "true"
        	}
