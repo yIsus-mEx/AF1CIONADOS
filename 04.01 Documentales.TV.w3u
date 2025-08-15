@@ -40,24 +40,24 @@
 "import": false
 },
 
+{
+  "name": "7291",
+  "image": "https://pics.filmaffinity.com/7291-520234354-large.jpg",
+  "info": "2024",
+  "stations": [
     {
       "name": "7291",
       "image": "https://pics.filmaffinity.com/7291-520234354-large.jpg",
+      "url": "https://listeamed.net/v/m7WJxgBp7gB5Bze",
       "info": "2024",
-      "stations": [
-        {
-          "name": "7291",
-          "image": "https://pics.filmaffinity.com/7291-520234354-large.jpg",
-          "url": "https://listeamed.net/v/m7WJxgBp7gB5Bze",
-          "info": "2024",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-        ]
-      },
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+      }
+    ]
+  },
 
 {
 "name": "Alcaraz, a mi manera",
@@ -1573,6 +1573,25 @@
         }
       ]
     },
+
+{
+  "name": "Take your pills",
+  "image": "https://pics.filmaffinity.com/take_your_pills-563508345-large.jpg",
+  "info": "[2018]",
+  "stations": [
+    {
+      "name": "Take your pills",
+      "image": "https://pics.filmaffinity.com/take_your_pills-563508345-large.jpg",
+      "url": "https://filemoon.to/d/mp457b8u497n/Take.Your.Pills.2018.Esp.1080p_2.mkv",
+      "info": "[2018]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+      }
+    ]
+  },
 
     {
       "name": "Telarañas, el segundo imperio Británico",
