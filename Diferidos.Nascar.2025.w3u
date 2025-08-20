@@ -8,8 +8,53 @@
 "stations":
    [
         {
-        "name": "R11 Würth 400",
-        "info":"[DAZN]",
+        "name": "R25 Iowa Corn 350",
+        "info":"[DAZN][Iowa]",
+        "image": "https://i.postimg.cc/76FXwmV5/Iowa-Corn-350.png",
+        "url":"https://pixeldrain.com/u/1Z1jqP25",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R24 Brickyard 400",
+        "info":"[DAZN][Indianapolis]",
+        "image": "https://i.postimg.cc/P5y6Ybt7/Brickyard-400.png",
+        "url":"https://pixeldrain.com/u/66atkcpQ",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R23 Autotrader 400",
+        "info":"[DAZN][Dover]",
+        "image": "https://i.postimg.cc/xjNFhbRk/Autotrader-400.png",
+        "url":"https://pixeldrain.com/u/ZfP2Jfxv",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R22 Toyota Save Mart 350",
+        "info":"[DAZN][Sonoma]",
+        "image": "https://i.postimg.cc/MGZFFPPx/Toyota-Save-Mart-350.png",
+        "url":"https://pixeldrain.com/u/kuELKjcz",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R14 adventhealth 400",
+        "info":"[DAZN][Kansas City]",
+        "image": "",
+        "url":"",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":""
+        },
+        {
+        "name": "R12 Würth 400",
+        "info":"[DAZN][Texas]",
         "image": "https://i.postimg.cc/bJN9GQDD/Nascar-W-rth-400.png",
         "url":"https://pixeldrain.com/u/f1NB9EvG",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -17,8 +62,8 @@
         "online":"true"
         },
         {
-        "name": "R10 Jack Link's 500 Talladega",
-        "info":"[DAZN]",
+        "name": "R11 Jack Link's 500",
+        "info":"[DAZN][Talladega]",
         "image": "https://i.postimg.cc/fyyDygf3/Talladega.png",
         "url":"https://pixeldrain.com/u/V7z32Si4",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -26,8 +71,8 @@
         "online":"true"
         },
         {
-        "name": "R09 Food City 500",
-        "info":"[DAZN]",
+        "name": "R10 Food City 500",
+        "info":"[DAZN][Bristol]",
         "image": "https://i.postimg.cc/CLfThVBc/Foord-City-500.png",
         "url":"https://pixeldrain.com/u/gYcStdi6",
     	"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -35,8 +80,8 @@
         "online":"true"
         },
         {
-        "name": "R08 Goodyear 400",
-        "info":"[DAZN]",
+        "name": "R09 Goodyear 400",
+        "info":"[DAZN][Darlington]",
         "image": "https://i.postimg.cc/QNBJf7Kj/GOODYEAR-400.png",
         "url":"https://pixeldrain.com/u/yEjVnShK",
     	"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -44,8 +89,8 @@
         "online":"true"
         },
         {
-        "name": "R07 Cook Out 400",
-        "info":"[DAZN]",
+        "name": "R08 Cook Out 400",
+        "info":"[DAZN][Martisville]",
         "image": "https://i.postimg.cc/NFd05YtL/cook-out-400-race.png",
         "url":"https://pixeldrain.com/u/NoquJS4D",
     	"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -53,8 +98,8 @@
         "online":"true"
         },
         {
-        "name": "R06 Straight Talk Wireless 400",
-        "info":"[DAZN]",
+        "name": "R07 Straight Talk Wireless 400",
+        "info":"[DAZN][Miami]",
         "image": "https://i.postimg.cc/FK57FnWJ/Straight-Talk-400.png",
         "url":"https://pixeldrain.com/u/vfnErfSF",
     	"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -62,8 +107,8 @@
         "online":"true"
         },
         {
-        "name": "R05 Pennzoil 400",
-        "info":"[DAZN]",
+        "name": "R06 Pennzoil 400",
+        "info":"[DAZN][Las Vegas]",
         "image": "https://i.postimg.cc/xTQQtWct/Pennzoil400.png",
         "url":"https://pixeldrain.com/u/8cb6Nm3Z",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -71,8 +116,8 @@
         "online":"true"
         },
         {
-        "name": "R04 Shriners Children’s 500",
-        "info":"[DAZN]",
+        "name": "R05 Shriners Children’s 500",
+        "info":"[DAZN][Phoienix]",
         "image": "https://i.postimg.cc/zB53mp7r/phoenix.png",
         "url":"https://pixeldrain.com/u/SQt8DHi3",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -80,8 +125,8 @@
         "online":"true"
         },
         {
-        "name": "R03 EchoPark Automotive",
-        "info":"[Español]",
+        "name": "R04 EchoPark Automotive",
+        "info":"[Español][Cota]",
         "image": "https://i.postimg.cc/XY36W07C/NASCAR-Echo-Park-Automotive-Grand-Prix.png",
         "url":"https://pixeldrain.com/u/8viJrj9o",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -89,8 +134,8 @@
         "online":"true"
         },
         {
-        "name": "R02 Ambetter Health 400",
-        "info":"[DAZN]",
+        "name": "R03 Ambetter Health 400",
+        "info":"[DAZN][Atlanta]",
         "image": "https://i.postimg.cc/44wFtqkD/Ambetter.png",
         "url":"https://filemoon.to/d/edt3rc8yefx3",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
@@ -98,8 +143,8 @@
         "online":"true"
         },
         {
-        "name": "R01 Daytona 500",
-        "info":"[DAZN]",
+        "name": "R02 Daytona 500",
+        "info":"[DAZN][Daytona]",
         "online":"true",
         "image": "https://i.postimg.cc/vmygLP5n/Daytona-500.png",
         "url":"https://listeamed.net/v/ZMVoEroaGYqO9Pa",
