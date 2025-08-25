@@ -8,6 +8,24 @@
 "stations":
    [
         {
+        "name": "R27 Cook Out 400",
+        "info":"[DAZN][Richmond]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/a5owiYwv",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R26 Go Bowling at The Glen",
+        "info":"[DAZN][watkins glen]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/XHdgpdq1",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
         "name": "R25 Iowa Corn 350",
         "info":"[DAZN][Iowa]",
         "image": "https://i.postimg.cc/76FXwmV5/Iowa-Corn-350.png",
@@ -44,13 +62,85 @@
         "online":"true"
         },
         {
-        "name": "R14 adventhealth 400",
-        "info":"[DAZN][Kansas City]",
+        "name": "R21  Grant Park 165",
+        "info":"[DAZN][Chicago]",
         "image": "",
-        "url":"",
+        "url":"https://pixeldrain.com/u/HTq6xJmU",
 		"userAgent" : "PlusMediaPlayer/0.0.9",
         "isHost":"true",
-        "online":""
+        "online":"true"
+        },
+        {
+        "name": "R20 Quaker State 400",
+        "info":"[DAZN][Atlanta]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/Z46kiqLK",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R19 The Great American Getaway 400",
+        "info":"[DAZN][Pocono]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/XXMYTmDc",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R18 Viva Mexico 250",
+        "info":"[DAZN][Mexico]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/NngHJp4G",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R17 FireKeepers Casino 400",
+        "info":"[DAZN][Michigan]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/cerwRrNc",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R16 Cracker Barrel 400",
+        "info":"[DAZN][Nashville]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/cerwRrNc",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R15 Coca-Cola 600",
+        "info":"[DAZN][Charlotte]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/izZ2G8Ax",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R14 All-Star Open",
+        "info":"[DAZN][North Wilkesboro]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/sx1od4gh",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "R13 adventhealth 400",
+        "info":"[DAZN][Kansas City]",
+        "image": "",
+        "url":"https://pixeldrain.com/u/inVduFTp",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
         },
         {
         "name": "R12 Würth 400",
