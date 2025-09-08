@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Italia [Monza][05-07.Sep25]",
+      "info": "",
+      "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/3f3dmmirq87s",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/g2zdzbbww26g",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/3mqeqd7iryu5",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/hdlzla7jaihg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/emlsb8gbyc7w",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/g2lxs7ibpky8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://filemoon.to/d/nrg5h2fvz9mq",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://pixeldrain.com/u/Q7YNkof5",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
+          "url": "https://pixeldrain.com/u/xou2bmsv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Gran Bretaña [04-06.Jul25]",
       "info": "",
       "image": "https://i.postimg.cc/k4k88jxT/Silverstone.png",
