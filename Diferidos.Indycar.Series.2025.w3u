@@ -8,6 +8,58 @@
 "groups":
     [
         {
+        "name": "R16 Nashville",
+        "image": "https://i.postimg.cc/VL2rrZnq/Nashville-2025.png",
+        "info": "[31-08-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/VL2rrZnq/Nashville-2025.png",
+                "url" :"https://pixeldrain.com/u/baV7edkD",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                 {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/VL2rrZnq/Nashville-2025.png",
+                "url" :"https://pixeldrain.com/u/j4SRUnyK",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R15 Milwaukee",
+        "image": "https://i.postimg.cc/YSKWVDSr/Milwaukee-2025.png",
+        "info": "[24-08-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/YSKWVDSr/Milwaukee-2025.png",
+                "url" :"https://pixeldrain.com/u/atirC8PL",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                 {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/YSKWVDSr/Milwaukee-2025.png",
+                "url" :"https://pixeldrain.com/u/HtoHjN6D",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
         "name": "R14 Portlan",
         "image": "https://i.postimg.cc/BbzF4ypD/portlan.png",
         "info": "[10-08-2025]",
