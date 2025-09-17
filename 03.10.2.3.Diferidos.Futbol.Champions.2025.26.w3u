@@ -1,0 +1,86 @@
+{
+"name": "UEFA Champions League 2025/26",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/03.10.2.3.Diferidos.Futbol.Champions.2025.26.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"groups":
+    [
+
+	{
+	"name": "JORNADA 1 FASE DE LIGUILLA",
+	"info":"",
+	"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+	"imageScale": "",
+	"stations":
+	[
+		{
+		"name": "Real Madrid VS Olimpic Marsella",
+		"info":"[16-09-2025]",
+		"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+		"url":",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+  	{
+		"name": " VS ",
+		"info":"[16-09-2025]",
+		"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+		"url":",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "",
+		"info":"[17-09-2024]",
+		"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "",
+		"info":"[17-09-2024]",
+		"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+  	{
+		"name": "",
+		"info":"[17-09-2024]",
+		"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+	},
+
+	{
+	"name": "JORNADA 2 FASE DE LIGUILLA",
+	"info":"",
+	"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/08/29/17249359459363.jpg",
+	"imageScale": "",
+	"stations":
+	[
+  	{
+		"name": "",
+		"info":"[17-09-2024]",
+		"image": "https://editorial.uefa.com/resources/029c-1e9a5a125438-82a652674b15-1000/format/wide1/media.jpeg?imwidth=2048",
+		"url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+	}
+
+]
+}
