@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Azerbaiyan [Baku][19-21.Sep25]",
+      "info": "",
+      "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/vs9b1zng9j27",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/da6qcs8xr4gn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/pppd9vqzcqob",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/x3w05jqzp5bm",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/27kn97fvg1z9",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/dqvf7tr45buq",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/qhqrvzsq4fed",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://filemoon.to/d/mnye74bwc6e4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://pixeldrain.com/u/G9YQ1gGw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/g2Jz13KR/Azerbaijan.png",
+          "url": "https://pixeldrain.com/u/5tT8ciym",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Italia [Monza][05-07.Sep25]",
       "info": "",
       "image": "https://i.postimg.cc/hj6gNxm0/F1-Italia-2025.png",
