@@ -8,6 +8,42 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Lopes Vs Silva",
+         "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Lopes Vs Silva",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
+                "url":"https://pixeldrain.com/u/frPdzDTb",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Imavov vs Borralho",
+         "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Imavov vs Borralho",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
+                "url":"https://pixeldrain.com/u/h3Dyvkvz",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 317: Topuria vs Oliveira",
          "image": "https://i.postimg.cc/15t9J5Mh/UFC-317.png",
          "imageScale": "",
