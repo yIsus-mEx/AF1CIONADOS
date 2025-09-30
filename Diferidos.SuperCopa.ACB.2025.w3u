@@ -1,0 +1,48 @@
+        {
+        "name": "superCopa ACB 2025       bY Ronki",
+        "image": "https://i.postimg.cc/gkJv4RXM/Super-Copa-Basket-2025.jpg",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/refs/heads/main/Diferidos.SuperCopa.ACB.2025.w3u",
+        "info": "2025",
+        "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+        "telegram": "@YIsus_mEx",
+        "stations":
+	    [
+
+	    {
+       	"name": "Unicaja VS Valencia",
+        "image": "https://i.postimg.cc/gkJv4RXM/Super-Copa-Basket-2025.jpg",
+        "url": "https://filemoon.to/d/hxpncmofr62t/DAZN___Baloncesto___Unicaja_-_Valencia_Basket.mkv",
+       	"info": "[Semifinal 1][2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+	    {
+       	"name": "Real Madrid vs Laguna Tenerife",
+        "image": "https://i.postimg.cc/gkJv4RXM/Super-Copa-Basket-2025.jpg",
+        "url": "https://filemoon.to/d/022kfhic3x3c/DAZN___Baloncesto___Real_Madrid_-_La_Laguna_Tenerife.mkv",
+       	"info": "[Semifinal 2][2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+	    {
+       	"name": "Real Madrid vs Valencia",
+        "image": "https://i.postimg.cc/gkJv4RXM/Super-Copa-Basket-2025.jpg",
+        "url": "https://filemoon.to/d/9zkveruryu11/DAZN___Baloncesto___Real_Madrid_-_Valencia.mkv",
+       	"info": "[Final][2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	}
+
+
+    ]
+}
+
