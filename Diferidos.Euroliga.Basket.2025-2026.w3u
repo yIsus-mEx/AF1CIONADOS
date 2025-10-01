@@ -2,179 +2,89 @@
 "name": "EurosLiga Basket 2025-2026",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://cutt.ly/Lr1pcmjx",
-"image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
+"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "groups": 
 	[
   
- 		{
+ 	{
     "name": "JORNADA 1",
-    "image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
+    "image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
     "info": "",
     "stations":
       [
-	       	{
- 	       	"name": "Baskonia VS Olympiakos",
-			    "image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
-	        "url": "https://filemoon.to/d/z2lqk6fct7ri/Euroliga_Baskonia_VS_Olympiacos_300925.mkv",
-	        "info": "[30/09/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        	},
-	       	{
- 	       	"name": "Dubai VS Partizan Belgrado",
-			    "image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
-	        "url": "https://filemoon.to/d/9hg6cipmiix1/Euroliga_Dubai_VS_Partizan_300925.mkv",
-	        "info": "[30/09/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        	},
-	       	{
- 	       	"name": "Hapoel VS FC Barcelona",
-			    "image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
-	        "url": "https://filemoon.to/d/yrg4gedpykis/Euroliga_Hapoel_VS_FC_Barcelona_300925.mkv",
-	        "info": "[30/09/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        	},
-	       	{
- 	       	"name": "Virtus VS Real Madrid",
-			    "image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
-	        "url": "https://filemoon.to/d/v86pe1iiaqcu/Euroliga_Virtus_VS_Real_Madrid_300925.mkv",
-	        "info": "[30/09/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        	}
+	    {
+ 	    "name": "Baskonia VS Olympiakos",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "https://filemoon.to/d/z2lqk6fct7ri/Euroliga_Baskonia_VS_Olympiacos_300925.mkv",
+	    "info": "[30/09/2025]",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+        },
+	    {
+ 	    "name": "Dubai VS Partizan Belgrado",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "https://filemoon.to/d/9hg6cipmiix1/Euroliga_Dubai_VS_Partizan_300925.mkv",
+	    "info": "[30/09/2025]",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+        },
+	    {
+ 	    "name": "Hapoel VS FC Barcelona",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "https://filemoon.to/d/yrg4gedpykis/Euroliga_Hapoel_VS_FC_Barcelona_300925.mkv",
+	    "info": "[30/09/2025]",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+        },
+	    {
+ 	    "name": "Virtus VS Real Madrid",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "https://filemoon.to/d/v86pe1iiaqcu/Euroliga_Virtus_VS_Real_Madrid_300925.mkv",
+	    "info": "[30/09/2025]",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+        }
       ]
-		},
+	},
 
- 		{
+ 	{
     "name": "JORNADA 2",
-    "image": "",
+    "image": ""ttps://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png,
     "info": "",
     "stations":
       [
-	       	{
- 	       	"name": "",
-			    "image": "",
-	        "url": "",
-	        "info": "[09/10/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-          }
-      ]
-    },
-
- 		{
-    "name": "JORNADA 3",
-    "image": "",
-    "info": "",
-    "stations":
-      [
-	       	{
- 	       	"name": "",
-			    "image": "",
-	        "url": "",
-	        "info": "[09/10/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-          }
-      ]
-    },
-
- 		{
-    "name": "JORNADA 4",
-    "image": "",
-    "info": "",
-    "stations":
-      [
-	       	{
- 	       	"name": "",
-			    "image": "",
-	        "url": "",
-	        "info": "[09/10/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-          }
-      ]
-    },
-
- 		{
-    "name": "JORNADA 5",
-    "image": "",
-    "info": "",
-    "stations":
-      [
-	       	{
- 	       	"name": "",
-			    "image": "",
-	        "url": "",
-	        "info": "[09/10/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-          }
-      ]
-    },
-
- 		{
-    "name": "JORNADA ",
-    "image": "",
-    "info": "",
-    "stations":
-      [
-	       	{
- 	       	"name": "",
-			    "image": "",
-	        "url": "",
-	        "info": "[09/10/2025]",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "referer": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-          }
+	    {
+ 	    "name": "",
+		"image": "ttps://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+	    "url": "",
+	    "info": "[09/10/2025]",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+        }
       ]
     }
-
-
-
-
-
-
 
 
 ]
