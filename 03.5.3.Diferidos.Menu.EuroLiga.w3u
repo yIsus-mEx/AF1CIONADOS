@@ -8,25 +8,27 @@
 "groups": 
     [
         {
-         "name": "EuroLiga 2023",
+         "name": "EuroLiga Basket 2023-2024",
          "image": "https://i.postimg.cc/fTqpYFch/Euroliga2023-new.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.Euroliga.2023.w3u",
          "info":"",
          "import": false
         },
 	{
-         "name": "EuroLiga 2024",
+         "name": "EuroLiga Basket 2024-2025",
          "image": "https://i.postimg.cc/Xqdq9FPR/Euroliga2024-new.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.Euroliga.2024.w3u",
          "info":"",
          "import": false
         },
 	{
-         "name": "EuroLiga 2025",
-         "image": "ttps://i.postimg.cc/Xqdq9FPR/Euroliga2024-new.png",
-         "url": "https://af1c1onados.vercel.app/",
+         "name": "EuroLiga Basket 2025-2026",
+         "image": "https://i.postimg.cc/Xvxdjr0j/Euro-Basket-League-2025-2026-4.jpg",
+         url": "https://af1c1onados.vercel.app/",
          "info":"",
          "import": false
         }
+
+
 	]
 }
