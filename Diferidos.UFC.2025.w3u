@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Ulberg vs Reyes",
+         "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Ulberg vs Reyes",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
+                "url":"https://pixeldrain.com/u/uHtNarF4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Lopes Vs Silva",
          "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
          "imageScale": "",
