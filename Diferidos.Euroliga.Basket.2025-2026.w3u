@@ -139,13 +139,13 @@
 
  	{
     "name": "JORNADA 2",
-    "image": "ttps://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+    "image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
     "info": "",
     "stations":
       [
 	    {
  	    "name": "Bayern VS Crvena",
-		"image": "ttps://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
 	    "url": "https://filemoon.to/d/i3f1441rpo1t/Euroliga_Bayern_VS_Crvena_021025.mkv",
 	    "info": "[02/10/2025]",
         "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -157,7 +157,7 @@
         },
 	    {
  	    "name": "Real Madrid VS Olympiakos",
-		"image": "ttps://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
+		"image": "https://i.postimg.cc/KcMmPCpp/logo10-1-81046-removebg-preview.png",
 	    "url": "https://filemoon.to/d/218fu2fxlhjz/Euroliga_Real_Madrid_VS_Olympiacos_021025.mkv",
 	    "info": "[02/10/2025]",
         "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
