@@ -8,6 +8,22 @@
 "stations":
 	[
         {
+        "name": "Canal 1",
+        "info": "Fijo: M+ | 8xjd <1>",
+        "image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
+        "url" : "https://marbleagree.net/embed/8xjdm9xmx8ys",
+        "referer": "https://tarjetarojaenvivo.lat/",
+        "isHost": "true"
+        }, 
+        {
+         "name": "Canal 2",
+         "info": "Fijo: DAZN | w2iuo <1>",
+         "image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+         "url": "https://marbleagree.net/embed/w2iuo",
+         "referer" : "https://tarjetarojaenvivo.lat/",
+         "isHost": "true"
+       },
+        {
         "name": "LaLiga TV🇪🇸",
         "info": "[Daddy]",
         "online": "true",
