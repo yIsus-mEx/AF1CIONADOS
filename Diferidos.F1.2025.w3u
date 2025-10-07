@@ -7,6 +7,63 @@
   "info": "",
   "groups": 
   [
+
+
+
+    {
+      "name": "F1 2025 Singapur [Marina Bay][03-05.Oct25]",
+      "info": "",
+      "image": "https://i.postimg.cc/nc2SsMGH/Formula-1-Singapur-2025.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/nc2SsMGH/Formula-1-Singapur-2025.jpg",
+          "url": "https://filemoon.to/d/871felfnhraz/F1_Singapur_3_oct_25_pr_cticas1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 2",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/nc2SsMGH/Formula-1-Singapur-2025.jpg",
+          "url": "https://filemoon.to/d/8g33evuou284/F1_Singapur_3_oct_25_pr_cticas2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/nc2SsMGH/Formula-1-Singapur-2025.jpg",
+          "url": "https://filemoon.to/d/1pyev3q58k81/F1_Singapur_3_oct_25_pr_cticas3",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/nc2SsMGH/Formula-1-Singapur-2025.jpg",
+          "url": "https://filemoon.to/d/0s3r4yl47dzq/F1_Singapur_4_oct_25_clasif",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/nc2SsMGH/Formula-1-Singapur-2025.jpg",
+          "url": "https://filemoon.to/d/0j7me204ylav/F1_Singapur_5_oct_25_carrera",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "F1 2025 Azerbaiyan [Baku][19-21.Sep25]",
       "info": "",
