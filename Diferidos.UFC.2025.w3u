@@ -8,6 +8,33 @@
 "groups":
     [
         {
+         "name": "UFC 320: Ankalaev vs Pereira 2",
+         "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 320: Ankalaev vs Pereira 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+                "url":"https://pixeldrain.com/u/M8XqWc32",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 320: Ankalaev vs Pereira 2",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+                "url":"https://pixeldrain.com/u/uT91mZWM",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }            
+            ]
+        },
+        {
          "name": "UFC Fight Night: Ulberg vs Reyes",
          "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
          "imageScale": "",
@@ -20,6 +47,15 @@
                 "online":"true",
                 "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
                 "url":"https://pixeldrain.com/u/uHtNarF4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Ulberg vs Reyes",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
+                "url":"https://pixeldrain.com/u/JeRdeFVH",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true"
                 }
