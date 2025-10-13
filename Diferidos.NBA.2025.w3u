@@ -1,49 +1,48 @@
 {
 "name": "Liga NBA 2025",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Diferidos.Euroliga.2024.w3u",
+"url": "https://af1c1onados.vercel.app/Diferidos.NBA.2025.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "",
 "stations": 
 	[
-			{
-			"name": "Portland VS Sacramento",
-			"info": "[NBA 1][480]",
-			"online": "true",
-			"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
-			"url": "https://pixeldrain.com/u/LQegKaXH",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"isHost": "true"
-      },
-			{
-			"name": "Portland VS Sacramento",
-			"info": "[NBA 1][720]",
-			"online": "true",
-			"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
-			"url": "https://pixeldrain.com/u/yJ6temZn",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"isHost": "true"
-      },
-			{
-			"name": "Portland VS Sacramento",
-			"info": "[NBA 2][480]",
-			"online": "true",
-			"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
-			"url": "https://filemoon.to/d/c02t98btdjw3/Portland_vs_Sacramento_480.mp4",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"isHost": "true"
-      },
-			{
-			"name": "Portland VS Sacramento",
-			"info": "[NBA 2][720]",
-			"online": "true",
-			"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
-			"url": "https://filemoon.to/d/i0b5gw5ye0vx/Portland_vs_Sacramento_720.mp4",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"isHost": "true"
-      }
-
+	{
+	"name": "Portland VS Sacramento",
+	"info": "[NBA 1][480]",
+	"online": "true",
+	"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
+	"url": "https://pixeldrain.com/u/LQegKaXH",
+    "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"isHost": "true"
+    },
+	{
+	"name": "Portland VS Sacramento",
+	"info": "[NBA 1][720]",
+	"online": "true",
+	"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
+	"url": "https://pixeldrain.com/u/yJ6temZn",
+    "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"isHost": "true"
+    },
+	{
+	"name": "Portland VS Sacramento",
+	"info": "[NBA 2][480]",
+	"online": "true",
+	"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
+	"url": "https://filemoon.to/d/c02t98btdjw3/Portland_vs_Sacramento_480.mp4",
+    "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"isHost": "true"
+    },
+	{
+	"name": "Portland VS Sacramento",
+	"info": "[NBA 2][720]",
+	"online": "true",
+	"image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/223831.webp",
+	"url": "https://filemoon.to/d/i0b5gw5ye0vx/Portland_vs_Sacramento_720.mp4",
+    "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"isHost": "true"
+    }
 ]
 }
 
