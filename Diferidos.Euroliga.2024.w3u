@@ -14,11 +14,29 @@
         	"stations":
             	[
 			{
+			"name": "Portland VS Sacramento",
+			"info": "[NBA 1][480]",
+			"online": "true",
+			"image": "",
+			"url": "https://pixeldrain.com/u/LQegKaXH",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        	},
+			{
+			"name": "Portland VS Sacramento",
+			"info": "[NBA 1][720]",
+			"online": "true",
+			"image": "",
+			"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        	},
+			{
 			"name": "Bayern Munich VS Real Madrid",
 			"info": "[03/10/24]",
 			"online": "true",
 			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
-			"url": "https://filemoon.sx/d/6c9tal4tjtbw/Euroliga_Bayer_Munich_VS_Real_Madrid_031024.mkv",
+			"url": "https://pixeldrain.com/u/LQegKaXH",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"isHost": "true"
         		},
