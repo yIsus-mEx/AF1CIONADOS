@@ -2148,21 +2148,11 @@
         "name": "Rally Tv",
         "info":"[CanalTv]",
         "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
-        "url": "https://freqsyndlin.rally.tv/583/hls/master/playlist.m3u8",
+        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":""
-        },
-        {
-        "name": "Rally Tv 🇬🇧",
-        "info":"[Daddy]",
-        "image": "https://i.postimg.cc/SQn6YZXg/Rally-TV.png",
-        "url": "https://rockhd.lol/live/stream-607.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://forcedtoplay.xyz/",
-        "online":"true",
-        "isHost":"true"
         }
 	]
 }
