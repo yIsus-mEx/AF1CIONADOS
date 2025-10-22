@@ -130,6 +130,61 @@
 	{
 	"name": "JORNADA 3 FASE DE LIGUILLA",
 	"info":"",
+	"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+	"imageScale": "",
+	"stations":
+	[
+  		{
+		"name": "FC Barcelona VS Olympiakos",
+		"info":"[21-10-2025]",
+		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"https://filemoon.to/d/tw5th8132f74/Champions_FC_Barcelona_VS_Olympiakos_211025.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "Arsenal VS Atletico Madrid",
+		"info":"[21-10-2025]",
+		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"https://filemoon.to/d/rwtn9wgwjc1r/Champions_Arsenal_VS_Atleti_Madrid_211025.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "",
+		"info":"[-10-2025]",
+		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "",
+		"info":"[-10-2025]",
+		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "",
+		"info":"[-10-2025]",
+		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+	},
+
+	{
+	"name": "JORNADA 4 FASE DE LIGUILLA",
+	"info":"",
 	"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 	"imageScale": "",
 	"stations":
