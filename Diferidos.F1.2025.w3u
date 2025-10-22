@@ -8,8 +8,105 @@
   "groups": 
   [
 
-
-
+    {
+      "name": "F1 2025 Usa [Austin][17-19.Oct25]",
+      "info": "",
+      "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/g5co0eovq9d7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/avs9mjnjul96",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/kpctixp9c4hd",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/ckvgb4ajk9cr",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrra Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/cfuy3gxcmhu6",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrra Sprint",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/ozsl1lz15a6w",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://filemoon.to/d/gl6661eyn01w",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DaznF1]",
+          "image": "",
+          "url": "https://filemoon.to/d/dqj8ppszqhs2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://pixeldrain.com/u/QTbLhVSA",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/L4Gzvmwz/f1-usa-2025.png",
+          "url": "https://pixeldrain.com/u/RtBCZCtZ",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "F1 2025 Singapur [Marina Bay][03-05.Oct25]",
       "info": "",
