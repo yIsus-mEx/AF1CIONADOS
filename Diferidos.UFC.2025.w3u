@@ -8,6 +8,60 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Ridder vs Allen",
+         "image": "https://i.postimg.cc/hv3d1mC1/Ridder-vs-Allen.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Ridder vs Allen",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/hv3d1mC1/Ridder-vs-Allen.png",
+                "url":"https://pixeldrain.com/u/cHPP39Ei",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Ridder vs Allen",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/hv3d1mC1/Ridder-vs-Allen.png",
+                "url":"https://pixeldrain.com/u/eHq4L3Wy",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Oliveira vs Gamrot",
+         "image": "https://i.postimg.cc/tghFGYgL/Oliveira-vs-Gamrot.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Oliveira vs Gamrot",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tghFGYgL/Oliveira-vs-Gamrot.png",
+                "url":"https://pixeldrain.com/u/YKNU7gWM",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Oliveira vs Gamrot",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tghFGYgL/Oliveira-vs-Gamrot.png",
+                "url":"https://pixeldrain.com/u/ZrBAFZtc",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 320: Ankalaev vs Pereira 2",
          "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
          "imageScale": "",
@@ -76,6 +130,15 @@
                 "url":"https://pixeldrain.com/u/frPdzDTb",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Lopes Vs Silva",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
+                "url":"https://pixeldrain.com/u/7Agh33ZJ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
                 }
             ]
         },
@@ -92,6 +155,15 @@
                 "online":"true",
                 "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
                 "url":"https://pixeldrain.com/u/h3Dyvkvz",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Imavov vs Borralho",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
+                "url":"https://pixeldrain.com/u/mgsY11QK",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true"
                 }
