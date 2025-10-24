@@ -8,13 +8,13 @@
 "stations":
 	[
         {
-        "name": "LaLiga TV🇪🇸",
+        "name": "LaLiga TV 🇪🇸",
         "info": "[Daddy]",
         "online": "true",
         "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
         "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "origin": "https://enz.gdplayertv.to",
-        "referer": "https://ava.karmakurama.com/premium.php?id=84",
+        "origin": "https://ava.karmakurama.com",
+        "referer": "https://ava.karmakurama.com",
         "url": "https://ava.karmakurama.com/wind/premium84/mono.m3u8",
         "isHost":""
         },
