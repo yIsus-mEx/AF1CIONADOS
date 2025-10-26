@@ -22,7 +22,7 @@
         "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "origin": "https://ava.karmakurama.com",
         "referer": "https://ava.karmakurama.com",
-        "url": "https://ava.karmakurama.com/?id=538",
+        "url": "https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8",
         "isHost":"true"
         },
         {
@@ -53,27 +53,27 @@
         "online":"true",
         "image": "https://images.supersport.com/media/jwfahd0l/elclasico_montage_web_1200.png",
         "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "origin": "https://ava.karmakurama.com",
-        "referer": "https://ava.karmakurama.com",
-        "url": "https://ava.karmakurama.com/?id=149",
+        "origin": "",
+        "referer": "",
+        "url": "https://streamtpmedia.com/global1.php?stream=espndeportes",
         "isHost":"true"
         },
         {
         "name": "Real Madrid VS Barcelona",
-        "info":"[ESPN]",
+        "info":"[]",
         "online":"true",
         "image": "https://images.supersport.com/media/jwfahd0l/elclasico_montage_web_1200.png",
         "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "origin": "https://ava.karmakurama.com",
-        "referer": "https://ava.karmakurama.com",
-        "url": "https://ava.karmakurama.com/?id=375",
+        "origin": "",
+        "referer": "",
+        "url": "https://streamtpmedia.com/canal3.html",
         "isHost":"true"
         },
         {
           "name": "Real Madrid VS Barcelona",
-          "info": "[ESPN]",
+          "info": "[]",
           "image": "https://images.supersport.com/media/jwfahd0l/elclasico_montage_web_1200.png",
-          "url": "https://streamtpmedia.com/global1.php?stream=espn",
+          "url": "https://streamtpmedia.com/canal2.html",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "",
@@ -82,14 +82,14 @@
         },
         {
           "name": "Real Madrid VS Barcelona",
-          "info": "[Sky LaLiga]",
+          "info": "[]",
           "image": "https://images.supersport.com/media/jwfahd0l/elclasico_montage_web_1200.png",
-          "url": "https://k8o5.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu?|https://streamvv11.lat/",
+          "url": "https://streamtpmedia.com/canal5.html",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "",
           "online": "true",
-          "isHost": ""
+          "isHost": "true"
         }
       ]
     },
