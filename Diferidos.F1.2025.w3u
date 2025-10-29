@@ -7,7 +7,105 @@
   "info": "",
   "groups": 
   [
-
+    {
+      "name": "F1 2025 Mexico [Autodromo H. Rodriguez][24-26.Oct25]",
+      "info": "",
+      "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/g3wbtgzkn147",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/yqf9trwh7w1w",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/2qpzkv8fn1oo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/9bsxwweqcw6c",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/ubga9c8fb6mo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/jdfu45wnrygv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/t6ody0i8xm2u",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://filemoon.to/d/ud114hzsyot0",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://pixeldrain.com/u/RTPgeqsR",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
+          "url": "https://pixeldrain.com/u/6EaoXGyC",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "F1 2025 Usa [Austin][17-19.Oct25]",
       "info": "",
