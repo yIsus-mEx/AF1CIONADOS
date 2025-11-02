@@ -69,10 +69,11 @@
         "import": false
         },
         {
-        "name": "ᗰᗩᑎᑌᒎᗩ乙 ᔕᑭᗝᖇ丅",
+        "name": "ᗰᗩᑎᑌᒎᗩ乙 ᔕᑭᗝᖇ丅t",
         "image": "https://i.postimg.cc/h4d4VTHq/Manu-New.png",
         "url": "https://af1acexweb.netlify.app",
-        "embed": "true"
+        "embed": "true",
+        "import": false
         }
     ]
 }
