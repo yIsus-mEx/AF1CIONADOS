@@ -263,12 +263,12 @@
   		"name": "Temporada 4",
   		"image": "https://i.postimg.cc/Xvxn5BKv/season4.png",
 		"imageScale": "",
-		"info": "bY AdriDeCai",
+		"info": "",
 		"stations": 
 			[
     			{
 				"name": "Capítulo 1",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -276,7 +276,7 @@
 				},
 				{
 				"name": "Capítulo 2",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -284,7 +284,7 @@
 				},
 				{
 				"name": "Capítulo 3",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -292,7 +292,7 @@
 				},
 				{
 				"name": "Capítulo 4",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -300,7 +300,7 @@
 				},
 				{
 				"name": "Capítulo 5",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -308,7 +308,7 @@
 				},
 				{
 				"name": "Capítulo 6",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -316,7 +316,7 @@
 				},
 				{
 				"name": "Capítulo 7",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -324,7 +324,7 @@
 				},
 				{
 				"name": "Capítulo 8",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
@@ -332,7 +332,7 @@
 				},
 				{
 				"name": "Capítulo 9",
-				"online":""
+				"online":"",
 				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 				"url": "",
 				"userAgent": "PlusMediaPlayer/0.0.9",
