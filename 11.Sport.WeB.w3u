@@ -10,18 +10,10 @@
         {
         "name": "AF1ACEXWEB",
         "info":"",
+        "online": "true",
         "image": "https://i.postimg.cc/gJ1B9hT4/logo10-25-231318.png",
         "url": "https://af1acexweb.netlify.app",
         "embed": "true"
-        },
-        {
-        "name": "MotorSport 🏁",
-        "info":"Canal 01",
-        "online": "true",
-        "image": "https://i.postimg.cc/9Fpp6pDt/Manu-Ja2-new.png",
-        "url": "https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost": ""        
         }
     ]
 }
