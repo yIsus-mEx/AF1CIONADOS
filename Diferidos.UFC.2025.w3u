@@ -8,6 +8,33 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Garcia vs Onama",
+         "image": "https://i.postimg.cc/qRfH7wwh/Garcia-vs-Onama.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Garcia vs Onama",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/qRfH7wwh/Garcia-vs-Onama.png",
+                "url":"https://pixeldrain.com/u/QcoXaR3f",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Garcia vs Onama",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/qRfH7wwh/Garcia-vs-Onama.png",
+                "url":"https://pixeldrain.com/u/YhkW8qKx",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC 321: Aspinall vs Gane",
          "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
          "imageScale": "",

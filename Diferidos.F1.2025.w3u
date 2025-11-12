@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Brasil [Interlagos][07-09.Nov25]",
+      "info": "",
+      "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/vh0p7zekk6om",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/qt7vcxjuofz0",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/rwpc6ffdzwng",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/9pe5emjqeegn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrra Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/eqqztcxswouz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrra Sprint",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/x4d0iv004ka9",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/lxrla5qjbjjh",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://filemoon.to/d/u1d48uy1kvgw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://pixeldrain.com/u/Fh9K8MjV",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
+          "url": "https://pixeldrain.com/u/iS5JCNPx",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Mexico [Autodromo H. Rodriguez][24-26.Oct25]",
       "info": "",
       "image": "https://i.postimg.cc/MHQ0cwtr/Ferrari-Mexico-GP.png",
