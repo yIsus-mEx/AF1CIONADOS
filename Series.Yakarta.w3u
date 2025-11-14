@@ -1,0 +1,74 @@
+{
+"name": "Yakarta",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Yakarta.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+ 				"url":"https://filemoon.to/d/dwxttb64hswc",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+				"url":"https://filemoon.to/d/8m3u7ky5ol0a",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+				"url":"https://filemoon.to/d/r3p749k5y9pq",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+				"url":"https://filemoon.to/d/mqq08cyl0uwa",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+				"url":"https://filemoon.to/d/szkvmn8bhdse",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+				"url":"https://filemoon.to/d/f2xg42ry0h2f",
+            	"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
