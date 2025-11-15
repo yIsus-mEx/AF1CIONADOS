@@ -12,8 +12,15 @@
         "info":"",
         "online": "true",
         "image": "https://i.postimg.cc/gJ1B9hT4/logo10-25-231318.png",
-        "url": "https://af1acexweb.netlify.app",
+        "url": "https://af1-acex-web.vercel.app/",
         "embed": "true"
-        }
-    ]
+        },
+        {
+        "name": "AF1_IOS_ANDRO",
+        "info":"",
+        "image": "https://i.postimg.cc/L4xpnNy5/logo11-3-19385.png",
+        "url": "https://af-1-ios-andro.vercel.app/",
+        "embed": "true"
+        }
+    ]
 }
