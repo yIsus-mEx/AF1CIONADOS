@@ -7,12 +7,21 @@
 "info":"",
 "groups":
     [
+
           {
           "name": "SuperBike 2025",
           "image": "https://i.postimg.cc/1zQy1mMP/sbk-25-new.png",
           "url": "https://af1cionados.vercel.app/Diferidos.SuperBike.2025.w3u",
           "info":"",
           "import": false
-          }  
+          },
+          {
+          "name": "SuperBike 2026",
+          "image": "https://i.postimg.cc/bJqy1WKj/logo11-22-164441.png",
+          "url": "ttps://af1cionados.vercel.app/Diferidos.SuperBike.2026.w3u",
+          "info":"",
+          "import": false
+          }
+
      ]
 }
