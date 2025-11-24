@@ -1,0 +1,479 @@
+{
+"name": "Dexter",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Dexter.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 01",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/eaa4qq7hkzkd",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 02",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/gxgcz2fmxvz2",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 03",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/wgam9wf48ukr",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 04",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/prtr9g9gisjq",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 05",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/ymnedrtoendo",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 06",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/q5nrbfatl41c",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 07",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/rgeyot5jytwn",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 08",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/x7y8sykyiphv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 09",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/awllfdzqwq6z",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 10",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/wsvs5glmwdud",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 11",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/pcxqrq1nojzm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 12",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/61QlxA4pyNL.jpg",
+                "url":"https://filemoon.to/d/ecmv9ul0as4c",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        },
+		{
+        "name": "Temporada 02",
+        "info":"",
+        "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 01",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/0rrybyot0q7d",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 02",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/v5jthvj1j05o",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 03",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/ohwq48b2brwl",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 04",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/jmpt0y1gznrq",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 05",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/pbtdbqus0kxl",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 06",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/v445t0ce1yb7",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 07",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/whwflr1brpe1",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 08",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/a26xg2w6m3f0",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 09",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/baz5qveh4c45",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 10",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/n0i4t4zml9cp",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 11",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/tv0g9z9qrptd",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 12",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/o5zbq8yxs98m",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        },
+        {
+        "name": "Temporada 03",
+        "info":"",
+        "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 01",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/r6xqnm9axp0t",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 02",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/85byqdnkrhlk",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 03",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/fw4pa0qb482g",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 04",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/hb5rs9evo22w",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 05",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/adsgxse3ykmg",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 06",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/h86mtmc7vnkc",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 07",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/m9vew170jts8",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 08",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/x27kfr0m4b3t",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+                {
+                "name": "Capitulo 09",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/6ahvj1xl66dv",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 10",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/re672my8qtey",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 11",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/8ul3oa5fc1w8",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                },
+		        {
+                "name": "Capitulo 12",
+                "info":"[Multilenguaje]",
+                "image": "https://i.ebayimg.com/images/g/4YAAAOSwZDJhr9p~/s-l1200.png",
+                "url":"https://filemoon.to/d/6uvbtl98q1dn",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+				"online": "true"
+                }
+	        ]
+        },
+        {
+        "name": "Temporada 04",
+        "info":"",
+        "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 01",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/n42wwlo08tz8",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 02",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/xnxesx4t602o",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 03",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/s9hdg1f2ehqq",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 04",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/jmlnvrg491py",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 05",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/ugh1gjwruvb7",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 06",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/nncxc9w5ulo5",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 07",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/yw96bqje6tkk",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 08",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/8090doant6jl",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 09",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/0wlifda0c0sw",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 10",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/tg3s22qrgsz0",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 11",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/t7hmfwdfx8nl",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 12",
+                "info":"[Multilenguaje]",
+                "image": "https://m.media-amazon.com/images/I/71+TnVeV8RL._UF894,1000_QL80_.jpg",
+                "url":"https://filemoon.to/d/4iukpz2katev",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}
