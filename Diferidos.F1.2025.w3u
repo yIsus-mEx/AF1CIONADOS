@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Lasz Vegas [21-23.Nov25]",
+      "info": "",
+      "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/5zudhpjfl05k",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/v8gegjoe3opa",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/egee6y31bws0",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/j2xosa910a1e",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/mlt3p1ehq00p",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/wd15p9o9u0pc",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/r31ym7wp2hbi",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/rcls1l0t5a82",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://pixeldrain.com/u/cLcprZPx",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
+          "url": "https://filemoon.to/d/ui15wdudnt0i",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Brasil [Interlagos][07-09.Nov25]",
       "info": "",
       "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
