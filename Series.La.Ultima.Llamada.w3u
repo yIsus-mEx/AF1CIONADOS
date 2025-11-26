@@ -1,0 +1,47 @@
+{
+"name": "La Ultima Llamada.",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.La.Ultima.Llamada.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://es.web.img2.acsta.net/img/d0/cf/d0cff564d6cc0429f101a12f6550a561.jpg",
+ 		"url":"https://filemoon.to/d/xuv8utn33636",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://es.web.img2.acsta.net/img/d0/cf/d0cff564d6cc0429f101a12f6550a561.jpg",
+		"url":"https://filemoon.to/d/s0ltxctsm9cj",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://es.web.img2.acsta.net/img/d0/cf/d0cff564d6cc0429f101a12f6550a561.jpg",
+		"url":"https://filemoon.to/d/b26wyxvywkqw",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://es.web.img2.acsta.net/img/d0/cf/d0cff564d6cc0429f101a12f6550a561.jpg",
+		"url":"https://filemoon.to/d/pc529zktyct8",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
