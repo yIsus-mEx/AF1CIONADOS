@@ -9,85 +9,6 @@
   [
 
     {
-      "name": "Formula 1: ",
-      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": 
-        [
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "",
-          "url": "acestream://"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "",
-          "url": "acestream://"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "",
-          "url": "acestream://"
-        },
-        {
-        "name": "Dazn F1 🇪🇸",
-        "info":"[Daddy]",
-        "online":"true",
-        "image": "",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "",
-        "isHost":"true"
-        },
-        {
-        "name": "DazN F1 🇪🇸",
-        "info":"[huhu]",
-        "online":"true",
-        "image": "",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "",
-        "isHost":"true"
-        },    
-        {
-        "name": "ESPN Deportes",
-        "info":"[Stream]",
-        "online":"true",
-        "image": "",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Fox Sports 1",
-        "info":"[Stream]",
-        "online":"true",
-        "image": "",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Fox Premium",
-        "info":"[Stream]",
-        "online":"true",
-        "image": "",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "",
-        "isHost":"true"
-        }
-      ]
-    },
-
-    {
       "name": "FC Barcelona VS Alavés",
       "image": "https://i.postimg.cc/6qfYhLTb/69289c3211b53.webp",
       "stations": 
@@ -97,6 +18,39 @@
           "info": "[USAR VPN]",
           "image": "https://i.postimg.cc/6qfYhLTb/69289c3211b53.webp",
           "url": "https://vern46mz.lonw2ssleptgmwqbjfelt.sbs/es/football/spanish-la-liga-4209867/fc-barcelona-vs-deportivo-alavs.html",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "FC Barcelona VS Alavés",
+          "info": "[USAR VPN]",
+          "image": "https://i.postimg.cc/6qfYhLTb/69289c3211b53.webp",
+          "url": "https://rusticotv.de/eventos.html?r=aHR0cHM6Ly9zdHJlYW16czIueHl6L2dsb2JhbDIucGhwP3N0cmVhbT1lc3BucGx1czI=",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "FC Barcelona VS Alavés",
+          "info": "[USAR VPN]",
+          "image": "https://i.postimg.cc/6qfYhLTb/69289c3211b53.webp",
+          "url": "https://morganlfa0.d71ksharey2qltank.sbs/es/football/spanish-la-liga-4209867/fc-barcelona-vs-deportivo-alavs.html?icg=Tkw&ilang=es",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "FC Barcelona VS Alavés",
+          "info": "[USAR VPN]",
+          "image": "https://i.postimg.cc/6qfYhLTb/69289c3211b53.webp",
+          "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
@@ -176,6 +130,85 @@
           "embed": "",
           "online": "true",
           "isHost": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "Formula 1: ",
+      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "stations": 
+        [
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
+        },
+        {
+        "name": "Dazn F1 🇪🇸",
+        "info":"[Daddy]",
+        "online":"true",
+        "image": "",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "",
+        "isHost":"true"
+        },
+        {
+        "name": "DazN F1 🇪🇸",
+        "info":"[huhu]",
+        "online":"true",
+        "image": "",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "ESPN Deportes",
+        "info":"[Stream]",
+        "online":"true",
+        "image": "",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Fox Sports 1",
+        "info":"[Stream]",
+        "online":"true",
+        "image": "",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Fox Premium",
+        "info":"[Stream]",
+        "online":"true",
+        "image": "",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "",
+        "isHost":"true"
         }
       ]
     },
