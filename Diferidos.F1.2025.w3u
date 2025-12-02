@@ -8,6 +8,105 @@
   "groups": 
   [
     {
+      "name": "F1 2025 Qatar [Losail][28-30.Nov25]",
+      "info": "",
+      "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/n8d3ytxxuvmu",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/y0mt0a0v0f4e",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/rq2n2dbh5eur",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/cgporke4e6jt",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/hrwskueuurvi",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/tmvg1at99p0a",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/x1kifroz4rfb",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/kg4kglv6saz1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[F1TV]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/ib0o5r4y0nty",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DaznF1]",
+          "image": "https://i.postimg.cc/90QYdzdP/Qatar.png",
+          "url": "https://filemoon.to/d/9j6et06dmfwc",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2025 Lasz Vegas [21-23.Nov25]",
       "info": "",
       "image": "https://i.postimg.cc/vmJcbN7S/Las-Vegas.png",
@@ -150,7 +249,7 @@
           "online": "true"
         },
         {
-          "name": "Carrra Sprint",
+          "name": "Carrera Sprint",
           "info": "[F1TV]",
           "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
           "url": "https://filemoon.to/d/eqqztcxswouz",
@@ -159,7 +258,7 @@
           "online": "true"
         },
         {
-          "name": "Carrra Sprint",
+          "name": "Carrera Sprint",
           "info": "[DaznF1]",
           "image": "https://i.postimg.cc/65VQdJRK/Brasil-2025.png",
           "url": "https://filemoon.to/d/x4d0iv004ka9",
