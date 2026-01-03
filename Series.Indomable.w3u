@@ -5,70 +5,79 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"groups":
+"stations":
 	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
  				{
  				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
- 				"url":"https://filemoon.to/d/u82r0hqz6igr",
-            	"userAgent" : "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/8fprdgs12rdd/indomable-1x01",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
 				},
 				{
 				"name": "Episodio 02",
-				"info":"",
-				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
-				"url":"https://filemoon.to/d/kiccv2ne87vx",
-            	"userAgent" : "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/jh020mx2zdtt/indomable-1x02",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
 				},
 				{
 				"name": "Episodio 03",
-				"info":"",
-				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
-				"url":"https://filemoon.to/d/gloz57dg843l",
-            	"userAgent" : "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/a1y98hlmodym/indomable-1x03",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
 				},
 				{
 				"name": "Episodio 04",
-				"info":"",
-				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
-				"url":"https://filemoon.to/d/am1u8si9gyst",
-            	"userAgent" : "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/llg4cmu4p4wc/indomable-1x04",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
 				},
 				{
 				"name": "Episodio 05",
-				"info":"",  
-				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
-				"url":"https://filemoon.to/d/2nwfhb2o0kxl",
-            	"userAgent" : "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/sgd2peea8g3a/indomable-1x05",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
 				},
 				{
 				"name": "Episodio 06",
-				"info":"",  
-				"image":"https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
-				"url":"https://filemoon.to/d/2jn8qlgebyew",
-            	"userAgent" : "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/uu9e3ju9tyhq/indomable-1x06",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
 				}
-			]
-		}
 	]
 }
