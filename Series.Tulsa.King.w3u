@@ -98,105 +98,135 @@
             ]
         },
 
-        {
-        "name": "Temporada 2",
-        "info":"",
-        "image": "https://i.postimg.cc/c1kynDvJ/Tulsa-King-Season-Two.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "De Vuelta al Rodeo",
-                "info":"[Episodio 01]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/08do6ixgtl20/Tulsa_King_2x01",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "El Blues de Kansas City",
-                "info":"[Episodio 02]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/efrkuri0an3y/Tulsa_King_2x02",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Oklahoma contra Manfredi",
-                "info":"[Episodio 03]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/7912h485mfpb/Tulsa_King_2x03",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Héroes y Villanos",
-                "info":"[Episodio 04]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/zvzgktzpbcn5/Tulsa_King_2x04",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Lucha contra los molinos de viento",
-                "info":"[Episodio 05]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/07zc32m1v9j5/Tulsa_King_2x05",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Navegante",
-                "info":"[Episodio 06]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/hthtlnjegqux/Tulsa_King_2x06",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Soporte vital",
-                "info":"[Episodio 07]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/4ilal64bxgk9/Tulsa_King_2x07",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Bajo nueva direccion",
-                "info":"[Episodio 08]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/1ka7t73rnqmm/Tulsa_King_2x08",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Triada",
-                "info":"[Episodio 09]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/yhszlwzwclwu/Tulsa_King_2x09",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Reconstruccion",
-                "info":"[Episodio 10]",
-                "image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
-                "url":"https://filemoon.to/d/iiak4poas1b3/Tulsa_King_2x10",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                }
-            ]
-        },
+{
+"name": "Temporada 2",
+"info":"",
+"image": "https://i.postimg.cc/c1kynDvJ/Tulsa-King-Season-Two.png",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/4mns1sycthne/tulsa-king-2x01",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/7udrhdvy931i/tulsa-king-2x02",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/5zemu3wu6le6/tulsa-king-2x03",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/og9bhz37aqp8/tulsa-king-2x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/5lwcnfhjtchi/tulsa-king-2x05",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/842063kaq4se/tulsa-king-2x06",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/n2q8qxqgabpy/tulsa-king-2x07",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/rjbou545y0mi/tulsa-king-2x08",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/jakrfsj2yr0e/tulsa-king-2x09",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://images.justwatch.com/poster/320198602/s718/temporada-2.jpg",
+"url": "https://byseraguci.com/d/k84vndxkvu2a/tulsa-king-2x10",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
 
         {
         "name": "Temporada 3",
