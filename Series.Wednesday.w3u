@@ -6,218 +6,267 @@
 "telegram": "@yIsus_mEx",
 "info": "",
 "groups":
-    	[
-        {
-        "name": "Wednesday [Temporada 1]",
-        "info":"",
-        "image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                 {
-                "name": "Capitulo 1",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/97/a8/23/97a823ac604fd4945fb2e3d7364f2923.jpg",
-                "url":"https://filemoon.to/d/g5u8pk55p6fi/Miercoles_1x01",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 2",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/bmcdo4xmamjg/Miercoles_1x02",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 3",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/3vxmsryygtxt/Miercoles_1x03",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 4",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/09ypfs2z3qf8/Miercoles_1x04",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 5",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/btelchzyev4q/Miercoles_1x05",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 6",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/87bubpknn3je/Miercoles_1x06",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 7",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/vgnvqdg24ee5/Miercoles_1x07",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 8",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/24zko3h0tpvv/Miercoles_1x08",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		}
-			]
-        },
+[
 
-        {
-        "name": "Wednesday [Temporada 2]",
-        "info":"",
-        "image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                 {
-                "name": "Capitulo 1",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/3lcfb8dgxzu0/Mi_rcoles_2x01",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 2",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/ba2h02ks2iy1/Mi_rcoles_2x02",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 3",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/gmmwok7unm9a/Mi_rcoles_2x03",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 4",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/zfggw3qzlth2/Mi_rcoles_2x04",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 5",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/dxfk4ixonsys/Miercoles_2x05",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 6",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/5mb5e3om7biz/Miercoles_2x06",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 7",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/do0dg85dbtvx/Miercoles_2x07",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		},
-				{
-                "name": "Capitulo 8",
-                "info":"[]",
-                "image": "https://i.pinimg.com/564x/73/28/cf/7328cf6fad2feeecb19ef6c39ea2ad7c.jpg",
-                "url":"https://filemoon.to/d/gmv47zqljg19/Miercoles_2x08",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-        		"embed":"",
-		        "isHost":"true",
-		        "online":"true",
-        		"import": false
-        		}
-			]
-        }
+{
+"name": "Wednesday [Temporada 1]",
+"info":"",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/33mp5jh4elm6/miercoles-1x01",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/mbj8bjqnom8k/miercoles-1x02",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/neknqjhxbsgh/miercoles-1x03",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/4td2az0b6s2q/miercoles-1x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/3eri3h923cso/miercoles-1x05",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/ferrb05wrr1p/miercoles-1x06",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/t6hiv6r1auyq/miercoles-1x07",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/bw6g786f8w1z/miercoles-1x08",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "[CONTENIDO]",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "[CONTENIDO]",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
 
-	]
+{
+"name": "Wednesday [Temporada 2]",
+"info":"",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/h9ecqzh2ze05/miércoles-2x01",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/zwuv4582aa5q/miércoles-2x02",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/qhe0fws2mnkb/miércoles-2x03",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/xfk1rljq4or8/miércoles-2x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/od68k7h8ufxw/miercoles-2x05",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/0tpxy0lnlj0q/miercoles-2x06",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/yytv1kuh8sh7/miercoles-2x07",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "https://byseraguci.com/d/5vu0x09uvee5/miercoles-2x08",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "[CONTENIDO]",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
+"url": "[CONTENIDO]",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
 }
