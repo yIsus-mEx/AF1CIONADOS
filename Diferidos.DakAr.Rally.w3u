@@ -7,6 +7,173 @@
 "info": "",
 "groups":
     [
+
+        {
+		"name": "Dakar 2026",
+		"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+		"imageScale": "",
+		"info":"",
+		"stations":
+			[
+				{
+				"name": "Dakar Presentacion 2026 (Programa Previo),
+				"image": "https://i.postimg.cc/4NYtt1kJ/dakar-stages-present.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/gd8ahs4dpysh/dakar-programa-previo",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Dakar Presentacion 2026 (Prologo)",
+				"image": "https://i.postimg.cc/4NYtt1kJ/dakar-stages-present.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/5t37junvykun/dakar-prologo",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 1",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/e21psf5sxzsn/dakar-etapa-1",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 2",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/p75j2nn8p0u6/dakar-etapa-2",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+                },
+				{
+				"name": "Etapa 3",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/1w4hk2xpcwsm/dakar-etapa-3",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 4",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/ltlnh8hhmyz5/dakar-etapa-4",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 5",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/ydt5uyx8zshg/dakar-etapa-5",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 6",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/i0xs6aposxkb/dakar-etapa-6",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 7",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/feg3h2691u69/dakar-etapa-7",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 8",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/jm6gnj0fspro/dakar-etapa-8",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 9",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/jrlzt2i2vozx/dakar-etapa-9",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 10",
+				"image": "https://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "https://bysekoze.com/d/8p0i5gy5jpsy/dakar-etapa-10",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				},
+				{
+				"name": "Etapa 11",
+				"image": "ttps://olympic.md/wp-content/uploads/2024/05/2026-dakar.png",
+				"info": "[TDP][2026]",
+				"url": "",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "import": false
+				}
+			]
+		},
+
         {
 		"name": "Dakar 2025",
 		"image": "https://i.postimg.cc/hGp4jpV0/Dakar-2025-new.png",
