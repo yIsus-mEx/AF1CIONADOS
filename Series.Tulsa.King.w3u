@@ -228,135 +228,135 @@
 ]
 },
 
-        {
-        "name": "Temporada 3",
-        "info":"",
-        "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Episodio 01",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/7giy8my5t18b/Tulsa_King_3x01",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 02",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/2buypnod8863/Tulsa_King_3x02",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-				{
-                "name": "Episodio 03",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/6t395a0vf45r/Tulsa_King_3x03",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 04",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/zvgfhklkcx4w/Tulsa_King_3x04",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 05",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/ac9bqp68ba9y/Tulsa_King_3x05",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 06",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/3bdopqif5ndt/Tulsa_King_3x06",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 07",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/4evnzvib2w60/Tulsa_King_3x07",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 08",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/tf0v1d426a49/Tulsa_King_3x08",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 09",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/bsg8bi2bypop/Tulsa_King_3x09",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Episodio 10",
-                "image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
-				"url": "https://filemoon.to/d/co22s33q2mh4/Tulsa_King_3x10",
-				"info": "[Español 2025]",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                }
-            ]
-        }
+{
+"name": "Temporada 3",
+"info":"",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/1yziblpimlsj/tulsa-king-3x01",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/p82tizbj5k9v/tulsa-king-3x02",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/1vha8j4a3d80/tulsa-king-3x03",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/qgazc4nzgmx3/tulsa-king-3x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/y1faqtey9xx5/tulsa-king-3x05",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/zmkbc0rlunnh/tulsa-king-3x06",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/zn7epeva6pb9/tulsa-king-3x07",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/e1gnoiqt9rhd/tulsa-king-3x08",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/5a138tglcniz/tulsa-king-3x09",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/zfGNPPGH/Tulsa-king-Season-3.jpg",
+"url": "https://byseraguci.com/d/zfluuqlvv3n7/tulsa-king-3x10",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
 
-    ]
+]
 }
