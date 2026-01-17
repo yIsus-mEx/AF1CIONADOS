@@ -15,89 +15,117 @@
 "imageScale": "",
 "stations":
 [
- {
-                "name": "Ve al Oeste, Viejo",
-                "info":"[Episodio 01]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/mbpvzgm0jxxe",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Centro del Universo",
-                "info":"[Episodio 02]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/xgdpeqcqu8lm",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Capricho",
-                "info":"[Episodio 03]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/ygeh3ojwsprx",
-                "isHost":"true",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "online":"true"
-                },
-                {
-                "name": "Lugar de Visita",
-                "info":"[Episodio 04]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/fynpdqb7b3js",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Token Joe",
-                "info":"[Episodio 05]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/93i9lfn9xrck",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Estable",
-                "info":"[Episodio 06]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/8x0cyt9acayg",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Warr Acre",
-                "info":"[Episodio 07]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/cyifqiugckca",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-                {
-                "name": "Adobe Walls",
-                "info":"[Episodio 08]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://susanhavekeep.com/y0lji4lennpi",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-				{
-                "name": "Rastros Felices",
-                "info":"[Episodio 09]",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/tulsa-king-serie-sylvester-stallone-1676996836.jpg",
-                "url":"https://filemoon.to/d/dkdyn8j8ca5h/Tulsa_King_1x09",
-		"userAgent": "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-        },
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/yl7ndb30kzcx/tulsa-king-1x01",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/sdi8gberzvw9/tulsa-king-1x02",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/rykpweh6gku5/tulsa-king-1x03",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/ymna3rqxeyza/tulsa-king-1x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/9n5hmpu4zb8o/tulsa-king-1x05",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/3fdrd3nvbck7/tulsa-king-1x06",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/pv2lqsdea6jn/tulsa-king-1x07",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/35p7sr8i1ipm/tulsa-king-1x08",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/26fvTF3b/Tulsa-King-Season-One-Blu.png",
+"url": "https://byseraguci.com/d/l5303rz2w1la/tulsa-king-1x09",
+"info": "[Español][2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+},
 
 {
 "name": "Temporada 2",
