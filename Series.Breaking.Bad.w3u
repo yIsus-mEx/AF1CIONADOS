@@ -205,449 +205,540 @@
                 }
 			]
         },
-        {
-        "name": "Temporada 03",
-        "info":"[Español]",
-        "image": "https://i.postimg.cc/tThhCLJQ/03.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Capitulo 01",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/mh1eo9xs01ew/Breaking_Bad_3x01",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 02",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/9kxp71waczoz/Breaking_Bad_3x02",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 03",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/10dfkhbhcyhw/Breaking_Bad_3x03",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 04",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/4dnlpmx0o0m8",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 05",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/x0y1c0pgvctt/Breaking_Bad_3x05",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 06",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/x2t5ywcqauc4/Breaking_Bad_3x06",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 07",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/pyp3z6t7hde3",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 08",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/4c9u0r0u0va0",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-                {
-                "name": "Capitulo 09",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/yuqwmgnzuv5u",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 10",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/wha5o1g80kg4",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 11",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/3qc72ev8id1f/Breaking_Bad_3x11",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 12",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/s113yjq9oun0",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                },
-		        {
-                "name": "Capitulo 13",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
-                "url":"https://filemoon.to/d/kahpm8u4fbm1",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"online": "true",
-				"import": false
-                }
-	        ]
-        },
-        {
-        "name": "Temporada 04",
-        "info":"[Español]",
-        "image": "https://i.postimg.cc/2j7QpRgn/04.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Capitulo 01",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/80496m6wflhi/Breaking_Bad_4x01",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 02",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/r4a587w12938/Breaking_Bad_4x02",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 03",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/is0z3ao3ovk8/Breaking_Bad_4x03",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 04",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/cnv4hq2gkh9i/Breaking_Bad_4x04",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 05",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/x7cxp4uv8k77/Breaking_Bad_4x05",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 06",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/s8vjl40lwby3",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 07",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/kju2dd2uf9oj",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 08",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/08smclzsbwzu",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Capitulo 09",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/okz3oci4kx8w/Breaking_Bad_4x09",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 10",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/hc4vzl2uoaqw/Breaking_Bad_4x10",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 11",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/57epxj8ghdya/Breaking_Bad_4x11",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 12",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/07pz8v1ga2g3/Breaking_Bad_4x12",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 13",
-                "info":"[Español]",
-                "image": "https://image.tmdb.org/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
-                "url":"https://filemoon.to/d/qxajip4le6ef/Breaking_Bad_4x13",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                }
-            ]
-        },
-        {
-        "name": "Temporada 05",
-        "info":"[Español]",
-        "image": "https://i.postimg.cc/4yfh4yjV/05.png",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Capitulo 01",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/v3lje0m6w85a/Breaking_Bad_5x01",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 02",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/lstt1x73xto0/Breaking_Bad_5x02",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 03",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/ue10ipdjgrq3/Breaking_Bad_5x03",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 04",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/13h6ep2hlfzg",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 05",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/zptn7qmzchim",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 06",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/a7za8ujm675n/Breaking_Bad_5x06",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 07",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/ti0fgqin9jcv/Breaking_Bad_5x07",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 08",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/poh27dasdq3q/Breaking_Bad_5x08",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-                {
-                "name": "Capitulo 09",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/2jhyn1ncoqi9",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 10",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/c1unl0l9abmy/Breaking_Bad_5x10",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 11",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/9bz5vnd5y7mg/Breaking_Bad_5x11",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 12",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/jzwonrcmgwib/Breaking_Bad_5x12",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 13",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/pur0qc4cvzz8/Breaking_Bad_5x13",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 14",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/x6uwwgygm2ph/Breaking_Bad_5x14",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 15",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/sr72mtdrxfyt",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                },
-		        {
-                "name": "Capitulo 16",
-                "info":"[Español]",
-                "image": "https://static.wikia.nocookie.net/breakingbad/images/d/d3/BB_S5A_poster.jpg",
-                "url":"https://filemoon.to/d/eloby0pqnw7u/Breaking_Bad_5x16",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-		        "isHost": "true",
-                "online":"true"
-                }
-            ]
-        }
-	]
+
+{
+"name": "Temporada 03",
+"info":"[Español]",
+"image": "https://i.postimg.cc/tThhCLJQ/03.png",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/mx4lt0hmfbb9/breaking-bad-3x01",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/h7rm4yetlacy/breaking-bad-3x02",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/mdjxsr7efsdu/breaking-bad-3x03",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/rxlkhu5wg1gj/breaking-bad-3x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/km9p64vjz6ds/breaking-bad-3x05",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/fcqhfov40xkd/breaking-bad-3x06",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/mqr3r1i6na4p",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/uycsq9j8hsjf/breaking-bad-3x08",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/jo9aei2uqmvi/breaking-bad-3x09",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/1bg4yexjbciv/breaking-bad-3x10",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/0bk6lexs34wm/breaking-bad-3x11",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/kkujp8y1lsd7/breaking-bad-3x12",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 13",
+"image": "https://image.tmdb.org/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+"url": "https://byseraguci.com/d/hcypsqbyco0l/breaking-bad-3x13",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Temporada 04",
+"info":"[Español]",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/shubn9ki0lix/breaking-bad-4x01",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/eh87ljoabqoc/breaking-bad-4x02",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/1vc0rtp7k4ju/breaking-bad-4x03",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/p6j5bwmukvlq/breaking-bad-4x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/zwfacij3m792/breaking-bad-4x05",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/iqk7td7i0e06/breaking-bad-4x06",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/z6zreda7qmow/breaking-bad-4x07",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/kuxkyfygr8x3/breaking-bad-4x08",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/j8va9qwvi5u4/breaking-bad-4x09",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/54elnbbo4yo3/breaking-bad-4x10",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/6qa8pw390bbq/breaking-bad-4x11",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/ullj6zmai8ww/breaking-bad-4x12",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 13",
+"image": "https://i.postimg.cc/2j7QpRgn/04.png",
+"url": "https://byseraguci.com/d/7azi5v20cwi5/breaking-bad-4x13",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Temporada 05",
+"info":"[Español]",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/zmdinakmkxjm/breaking-bad-5x01",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/4szkecrqgmqw/breaking-bad-5x02",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/2accolc2yeox/breaking-bad-5x03",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/522lhtc70xac/breaking-bad-5x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/grc058k88nma/breaking-bad-5x05",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/a9fntmpe03mv/breaking-bad-5x06",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/nmlr5b4hqrnb/breaking-bad-5x07",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/18vbqfaqzwvt/breaking-bad-5x08",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/zwugjvm83nca/breaking-bad-5x09",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/6nxqi94xio9t/breaking-bad-5x10",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/jrye7r275jz9/breaking-bad-5x11",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/3iob64psmhgf/breaking-bad-5x12",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 13",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/rjb7ob8ch4rv/breaking-bad-5x13",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 14",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/6ezok5uitq9t/breaking-bad-5x14",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 15",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/wkgznj6wd98i/breaking-bad-5x15",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 16",
+"image": "https://i.postimg.cc/4yfh4yjV/05.png",
+"url": "https://byseraguci.com/d/b664n4o8pypi/breaking-bad-5x16",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
 }
