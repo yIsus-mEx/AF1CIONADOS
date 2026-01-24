@@ -16,6 +16,20 @@
          "import": false
         },
         {
+         "name": "Formula E",
+         "image": "https://i.postimg.cc/VLY79gtt/formula-e-new.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.ForMUlA.E.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "IndyCar",
+         "image": "https://i.postimg.cc/1z8XQRkj/Indycar-Series-new.png",
+         "url": "https://af1c1onados.vercel.app/03.4.1.Diferidos.Menu.Indycar.w3u",
+         "info":"",
+         "import": false
+        },
+        {
         "name": "MotoGP",
         "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
 	    "url": "https://af1c1onados.vercel.app/03.2.1.Diferidos.Menu.MotoGP.w3u",
@@ -27,20 +41,6 @@
          "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
          "url": "https://af1c1onados.vercel.app/03.3.1.Diferidos.Menu.SuperBike.w3u",
          "info":"Adri",
-         "import": false
-        },
-        {
-         "name": "IndyCar",
-         "image": "https://i.postimg.cc/1z8XQRkj/Indycar-Series-new.png",
-         "url": "https://af1c1onados.vercel.app/03.4.1.Diferidos.Menu.Indycar.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Formula E",
-         "image": "https://i.postimg.cc/VLY79gtt/formula-e-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.ForMUlA.E.w3u",
-         "info":"",
          "import": false
         },
         {
@@ -58,7 +58,7 @@
          "import": false
         },
         {
-         "name": "Fight Sport",
+         "name": "UFC Sport",
          "image": "https://i.postimg.cc/pVwDc4Fv/Fight-Sports-new.png",
          "url": "https://af1c1onados.vercel.app/03.7.1.Diferidos.Fight.Sport.w3u",
          "info":"",
@@ -66,14 +66,14 @@
         },
 		{
          "name": "MmA Sport",
-         "image": "https://i.postimg.cc/X7wtYcgm/mma-new.png",
+         "image": "https://i.postimg.cc/yx5Tht5n/logo1-24-103119.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.MmA.w3u",
          "info":"bY Tintxi",
          "import": false
         },
 		{
          "name": "Boxing Sport",
-         "image": "https://i.postimg.cc/8Cwg2xmb/Boxing2-new.png",
+         "image": "https://i.postimg.cc/hGjqh7Lc/logo1-24-10112.png",
          "url": "https://af1c1onados.vercel.app/DiFeriDos.BoXing.w3u",
          "info":"bY Tintxi",
          "import": false
