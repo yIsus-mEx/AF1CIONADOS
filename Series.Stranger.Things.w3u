@@ -7,381 +7,16 @@
 "info": "Lista_AF1CIONADOS",
 "groups":
 	[
- 		{
-		"name": "Stranger Things Temporada 01",
- 		"image": "https://i.postimg.cc/FzXxv82w/season01.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
- 				"url":"https://filemoon.to/d/9n9ujj0etbj7",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[MultiAudio]",
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/t0j7i44ty8s3",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[MultiAudio]",
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/ddeywxv7xkrw",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[MultiAudio]",
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/zt8f33yyb4hw",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[MultiAudio]", 
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/93j8kzlpvi83",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[MultiAudio]", 
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/9a48ucxwl38g",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[MultiAudio]", 
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/fgmoodfgowwe",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[MultiAudio]",  
-				"image":"https://es.web.img3.acsta.net/pictures/16/11/25/09/38/178576.jpg",
-				"url":"https://filemoon.to/d/er96bf3i6cp7",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-
-		{
-		"name": "Stranger Things Temporada 02",
- 		"image": "https://i.postimg.cc/L63hNwvh/season02.png",
- 		"imageScale": "",
- 		"info":"[MultiAudio]",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/jeptwck7w152",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/6k2acyoy6byz",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/ujc6cuwq50p1",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/t1f8hkwmoflt",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/sflez6m7ro20",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/5v3ix2usu3ni",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/qa7awwk0wu6m",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/onekajvzxq5m",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rwt1VjCJ/stranger.jpg",
- 				"url":"https://filemoon.to/d/yd5r9fhypmob",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-
-		{
-		"name": "Stranger Things Temporada 03",
- 		"image": "https://i.postimg.cc/CKGFxft5/season03.png",
- 		"imageScale": "",
- 		"info":"[MultiAudio]",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/fbru2gv913kg",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/kzaooptwhw3i",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/jexvkb6o12j4",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/472k7qd7gi86",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/tcvfl1q3q46m",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/qewlzy8g6v90",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/8j03y7i3g90n",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/rmfQ1QbH/3.jpg",
- 				"url":"https://filemoon.to/d/wp5poy44s6y9",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-
-		{
-		"name": "Stranger Things Temporada 4",
-  		"image": "https://i.postimg.cc/Xvxn5BKv/season4.png",
-		"imageScale": "",
-		"info": "",
-		"stations": 
-			[
-    			{
-				"name": "Capítulo 1",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/3j8hxbl44m5u",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 2",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/38hcim9y8b1l",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 3",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/1vj3l9hw7tfu",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 4",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/36gsc8ncspxn",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 5",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/z1rgfcnt858r",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 6",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/tk0e99kqvcda",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 7",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/jx560yhcvxy9",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 8",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/s9abl0bzj49y",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				},
-				{
-				"name": "Capítulo 9",
-				"online":"true",
-				"image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
-				"url": "https://filemoon.to/d/zfcducxfehz3",
-				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "",
-				"embed": "",
-				"isHost": "true",
-				"import": false
-				}
- 			]
-		},
-
 {
-"name": "Stranger Things Temporada  5",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"info": "bY Af1cionados",
+"name": "Stranger Things Temporada 1",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
 "stations":
 [
 {
 "name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/7fblb1fkoi0m/stranger-things-5x01",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/2qmp5rn2rbko/stranger-things-1x01",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -391,9 +26,9 @@
 },
 {
 "name": "CAPITULO 2",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/oqc1iqe2t1cu/stranger-things-5x02",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/dh8ve6uxx7mc/stranger-things-1x02",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -403,9 +38,9 @@
 },
 {
 "name": "CAPITULO 3",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/v6rczd8ww0u7/stranger-things-5x03",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/ggcl98joi9va/stranger-things-1x03",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -415,9 +50,9 @@
 },
 {
 "name": "CAPITULO 4",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/dxs8exfwhozn/stranger-things-5x04",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/blv9budpcpl4/stranger-things-1x04",
+"info": "[Español 2017]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -427,9 +62,9 @@
 },
 {
 "name": "CAPITULO 5",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/lydsy9krhyur/stranger-things-5x05",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/bpud48w53x9a/stranger-things-1x05",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -439,9 +74,9 @@
 },
 {
 "name": "CAPITULO 6",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/7o0vwzau5qxj/stranger-things-5x06",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/wte9mcyz9bln/stranger-things-1x06",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -451,9 +86,9 @@
 },
 {
 "name": "CAPITULO 7",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/z1c0tj8e48g5/stranger-things-5x07",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/6jadd6me3om1/stranger-things-1x07",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -463,12 +98,444 @@
 },
 {
 "name": "CAPITULO 8",
-"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
-"url": "https://byseraguci.com/d/8pkypxanqh59/stranger-things-5x08",
-"info": "[Español][2025]",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/wxe80xpq98lq/stranger-things-1x08",
+"info": "[Español][2016]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Stranger Things Temporada 2",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/lb5dy6oamv9c/stranger-things-2x01",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/2j3vnuyqrfp8/stranger-things-2x02",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/3x2k6k3lyjgi/stranger-things-2x03",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/qcr16zv3gsea/stranger-things-2x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/ddr6qgvxo740/stranger-things-2x05",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/qrqdfnyeofpu/stranger-things-2x06",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/m8ga3fqeha19/stranger-things-2x07",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/0cdn2w57v10g/stranger-things-2x08",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/stranger_things-875025085-large.jpg",
+"url": "https://byseraguci.com/d/brm9jtaaspg9/stranger-things-2x09",
+"info": "[Español][2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Stranger Things Temporada 3",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/tz1dwgrwcr6a/stranger-things-3x01",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/1h345m1t57ed/stranger-things-3x02",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/xsc4x24o22v6/stranger-things-3x03",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/fax11alfilm5/stranger-things-3x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/ug6vw4a2db9y/stranger-things-3x05",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/w55al349f7or/stranger-things-3x06",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/3h7at34n6vgz/stranger-things-3x07",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/stranger_things_3-150349350-large.jpg",
+"url": "https://byseraguci.com/d/dimlainbgkau/stranger-things-3x08",
+"info": "[Español][2019]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Stranger Things Temporada 4",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/rkapf4jij2c3/stranger-things-4x01",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/2veizs9knmy1/stranger-things-4x02",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/4i4lxj23is4b/stranger-things-4x03",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/3ye408am5vua/stranger-things-4x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/cfg9cbv61s1a/stranger-things-4x05",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/jzncufc6u21x/stranger-things-4x06",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/aoh6c6e1jt5c/stranger-things-4x07",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/pirejisajv3m/stranger-things-4x08",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
+"url": "https://byseraguci.com/d/idsd7u2tmmwv/stranger-things-4x09",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Stranger Things Temporada 5",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"stations":
+[
+{
+"name": "Capítulo 1",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/7fblb1fkoi0m/stranger-things-5x01",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 2",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/oqc1iqe2t1cu/stranger-things-5x02",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 3",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/v6rczd8ww0u7/stranger-things-5x03",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 4",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/dxs8exfwhozn/stranger-things-5x04",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 5",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/lydsy9krhyur/stranger-things-5x05",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 6",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/7o0vwzau5qxj/stranger-things-5x06",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 7",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/z1c0tj8e48g5/stranger-things-5x07",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 8",
+"image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
+"url": "https://byseraguci.com/d/8pkypxanqh59/stranger-things-5x08",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
 "isHost": "true",
 "online": "true",
 "import": false
