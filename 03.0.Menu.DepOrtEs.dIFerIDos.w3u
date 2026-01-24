@@ -30,23 +30,9 @@
          "import": false
         },
         {
-         "name": "WRC",
-         "image": "https://i.postimg.cc/wvRt4NfK/WRC-new.png",
-         "url": "https://af1c1onados.vercel.app/Menu.Diferidos.WRC.w3u",
-         "info":"",
-         "import": false
-        },
-        {
          "name": "IndyCar",
          "image": "https://i.postimg.cc/1z8XQRkj/Indycar-Series-new.png",
          "url": "https://af1c1onados.vercel.app/03.4.1.Diferidos.Menu.Indycar.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Nascar",
-         "image": "https://i.postimg.cc/CxXYbG2c/Nascar-cup-Series-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.Nascar.2025.w3u",
          "info":"",
          "import": false
         },
@@ -56,32 +42,11 @@
          "url": "https://af1c1onados.vercel.app/Diferidos.ForMUlA.E.w3u",
          "info":"",
          "import": false
-        },        
-	    {
-	    "name": "WEC",
-	    "url": "https://af1c1onados.vercel.app/Diferidos.WEC.2024.w3u",
-	    "image": "https://i.postimg.cc/Pqh6YM1n/WEC2024-new.png",
-	    "info": "",
-	    "import": false
-	    },
-	    {
-	    "name": "DTM",
-	    "url": "https://af1c1onados.vercel.app/Diferidos.DTM.2024.w3u",
-	    "image": "https://i.postimg.cc/SQg1YT0p/DTM2024-New.png",
-	    "info": "",
-	    "import": false
-	    },
+        },
         {
          "name": "Basket Europeo",
          "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
          "url": "https://af1c1onados.vercel.app/03.5.1.Diferidos.Menu.Basket.Europeo.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "NFL Sport",
-         "image": "https://i.postimg.cc/fySkmnnB/NFL-logo-new.png",
-         "url": "https://af1c1onados.vercel.app/03.6.1.Diferidos.Menu.NFL.w3u",
          "info":"",
          "import": false
         },
@@ -111,34 +76,6 @@
          "image": "https://i.postimg.cc/8Cwg2xmb/Boxing2-new.png",
          "url": "https://af1cionados.vercel.app/DiFeriDos%20BoXing.w3u",
          "info":"Adri",
-         "import": false
-        },
-        {
-         "name": "WWE",
-         "image": "https://i.postimg.cc/RVjHcn1r/wwe-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.WWE.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Tennis",
-         "image": "https://i.postimg.cc/90TXwjVP/tennis-new.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-		"name": "NBA",
-         "image": "https://i.postimg.cc/5y4qkk9G/Logo-NBA.png",
-         "url": "https://af1c1onados.vercel.app/Diferidos.NBA.w3u",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "Deportes mIx",
-         "image": "https://i.postimg.cc/XYXJ64JT/Sport-Mix-new.png",
-         "url": "https://af1c1onados.vercel.app/03.9.1.Diferidos.DePorTes.mIx.w3u",
-         "info":"",
          "import": false
         },
 		{
