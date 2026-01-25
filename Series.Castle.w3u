@@ -106,6 +106,7 @@
 				}
             ]
         },
+
         {
 		"name": "Temporada 02",
  		"image": "https://i.postimg.cc/wM5BbkdQ/D-NQ-NP-991966-MLA80204908814-112024-O.webp",
@@ -331,447 +332,583 @@
 				}
 			]
 		},
-		{
-		"name": "Temporada 03",
- 		"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 		"imageScale": "",
- 		"info":"", 
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/7sfh3trbjtme",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 02",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/6k67bh7yobn6",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 03",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/pidjp1rh8cy2",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 04",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/07b8xmg27b6f",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 05",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/z181bb71rdwn",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 06",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/4kc3hw0316x9",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 07",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/36q0i4f93vqm",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 08",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/9zqc30ylkbpy",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 09",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/ayb4htln8qx2",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 10",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/8ol101q3o34u",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 11",
- 				"info":"[Español]", 
- 				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/vstxquvz2t50",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 12",
-				"info":"[Español]", 
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/pc8rihfad40y",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 13",
-				"info":"[Español]", 
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/a0nwt8d0v7t9",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 14",
-				"info":"[Español]", 
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/dw24qnf85md9",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 15",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/eovfx10hfw2x",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 16",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/cl0mb1vy8348",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 17",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/rpyjqis43rvm",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 18",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/0tqm0znr749x",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 19",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/khfisd1d1j0x",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 20",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/l015pr896qm0",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 21",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/g0bx0xagys70",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 22",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/vfjmsom5cd8u",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 23",
-				"info":"[Español]",   
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/zb5gb9wm6lgl",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 24",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/r8hw7qbv6ron",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 04",
- 		"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/z6azzdvb68jk",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 02",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/zhsoyqbbk727",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 03",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/wrpb2dj4z2ul",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 04",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/8hm3g89wf7jx",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 05",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/zlvrewzvvovk",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 06",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/a0czo20t9c3r",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 07",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/tau3h3i5b2hv",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 08",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/wptyrkgz2jcx",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 09",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/7f3a8csycat0",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 10",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/t8h9xl8bf2ha",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-                {
- 				"name": "Episodio 11",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
- 				"url":"https://filemoon.to/d/506rw9bb4wji",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 12",
-				"info":"[Español]",
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/cq2ojccsnbql",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 13",
-				"info":"[Español]",
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/6ay9885uy9i2",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 14",
-				"info":"[Español]",
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/rdrwtkhm0kx8",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 15",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/oa6oihuv9fci",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 16",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/4isdybtc1xsq",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 17",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/fml99shlrwl7",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 18",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/ou4g9fte518k",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 19",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/r0bde69kwjs7",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 20",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/45jz6rjiwn8z",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 21",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/y2puhhz8yyfl",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 22",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/9busi2gb8k6v",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 23",
-				"info":"[Español]",  
-				"image":"https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
-				"url":"https://filemoon.to/d/c0j66kl9u3mi",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
+
+{
+"name": "Temporada 03",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"imageScale": "",
+"info":"", 
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/i7ahfzih01y5/castle-3x01",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/4rxkcyuaku8q/castle-3x02",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/239199ghdvh5/castle-3x03",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/7j9eq86fra9f/castle-3x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/agg0mndqdqrq/castle-3x05",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/2amuqwxia82p/castle-3x06",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/nf8x8ysd8zxf/castle-3x07",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/h9b6frs0duy9/castle-3x08",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/unbtytx40tzt/castle-3x09",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/i50d7fcytbgx/castle-3x10",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/mvdk34184k69/castle-3x11",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/l258f45vzr0i/castle-3x12",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 13",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/qkr7951uyikf/castle-3x13",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 14",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/sngfo3yjj2ce/castle-3x14",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 15",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/cgwpv0qdnho6/castle-3x15",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 16",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/oftdf5s56um2/castle-3x16",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 17",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/pwrm7oihm6c2/castle-3x17",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 18",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/77d91jz5k5bk/castle-3x18",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 19",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/2rius59uvsgl/castle-3x19",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 20",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/ks4kx9xluavs/castle-3x20",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 21",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/d6nafx1e0bc1/castle-3x21",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 22",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/zbc6ie8cp79v/castle-3x22",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 23",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/4ltbolxqhzlr/castle-3x23",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 24",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/fbs5az6qwkou/castle-3x24",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "CAPITULO 1",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/ifmdlb9rz70o/castle-4x01",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/par9z2vjxw8s/castle-4x02",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/ddkv9hvqrnvv/castle-4x03",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/jydci8di9z4b/castle-4x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/v2fk63z2ksar/castle-4x05",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/1a92g7oaudo2/castle-4x06",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/y8ck92acwmxj/castle-4x07",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/akk0igavn64m/castle-4x08",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/k7jlrjglxaia/castle-4x09",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/hu3vrpz3tz4y/castle-4x09",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/9aqsltjr1hvy/castle-4x11",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/c94vcxn8a4ae/castle-4x10",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 13",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/j4e351law5rv/castle-4x12",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 14",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/qacz0y11ripl/castle-4x13",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 15",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/1x11au8biggf/castle-4x14",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 16",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/mi8ntxqftjig/castle-4x15",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 17",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/vycyvcophgql/castle-4x17",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 18",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/18ikl79gqwyt/castle-4x16",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 19",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/mm982pmonjkt/castle-4x17",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 20",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/27nw7o0u6nvc/castle-4x18",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 21",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/qnb83a2g2vrj/castle-4x19",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 22",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/g1rd421vsapu/castle-4x20",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 23",
+"image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
+"url": "https://byseraguci.com/d/krn02re45m06/castle-4x21",
+"info": "[Español][2011]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
 
 {
 "name": "Castle Temporada 5",
