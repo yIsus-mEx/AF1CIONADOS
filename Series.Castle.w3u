@@ -10,7 +10,6 @@
  		{
 		"name": "Temporada 01",
  		"image": "https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 		"imageScale": "",
  		"info":"",
  		"stations":
 			[
@@ -110,7 +109,6 @@
         {
 		"name": "Temporada 02",
  		"image": "https://i.postimg.cc/wM5BbkdQ/D-NQ-NP-991966-MLA80204908814-112024-O.webp",
- 		"imageScale": "",
  		"info":"",
  		"stations":
 			[
@@ -336,7 +334,6 @@
 {
 "name": "Temporada 03",
 "image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
-"imageScale": "",
 "info":"", 
 "stations":
 [
@@ -631,6 +628,12 @@
 ]
 },
 
+{
+"name": "Temporada 04",
+"image": "https://m.media-amazon.com/images/I/61H6Z0tsRUL._UF894,1000_QL80_.jpg",
+"info":"", 
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://m.media-amazon.com/images/I/71bxfIDVjOL._UF1000,1000_QL80_.jpg",
