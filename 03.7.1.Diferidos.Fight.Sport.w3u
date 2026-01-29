@@ -4,15 +4,22 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://af1c1onados.vercel.app/03.7.1.Diferidos.Fight.Sport.w3u",
 "telegram": "Enlace_Af1cionados",
-"info":"",
-"groups":
-    [
-         {
-         "name": "UFC 2025",
-         "image": "",
-         "url": "https://af1c1onados.vercel.app/Diferidos.UFC.2025.w3u",
-         "info":"",
-         "import": false
-        }
-     ]
+"info": "",
+"groups": 
+  [
+    {
+      "name": "UFC 2026",
+      "image": "https://i.postimg.cc/7ZMYbY9W/logo1-24-13129.png",
+      "url": "https://af1c1onados.vercel.app/Diferidos.UFC.2026.w3u",
+      "info": "",
+      "import": false
+    },
+    {
+      "name": "UFC 2025",
+      "image": "https://i.postimg.cc/1tzzkhpY/logo1-24-131135.png",
+      "url": "https://af1c1onados.vercel.app/Diferidos.UFC.2025.w3u",
+      "info": "",
+      "import": false
+    }
+  ]
 }
