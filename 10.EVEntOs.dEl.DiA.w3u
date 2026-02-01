@@ -21,7 +21,7 @@
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
-          "online": "true",
+          "online": "",
           "isHost": "true"
         },
         {
@@ -33,7 +33,7 @@
           "referer": "",
           "embed": "true",
           "online": "true",
-          "isHost": "true"
+          "isHost": ""
         },
         {
           "name": "18:30 Huesca - Cádiz",
@@ -43,7 +43,7 @@
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
-          "online": "true",
+          "online": "",
           "isHost": "true"
         },
         {
@@ -55,7 +55,7 @@
           "referer": "",
           "embed": "true",
           "online": "true",
-          "isHost": "true"
+          "isHost": ""
         },
        {
           "name": "18:30 Castellón - Andorra",
@@ -65,7 +65,7 @@
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
-          "online": "true",
+          "online": "",
           "isHost": "true"
         },
        {
@@ -77,51 +77,51 @@
           "referer": "",
           "embed": "true",
           "online": "true",
-          "isHost": "true"
+          "isHost": ""
         },
         {
           "name": "21:00 Athletic Club - Real Sociedad",
           "info": "[]",
-          "image": "ttps://assets.laliga.com/assets/logos/LALIGA_RGB_h_color/LALIGA_RGB_h_color.png",
+          "image": "https://assets.laliga.com/assets/logos/LALIGA_RGB_h_color/LALIGA_RGB_h_color.png",
           "url": "https://gened03n.6l76pilot4rjvhearn.sbs/es/football/laliga-santander-4209834/athletic-club-vs-real-sociedad.html",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
-          "online": "true",
+          "online": "",
           "isHost": "true"
         },
         {
           "name": "21:00 Athletic Club - Real Sociedad",
           "info": "[]",
-          "image": "ttps://assets.laliga.com/assets/logos/LALIGA_RGB_h_color/LALIGA_RGB_h_color.png",
+          "image": "https://assets.laliga.com/assets/logos/LALIGA_RGB_h_color/LALIGA_RGB_h_color.png",
           "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
           "online": "true",
-          "isHost": "true"
+          "isHost": ""
         },
        {
           "name": "21:00 Granada - R. Racing Club Santander",
           "info": "[]",
-          "image": "ttps://assets.laliga.com/assets/logos/LALIGA_HYPERMOTION_RGB_h_color/LALIGA_HYPERMOTION_RGB_h_color.png",
+          "image": "https://assets.laliga.com/assets/logos/LALIGA_HYPERMOTION_RGB_h_color/LALIGA_HYPERMOTION_RGB_h_color.png",
           "url": "https://gened03n.6l76pilot4rjvhearn.sbs/es/football/laliga-smartbank-4212896/granada-cf-vs-racing-santander.html",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
-          "online": "true",
+          "online": "",
           "isHost": "true"
         },
        {
           "name": "21:00 Granada - R. Racing Club Santander",
           "info": "[]",
-          "image": "ttps://assets.laliga.com/assets/logos/LALIGA_HYPERMOTION_RGB_h_color/LALIGA_HYPERMOTION_RGB_h_color.png",
+          "image": "https://assets.laliga.com/assets/logos/LALIGA_HYPERMOTION_RGB_h_color/LALIGA_HYPERMOTION_RGB_h_color.png",
           "url": "",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
           "online": "true",
-          "isHost": "true"
+          "isHost": ""
         }
       ]
     },
