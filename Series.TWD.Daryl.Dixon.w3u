@@ -132,6 +132,101 @@
 				"online":"true"
 				}
 			]
-		}
-	]
+		},
+
+{
+"name": "Temporada 03",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"info":"",
+"imageScale": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/s0gr86ffis1s/the-walking-dead-daryl-dixon-3x01",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/5l61yd7h3gnl/the-walking-dead-daryl-dixon-3x02",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/ql3g8ljxetm3/the-walking-dead-daryl-dixon-3x03",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/bvruagyppzgj/the-walking-dead-daryl-dixon-3x04",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/ytjnnnf7ag1k/the-walking-dead-daryl-dixon-3x05",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/pmxmobv5wl9b/the-walking-dead-daryl-dixon-3x06",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://static.cinemagia.ro/img/resize/db/movie/33/04/845/the-walking-dead-daryl-dixon-896541l-0x640-h-f92ca0b0.jpg",
+"url": "https://byseraguci.com/d/ygb7lriysh68/the-walking-dead-daryl-dixon-3x07",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
 }
