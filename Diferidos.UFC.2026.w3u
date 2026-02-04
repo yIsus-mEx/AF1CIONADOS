@@ -8,6 +8,24 @@
 "groups":
     [
         {
+         "name": "UFC 325: Volkanovski vs Lopes 2",
+         "image": "https://i.postimg.cc/prkSb17C/UFC-325.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 325: Volkanovski vs Lopes 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/prkSb17C/UFC-325.png",
+                "url":"https://pixeldrain.com/u/5C2Bb52S",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }      
+            ]
+        }
+        {
          "name": "UFC 324: Gaethje vs Pimblett",
          "image": "https://i.postimg.cc/zfQYF36z/UFC324.png",
          "imageScale": "",
