@@ -15,22 +15,16 @@
       "stations": 
       [
         {
+          "name": "DAZN 1 (1080)(ElCano)",
+          "info": "[0363d]",
+          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+          "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d"
+        },
+        {
           "name": "DAZN 1 (720)(ElCano)",
           "info": "[7884]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
           "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
-        },
-        {
-          "name": "DAZN 1 (ElCano)",
-          "info": "[8e62]",
-          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
-        },
-        {
-          "name": "DAZN 1 (ElCano)",
-          "info": "[e784]",
-          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
         },
         {
           "name": "DAZN 1 (FHD)(Shickat)",
@@ -69,10 +63,10 @@
           "url": "acestream://36394be1db2e20b5997d987c32fd38c7f0f194b7"
         },
         {
-          "name": "DAZN 2 (ElCano)",
-          "info": "[b17f]",
+          "name": "DAZN 2 (1080)(ElCano)",
+          "info": "[5c61d]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f"
+          "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d"
         },
         {
           "name": "DAZN 2 (FHD)(Shickat)",
@@ -100,9 +94,9 @@
         },
         {
           "name": "DAZN 3 (Elcano)",
-          "info": "[f3e1]",
+          "info": "[a1780]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1"
+          "url": "acestream://908bc5e7ae52afc06e40793b6db749dba11a1780"
         },
         {
           "name": "DAZN 3 (FHD)(Shickat)",
@@ -130,9 +124,9 @@
         },
         {
           "name": "DAZN 4 (Elcano)",
-          "info": "[734c]",
+          "info": "[5b1dc]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://9ced16b2055c99bf89c26e678e315e1b01d3734c"
+          "url": "acestream://d669c6cee7173a1c8994075f7050a6526655b1dc"
         },
         {
           "name": "DAZN 4 FHD (New Era)",
@@ -1955,6 +1949,7 @@
 
   ]
 }
+
 
 
 
