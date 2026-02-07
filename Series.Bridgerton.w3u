@@ -248,7 +248,52 @@
 		        "isHost": "true",
                 "online":"true"
                 }
-	]
+	        ]
+        },
+        {
+        "name": "Temporada 04",
+        "info":"",
+        "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "El Vals",
+                "info":"[Multiaudio]",
+                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "url":"https://bysekoze.com/d/b2brqnwq11pu",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Tiempo paralizado",
+                "info":"[Multiaudio]",
+                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "url":"https://bysekoze.com/d/hu8xjumjw2bt",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "El Campo Junto al Otro Camino",
+                "info":"[Multiaudio]",
+                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "url":"https://bysekoze.com/d/tfvujr399wqi",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Te Doy Mi Corazón",
+                "info":"[Multiaudio]",
+                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "url":"https://bysekoze.com/d/r7i049ygqx3o",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                }
+            ]
         }
 	]
 }
