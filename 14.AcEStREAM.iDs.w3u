@@ -157,16 +157,10 @@
       "stations": 
       [
         {
-          "name": "EuroSport (1080) (Elcano)",
-          "info": "[92ea]",
+          "name": "EuroSport (1080)(Elcano)",
+          "info": "[4cfe9]",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea"
-        },
-        {
-          "name": "EuroSport (720) (Elcano)",
-          "info": "658c",
-          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c"
+          "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9"
         },
         {
           "name": "EuroSport (720) (Shickat)",
@@ -187,34 +181,16 @@
           "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
         },
         {
-          "name": "EuroSport 2 (1080) (Elcano)",
-          "info": "[cfba]",
-          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
-          "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba"
-        },
-        {
-          "name": "EuroSport 2 (720) (Elcano)",
-          "info": "[a53f]",
-          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
-          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+          "name": "EuroSport 2 (Elcano)",
+          "info": "[7a193]",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193"
         },
         {
           "name": "EuroSport 2 (1080)",
           "info": "[UK-PO][66d8]",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
-        },
-        {
-          "name": "EuroSport 2 (1080)",
-          "info": "9853",
-          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
-          "url": "acestream://0358f9db953e5fde91c34d7ed4bc368939b49853"
-        },
-        {
-          "name": "EuroSport 2 (1080)",
-          "info": "049d",
-          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
-          "url": "acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d"
         },
         {
           "name": "EuroSport 2 (FHD) (New Era)",
@@ -408,15 +384,15 @@
         },
         {
           "name": "MOVISTAR LaLiga 2 (1080)(Elcano)",
-          "info": "[42ec]",
+          "info": "[94146]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec"
+          "url": "acestream://9b461120d04b7651990c3b54a0821c60c3b94146"
         },
         {
           "name": "MOVISTAR LaLiga 2 (720)(Elcano)",
-          "info": "[d3b8]",
+          "info": "[a894f]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8"
+          "url": "acestream://001a809c577ef916a57340151c6112ebcb7a894f"
         },
         {
           "name": "MOVISTAR LaLiga 2 (FHD)(Shickat)",
@@ -1949,6 +1925,7 @@
 
   ]
 }
+
 
 
 
