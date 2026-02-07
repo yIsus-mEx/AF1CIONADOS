@@ -395,6 +395,18 @@
           "url": "acestream://001a809c577ef916a57340151c6112ebcb7a894f"
         },
         {
+          "name": "MOVISTAR LaLiga 2 (720)(Elcano)",
+          "info": "[a5404]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://2c01306506e268ba726f5c30222923b6168a5404"
+        },
+        {
+          "name": "MOVISTAR LaLiga 2 (720)(Elcano)",
+          "info": "[9ce84]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://b45cfe568e106a7df65c950805d6f123c989ce84"
+        },
+        {
           "name": "MOVISTAR LaLiga 2 (FHD)(Shickat)",
           "info": "541d",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
@@ -426,13 +438,13 @@
         },
         {
           "name": "DAZN LaLiga (1080)(Elcano)",
-          "info": "[d889]",
+          "info": "[7d889]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
         },
         {
           "name": "DAZN LaLiga (720)(Elcano)",
-          "info": "[dbb9]",
+          "info": "[9dbb9]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
         },
@@ -462,15 +474,15 @@
         },
         {
           "name": "DAZN LaLiga 2 (1080)(Elcano)",
-          "info": "[cba8]",
+          "info": "[c21a3]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
+          "url": "acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3"
         },
         {
           "name": "DAZN LaLiga 2 (720)(Elcano)",
-          "info": "[8d36]",
+          "info": "[bb431]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
+          "url": "acestream://a70a1605f69c8379e04094df96922a42adfbb431"
         },
         {
           "name": "DAZN LaLiga 2 (FHD)(Shickat)",
@@ -513,6 +525,12 @@
       "stations": 
       [
         {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "[86920]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+        },
+        {
           "name": "M. Liga de Campeones 1 (720)(Elcano)",
           "info": "[7439]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
@@ -550,15 +568,15 @@
         },
         {
           "name": "M. Liga de Campeones 2 (1080)(Elcano)",
-          "info": "[29c5]",
+          "info": "[7f632]",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+          "url": "acestream://8156912ae14f6174a19c8a4efcf36a06e847f632"
         },
         {
           "name": "M. Liga de Campeones 2 (720)(Elcano)",
-          "info": "[4d5e]",
+          "info": "[78fa6]",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
+          "url": "acestream://47188da7d2e4beaee82cff174f223fdd23f78fa6"
         },
         {
           "name": "M. Liga de Campeones 2 (FHD)(NewEra)",
@@ -574,15 +592,15 @@
         },
         {
           "name": "M. Liga de Campeones 3 (1080)(Elcano)",
-          "info": "[406e]",
+          "info": "[f85c9]",
           "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+          "url": "acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9"
         },
         {
           "name": "M. Liga de Campeones 3 (720)(Elcano)",
-          "info": "[d0f9]",
+          "info": "[03e4e]",
           "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+          "url": "acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e"
         },
         {
           "name": "M. Liga de Campeones 3 (FHD)(NewEra)",
@@ -665,6 +683,12 @@
           "info": "[15bb]",
           "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
           "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb"
+        },
+        {
+          "name": "MOVISTAR PLUS (720)(Elcano)",
+          "info": "[1a336]",
+          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
+          "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336"
         },
         {
           "name": "MOVISTAR PLUS (FHD)(Shickat)",
@@ -1925,6 +1949,7 @@
 
   ]
 }
+
 
 
 
