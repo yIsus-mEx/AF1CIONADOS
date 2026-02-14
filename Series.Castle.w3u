@@ -6,105 +6,136 @@
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
 "groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"",
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"",
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"",
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"",  
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"",  
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"",  
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"",  
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"",  
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"",  
-				"image":"https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
- 				"url":"",
-				"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-            ]
-        },
+[
+
+{
+"name": "Temporada 01",
+"image": "https://m.media-amazon.com/images/I/71qyBc-jQuL._UF894,1000_QL80_.jpg",
+"info":"",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/g8tlrtukdu71/castle-1x01",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/0nkgry5z4107/castle-1x02",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/gk6m7y6g7rzl/castle-1x03",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/06ywhit2m3jk/castle-1x04",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/mmnd6atafdvq/castle-1x05",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/3paw6d3ax36z/castle-1x06",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/ul0rhseplxcd/castle-1x07",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/1rw3i83e6332/castle-1x08",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/3eepjp3hwyzs/castle-1x09",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/6Zzk0Y0eCVENInAVepNioswRsj3.jpg",
+"url": "https://byseraguci.com/d/8h6ol9ak73if/castle-1x10",
+"info": "[Español][2009]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
 
         {
 		"name": "Temporada 02",
