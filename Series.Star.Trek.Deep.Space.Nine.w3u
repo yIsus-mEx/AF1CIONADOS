@@ -1,389 +1,1981 @@
 {
-"name": "Star Trek Deep Space Nine",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Star.Trek.Deep.Space.Nine.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://i.postimg.cc/3rPXxXYd/Star-Trek-Deep-Space-Nine-1.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.sx/d/1qflxfqlqgyi",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/n3y92hejzmev",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/ew2qlow1l5b4",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/0d4f51bcusuj",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/mmzn4tfzv8ps",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/xhjdzy7x828d",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/cbck1is6g4wg",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/sw0plm16ryve",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/4gdti1xcsvyr",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/54612hj8iyjt",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"[MultiAudio]",
- 				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.sx/d/e3bq5u980ul0",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 12",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/nl0lidt90n6b",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 13",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/v5vi027vyx8o",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 14",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/y819jsg8rsi7",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 15",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/jwl2x3lm2t1y",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 16",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/z1dicvl8je10",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 17",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/upqv04k9e30z",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 18",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/romrazza2ujn",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 19",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/71lizZ7LKNL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/o9ewpd9xn91i",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 02",
- 		"image": "https://i.postimg.cc/mDxC3Y00/season2.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/epjub2auteqz",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/ha8hghjgy9m5",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/sn4941vkt942",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/m0nsmq525mp6",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/3rprm3gdcakr",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/24hol6tftafo",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/as82hsmasyj8",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/eexv0wzjc8ut",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/pnu82hl1gj0j",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/t9a7owx7rfp4",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/erxd3gvp7xhi",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/a3wsrhvz20kx",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 13",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/lax72hzqsl4c",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 14",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/6xff9qk145sw",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 15",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/ffrkkm67i8v5",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 16",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/3wyw4es72rfz",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 17",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/becnk3rpvrbl",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 18",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/cvulm6aqlzk2",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 19",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/90j206851dbh",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 20",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/v6haideq7g6j",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 21",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/vvqgicsfjcct",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 22",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/4cfz4ibjmoww",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 23",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/3yvk3w6tdkgf",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 24",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/lak0kep61jjh",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 25",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/94xec9j4y7hz",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 26",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/kGKSh2dB/season02.png",
- 				"url":"https://filemoon.sx/d/1hioaj5n5im2",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "Star Trek: Deep Space Nine",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Star.Trek.Deep.Space.Nine.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/ix50eskl6g4z/star-trek-deep-space-nine-1x01-emisario-episodio-doble-piloto-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/si87f3uk5ql0/star-trek-deep-space-nine-1x02-un-hombre-solitario-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/c6eryqowy8m5/star-trek-deep-space-nine-1x03-prólogo-pasado-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/hql2wg16etsg/star-trek-deep-space-nine-1x04-babel-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/9u6dkwzbmhn0/star-trek-deep-space-nine-1x05-persecución-cautivo-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/gqtpd29ut21v/star-trek-deep-space-nine-1x06-menos-q-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/j2ce9eqpy1xf/star-trek-deep-space-nine-1x07-dax-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/j5dyi8n3zocg/star-trek-deep-space-nine-1x08-el-pasajero-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/vd3bma32jwqk/star-trek-deep-space-nine-1x09-sigue-hasta-casa-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/doi453t4wy5w/star-trek-deep-space-nine-1x10-el-nagus-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/2ugh3oyp0wc2/star-trek-deep-space-nine-1x11-vortex-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/5qql0iwxiynl/star-trek-deep-space-nine-1x12-líneas-de-batalla-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/fsncb0yrewbt/star-trek-deep-space-nine-1x13-el-cuentacuentos-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/izjpo28z092i/star-trek-deep-space-nine-1x14-progreso-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/2u8iw1u5p77k/star-trek-deep-space-nine-1x15-si-los-deseos-fueran-caballos-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/2ntlp7g10myl/star-trek-deep-space-nine-1x16-el-abandonado-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/px3rp18kcwdx/star-trek-deep-space-nine-1x17-dramatis-personæ-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/f8gpxvlsvmw2/star-trek-deep-space-nine-1x18-dúo-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1993]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91xp+JQGOjL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/qnoiwxze8wtr/star-trek-deep-space-nine-1x19-en-las-manos-de-los-profetas-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/uy9pvosjtloe/star-trek-deep-space-nine-2x01-el-regreso-a-casa-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/hhxzg315u9fw/star-trek-deep-space-nine-2x02-el-círculo-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/ml36ed85ypj1/star-trek-deep-space-nine-2x03-el-bloqueo-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/39nl28tb765h/star-trek-deep-space-nine-2x04-procedimientos-invasores-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/qsck6xjtx8c0/star-trek-deep-space-nine-2x05-cardasianos-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/xwqqxgnbvs0s/star-trek-deep-space-nine-2x06-melora-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/luveidqgg8hp/star-trek-deep-space-nine-2x07-reglas-de-adquisición-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/6cx1eswei0jd/star-trek-deep-space-nine-2x08-maldad-necesaria-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/mlwijpz6c9dt/star-trek-deep-space-nine-2x09-presentimiento-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/jbr4c34f0kfi/star-trek-deep-space-nine-2x10-santuario-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/dacv28h356n4/star-trek-deep-space-nine-2x11-rivales-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/2nylb0s264lk/star-trek-deep-space-nine-2x12-alterno-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/irlqwj61hpco/star-trek-deep-space-nine-2x13-el-juego-armagedon-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/3akwr7f3pwci/star-trek-deep-space-nine-2x14-susurros-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/woffijch4pyb/star-trek-deep-space-nine-2x15-paraíso-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/i0k5nyem0s44/star-trek-deep-space-nine-2x16-moverse-en-las-sombras-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/1vo3p6xx8ywq/star-trek-deep-space-nine-2x17-jugando-a-ser-dios-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/iu7fwwhl8c8u/star-trek-deep-space-nine-2x18-ganancias-y-pérdidas-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/v0uvjechy5cz/star-trek-deep-space-nine-2x19-juramento-de-sangre-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 20",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/8vb0p5bxso47/star-trek-deep-space-nine-2x20-maquis-parte-1-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 21",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/ug6iz44onmqg/star-trek-deep-space-nine-2x21-maquis-parte-2-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 22",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/s0sjcbmtry8j/star-trek-deep-space-nine-2x22-el-cable-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 23",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/i2ux4xtl6651/star-trek-deep-space-nine-2x23-el-sendero-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 24",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/eh7er0kpb64m/star-trek-deep-space-nine-2x24-el-colaborador-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 25",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/hv8rsid5ibqe/star-trek-deep-space-nine-2x25-tribunal-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 26",
+          "info": "[Español][1994]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91K55ggg7+L._AC_UF350,350_QL50_.jpg",
+          "url": "https://bysetayico.com/d/4y5z8ulbavnq/star-trek-deep-space-nine-2x26-jemhadar-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 03",
+      "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/y0by7u5o8f5h/star-trek-deep-space-nine-3x01-la-búsqueda-parte-1-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/vqt7u2l5pxhb/star-trek-deep-space-nine-3x02-la-búsqueda-parte-2-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/ef9nmmtb4qf0/star-trek-deep-space-nine-3x03-la-casa-de-quark-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/nnwq3c5zpbvl/star-trek-deep-space-nine-3x04-el-equilibrio-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/7p3evbl5xhbh/star-trek-deep-space-nine-3x05-segunda-piel-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/h8v2veimgjfw/star-trek-deep-space-nine-3x06-el-abandonado-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/d8fyef0au9ru/star-trek-deep-space-nine-3x07-defensa-civil-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/vzeabh6qrgsr/star-trek-deep-space-nine-3x08-meridian-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/d2k4jfcrta4e/star-trek-deep-space-nine-3x09-defiant-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/wqwyj0wvmki2/star-trek-deep-space-nine-3x10-fascinación-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/e7h8kes65wl2/star-trek-deep-space-nine-3x11-tiempo-pasado-parte-1-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/gn09e0pkyiec/star-trek-deep-space-nine-3x12-tiempo-pasado-parte-2-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/dqkog4i7zs4h/star-trek-deep-space-nine-3x13-apoyo-vital-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/53h907mqhdzg/star-trek-deep-space-nine-3x14-corazón-de-piedra-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/e5s9b78283zv/star-trek-deep-space-nine-3x15-destino-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/b45f457gwklh/star-trek-deep-space-nine-3x16-los-motivos-de-los-profetas-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/4tiuk72am358/star-trek-deep-space-nine-3x17-clarividencia-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/44xyoy69ig2x/star-trek-deep-space-nine-3x18-voces-distantes-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/tyo3htyhug98/star-trek-deep-space-nine-3x19-el-otro-lado-del-espejo-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 20",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/vviw4l86uqhj/star-trek-deep-space-nine-3x20-causa-improbable-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 21",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/nt1t5c3p4bh9/star-trek-deep-space-nine-3x21-la-suerte-está-echada-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 22",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/9pkckgbj60s5/star-trek-deep-space-nine-3x22-exploradores-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 23",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/8skhzesbqpvy/star-trek-deep-space-nine-3x23-asuntos-de-familia-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 24",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/obiufdjxvo6g/star-trek-deep-space-nine-3x24-shakaar-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 25",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/g9s27j7eetf3/star-trek-deep-space-nine-3x25-facetas-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 26",
+          "info": "[Español][1995]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51hji2zGQGL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/tqm2ca3dxbqj/star-trek-deep-space-nine-3x26-el-adversario-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 04",
+      "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/pvj3o7pjm8aj/star-trek-deep-space-nine-4x01-el-camino-del-guerrero-partes-1-y",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/mu0kaybg7985/star-trek-deep-space-nine-4x02-el-visitante-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/e1zc18tt2rjh/star-trek-deep-space-nine-4x03-juramento-hipocrático-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/q9h7n9pgr1kw/star-trek-deep-space-nine-4x04-indiscreción-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/eg455mb3b2hi/star-trek-deep-space-nine-4x05-reasociada-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/y6413ky9cull/star-trek-deep-space-nine-4x06-nave-espacial-derribada-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/qaf89uvte9qx/star-trek-deep-space-nine-4x07-hombrecillos-verdes-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/kai7fl0u2x6i/star-trek-deep-space-nine-4x08-la-espada-de-kahless-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/xaf8jx0ztg70/star-trek-deep-space-nine-4x09-nuestro-hombre-bashir-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/r9ekhlli8t3w/star-trek-deep-space-nine-4x10-el-enemigo-en-casa-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/hg6ox06hae98/star-trek-deep-space-nine-4x11-paraíso-perdido-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/7k07chutd85g/star-trek-deep-space-nine-4x12-fuego-cruzado-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/yii5yjb7unia/star-trek-deep-space-nine-4x13-restituir-la-honra-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/til297m4y8mv/star-trek-deep-space-nine-4x14-hijos-de-mogh-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/1r7ykmwsmbbj/star-trek-deep-space-nine-4x15-el-sindicato-del-bar-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/i9d33mwh5icv/star-trek-deep-space-nine-4x16-adhesión-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/oux7sfwkqyla/star-trek-deep-space-nine-4x17-reglas-de-alistamiento-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/6s312w9al0iy/star-trek-deep-space-nine-4x18-tiempos-difíciles-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/5j10tu4w3nv8/star-trek-deep-space-nine-4x19-espejo-destrozado-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 20",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/zc8rtnrj25sg/star-trek-deep-space-nine-4x20-la-musa-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 21",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/oddcndq24a3u/star-trek-deep-space-nine-4x21-por-la-causa-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 22",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/wxpq36a8vhyu/star-trek-deep-space-nine-4x22-hacia-la-muerte-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 23",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/pxkwr9lxo3e8/star-trek-deep-space-nine-4x23-la-enfermedad-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 24",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/js7wafeg85kl/star-trek-deep-space-nine-4x24-partes-del-cuerpo-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 25",
+          "info": "[Español][1996]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/51wdKU+4aEL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/qphkugx4631u/star-trek-deep-space-nine-4x25-eslabón-roto-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 05",
+      "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/cxv7hkb7ud90/star-trek-deep-space-nine-5x01-el-nacimiento-del-apocalipsis-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/7qasmw1j5fny/star-trek-deep-space-nine-5x02-la-nave-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/n9rqbd87abqe/star-trek-deep-space-nine-5x03-buscando-a-parmach-en-lugares-erróneos",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/n1cjtygo562o/star-trek-deep-space-nine-5x04-tampoco-para-los-fuertes-es-la-batalla",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/pf3pyel785ao/star-trek-deep-space-nine-5x05-la-misión-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/82ut4ome8bdc/star-trek-deep-space-nine-5x06-juicios-y-problemas-con-tribbles",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/o088k75oc6e6/star-trek-deep-space-nine-5x07-quien-esté-libre-de-pecado-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/w61o4ggeq4od/star-trek-deep-space-nine-5x08-la-verdad-del-pasado-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/rpdlmjwh7t5d/star-trek-deep-space-nine-5x09-el-ascenso-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/rnf87wr2f7xf/star-trek-deep-space-nine-5x10-el-éxtasis-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/434liq6gbiy5/star-trek-deep-space-nine-5x11-la-oscuridad-y-la-luz-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/8nbaldo7mbel/star-trek-deep-space-nine-5x12-la-herencia-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/ucf3wcl17d0t/star-trek-deep-space-nine-5x13-por-el-uniforme-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/2uwvxfmn9qgp/star-trek-deep-space-nine-5x14-en-la-sombra-del-purgatorio-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/fbln4q3yot1d/star-trek-deep-space-nine-5x15-a-la-luz-del-infierno-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/wgig2vlqyul8/star-trek-deep-space-nine-5x16-el-doctor-bashir-supongo-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/0tnfdc1qowbh/star-trek-deep-space-nine-5x17-una-simple-investigación-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/0d6mx0kmpeyd/star-trek-deep-space-nine-5x18-negocios-como-siempre-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/ga6v4pyqow1j/star-trek-deep-space-nine-5x19-lazos-de-sangre-y-agua-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 20",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/dpsxy19rg5mb/star-trek-deep-space-nine-5x20-canción-hacia-amor-ferengi-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 21",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/k6g9hxibv13y/star-trek-deep-space-nine-5x21-soldados-del-imperio-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 22",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/c18t858lfxdo/star-trek-deep-space-nine-5x22-los-hijos-del-tiempo-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 23",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/oy9v46wpz21e/star-trek-deep-space-nine-5x23-llamarada-de-gloria-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 24",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/hsplv3wmyt5q/star-trek-deep-space-nine-5x24-empok-nor-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 25",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/e74y8fpi2833/star-trek-deep-space-nine-5x25-la-tarjeta-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 26",
+          "info": "[Español][1997]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91UGCO49FeL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/vmuzzyj4waom/star-trek-deep-space-nine-5x26-llamada-de-las-armas-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 06",
+      "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/i9yjvabv7udl/star-trek-deep-space-nine-6x01-tiempo-de-afrontar-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/uk3gdnbhkxcp/star-trek-deep-space-nine-6x02-rocas-y-arena-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/804eecd93tdy/star-trek-deep-space-nine-6x03-hijos-e-hijas-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/kc1z8sje8549/star-trek-deep-space-nine-6x04-detrás-de-las-líneas-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/edkrrt5bf4hb/star-trek-deep-space-nine-6x05-a-favor-de-elosar-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/klt4hau03bza/star-trek-deep-space-nine-6x06-el-sacrificio-de-los-ángeles-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/tydgpqsdt0pr/star-trek-deep-space-nine-6x07-están-cordialmente-invitados-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/omaa9a095jhf/star-trek-deep-space-nine-6x08-resurrección-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/wctmbjrgsj10/star-trek-deep-space-nine-6x09-probabilidades-estadísticas-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/ta1aspdwl5z2/star-trek-deep-space-nine-6x10-los-magníficos-ferengi-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/ay3ncha8mics/star-trek-deep-space-nine-6x11-tendencia-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/hrggge85643r/star-trek-deep-space-nine-6x12-quién-llora-por-morn-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/k8cjdotkz69l/star-trek-deep-space-nine-6x13-más-allá-de-las-estrellas-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/4azo4u0vqv45/star-trek-deep-space-nine-6x14-una-pequeña-nave-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/8l6ss0pg91k3/star-trek-deep-space-nine-6x15-honor-entre-ladrones-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/f0tuhw99elxx/star-trek-deep-space-nine-6x16-cambio-de-opinión-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/nmzd5ai5bh3h/star-trek-deep-space-nine-6x17-equivocaciones-más-oscuras-que-la",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/fvj9v3bg52cu/star-trek-deep-space-nine-6x18-inquisición-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/9mlon05zlfl8/star-trek-deep-space-nine-6x19-viviendo-con-ello-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 20",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/zl9cshrxko5z/star-trek-deep-space-nine-6x20-a-su-manera-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 21",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/ocd7d1jet4nt/star-trek-deep-space-nine-6x21-el-juicio-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 22",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/xv8r1ilfyweu/star-trek-deep-space-nine-6x22-valiant-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 23",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/x1kgn6elub9n/star-trek-deep-space-nine-6x23-encaje-y-ganancia-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 24",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/9jx8n0xwwreu/star-trek-deep-space-nine-6x24-huérfana-del-tiempo-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 25",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/0mda0oyuyzbg/star-trek-deep-space-nine-6x25-el-dulce-sonido-de-su-voz-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 26",
+          "info": "[Español][1998]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91EItBEpKgL.jpg",
+          "url": "https://bysetayico.com/d/sxrg8u6j9hm1/star-trek-deep-space-nine-6x26-lágrimas-de-los-profetas-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 07",
+      "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/o349qa66wvg1/star-trek-deep-space-nine-7x01-imagen-en-la-arena-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/c9ahzt17ubfr/star-trek-deep-space-nine-7x02-sombras-y-símbolos-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/sb7qw6fdyzlc/star-trek-deep-space-nine-7x03-segunda-imagen-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/5ocmw9u31xwg/star-trek-deep-space-nine-7x04-llévame-a-la-holocubierta-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/hyx7g03roz9u/star-trek-deep-space-nine-7x05-crisálida-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/esn93l4yidkr/star-trek-deep-space-nine-7x06-fe-traicionada-y-el-gran-río-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/p4x9q2793hqq/star-trek-deep-space-nine-7x07-una-vez-más-en-la-brecha-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/sgebg9w5yf9y/star-trek-deep-space-nine-7x08-el-asalto-al-ar-558-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/oe6v94zafitt/star-trek-deep-space-nine-7x09-convenio-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/hqg2tvwl8lu0/star-trek-deep-space-nine-7x10-es-solo-una-luna-de-papel-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/2ucx0ohx3o3j/star-trek-deep-space-nine-7x11-hija-pródiga-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/r7qqasrg8q8e/star-trek-deep-space-nine-7x12-el-nuevo-dispositivo-de-ocultamiento",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/w0oaclhuqrgx/star-trek-deep-space-nine-7x13-campo-de-fuego-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/4fsbo10x85dm/star-trek-deep-space-nine-7x14-quimera-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/3v87esfr2380/star-trek-deep-space-nine-7x15-badda-bing-badda-bang-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/jbdbl9xn73tf/star-trek-deep-space-nine-7x16-en-tiempo-de-guerra-la-ley-queda",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 17",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/eay0yx11wlaa/star-trek-deep-space-nine-7x17-penumbra-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 18",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/0wj3uora2761/star-trek-deep-space-nine-7x17-penumbra-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 19",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/37l6pan9j7fc/star-trek-deep-space-nine-7x18-hasta-que-la-muerte-nos-separe-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 20",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/9jc0vl27pli6/star-trek-deep-space-nine-7x19-extraños-compañeros-de-cama-480p",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 21",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/lvitk6atwa3b/star-trek-deep-space-nine-7x20-el-intercambiante-rostro-del-mal",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 22",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/fmntrcprwh5l/star-trek-deep-space-nine-7x21-cuando-no-llueve-truena-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 23",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/7peo9hnr43p5/star-trek-deep-space-nine-7x22-mirando-hacia-el-viento-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 24",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/sp12jlcak6gl/star-trek-deep-space-nine-7x23-medidas-extremas-480p-dualsubs-gusxx2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 25",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/dnmcqacvek2c/star-trek-deep-space-nine-7x24-los-perros-de-la-guerra-480p-dualsubs",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 26",
+          "info": "[Español][1999]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91pYXdYUKCL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/j70g8ik9ck05/star-trek-deep-space-nine-7x25-lo-que-se-deja-atrás-partes-1-y-2",
+          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
 }
