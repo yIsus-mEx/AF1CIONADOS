@@ -5,125 +5,117 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "info": "Lista_AF1CIONADOS",
   "telegram": "Lista_AF1CIONADOS",
-  "groups": 
+  "stations": 
   [
     {
-      "name": "Temporada 01",
+      "name": "Capitulo 1",
+      "info": "[Español][2024]",
+      "online": "true",
       "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-      "info": "",
-      "stations": 
-      [
-        {
-          "name": "Capitulo 1",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/bnxut0lpzx15/los-años-nuevos-s01e01",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 2",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/fmj1fb6uj4z6/los-años-nuevos-s01e02",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 3",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/ziduj7dvjonj/los-años-nuevos-s01e03",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 4",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/ja5cocbm3ms5/los-años-nuevos-s01e04",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 5",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/29opxqndjn05/los-años-nuevos-s01e05",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 6",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/xnncpdyy525g/los-años-nuevos-s01e06",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 7",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/51md8fghggvz/los-años-nuevos-s01e07",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 8",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/y0zkxmrzeq0z/los-años-nuevos-s01e08",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 9",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/dm35htv3wqni/los-años-nuevos-s01e09",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Capitulo 10",
-          "info": "[Español][2024]",
-          "online": "true",
-          "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
-          "url": "https://bysetayico.com/d/nvso5yymizrp/los-años-nuevos-s01e10",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true"
-        }
-      ]
+      "url": "https://bysetayico.com/d/bnxut0lpzx15/los-años-nuevos-s01e01",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 2",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/fmj1fb6uj4z6/los-años-nuevos-s01e02",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 3",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/ziduj7dvjonj/los-años-nuevos-s01e03",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 4",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/ja5cocbm3ms5/los-años-nuevos-s01e04",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 5",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/29opxqndjn05/los-años-nuevos-s01e05",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 6",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/xnncpdyy525g/los-años-nuevos-s01e06",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 7",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/51md8fghggvz/los-años-nuevos-s01e07",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 8",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/y0zkxmrzeq0z/los-años-nuevos-s01e08",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 9",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/dm35htv3wqni/los-años-nuevos-s01e09",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Capitulo 10",
+      "info": "[Español][2024]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+      "url": "https://bysetayico.com/d/nvso5yymizrp/los-años-nuevos-s01e10",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "referer": "",
+      "embed": "",
+      "isHost": "true"
     }
   ]
 }
