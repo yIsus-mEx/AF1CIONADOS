@@ -8,6 +8,87 @@
 "groups":
     [
         {
+         "name": "Fight Night: Moreno vs Kavanagh",
+         "image": "https://i.postimg.cc/Yqz2kM30/Moreno-vs-Kavanagh.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Moreno vs Kavanagh",
+                "info":"[Preliminares][Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/Yqz2kM30/Moreno-vs-Kavanagh.png",
+                "url":"https://bysetayico.com/d/1a2rum9bfwob",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "Fight Night: Moreno vs Kavanagh",
+                "info":"[Estelares][Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/Yqz2kM30/Moreno-vs-Kavanagh.png",
+                "url":"https://bysetayico.com/d/bt4ehue5v5k6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }    
+            ]
+        },
+        {
+         "name": "Fight Night: Strickland vs Hernandez",
+         "image": "https://i.postimg.cc/qqQcVWD8/Strickland-vs-Hernandez.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Strickland vs Hernandez",
+                "info":"[Preliminares][Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/qqQcVWD8/Strickland-vs-Hernandez.png",
+                "url":"https://bysetayico.com/d/34lz3drknjph",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "Fight Night: Strickland vs Hernandez",
+                "info":"[Estelares][Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/qqQcVWD8/Strickland-vs-Hernandez.png",
+                "url":"https://bysetayico.com/d/gw3z2df543hr",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }    
+            ]
+        },
+        {
+         "name": "Fight Night: Bautista vs Oliveira",
+         "image": "https://i.postimg.cc/5tFXqDB9/Bautista-vs-Oliveira.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Bautista vs Oliveira",
+                "info":"[Preliminares][Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/5tFXqDB9/Bautista-vs-Oliveira.png",
+                "url":"https://bysetayico.com/d/9ccqkv81dmdf",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "Fight Night: Bautista vs Oliveira",
+                "info":"[Estelares][Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/5tFXqDB9/Bautista-vs-Oliveira.png",
+                "url":"https://bysetayico.com/d/uni9zkvepxvd",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }    
+            ]
+        },
+        {
          "name": "UFC 325: Volkanovski vs Lopes 2",
          "image": "https://i.postimg.cc/prkSb17C/UFC-325.png",
          "imageScale": "",
