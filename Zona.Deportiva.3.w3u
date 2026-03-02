@@ -6,27 +6,26 @@
 "telegram": "Lista_AF1CIONADOS",
 "info":"Lista_AF1CIONADOS",
 "groups":
-    [
+     [
           {
-          "name": "beIN Sports",
-          "info":"",
-          "image": "https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports_logo-freelogovectors.net_.png",
-          "url": "https://af1c1onados.vercel.app/Canales.beIN.Sports.HD.m3u",
-          "import": false
+          "name": "Espn Premium 🇦🇷",
+          "info":"[IPTV]",
+          "image": "https://i.postimg.cc/ryfbqnHm/Espn-Premium.png",
+          "url": "http://190.95.60.228:8500/play/a09v",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":""
           },
           {
-          "name": "Deportes FHD",
-          "info":"",
-          "image": "https://i.postimg.cc/zBJw1zfy/FHD.png",
-          "url": "https://raw.githubusercontent.com/Love4vn/Test/31577741eebb6db9358f015a4863f8c9c6fab369/tkty22.m3u",
-          "import": false
-          },
-          {
-          "name": "World Sports",
-          "info":"",
-          "image": "",
-          "url": "https://raw.githubusercontent.com/Love4vn/love4vn/b5ccfb1e2037b368cf9852fd2c51e29733698da9/Sport.m3u",
-          "import": false
+          "name": "Espn 🇦🇷",
+          "info":"[IPTV]",
+          "image": "https://i.postimg.cc/C1dg0RgP/ESPN.png",
+          "url": "http://190.95.60.228:8500/play/a013",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer" : "",
+          "online":"true",
+          "isHost":""
           }
      ]
 }
