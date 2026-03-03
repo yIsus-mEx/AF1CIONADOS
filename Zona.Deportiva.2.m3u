@@ -1,9 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ryfbqnHm/Espn-Premium.png", Espn Premium 🇦🇷
+#EXTVLCOPT:network-caching=1000
 http://190.95.60.228:8500/play/a09v
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1dg0RgP/ESPN.png", ESPN 🇦🇷
+#EXTVLCOPT:network-caching=1000
 http://190.95.60.228:8500/play/a013
 
 #EXTINF:0,ESPN (81w) AR

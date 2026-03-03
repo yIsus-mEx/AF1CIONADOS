@@ -9,23 +9,23 @@
      [
           {
           "name": "Espn Premium 🇦🇷",
-          "info":"[IPTV]",
+          "info": "[IPTV]",
           "image": "https://i.postimg.cc/ryfbqnHm/Espn-Premium.png",
-          "url": "http://190.95.60.228:8500/play/a09v",
+          "url": "http://190.95.60.228:8500/play/a09v/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
-          "online":"true",
-          "isHost":"true"
+          "online": "true",
+          "isHost": ""
           },
           {
           "name": "Espn 🇦🇷",
-          "info":"[IPTV]",
+          "info": "[IPTV]",
           "image": "https://i.postimg.cc/C1dg0RgP/ESPN.png",
-          "url": "http://190.95.60.228:8500/play/a013",
+          "url": "http://190.95.60.228:8500/play/a013/index.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer" : "",
-          "online":"true",
-          "isHost":"true"
+          "online": "true",
+          "isHost": ""
           }
      ]
 }
