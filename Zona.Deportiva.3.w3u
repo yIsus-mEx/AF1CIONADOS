@@ -8,11 +8,11 @@
 "groups":
      [
           {
-          "name": "Espn 2 🇦🇷",
+          "name": "Espn 02 🇦🇷",
           "info": "[IPTV]",
           "image": "https://i.postimg.cc/C1dg0RgP/ESPN.png",
           "url": "http://181.78.82.6:46090/play/a00i/index.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
           "referer" : "",
           "online": "true",
           "isHost": ""
@@ -22,7 +22,7 @@
           "info": "[IPTV]",
           "image": "https://i.postimg.cc/C1dg0RgP/ESPN.png",
           "url": "http://181.78.82.6:46090/play/a00v/index.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
           "referer" : "",
           "online": "true",
           "isHost": ""
@@ -32,7 +32,7 @@
           "info": "[IPTV]",
           "image": "https://i.postimg.cc/ryfbqnHm/Espn-Premium.png",
           "url": "http://181.78.82.6:46090/play/a00w/index.m3u8",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
           "referer" : "",
           "online": "true",
           "isHost": ""
