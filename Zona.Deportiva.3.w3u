@@ -15,7 +15,7 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "referer" : "",
           "online": "true",
-          "isHost": ""
+          "isHost": "true"
           },
           {
           "name": "Espn 3 🇦🇷",
@@ -25,7 +25,7 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "referer" : "",
           "online": "true",
-          "isHost": ""
+          "isHost": "true"
           },
           {
           "name": "Espn 6 🇦🇷",
@@ -35,7 +35,7 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "referer" : "",
           "online": "true",
-          "isHost": ""
+          "isHost": "true"
           }
      ]
 }
