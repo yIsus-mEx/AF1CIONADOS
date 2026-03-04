@@ -7,347 +7,174 @@
 "info": "",
 "groups":
     [
+
 	{
-        "name": "Futbol mIx",
-        "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
-       	"imageScale": "",
-        "info":"",
-        "stations":
-            [
-			{
-           		"name": "Al Hilal vs Inter Miami",
-	       		"info":"[29-Ene-24]",
-           		"image": "https://i.postimg.cc/L5G5wcS3/alhVsmia.png",
-           		"url":"https://filemoon.sx/d/86bxvlfbw49d",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-           		"isHost":"true",
-           		"online":"true"
-           		},
-			{
-			"name": "Al Nassr Vs Inter Miami",
-			"info":"[01-Feb-24]",
-			"image": "https://i.postimg.cc/PJZWJzSh/Inter-Miami-vs-Al-Nassr.png",
-			"url":"https://filemoon.sx/d/8s394se6nvua",
-                	"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Liverpool VS Manchester City",
-			"info":"[10-Mar-24]",
-			"image": "https://i.postimg.cc/bvbrcNFj/liverpool-vs-manchester-city.png",
-			"url": "https://filemoon.sx/d/zgy15tfwlih4/Futbol_PremierLeague_Liverpool_vs_ManchesterCity_10-03-2024.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-			"online":"true",
-			"isHost": "true"
-			},
-			{
-                	"name": "FC Barcelona VS Olympique Lyon Final Champions Femenina 2024",
-	        	"info":"[25-May-24]",
-                	"image": "https://phantom-marca.unidadeditorial.es/daf0f9ecb7ce9e0a6c048c09d387ea7c/resize/660/f/webp/assets/multimedia/imagenes/2024/05/24/17165635503656.jpg",
-                	"url":"https://filemoon.sx/d/7ot7xz5w629z/Final_FC_Barcelona_-_Olympique_Lyonnais_UEFA_Women_s_Champions_League_250524.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",                	
-			"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Manchester City VS Manchester United Final FA Cup 2024",
-	        	"info":"[25-May-24]",
-                	"image": "https://phantom-marca.unidadeditorial.es/5a60ec713cd1e0b4d7074c1217f65921/resize/660/f/webp/assets/multimedia/imagenes/2024/05/25/17166564388600.jpg",
- 			"userAgent":"PlusMediaPlayer/0.0.9",
-			"url":"https://filemoon.sx/d/w46cmih4b8ez",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Olympiacos VS Fenerbache Final Conference League 2024",
-	        	"info":"[29-May-24]",
-                	"image": "https://phantom-marca.unidadeditorial.es/751c4f58df8eaa783e8f51a01045d218/resize/660/f/webp/assets/multimedia/imagenes/2024/05/29/17169824426520.jpg",
-                	"url":"https://filemoon.sx/d/ptkuc8kzfiaj/Final_Europa_Conference_League_Olympiacos_VS_Fenerbahce_290524.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Real Madrid vs FC Barcelona Tour Usa",
-	        	"info":"[03-Ago-24]",
-                	"image": "https://i.postimg.cc/d1SkkGgB/image.jpg",
-                	"url":"https://filemoon.sx/d/92h4i3s6s54q",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	}
+    "name": "Futbol mIx",
+    "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
+    "imageScale": "",
+    "info":"",
+    "stations":
+    	[
+		{
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	},
+		{
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	}
 		]
 	},
 
 	{
-    	"name": "sUPERcOPA dE EsPAÑa 2023/24",
-        "info":"[12-01-2025]",
-        "image": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
-        "imageScale": "",
-        "stations":
-	[
-            	{
-                "name": "Real Madrid vs Barcelona",
-                "info":"[Final][Dialecto Catalan]",
-                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
-                "url":"https://filemoon.to/d/bn8wpqz36n01/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_M_120125.mkv",
-        	"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-            	{
-                "name": "Real Madrid vs Barcelona",
-                "info":"[Final][Español]",
-                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fcbarcelona.com%2Ffcbarcelona%2Fphoto%2F2023%2F01%2F12%2Ffa80bebe-5b33-4abf-b519-d8486a154771%2Fmini_escuts-final.jpg&f=1&nofb=1&ipt=c51f4d3f39b7d882859019712aaed2b0f1f815f766cea5f7f8cd772ad577e9f5&ipo=images",
-                "url":"https://filemoon.to/d/2riwu3guo779/Final_Supercopa_Espa_a_FC_Barcelona_VS_Real_Madrid_O_120125.mkv",
-        	"userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
+    "name": "sUPERcOPA dE EsPAÑa 2025/26",
+    "info":"[12-01-2025]",
+    "imge": "https://i.postimg.cc/tRFCLV0v/supercopa-new.png",
+    "imageScale": "",
+    "stations":
+    	[
+		{
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	},
+		{
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	}
 		]
 	},
 
 	{
-       	"name": "Copa del Rey 2024/25",
-        "info":"",
-        "image": "https://i.postimg.cc/ZY12xjLz/copa-del-rey-new.png",
-        "imageScale": "",
-        "groups":
-    		[
+    "name": "Copa del Rey 2025/26",
+    "info":"",
+    "image": "https://i.postimg.cc/ZY12xjLz/copa-del-rey-new.png",
+    "imageScale": "",
+    "stations":
+    	[
 		{
-		"name": "SEMIFINALES",
-		"info":"[06-02-2025][01-03-2025]",
-		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
-		"imageScale": "",
-		"stations":
-        	[
-			{
-			"name": "FC Barcelona VS Atletico de Madrid (IDA)",
-			"info":"[06-02-2025]",
-			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/24/67bcc688beb57.webp",
-			"url":"https://filemoon.to/d/0zc94xjcyzbs/Copa_del_Rey_2025_-_Semifinal_-_Ida_-_FC_Barcelona_vs_Atl_tico_de_Madrid__WEB-DL_1080p_50fps___2_audios_.mkv",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Real Sociedad VS Real Madrid (IDA)",
-			"info":"[07-02-2025]",
-			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/26/67bf764dc8080.webp",
-			"url":"https://filemoon.to/d/y6mnir7gdir9/Copa_del_Rey_Real_Sociedad_VS_Real_Madrid_260225_multiaudio.mkv",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Real Madrid VS Real Sociedad (VUELTA)",
-			"info":"[01-03-2025]",
-			"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/02/26/67bf764dc8080.webp",
-			"url":"https://filemoon.to/d/uantag8bhsaj/Semifinal_Copa_del_Rey_Vuelta_Real_Madrid_VS_Real_Sociedad_010425.mkv",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Atletico de Madrid VS FC Barceloa (VUELTA",
-			"info":"[02-03-2025]",
-			"image": "",
-			"url":"",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-		]
-		},
+    	"name": "FC Barcelona VS Atletico de Madrid",
+    	"image": "https://i.postimg.cc/ZY12xjLz/copa-del-rey-new.png",
+    	"url":"https://bysefujedu.com/d/59kjj4rv0qzl/copa-del-rey-vuelta-fc-barcelona-vs-atletico-de-madrid-030326",
+		"info":"[03-03-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	},
 		{
-		"name": "FINAL",
-		"info":"",
-		"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/01/19/678d4fb3009ed.webp",
-		"imageScale": "",
-		"stations":
-      			[
-			{
-			"name": "",
-			"info":"[26-04-2025]",
-			"image": "",
-			"url":"",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-			]
-		}
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	}
 		]
 	},
 
 	{
-       	"name": "Copa de la Reina 2024/25",
-        "info":"",
-        "image": "https://i.postimg.cc/cCTMJGjS/COPA-REYNA.png",
-        "imageScale": "",
-        "groups":
-    		[
+    "name": "Liga EA SPORT",
+    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+    "imageScale": "",
+    "info":"",
+    "stations":
+    	[
 		{
-		"name": "SEMIFINALES",
-		"info":"",
-		"image": "https://img.rtve.es/n/16453062?w=800&preview=01739879317388.jpg",
-		"imageScale": "",
-		"stations":
-        	[
-			{
-			"name": "Granada VS Atletico de Madrid (IDA)",
-			"info":"[04-03-2025]",
-			"image": "https://img.rtve.es/n/16453062?w=800&preview=01739879317388.jpg",
-			"url":"https://filemoon.to/d/c37spxxci2y5/Semifinal_Copa_de_la_Reina_Granada_VS_Atletico_Madrid_050325.mkv",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "FC Barcelona VS Real Madrid (IDA)",
-			"info":"[05-03-2025]",
-			"image": "https://img.rtve.es/n/16453062?w=800&preview=01739879317388.jpg",
-			"url":"https://filemoon.to/d/fq7co22fug4f/Semifinal_Copa_de_la_Reina_FC_Barcelona_VS_Real_Madrid_060325.mkv",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Atletico de Madrid VS Granada (VUELTA)",
-			"info":"[12-03-2025]",
-			"image": "https://img.rtve.es/n/16453062?w=800&preview=01739879317388.jpg",
-			"url":"https://filemoon.to/d/2e5w1cod4frw/Semifinal_Copa_de_la_Reina_Atletico_Madrid_VS_Granada_130325.mkv",
-			"isHost":"true",
-			"online":"true"
-			},
-			{
-			"name": "Real Madrid VS FC Barcelona (VUELTA)",
-			"info":"[13-03-2025]",
-			"image": "https://img.rtve.es/n/16453062?w=800&preview=01739879317388.jpg",
-			"url":"https://filemoon.to/d/1oel6is0q25k/Semifinal_Copa_de_la_Reina_FC_Barcelona_VS_Real_Madrid_120325.mkv",
- 			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-			]
-		},
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	},
 		{
-		"name": "FINAL",
-		"info":"",
-		"image": "",
-		"imageScale": "",
-		"stations":
-      			[
-			{
-			"name": "Atletico de Madrid VS FC Barcelona",
-			"info":"[26-04-2025]",
-			"image": "",
-			"url":"",
-			"userAgent" : "PlusMediaPlayer/0.0.9",
-			"isHost":"true",
-			"online":"true"
-			}
-			]
-		}
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	}
 		]
 	},
 
 	{
-        "name": "Liga EA SPORT",
-        "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-        "imageScale": "",
-        "info":"",
-        "stations":
-            	[
-			{
-        		"name": "FC Barcelona Vs Real Madrid [Clasico]",
-        		"info": "[28-10-2023][Liga EA Sport 2023-2024]",
-        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
-        		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-			"isHot": "true",
-        		"online":"true"
-			},
-			{
-        		"name": "Real Madrid vs Sevilla",
-        		"info":"[25-02-2024][Liga EA Sport 2023-2024]",
-        		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
-        		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
-			{
-                	"name": "Barcelona vs Real Valladolid",
-	        	"info":"[30-Ago-24][Liga EA Sport 2024-2025]",
-                	"image": "https://i.postimg.cc/8zqZzxXS/barcareal.jpg",
-                	"url":"https://listeamed.net/v/g9Vd5JWMGygxqQj",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[25-Octu-24][Parte 1][Liga EA Sport 2024-2025]",
-                	"image": "https://cdn2.mediotiempo.com/uploads/media/2024/10/26/real-madrid-vs-barcelona-2.jpg",
-                	"url":"https://listeamed.net/v/b4ZJx2mXbVQ52P3",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Real Madrid vs FC Barcelona",
-	        	"info":"[25-Octu-24][Parte 2][Liga EA Sport 2024-2025]",
-                	"image": "https://cdn2.mediotiempo.com/uploads/media/2024/10/26/real-madrid-vs-barcelona-2.jpg",
-                	"url":"https://listeamed.net/v/kKJVORNk2ABO3XD",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	},
-			{
-                	"name": "Atletico de Madrid vs FC Barcelona",
-	        	"info":"[16-Mar-25][Liga EA Sport 2024-2025]",
-                	"image": "https://e00-xlk-ue-marca.uecdn.es/files/article_660_widen_webp/uploads/2025/03/14/78122238188854.webp",
-                	"url":"https://filemoon.to/d/bxvd9gw7oi79/Liga_Ea_Sport_Atletico_de_Madrid_VS_FC_Barcelona_160325.mkv",
-			"userAgent":"PlusMediaPlayer/0.0.9",
-                	"isHost":"true",
-                	"online":"true"
-                	}
-		]
-	},
-
-	{
-       	"name": "UEFA Europe League 2024/25",
-        "info":"",
-        "image": "https://i.postimg.cc/br2WzBgb/euroligue-new.png",
-        "imageScale": "",
-        "stations":
-        	[
+    "name": "UEFA Europe League 2024/25",
+	"info":"",
+    "image": "https://i.postimg.cc/br2WzBgb/euroligue-new.png",
+    "imageScale": "",
+    "stations":
+    	[
 		{
-                "name": "",
-	        "info":"[Semifinal Europe League 2025]",
-                "image": "",
-                "url":"",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	},
 		{
-                "name": "",
-	        "info":"[Semifinal Europe League 2025]",
-                "image": "",
-                "url":"",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                },
-		{
-                "name": "Tottenham vs Manchester United",
-	        "info":"[Final Europe League 2025]",
-                "image": "https://i.postimg.cc/br2WzBgb/euroligue-new.png",
-                "url":"https://filemoon.to/d/w5lw8m0tuy1g/Final_Europe_League_Tottenham_VS_Manchester_Utd_210525.mkv",
-                "userAgent" : "PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-                }
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	}
 		]
 	},
 
@@ -360,30 +187,36 @@
 	},
 
 	{
-       	"name": "Supercopa de Europa (UEFA SuperCup)",
-        "info":"",
-        "image": "https://i.postimg.cc/HWydmrZH/uefa-super-cup-new.png",
-        "imageScale": "",
-        "stations":
-		[
-			{
-                "name": "Real Madrid vs Atalanta",
-	        	"info":"[14-Ago-2024]",
-                "image": "https://phantom-marca.unidadeditorial.es/0ca04992a03fa9562c28d24da42ddee1/resize/660/f/webp/assets/multimedia/imagenes/2024/08/15/17237110277584.jpg",
-                "url":"https://listeamed.net/v/rabVOQQPngAOKdW",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-            },
-			{
-                "name": "Paris Saint Germain vs Tottenham",
-	        	"info":"[13-Ago-2025]",
-                "image": "https://i.postimg.cc/brCxWq9X/2025-08-13-Final-Super-Copa-Europa-PSG-vs-TOTTENHAM.jpg",
-                "url":"https://filemoon.to/d/hqx6rs3ti9ea/Supercopa_de_Europa_PSG_VS_Tottenham_130825.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-                "isHost":"true",
-                "online":"true"
-            }
+    "name": "Supercopa de Europa (UEFA SuperCup)",
+    "info":"",
+    "image": "https://i.postimg.cc/HWydmrZH/uefa-super-cup-new.png",
+    "imageScale": "",
+    "stations":
+    	[
+		{
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	},
+		{
+    	"name": "",
+    	"image": "",
+    	"url":"",
+		"info":"[29-Ene-2026]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+    	}
 		]
 	}
 
