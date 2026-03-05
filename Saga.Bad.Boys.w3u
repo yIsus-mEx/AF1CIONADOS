@@ -6,96 +6,57 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "Lista_AF1CIONADOS",
-"groups":
-	[
+"stations":
+[
 
-	{
-	"name": "LATINO",
-	"image": "https://i.postimg.cc/sXWwPD1g/1.png",
-	"stations":
-	[
-        {
-        "name": "Bad Boys I",
-        "info":"[Latino][1995]",
-        "image": "https://i.postimg.cc/sXWwPD1g/1.png",
-        "url":"https://filemoon.sx/d/5nizfpunb3oe",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost":"true",
-        "online":"true"
-        },
-        {
-        "name": "Bad Boys II",
-        "info":"[Latino][2003]",
-        "image": "https://i.postimg.cc/dtw4dFFJ/2.png",
-        "url":"https://filemoon.sx/d/ser1gxpiel27",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost":"true",
-        "online":"true"
-        },
-        {
-        "name": "Bad Boys III",
-        "info":"[Latino][2020]",
-        "image": "https://i.postimg.cc/VkHR3bCN/3.png",
-        "url":"https://filemoon.sx/d/ks9ihnyh9s3s",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost":"true",
-        "online":"true"
-        },
-        {
-        "name": "Bad Boys IV (Ts)",
-        "info":"[Latino][2024]",
-        "image": "https://i.postimg.cc/NFJ95RY9/4.png",
-        "url":"https://download2349.mediafire.com/ai7ogjcufqfgGJJSGiXyBTg6HMZC1dF7n8ho8xITaXWs5vCJS32XW-hV2b1Z2GTXNfBBFLgu3LiJ1V5pwW_IosFhcqSXXakikEV37b3D3X-V5S1mlmUQW5whT3lpyPdyHX4Rx_6BVU_gYDYnPHZ9K3XeCw0_q5-ylI3TKQLO-sGA5FA/dusp3wau7wx0agz/Bad.Boys.Ride.or.Die.2024.1080P.HDTS.DD2.0.H.264-LMHD.mkv",
-        "userAgent" : "PlusMediaPlayer/0.0.9",
-        "isHost":"",
-        "online":"true"
-        }
-	]
-	},
+{
+"name": "BAD BOYS 1",
+"image": "https://pics.filmaffinity.com/bad_boys-129541367-large.jpg",
+"url": "https://bysesayeveum.com/d/nrqupn2fp75e/dos-policías-rebeldes-1995",
+"info": "[Español][1995]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "BAD BOYS 2 VUELVEN MAS REBELDES",
+"image": "https://pics.filmaffinity.com/bad_boys_ii-516511431-large.jpg",
+"url": "https://bysesayeveum.com/d/nrqupn2fp75e/dos-policías-rebeldes-1995",
+"info": "[Español][2003]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "BAD BOYS 3 PARA SIEMPRE",
+"image": "https://pics.filmaffinity.com/bad_boys_for_life-343590773-large.jpg",
+"url": "https://bysesayeveum.com/d/nkz8q27a0rxo/bad-boys-for-life-2020",
+"info": "[Español][2020]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "BAD BOYS 4 HASTA LA MUERTE",
+"image": "https://pics.filmaffinity.com/bad_boys_ride_or_die-651037313-large.jpg",
+"url": "https://bysesayeveum.com/d/95msbry8k9if/bad-boys-hasta-la-muerte-2024-1080p-telesync",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+}
 
-	{
-	"name": "ESPAÑOL",
-	"image": "https://pics.filmaffinity.com/bad_boys-129541367-large.jpg",
-	"stations":
-	[
-    {
-      "name": "BAD BOYS 1",
-      "image": "https://pics.filmaffinity.com/bad_boys-129541367-large.jpg",
-      "url": "https://filemoon.to/d/dgut4etk1kx0/Bad_boys_1_1995_pelicula_castellano_1080p.mp4",
-      "info": "[Español][1995]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "BAD BOYS 2 VUELVEN MAS REBELDES",
-      "image": "https://pics.filmaffinity.com/bad_boys_ii-516511431-large.jpg",
-      "url": "https://filemoon.to/d/aa2sp1rwsfmx/Bad_boys_2_2003_pelicula_esp_dvdrip_mp4.mp4",
-      "info": "[Español][2003]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "BAD BOYS 3 PARA SIEMPRE",
-      "image": "https://pics.filmaffinity.com/bad_boys_for_life-343590773-large.jpg",
-      "url": "https://filemoon.to/d/462bdjpxgw2s/Bad_Boys_para_siempre_3_2020_pelicula_castellano_1080p_castellano_mp4.mp4",
-      "info": "[Español][2020]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "BAD BOYS 4 HASTA LA MUERTE",
-      "image": "https://pics.filmaffinity.com/bad_boys_ride_or_die-651037313-large.jpg",
-      "url": "https://filemoon.to/d/rdwm70ufo9z1/Bad_boys_4_2024_pelicula_esp_1080p_mp4.mp4",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    }
-	]
-	}
-
-    ]
+]
 }
