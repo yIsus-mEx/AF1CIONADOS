@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+         {
+          "name": "F1 2026",
+          "image": "",
+          "url": "https://af1c1onados.vercel.app/Diferidos.F1.2026.w3u",
+          "info":"",
+          "import": false
+          },
           {
           "name": "F1 2025",
           "image": "https://i.postimg.cc/65fJFFqG/F1-new.png",

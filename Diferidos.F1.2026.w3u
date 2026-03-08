@@ -1,0 +1,110 @@
+{
+  "name": "F1 2026",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Diferidos.F1.2026.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "",
+  "groups": 
+  [
+    {
+      "name": "F1 2026 R01 Australia [05-07.Mar26]",
+      "info": "",
+      "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/UPhb8nRo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/zsh4ahdA",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/4UBJvqH4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/hoYe7R51",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/s2LHYymj",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/eHeaCZ8j",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/6WVNHUgS",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/aGvxQtZz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/BBsoZhzf",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
+          "url": "https://pixeldrain.com/u/MNUhv1Ei",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
+}
