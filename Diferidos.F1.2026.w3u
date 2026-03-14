@@ -8,6 +8,51 @@
   "groups": 
   [
     {
+      "name": "F1 2026 R02 China [Shanghai] [12-14.Mar26]",
+      "info": "",
+      "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/5gqiukkvcik7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/rni4ns2ege9h",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/emvvveu47c2m",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/q85onux7a3uo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2026 R01 Australia [05-07.Mar26]",
       "info": "",
       "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
