@@ -8,9 +8,26 @@
   "groups": 
   [
     {
+      "name": "R03 IndyCar Grand Prix of Arlington",
+      "image": "https://i.postimg.cc/5ykv5fFy/indycar-Arlintong.jpg",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[Latino]",
+          "online": "true",
+          "image": "https://i.postimg.cc/5ykv5fFy/indycar-Arlintong.jpg",
+          "url": "https://bysetayico.com/d/BbzjVdcA",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
       "name": "R02 IndyCar Phoenix Raceway",
       "image": "https://i.postimg.cc/TY9v3ZG1/Indycar-phoenix.webp",
-      "stations": [
+      "stations": 
+      [
         {
           "name": "Carrera",
           "info": "[Latino]",
@@ -25,7 +42,8 @@
     {
       "name": "R01 IndyCar Grand Prix of St. Petersburg",
       "image": "https://i.postimg.cc/63qz6WRM/indycar-st-petersburg.png",
-      "stations": [
+      "stations": 
+      [
         {
           "name": "Carrera",
           "info": "[Latino]",
