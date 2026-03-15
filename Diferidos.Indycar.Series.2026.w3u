@@ -5,7 +5,23 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "telegram": "Lista_AF1CIONADOS",
   "info": "",
-  "groups": [
+  "groups": 
+  [
+    {
+      "name": "R02 IndyCar Phoenix Raceway",
+      "image": "https://i.postimg.cc/TY9v3ZG1/Indycar-phoenix.webp",
+      "stations": [
+        {
+          "name": "Carrera",
+          "info": "[Latino]",
+          "online": "true",
+          "image": "https://i.postimg.cc/TY9v3ZG1/Indycar-phoenix.webp",
+          "url": "https://bysetayico.com/d/WY3DYX52",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        }
+      ]
+    },
     {
       "name": "R01 IndyCar Grand Prix of St. Petersburg",
       "image": "https://i.postimg.cc/63qz6WRM/indycar-st-petersburg.png",
