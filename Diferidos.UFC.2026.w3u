@@ -8,6 +8,42 @@
 "groups":
     [
         {
+         "name": "Fight Night: Emmett vs Vallejos",
+         "image": "https://i.postimg.cc/QNqtfVGD/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Emmett vs Vallejos",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/QNqtfVGD/UFC.png",
+                "url":"https://pixeldrain.com/u/K9U5XRXt",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 326: Holloway vs Oliveira 2",
+         "image": "https://i.postimg.cc/Rhv0Mxf5/UFC326.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 326: Holloway vs Oliveira 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/Rhv0Mxf5/UFC326.png",
+                "url":"https://pixeldrain.com/u/sRNeSvr6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "Fight Night: Moreno vs Kavanagh",
          "image": "https://i.postimg.cc/Yqz2kM30/Moreno-vs-Kavanagh.png",
          "imageScale": "",
