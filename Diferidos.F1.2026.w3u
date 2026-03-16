@@ -49,6 +49,60 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/cgi6q3rqhoyj",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/c4ayeuwid1ec",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/tcaq5n0yctdw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/vjcvo9d8xvs7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/4k6nouldwott",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
+          "url": "https://bysetayico.com/d/nwns0kcxfw5j",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         }
       ]
     },
