@@ -1,0 +1,1363 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-title="📺 Canales (24/7)",ESPN 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-title="📺 Canales (24/7)",ESPN 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-title="📺 Canales (24/7)",ESPN 3 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-title="📺 Canales (24/7)",ESPN 3 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-title="📺 Canales (24/7)",ESPN 4 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn4
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-title="📺 Canales (24/7)",ESPN 4 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn4
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/y6DPVT4b/ESPN-5.png" group-logo="https://i.postimg.cc/y6DPVT4b/ESPN-5.png" group-title="📺 Canales (24/7)",ESPN 5 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn5
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/y6DPVT4b/ESPN-5.png" group-logo="https://i.postimg.cc/y6DPVT4b/ESPN-5.png" group-title="📺 Canales (24/7)",ESPN 5 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn5
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/VN7qwJ7f/ESPN-6.png" group-logo="https://i.postimg.cc/VN7qwJ7f/ESPN-6.png" group-title="📺 Canales (24/7)",ESPN 6 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn6
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/VN7qwJ7f/ESPN-6.png" group-logo="https://i.postimg.cc/VN7qwJ7f/ESPN-6.png" group-title="📺 Canales (24/7)",ESPN 6 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn6
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/6qC48qh2/ESPN-7.png" group-logo="https://i.postimg.cc/6qC48qh2/ESPN-7.png" group-title="📺 Canales (24/7)",ESPN 7 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn7
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/6qC48qh2/ESPN-7.png" group-logo="https://i.postimg.cc/6qC48qh2/ESPN-7.png" group-title="📺 Canales (24/7)",ESPN 7 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn7
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/kg7pPGGv/DSports.png" group-logo="https://i.postimg.cc/kg7pPGGv/DSports.png" group-title="📺 Canales (24/7)",DSports | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=dsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/kg7pPGGv/DSports.png" group-logo="https://i.postimg.cc/kg7pPGGv/DSports.png" group-title="📺 Canales (24/7)",DSports | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=dsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/0QKt0JWG/DSports2.png" group-logo="https://i.postimg.cc/0QKt0JWG/DSports2.png" group-title="📺 Canales (24/7)",DSports 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=dsports2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/0QKt0JWG/DSports2.png" group-logo="https://i.postimg.cc/0QKt0JWG/DSports2.png" group-title="📺 Canales (24/7)",DSports 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=dsports2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="📺 Canales (24/7)",GOLTV | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=goltv
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="📺 Canales (24/7)",GOLTV | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=goltv
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="📺 Canales (24/7)",VTV Plus | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=vtvplus
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="📺 Canales (24/7)",VTV Plus | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=vtvplus
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/15jNWQjC/foxsport-AR.png" group-logo="https://i.postimg.cc/15jNWQjC/foxsport-AR.png" group-title="📺 Canales (24/7)",Fox Sports | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/15jNWQjC/foxsport-AR.png" group-logo="https://i.postimg.cc/15jNWQjC/foxsport-AR.png" group-title="📺 Canales (24/7)",Fox Sports | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-title="📺 Canales (24/7)",Fox Sports 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsports2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-title="📺 Canales (24/7)",Fox Sports 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsports2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-title="📺 Canales (24/7)",Fox Sports 3 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsports3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-logo="https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png" group-title="📺 Canales (24/7)",Fox Sports 3 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsports3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/MGPXxnY7/TNT-Sports.png" group-logo="https://i.postimg.cc/MGPXxnY7/TNT-Sports.png" group-title="📺 Canales (24/7)",TNT Sports | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=tntsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/MGPXxnY7/TNT-Sports.png" group-logo="https://i.postimg.cc/MGPXxnY7/TNT-Sports.png" group-title="📺 Canales (24/7)",TNT Sports | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=tntsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/4NkyJkz3/ESPN-Premium.png" group-logo="https://i.postimg.cc/4NkyJkz3/ESPN-Premium.png" group-title="📺 Canales (24/7)",ESPN Premium | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espnpremium
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/4NkyJkz3/ESPN-Premium.png" group-logo="https://i.postimg.cc/4NkyJkz3/ESPN-Premium.png" group-title="📺 Canales (24/7)",ESPN Premium | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espnpremium
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-title="📺 Canales (24/7)",TyC Sports | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=tycsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-title="📺 Canales (24/7)",TyC Sports | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=tycsports
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-title="📺 Canales (24/7)",TyC Sports Internacional (USA) | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=tycinternacional
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-logo="https://i.postimg.cc/9Q1QtDs4/Ty-C-Sports.png" group-title="📺 Canales (24/7)",TyC Sports Internacional (USA) | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=tycinternacional
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/v8982qCf/Telefe.png" group-logo="https://i.postimg.cc/v8982qCf/Telefe.png" group-title="📺 Canales (24/7)",Telefe | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=telefe
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/v8982qCf/Telefe.png" group-logo="https://i.postimg.cc/v8982qCf/Telefe.png" group-title="📺 Canales (24/7)",Telefe | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=telefe
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/7Lfw3mgK/Gol-Per.webp" group-logo="https://i.postimg.cc/7Lfw3mgK/Gol-Per.webp" group-title="📺 Canales (24/7)",GOLPERU | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=golperu
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/7Lfw3mgK/Gol-Per.webp" group-logo="https://i.postimg.cc/7Lfw3mgK/Gol-Per.webp" group-title="📺 Canales (24/7)",GOLPERU | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=golperu
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png" group-logo="https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png" group-title="📺 Canales (24/7)",Liga1 MAX | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=liga1max
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png" group-logo="https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png" group-title="📺 Canales (24/7)",Liga1 MAX | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=liga1max
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/L667ghkf/Movistar-Deportes.png" group-logo="https://i.postimg.cc/L667ghkf/Movistar-Deportes.png" group-title="📺 Canales (24/7)",Movistar Deportes | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=movistar
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/L667ghkf/Movistar-Deportes.png" group-logo="https://i.postimg.cc/L667ghkf/Movistar-Deportes.png" group-title="📺 Canales (24/7)",Movistar Deportes | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=movistar
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/HsxZsRH5/Win-Sports.png" group-logo="https://i.postimg.cc/HsxZsRH5/Win-Sports.png" group-title="📺 Canales (24/7)",Win Sports plus (2) | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=winsports2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/HsxZsRH5/Win-Sports.png" group-logo="https://i.postimg.cc/HsxZsRH5/Win-Sports.png" group-title="📺 Canales (24/7)",Win Sports plus (2) | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=winsports2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/kMVRJvzT/FOX-Sports.png" group-logo="https://i.postimg.cc/kMVRJvzT/FOX-Sports.png" group-title="📺 Canales (24/7)",Fox Sports | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsportsmx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/kMVRJvzT/FOX-Sports.png" group-logo="https://i.postimg.cc/kMVRJvzT/FOX-Sports.png" group-title="📺 Canales (24/7)",Fox Sports | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsportsmx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fLPsqXf6/Fox-sports-2.png" group-logo="https://i.postimg.cc/fLPsqXf6/Fox-sports-2.png" group-title="📺 Canales (24/7)",Fox Sports 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsports2mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fLPsqXf6/Fox-sports-2.png" group-logo="https://i.postimg.cc/fLPsqXf6/Fox-sports-2.png" group-title="📺 Canales (24/7)",Fox Sports 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsports2mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/dVRqQhJd/Fox-sports-3.png" group-logo="https://i.postimg.cc/dVRqQhJd/Fox-sports-3.png" group-title="📺 Canales (24/7)",Fox Sports 3 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsports3mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/dVRqQhJd/Fox-sports-3.png" group-logo="https://i.postimg.cc/dVRqQhJd/Fox-sports-3.png" group-title="📺 Canales (24/7)",Fox Sports 3 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsports3mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png" group-logo="https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png" group-title="📺 Canales (24/7)",Fox Sports Premium | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxsportspremium
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png" group-logo="https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png" group-title="📺 Canales (24/7)",Fox Sports Premium | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxsportspremium
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espnmx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espnmx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-title="📺 Canales (24/7)",ESPN 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn2mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-title="📺 Canales (24/7)",ESPN 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn2mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-title="📺 Canales (24/7)",ESPN 3 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn3mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-title="📺 Canales (24/7)",ESPN 3 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn3mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-title="📺 Canales (24/7)",ESPN 4 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn4mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-logo="https://i.postimg.cc/DyWqTfsG/ESPN-4.png" group-title="📺 Canales (24/7)",ESPN 4 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn4mx
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/QMscVK5n/Logo-Azteca-7.png" group-logo="https://i.postimg.cc/QMscVK5n/Logo-Azteca-7.png" group-title="📺 Canales (24/7)",Azteca 7 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=azteca7
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/QMscVK5n/Logo-Azteca-7.png" group-logo="https://i.postimg.cc/QMscVK5n/Logo-Azteca-7.png" group-title="📺 Canales (24/7)",Azteca 7 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=azteca7
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/P5CvTfw1/Canal-5.png" group-logo="https://i.postimg.cc/P5CvTfw1/Canal-5.png" group-title="📺 Canales (24/7)",Canal 5 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=canal5
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/P5CvTfw1/Canal-5.png" group-logo="https://i.postimg.cc/P5CvTfw1/Canal-5.png" group-title="📺 Canales (24/7)",Canal 5 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=canal5
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="📺 Canales (24/7)",Azteca Deportes | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=azteca_deportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="📺 Canales (24/7)",Azteca Deportes | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=azteca_deportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/wjW0KknW/FOX-Deportes.png" group-logo="https://i.postimg.cc/wjW0KknW/FOX-Deportes.png" group-title="📺 Canales (24/7)",Fox Deportes | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=foxdeportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/wjW0KknW/FOX-Deportes.png" group-logo="https://i.postimg.cc/wjW0KknW/FOX-Deportes.png" group-title="📺 Canales (24/7)",Fox Deportes | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=foxdeportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="📺 Canales (24/7)",ESPN Deportes | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espndeportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="📺 Canales (24/7)",ESPN Deportes | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espndeportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Ss7TTWLr/TUDN.png" group-logo="https://i.postimg.cc/Ss7TTWLr/TUDN.png" group-title="📺 Canales (24/7)",TUDN | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=tudn
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/Ss7TTWLr/TUDN.png" group-logo="https://i.postimg.cc/Ss7TTWLr/TUDN.png" group-title="📺 Canales (24/7)",TUDN | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=tudn
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/G24P1wvc/Be-IN-Sports.png" group-logo="https://i.postimg.cc/G24P1wvc/Be-IN-Sports.png" group-title="📺 Canales (24/7)",BeIN Sports Español | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=beinsportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/G24P1wvc/Be-IN-Sports.png" group-logo="https://i.postimg.cc/G24P1wvc/Be-IN-Sports.png" group-title="📺 Canales (24/7)",BeIN Sports Español | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=beinsportes
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/nLbKZ6CG/Unimas.png" group-logo="https://i.postimg.cc/nLbKZ6CG/Unimas.png" group-title="📺 Canales (24/7)",Unimás | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=unimas
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/nLbKZ6CG/Unimas.png" group-logo="https://i.postimg.cc/nLbKZ6CG/Unimas.png" group-title="📺 Canales (24/7)",Unimás | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=unimas
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/htn0QYqS/Be-IN-SPORTS-En-Espanol.jpg" group-logo="https://i.postimg.cc/htn0QYqS/Be-IN-SPORTS-En-Espanol.jpg" group-title="📺 Canales (24/7)",BeIN Sports Xtra Español | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=beinsport_xtra_espanol
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/htn0QYqS/Be-IN-SPORTS-En-Espanol.jpg" group-logo="https://i.postimg.cc/htn0QYqS/Be-IN-SPORTS-En-Espanol.jpg" group-title="📺 Canales (24/7)",BeIN Sports Xtra Español | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/VNr5fYHz/USA-Network.png" group-logo="https://i.postimg.cc/VNr5fYHz/USA-Network.png" group-title="📺 Canales (24/7)",USAnetwork | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=usanetwork
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/VNr5fYHz/USA-Network.png" group-logo="https://i.postimg.cc/VNr5fYHz/USA-Network.png" group-title="📺 Canales (24/7)",USAnetwork | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=usanetwork
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png" group-logo="https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png" group-title="📺 Canales (24/7)",Telemundo | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=telemundo
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png" group-logo="https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png" group-title="📺 Canales (24/7)",Telemundo | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=telemundo
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 1 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=premiere1
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 1 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=premiere1
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=premiere2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=premiere2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 3 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=premiere3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 3 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=premiere3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 5 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=premiere5
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-logo="https://i.postimg.cc/fTqwJGdt/Premiere-logo.png" group-title="📺 Canales (24/7)",Premiere 5 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=premiere5
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png" group-logo="https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png" group-title="📺 Canales (24/7)",Sportv | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=sportv
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png" group-logo="https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png" group-title="📺 Canales (24/7)",Sportv | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=sportv
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/8PYS1h8m/Sport-TV2.png" group-logo="https://i.postimg.cc/8PYS1h8m/Sport-TV2.png" group-title="📺 Canales (24/7)",Sportv 2 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=sportv2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/8PYS1h8m/Sport-TV2.png" group-logo="https://i.postimg.cc/8PYS1h8m/Sport-TV2.png" group-title="📺 Canales (24/7)",Sportv 2 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=sportv2
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/MHGCwGdf/Sport-TV3.png" group-logo="https://i.postimg.cc/MHGCwGdf/Sport-TV3.png" group-title="📺 Canales (24/7)",Sportv 3 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=sportv3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/MHGCwGdf/Sport-TV3.png" group-logo="https://i.postimg.cc/MHGCwGdf/Sport-TV3.png" group-title="📺 Canales (24/7)",Sportv 3 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=sportv3
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN 1 NL | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn1_nl
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN 1 NL | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn1_nl
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-title="📺 Canales (24/7)",ESPN 2 NL | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn2_nl
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-logo="https://i.postimg.cc/xTHShHsq/ESPN-2.png" group-title="📺 Canales (24/7)",ESPN 2 NL | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn2_nl
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-title="📺 Canales (24/7)",ESPN 3 NL | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/vivo/canales.php?stream=espn3_nl
+
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-logo="https://i.postimg.cc/x813HKcX/ESPN-3.png" group-title="📺 Canales (24/7)",ESPN 3 NL | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/canales.php?stream=espn3_nl
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistosos_bbe2ec4c17_02fd4e7093.png" group-logo="https://cdn.pltvhd.com/uploads/amistosos_bbe2ec4c17_02fd4e7093.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga de Naciones de la UEFA: Luxemburgo vs Malta | 09:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Noruega vs Suiza | 09:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Noruega vs Suiza | 09:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Noruega vs Suiza | 09:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Noruega vs Suiza | 09:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Noruega vs Suiza | 09:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistosos_bbe2ec4c17_02fd4e7093.png" group-logo="https://cdn.pltvhd.com/uploads/amistosos_bbe2ec4c17_02fd4e7093.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga de Naciones de la UEFA: Letonia vs Gibraltar | 09:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistosos_bbe2ec4c17_02fd4e7093.png" group-logo="https://cdn.pltvhd.com/uploads/amistosos_bbe2ec4c17_02fd4e7093.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga de Naciones de la UEFA: Letonia vs Gibraltar | 09:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHYy
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Montenegro vs Eslovenia | 09:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: San Marino vs Andorra | 09:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk2
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Hungría vs Grecia | 10:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk4
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Hungría vs Grecia | 10:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHYz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga Profesional: Aldosivi vs Argentinos Juniors | 10:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga Profesional: Aldosivi vs Argentinos Juniors | 10:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga Profesional: Aldosivi vs Argentinos Juniors | 10:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Liga Profesional: Aldosivi vs Argentinos Juniors | 10:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk3
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] LaLiga SmartBank: Mirandés vs Albacete | 10:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tb3Zpc3Rhcg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWVyaWNhdHY=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tb3Zpc3Rhcg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tb3Zpc3Rhcg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-logo="https://cdn.pltvhd.com/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Perú vs Honduras | 11:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Torneo de Reserva: Belgrano vs Lanús | 11:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Torneo de Reserva: Belgrano vs Lanús | 11:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Torneo de Reserva: Belgrano vs Lanús | 11:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] LaLiga SmartBank: eportivo La Coruña vs Córdoba | 11:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjI=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] LaLiga SmartBank: eportivo La Coruña vs Córdoba | 11:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk5
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Marruecos vs Paraguay | 11:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Escocia vs Costa de Marfil | 11:30 | OP8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Suecia vs Polonia | 11:45 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Suecia vs Polonia | 11:45 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Suecia vs Polonia | 11:45 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Suecia vs Polonia | 11:45 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Inglaterra vs Japón | 11:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Austria vs Corea del Sur | 11:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Bosnia-Herzegovina vs Italia | 11:45 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Bosnia-Herzegovina vs Italia | 11:45 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Bosnia-Herzegovina vs Italia | 11:45 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Bosnia-Herzegovina vs Italia | 11:45 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: República Checa vs Dinamarca | 11:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Países Bajos vs Ecuador | 11:45 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Países Bajos vs Ecuador | 11:45 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Kosovo vs Turquía | 11:45 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Kosovo vs Turquía | 11:45 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: España vs Egipto | 12:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: España vs Egipto | 12:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHYz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-logo="https://cdn.pltvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] LaLiga SmartBank: Real Valladolid vs Cádiz | 12:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZWxpYnJlLmNvbS9jYW5hbGVzLnBocD9zdHJlYW09Zm94c3BvcnRzMV91c2E=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: RD del Congo vs Jamaica | 14:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0cw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Copa de la Liga: Audax Italiano vs Universidad Chile | 14:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Primera División: 2 de Mayo vs Nacional Asunción | 14:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Orlando Magic vs Phoenix Suns | 16:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuM214
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMV9ubA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMV9ubA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4xX25s
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxOA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: EE. UU. vs Portugal | 16:00 | OP8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2ZXJzbw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Argentina vs Zambia | 16:15 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlZmU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Argentina vs Zambia | 16:15 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1iZWluc3BvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Primera División: Sportivo San Lorenzo vs Sportivo Ameliano | 16:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Primera División: Sportivo Luqueño vs Cerro Porteño | 16:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Copa de la Liga: Everton vs Deportes Limache | 16:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Canadá vs Túnez | 16:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nhl_4a934e9b3a_efd6d7f06f.png" group-logo="https://cdn.pltvhd.com/uploads/nhl_4a934e9b3a_efd6d7f06f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NHL: Columbus Blue Jackets vs Carolina Hurricanes | 16:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nhl_4a934e9b3a_efd6d7f06f.png" group-logo="https://cdn.pltvhd.com/uploads/nhl_4a934e9b3a_efd6d7f06f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NHL: Columbus Blue Jackets vs Carolina Hurricanes | 16:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nhl_4a934e9b3a_efd6d7f06f.png" group-logo="https://cdn.pltvhd.com/uploads/nhl_4a934e9b3a_efd6d7f06f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NHL: Columbus Blue Jackets vs Carolina Hurricanes | 16:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Brooklyn Nets vs Charlotte Hornets | 16:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Detroit Pistons vs Toronto Raptors | 17:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Milwaukee Bucks vs Dallas Mavericks | 17:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BubXg=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxOQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5teA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-logo="https://cdn.pltvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: Brasil vs Croacia | 17:00 | OP11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Houston Rockets vs New York Knicks | 17:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-logo="https://cdn.pltvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Amistoso: México vs Bélgica | 18:00 | OP10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Categoría Primera A: Deportes Tolima vs Rionegro Águilas | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Categoría Primera A: Deportes Tolima vs Rionegro Águilas | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Categoría Primera A: Deportes Tolima vs Rionegro Águilas | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] MLB: San Diego Padres vs San Francisco Giants | 18:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] MLB: San Diego Padres vs San Francisco Giants | 18:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] MLB: San Diego Padres vs San Francisco Giants | 18:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Los Angeles Lakers vs Cleveland Cavaliers | 19:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZWxpYnJlLmNvbS9jYW5hbGVzLnBocD9zdHJlYW09Zm94c3BvcnRzMV91c2E=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-logo="https://cdn.pltvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] Clasificación Mundial: Iraq vs Bolivia | 20:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0cw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (31 Mar 2026)",[TVHD] NBA: Los Angeles Clippers vs Portland Trail Blazers | 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
