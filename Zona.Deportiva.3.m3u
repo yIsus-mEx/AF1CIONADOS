@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN | OP1
+#EXTINF:-1 tvg-id="Live.Channel.us" tvg-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-logo="https://i.postimg.cc/W4QgfGDh/ESPN.png" group-title="📺 Canales (24/7)",ESPN | Op1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-referrer=https://hutweed.net/embed/a31q9
 #EXTVLCOPT:http-origin=https://hutweed.net/
 https://gollibre.com/en-vivo-online/espn/embed2.php
 
