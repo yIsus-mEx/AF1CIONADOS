@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/rNsJY5s/8267f18cc129.png" group-title="NBA EN VIVO",[NBA] Philadelphia 76ers vs Washington Wizards | April 01 2026 | 16:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/wizards.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/G3CSCdW6/638547cab4b1.png" group-title="NBA EN VIVO",[NBA] Atlanta Hawks vs Orlando Magic | April 01 2026 | 16:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/magic.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/4wgsJTJf/0f8672f86900.png" group-title="NBA EN VIVO",[NBA] Boston Celtics vs Miami Heat | April 01 2026 | 16:30 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/cKJfSNwm/8b7f6533744d.png" group-title="NBA EN VIVO",[NBA] New York Knicks vs Memphis Grizzlies | April 01 2026 | 17:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/grizzlies.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/5z3vPdN/22408f4ec893.png" group-title="NBA EN VIVO",[NBA] Sacramento Kings vs Toronto Raptors | April 01 2026 | 17:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/raptors.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/4wsSsmFW/aff117a6c792.png" group-title="NBA EN VIVO",[NBA] Indiana Pacers vs Chicago Bulls | April 01 2026 | 17:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/bulls.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/gbBgNjnD/166f0c801069.png" group-title="NBA EN VIVO",[NBA] Milwaukee Bucks vs Houston Rockets | April 01 2026 | 17:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/rockets.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/7xH7ktCf/56e836b6f883.png" group-title="NBA EN VIVO",[NBA] Denver Nuggets vs Utah Jazz | April 01 2026 | 18:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/jazz.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/B2HsNwZR/5fbc73481a73.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs Golden State Warriors | April 01 2026 | 19:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/espn.m3u8
