@@ -1,355 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/zWDcpJjd/a1a92108e00b.png" group-title="MLB EN VIVO",[MLB] Athletics vs Braves | April 01 2026 | 7:15 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/129.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/zWDcpJjd/a1a92108e00b.png" group-title="MLB EN VIVO",[MLB] Athletics vs Braves | April 01 2026 | 7:15 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/128.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/zWDcpJjd/a1a92108e00b.png" group-title="MLB EN VIVO",[MLB] Athletics vs Braves | April 01 2026 | 7:15 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/dazhfiach15.m3u8?st=mgsIWayuVKdOeXzA9SvWDhv1MfCZ7eZj1uR-9EoVszk&e=1775082586
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/zWDcpJjd/a1a92108e00b.png" group-title="MLB EN VIVO",[MLB] Athletics vs Braves | April 01 2026 | 7:15 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/dazhfiach15.m3u8?st=276KJdnJuQB0RooUn1QwFSVJpiZ2uQFtWMWQb23vf80&e=1775082591
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/jPnpKwf7/f66241f95841.png" group-title="MLB EN VIVO",[MLB] Rangers vs Orioles | April 01 2026 | 7:35 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/237.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/jPnpKwf7/f66241f95841.png" group-title="MLB EN VIVO",[MLB] Rangers vs Orioles | April 01 2026 | 7:35 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/118.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/jPnpKwf7/f66241f95841.png" group-title="MLB EN VIVO",[MLB] Rangers vs Orioles | April 01 2026 | 7:35 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=Qy78BxjQ4RmHn_6xKfaStRoWbvUNwHjZXK7R-W95vuA&e=1775082611
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/jPnpKwf7/f66241f95841.png" group-title="MLB EN VIVO",[MLB] Rangers vs Orioles | April 01 2026 | 7:35 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=MwBeVB1Tb8mihUZJ4IbUYOmAemayl4dv8GPG1z13xpQ&e=1775082617
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JWFkcdsf/66d68c42e6d0.png" group-title="MLB EN VIVO",[MLB] Pirates vs Reds | April 01 2026 | 9:40 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/116.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JWFkcdsf/66d68c42e6d0.png" group-title="MLB EN VIVO",[MLB] Pirates vs Reds | April 01 2026 | 9:40 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/113.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JWFkcdsf/66d68c42e6d0.png" group-title="MLB EN VIVO",[MLB] Pirates vs Reds | April 01 2026 | 9:40 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=DLDdxioaP6IGl71MQS6KBa_ShIZHPVc7L-F8IrkW794&e=1775082636
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FbcMS99K/156ceb51edd5.png" group-title="MLB EN VIVO",[MLB] Nationals vs Phillies | April 01 2026 | 10:05 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/114.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FbcMS99K/156ceb51edd5.png" group-title="MLB EN VIVO",[MLB] Nationals vs Phillies | April 01 2026 | 10:05 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/112.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FbcMS99K/156ceb51edd5.png" group-title="MLB EN VIVO",[MLB] Nationals vs Phillies | April 01 2026 | 10:05 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=CUE3HNs2KN1HQdYIdriPwMRBt-pcvyzR2NdoKKNDD2Y&e=1775082661
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FbcMS99K/156ceb51edd5.png" group-title="MLB EN VIVO",[MLB] Nationals vs Phillies | April 01 2026 | 10:05 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=bBO7t0RjOzRXM4lkw-tYZLWnoPVOrHJdukFuakn-8hg&e=1775082666
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/nq98S0tx/76ed8a147255.png" group-title="MLB EN VIVO",[MLB] Rockies vs Jays | April 01 2026 | 10:07 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/125.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/nq98S0tx/76ed8a147255.png" group-title="MLB EN VIVO",[MLB] Rockies vs Jays | April 01 2026 | 10:07 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/119.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/nq98S0tx/76ed8a147255.png" group-title="MLB EN VIVO",[MLB] Rockies vs Jays | April 01 2026 | 10:07 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=0n7KQv_bj4C5zyLuahB1SLEprZ8NE-VUPRyy6-FF8Tg&e=1775082686
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/nq98S0tx/76ed8a147255.png" group-title="MLB EN VIVO",[MLB] Rockies vs Jays | April 01 2026 | 10:07 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=s7mVaVm13POvZ8SqxE5wXdABv_h_F3GPkq3CtxBPf5A&e=1775082691
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/XxxvddFQ/b0fb65d01501.png" group-title="MLB EN VIVO",[MLB] White Sox vs Marlins | April 01 2026 | 10:07 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/111.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/XxxvddFQ/b0fb65d01501.png" group-title="MLB EN VIVO",[MLB] White Sox vs Marlins | April 01 2026 | 10:07 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/123.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/XxxvddFQ/b0fb65d01501.png" group-title="MLB EN VIVO",[MLB] White Sox vs Marlins | April 01 2026 | 10:07 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=0I0hCY48EEccUthAxlB57h_U-9xiyrJWQ38DtjNo3u0&e=1775082710
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/XxxvddFQ/b0fb65d01501.png" group-title="MLB EN VIVO",[MLB] White Sox vs Marlins | April 01 2026 | 10:07 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=lRH0SKmcOMGnn2sBVgR44k2_fLgzSrD20FnTaX3sBB8&e=1775082716
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/PzWG3Cz0/636d543df2a9.png" group-title="MLB EN VIVO",[MLB] Mets vs Cardinals | April 01 2026 | 10:15 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/132.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/PzWG3Cz0/636d543df2a9.png" group-title="MLB EN VIVO",[MLB] Mets vs Cardinals | April 01 2026 | 10:15 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/109.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/PzWG3Cz0/636d543df2a9.png" group-title="MLB EN VIVO",[MLB] Mets vs Cardinals | April 01 2026 | 10:15 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=YvScAuDHXBtJNwEvvCOcJSDjz-wmsWX3t2lkAyeBMJo&e=1775082740
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/PzWG3Cz0/636d543df2a9.png" group-title="MLB EN VIVO",[MLB] Mets vs Cardinals | April 01 2026 | 10:15 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=B_HUmjcCZXpwG8TTYIa2LdRa-Evjlu6tU4zECpQ8YhA&e=1775082745
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Mym6MVJz/759505f851be.png" group-title="MLB EN VIVO",[MLB] Rays vs Brewers | April 01 2026 | 112:40 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/130.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Mym6MVJz/759505f851be.png" group-title="MLB EN VIVO",[MLB] Rays vs Brewers | April 01 2026 | 112:40 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/115.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Mym6MVJz/759505f851be.png" group-title="MLB EN VIVO",[MLB] Rays vs Brewers | April 01 2026 | 112:40 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=S1Ec88ptogOcSQaMMFpmDVlE3-2wHavxeWjou5Bcdbc&e=1775082765
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Mym6MVJz/759505f851be.png" group-title="MLB EN VIVO",[MLB] Rays vs Brewers | April 01 2026 | 112:40 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=DVlEkkfyj2bDshq7GgZStYNaTw25I-98qktuE4Yj8BE&e=1775082771
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/C3jYZzwF/059cdbbf913e.png" group-title="MLB EN VIVO",[MLB] Red Sox vs Astros | April 01 2026 | 11:10 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/127.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/C3jYZzwF/059cdbbf913e.png" group-title="MLB EN VIVO",[MLB] Red Sox vs Astros | April 01 2026 | 11:10 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/120.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/C3jYZzwF/059cdbbf913e.png" group-title="MLB EN VIVO",[MLB] Red Sox vs Astros | April 01 2026 | 11:10 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=mOuJPajeqhqdv22_W1gYG0dTXhZlxOMiQQc6AtL-Gd0&e=1775082790
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/C3jYZzwF/059cdbbf913e.png" group-title="MLB EN VIVO",[MLB] Red Sox vs Astros | April 01 2026 | 11:10 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=CP0M-nY0Y-mOAR4cLxLTzmRIRDZ6FdSWxWNVDZJ6Q68&e=1775082796
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/0yyzDJzs/495bb80572ac.png" group-title="MLB EN VIVO",[MLB] Angels vs Cubs | April 01 2026 | 11:20 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/131.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/0yyzDJzs/495bb80572ac.png" group-title="MLB EN VIVO",[MLB] Angels vs Cubs | April 01 2026 | 11:20 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/106.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/0yyzDJzs/495bb80572ac.png" group-title="MLB EN VIVO",[MLB] Angels vs Cubs | April 01 2026 | 11:20 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=4eckQPKOEV0jFY2X4_laIGHSghAQbjf212P4OO4zRoI&e=1775082815
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/0yyzDJzs/495bb80572ac.png" group-title="MLB EN VIVO",[MLB] Angels vs Cubs | April 01 2026 | 11:20 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=oJj9QLLZKWXyZUqnyZjROPFQSD15Mu4JaGhz2yZIFbY&e=1775082820
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/6RpK3Cwp/d1a42d57c176.png" group-title="MLB EN VIVO",[MLB] Tigers vs Diamondbacks | April 01 2026 | 12:40 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/134.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/6RpK3Cwp/d1a42d57c176.png" group-title="MLB EN VIVO",[MLB] Tigers vs Diamondbacks | April 01 2026 | 12:40 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/122.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/6RpK3Cwp/d1a42d57c176.png" group-title="MLB EN VIVO",[MLB] Tigers vs Diamondbacks | April 01 2026 | 12:40 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/kjhfzua25.m3u8?st=FLJ9rBTsudLvfYIQ0zkUmPNyy2tQcwnvV_Wua8oMFTk&e=1775082840
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/6RpK3Cwp/d1a42d57c176.png" group-title="MLB EN VIVO",[MLB] Tigers vs Diamondbacks | April 01 2026 | 12:40 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/kjhfzua25.m3u8?st=MWwb1xpuiYje0nRIL9vn2PbQwi9DzaFyXp2R3tO4A4o&e=1775082845
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/KcytKB6k/6f6197ea963d.png" group-title="MLB EN VIVO",[MLB] Giants vs Padres | April 01 2026 | 1:10 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/126.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/KcytKB6k/6f6197ea963d.png" group-title="MLB EN VIVO",[MLB] Giants vs Padres | April 01 2026 | 1:10 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/107.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/KcytKB6k/6f6197ea963d.png" group-title="MLB EN VIVO",[MLB] Giants vs Padres | April 01 2026 | 1:10 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=BKOso8WNjjq76rnoUwGdqcd0tPA0NE3i_aUJNk4L8sU&e=1775082864
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/KcytKB6k/6f6197ea963d.png" group-title="MLB EN VIVO",[MLB] Giants vs Padres | April 01 2026 | 1:10 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=w_IEnQ7BGHO-LUf_SkWvxvdYDvZkLY199gjqxUluzz0&e=1775082869
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Yxps3qf/50fc483f96d7.png" group-title="MLB EN VIVO",[MLB] Yankees vs Mariners | April 01 2026 | 1:10 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/110.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Yxps3qf/50fc483f96d7.png" group-title="MLB EN VIVO",[MLB] Yankees vs Mariners | April 01 2026 | 1:10 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/124.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Yxps3qf/50fc483f96d7.png" group-title="MLB EN VIVO",[MLB] Yankees vs Mariners | April 01 2026 | 1:10 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=C6KoiDUHSpX_3jYyRELyuwHgJyCfsbFuYk-akIL9CRE&e=1775082889
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Yxps3qf/50fc483f96d7.png" group-title="MLB EN VIVO",[MLB] Yankees vs Mariners | April 01 2026 | 1:10 (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
-#EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=3SAtgr8LGQoFDCQkIBd8IWPqoNmF8THc6jEvdlB61cA&e=1775082894
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/8Lw9NTRt/58c76dd33f5f.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 01 2026 | 4:40 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/h5stg4W/024be1404615.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 02 2026 | 23:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 https://webcast-cdn.b-cdn.net/newz/newz/117.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/8Lw9NTRt/58c76dd33f5f.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 01 2026 | 4:40 (AWAY)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/h5stg4W/024be1404615.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 02 2026 | 23:10 (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 https://webcast-cdn.b-cdn.net/newz/newz/121.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/8Lw9NTRt/58c76dd33f5f.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 01 2026 | 4:40 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/h5stg4W/024be1404615.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 02 2026 | 23:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=iTE0f12cjsicSsc5GiAwLTYNrwF_Lx-DBvmuPd19pfY&e=1775082913
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=wPxLwWkgvdxO4FCAz9t-S7Q3ZAIZ5QlzhgaK0H2TX1Q&e=1775192590
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/8Lw9NTRt/58c76dd33f5f.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 01 2026 | 4:40 (AWAY)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/h5stg4W/024be1404615.png" group-title="MLB EN VIVO",[MLB] Twins vs Royals | April 02 2026 | 23:10 (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=fMtg5NHWbmmYFIW6LmqvJGC3jTzQvd3RY49QuShBfiw&e=1775082918
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=R6UpwRw-MNZFJEkJQ1AgiEM7lNfAcZ_OqfkwEv5aZFk&e=1775192596
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JRmDcyLt/47ad40ffb251.png" group-title="MLB EN VIVO",[MLB] Guardians vs Dodgers | April 01 2026 | 5:20 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Vcs488qX/6d231f1865a3.png" group-title="MLB EN VIVO",[MLB] Braves vs Diamondbacks | April 02 2026 | 6:40 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/133.m3u8
+https://webcast-cdn.b-cdn.net/newz/newz/134.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JRmDcyLt/47ad40ffb251.png" group-title="MLB EN VIVO",[MLB] Guardians vs Dodgers | April 01 2026 | 5:20 (AWAY)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Vcs488qX/6d231f1865a3.png" group-title="MLB EN VIVO",[MLB] Braves vs Diamondbacks | April 02 2026 | 6:40 (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/newz/newz/108.m3u8
+https://webcast-cdn.b-cdn.net/newz/newz/129.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JRmDcyLt/47ad40ffb251.png" group-title="MLB EN VIVO",[MLB] Guardians vs Dodgers | April 01 2026 | 5:20 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Vcs488qX/6d231f1865a3.png" group-title="MLB EN VIVO",[MLB] Braves vs Diamondbacks | April 02 2026 | 6:40 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=bxOCDugRT5skVqx3h0cX_BboCq8LTU4SO1Bk5kIUAI0&e=1775082938
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=18X3fKk7XllcX5VStoGKv2VD-otrPgngCC74etxEHxU&e=1775192615
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JRmDcyLt/47ad40ffb251.png" group-title="MLB EN VIVO",[MLB] Guardians vs Dodgers | April 01 2026 | 5:20 (AWAY)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Vcs488qX/6d231f1865a3.png" group-title="MLB EN VIVO",[MLB] Braves vs Diamondbacks | April 02 2026 | 6:40 (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=vuf12MwTX1eGkh1BUkOXwuUjTgnTd22TZTYBcseHHA8&e=1775082943
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=AA9H53cN3sx1kKS2Fe8v_R3oJ_TMy2N5DrQSQ619ILo&e=1775192620
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/5xXmkbmN/f3ccce546a2c.png" group-title="MLB EN VIVO",[MLB] Mets vs Giants | April 02 2026 | 6:45 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+https://webcast-cdn.b-cdn.net/newz/newz/107.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/5xXmkbmN/f3ccce546a2c.png" group-title="MLB EN VIVO",[MLB] Mets vs Giants | April 02 2026 | 6:45 (AWAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+https://webcast-cdn.b-cdn.net/newz/newz/109.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/5xXmkbmN/f3ccce546a2c.png" group-title="MLB EN VIVO",[MLB] Mets vs Giants | April 02 2026 | 6:45 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=cwohDFtyr1CR7dcX7LdrIkJaBmQ_6Uf4VrH1Y1mFZAM&e=1775192640
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/5xXmkbmN/f3ccce546a2c.png" group-title="MLB EN VIVO",[MLB] Mets vs Giants | April 02 2026 | 6:45 (AWAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=2u4zV1z16ImeoomRFvBGhxKt26nC8Bh2DK4oir48rgs&e=1775192645
