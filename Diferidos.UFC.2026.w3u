@@ -8,6 +8,60 @@
 "groups":
     [
         {
+         "name": "Fight Night: Moicano vs Duncan",
+         "image": "https://i.postimg.cc/gkNPbXRJ/Moicano-vs-Duncann.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Moicano vs Duncan",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/gkNPbXRJ/Moicano-vs-Duncann.png",
+                "url":"https://bysetayico.com/d/8cm4somerx28",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Adesanya vs Pyfer",
+         "image": "https://i.postimg.cc/TwpKnv64/Adesanya-vs-Pyfer.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Adesanya vs Pyfer",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/TwpKnv64/Adesanya-vs-Pyfer.png",
+                "url":"https://bysetayico.com/d/8d2ux7tfbdcp",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Evloev vs Murphy",
+         "image": "https://i.postimg.cc/141V9Vwp/Evloev-vs-Murphy.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Evloev vs Murphy",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/141V9Vwp/Evloev-vs-Murphy.png",
+                "url":"https://bysetayico.com/d/gw0qw40fqphv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "Fight Night: Emmett vs Vallejos",
          "image": "https://i.postimg.cc/QNqtfVGD/UFC.png",
          "imageScale": "",
