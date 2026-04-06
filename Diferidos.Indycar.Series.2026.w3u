@@ -8,6 +8,22 @@
   "groups": 
   [
     {
+      "name": "R04 IndyCar Grand Prix of Alabama",
+      "image": "https://i.postimg.cc/fRSt3NMb/Back-in-Barber-Its-Race-Week.jpg",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[Latino]",
+          "online": "true",
+          "image": "https://i.postimg.cc/fRSt3NMb/Back-in-Barber-Its-Race-Week.jpg",
+          "url": "https://bysetayico.com/d/ei7fmbc5yc0b",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
       "name": "R03 IndyCar Grand Prix of Arlington",
       "image": "https://i.postimg.cc/5ykv5fFy/indycar-Arlintong.jpg",
       "stations": 
