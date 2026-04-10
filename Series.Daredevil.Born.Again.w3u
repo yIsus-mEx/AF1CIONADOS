@@ -1,101 +1,137 @@
 {
-"name": "Daredevil Born Again",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Daredevil.Born.Again.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[Español]",
- 				"image":"https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
- 				"url":"https://bgwp.cc/rl7zegafk6e8",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[Español]",
-				"image":"https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-				"url":"https://bgwp.cc/7ipu3bfs6ehu",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[Español]",
-				"image":"https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-				"url":"https://filemoon.to/d/ytk37faq433a/Daredevil_Born_Again_S01E03_En_Su_seno.mkv",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[Español]",
-				"image":"",
-				"url":"",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[Español]",
-				"image":"",
-				"url":"",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[Español]",
-				"image":"",
-				"url":"",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[Español]",
-				"image":"",
-				"url":"",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[Español]",
-				"image":"",
-				"url":"",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"[Español]",
-				"image":"",
-				"url":"",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "Daredevil: Born Again",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Daredevil.Born.Again.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Multiaudio][2015]",
+          "online": "true",
+          "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+          "url": "https://bysetayico.com/d/lgircylq5g5o",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Multiaudio][2015]",
+          "online": "true",
+          "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+          "url": "https://bysetayico.com/d/qj1c1bq4xohq",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Multiaudio][2015]",
+          "online": "true",
+          "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+          "url": "https://bysetayico.com/d/kev60d9ad949",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Multiaudio][2015]",
+          "online": "true",
+          "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+          "url": "https://bysetayico.com/d/dqdihcpzpt0i",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Multiaudio][2015]",
+          "online": "true",
+          "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+          "url": "https://bysetayico.com/d/mpde6fh7nqwl",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Multiaudio][2015]",
+          "online": "true",
+          "image": "https://i.postimg.cc/0j06kJYS/Daredevil-Born-Again.jpg",
+          "url": "https://bysetayico.com/d/aaycy7m6y0x1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://i.postimg.cc/MG1zJJbX/Daredevil-Born-Again-2.webp",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/MG1zJJbX/Daredevil-Born-Again-2.webp",
+          "url": "https://bysetayico.com/d/cg1qiex4wujh",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/MG1zJJbX/Daredevil-Born-Again-2.webp",
+          "url": "https://bysetayico.com/d/ws4jgh907n05",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/MG1zJJbX/Daredevil-Born-Again-2.webp",
+          "url": "https://bysetayico.com/d/vsmgkftnc8l2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/MG1zJJbX/Daredevil-Born-Again-2.webp",
+          "url": "https://bysetayico.com/d/rxkkvbn6a1em",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
 }
