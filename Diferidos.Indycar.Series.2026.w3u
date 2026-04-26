@@ -8,6 +8,31 @@
   "groups": 
   [
     {
+      "name": "R05 IndyCar Grand Prix Long Beach",
+      "image": "https://i.postimg.cc/26Np4KBD/longbeach.webp",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[Latino]",
+          "online": "true",
+          "image": "https://i.postimg.cc/26Np4KBD/longbeach.webp",
+          "url": "https://bysetayico.com/d/71auvsl52t2l",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[español]",
+          "online": "true",
+          "image": "https://i.postimg.cc/26Np4KBD/longbeach.webp",
+          "url": "https://bysetayico.com/d/38py9rxp5h18",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
       "name": "R04 IndyCar Grand Prix of Alabama",
       "image": "https://i.postimg.cc/fRSt3NMb/Back-in-Barber-Its-Race-Week.jpg",
       "stations": 
@@ -18,6 +43,15 @@
           "online": "true",
           "image": "https://i.postimg.cc/fRSt3NMb/Back-in-Barber-Its-Race-Week.jpg",
           "url": "https://bysetayico.com/d/ei7fmbc5yc0b",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[Español]",
+          "online": "true",
+          "image": "https://i.postimg.cc/fRSt3NMb/Back-in-Barber-Its-Race-Week.jpg",
+          "url": "https://bysetayico.com/d/9krza29fhnn7",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true"
         }
