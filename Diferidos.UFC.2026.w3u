@@ -8,6 +8,96 @@
 "groups":
     [
         {
+         "name": "UFC 328: Chimaev vs Strickland",
+         "image": "https://i.postimg.cc/yx0CKtbh/Chimaev-vs-Strickland.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 328: Chimaev vs Strickland",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/yx0CKtbh/Chimaev-vs-Strickland.png",
+                "url":"https://bysetayico.com/d/u3gbitj2eg6n",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Della Maddalena vs Prates",
+         "image": "https://i.postimg.cc/nVX8pjDW/Della-vs-Prates.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Della Maddalena vs Prates",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/nVX8pjDW/Della-vs-Prates.png",
+                "url":"https://bysetayico.com/d/xihwlvonty5e",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Sterling vs Zalal",
+         "image": "https://i.postimg.cc/FHW1dkTY/Sterling-vs-Zalal.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Sterling vs Zalal",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/FHW1dkTY/Sterling-vs-Zalal.png",
+                "url":"https://bysetayico.com/d/kwheqjhv5u4c",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Burns vs Malott",
+         "image": "https://i.postimg.cc/SRzHrCGC/Burns-vs-Malott.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Burns vs Malott",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/SRzHrCGC/Burns-vs-Malott.png",
+                "url":"https://bysetayico.com/d/ql6cx4fk43rt",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 327: Procházka vs Ulberg",
+         "image": "https://i.postimg.cc/fRXTL0n5/Prochazka-vs-Ulberg.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 327: Procházka vs Ulberg",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/fRXTL0n5/Prochazka-vs-Ulberg.png",
+                "url":"https://bysetayico.com/d/c6nfozbqbbk4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "Fight Night: Moicano vs Duncan",
          "image": "https://i.postimg.cc/gkNPbXRJ/Moicano-vs-Duncann.png",
          "imageScale": "",
