@@ -1,74 +1,170 @@
 {
-"name": "Citadel",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Citadel.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "",
-"groups":
-    [
+  "name": "Citadel",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Citadel.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+      "info": "",
+      "stations": 
+      [
         {
-        "name": "Temporada 01",
-        "info":"",
-        "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "01.- El enigma humano",
-                "info":"Castellano",
-                "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-                "url":"https://filemoon.sx/d/u6sdj1qxhy9u",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "02.- Los espías aparecen por la noche",
-                "info":"Castellano",
-                "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-                "url":"https://filemoon.sx/d/wkc16lnr7xtw",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "03.- Sombras infinitas",
-                "info":"Castellano",
-                "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-                "url":"https://filemoon.sx/d/zi49k4pcbyxn",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "04.- Cuéntaselo todo",
-                "info":"Castellano",
-                "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-                "url":"https://filemoon.sx/d/12ey91jgy0iv",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "05.- El tiempo nos vuelve enemigos",
-                "info":"Castellano",
-                "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-                "url":"https://filemoon.sx/d/f6hzo45n47ic",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                },
-				{
-                "name": "06.- Los secretos nocturnos necesitan lluvias tempranas",
-                "info":"Castellano",
-                "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
-                "url":"https://filemoon.sx/d/mm6wtmp32ft2",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost": "true",
-                "online":"true"
-                }
-			]
+          "name": "Capitulo 1",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+          "url": "https://bysetayico.com/d/mcnj9fc05f6y",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+          "url": "https://bysetayico.com/d/o2tefnegvs9m",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+          "url": "https://bysetayico.com/d/w8481pzyw6uk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+          "url": "https://bysetayico.com/d/9j3ngoall3ix",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+          "url": "https://bysetayico.com/d/gk2no1hqr0eo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/Citadel_Serie_de_TV-151217541-large.jpg",
+          "url": "https://bysetayico.com/d/z7lw02tcl7gs",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
         }
-	]
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/5i8mp3k9ahg7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/lvnq1c86nlv2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/z0e9io1qiyj5",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/noh8yboekz00",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/bpvgh7qr5duh",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/zgied27ovst8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://i.postimg.cc/8PxpsfQs/Citadel-Temporada-2.jpg",
+          "url": "https://bysetayico.com/d/2826r3pii7yd",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
 }
