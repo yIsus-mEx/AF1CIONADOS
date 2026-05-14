@@ -8,6 +8,31 @@
   "groups": 
   [
     {
+      "name": "R06 IndyCar Grand Prix Sonsio",
+      "image": "https://i.postimg.cc/QCRDyvjh/Sonsio-Grand-Prix.jpg",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[Latino]",
+          "online": "true",
+          "image": "https://i.postimg.cc/QCRDyvjh/Sonsio-Grand-Prix.jpg",
+          "url": "https://bysetayico.com/d/ei3s507sgz9x",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[español]",
+          "online": "true",
+          "image": "https://i.postimg.cc/QCRDyvjh/Sonsio-Grand-Prix.jpg",
+          "url": "https://bysetayico.com/d/w3vjhv7qlmkk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
       "name": "R05 IndyCar Grand Prix Long Beach",
       "image": "https://i.postimg.cc/26Np4KBD/longbeach.webp",
       "stations": 
