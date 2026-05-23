@@ -8,6 +8,51 @@
   "groups": 
   [
     {
+      "name": "F1 2026 R05 Canada [Gilles Villeneuve] [22-44.May26]",
+      "info": "",
+      "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/eh6goq1kkfm6",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/yh7p1h7forwm",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/msugzb008kyg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/skwxefxdxkft",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2026 R03 Japon [Suzuka] [12-14.Mar26]",
       "info": "",
       "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
