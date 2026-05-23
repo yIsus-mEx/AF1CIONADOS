@@ -1,278 +1,365 @@
 {
-"name": "Narcos Mexico",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Narcos.Mexico.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://filemoon.sx/d/3xwst2a3m02c",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/fws4ymedoku9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/2m045o7dggcm",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[MultiAudio]",
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/k6vo4tz5sxya",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/ybj26e5xyod3",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/ahtapbt2fp4e",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/cgmrlbrugnas",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/vo9up49b0vma",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/8hdul74e8ufy",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"[MultiAudio]",  
-				"image":"https://m.media-amazon.com/images/I/81yPRhF7qUL._AC_UF894,1000_QL80_.jpg",
-				"url":"https://filemoon.sx/d/3vqj1d6bqyta",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 02",
- 		"image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
- 				"url":"https://filemoon.sx/d/ei2z61kka4m7",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[MultiAudio]",
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/xpt3lc4sts28",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[MultiAudio]",
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/wpa1y3fcahq1",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[MultiAudio]",
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/v3faxsvldwec",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[MultiAudio]",  
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/ye6wap4mllv9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[MultiAudio]",  
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/5v8pxalenepe",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[MultiAudio]",  
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/ufu94xlcjshs",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[MultiAudio]",  
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/mcz1zi4usow3",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"[MultiAudio]",  
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/c1eukih7dtfr",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"[MultiAudio]",  
-				"image":"https://images.justwatch.com/poster/168466041/s718/temporada-2.jpg",
-				"url":"https://filemoon.sx/d/pgy2fi4cf7r5",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 03",
- 		"image": "https://i.postimg.cc/g21kWsF4/season3.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[MultiAudio]",
- 				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
- 				"url":"https://filemoon.sx/d/v06vkd8mm0jy",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[MultiAudio]",
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/o30xiohoolxu",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[MultiAudio]",
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/rtuwxwwzjz8f",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[MultiAudio]",
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/0axos529bbmr",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[MultiAudio]",  
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/06r95qlajt6z",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[MultiAudio]",  
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/mko79yvdgsn2",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[MultiAudio]",  
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/bavd99k7u9yd",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[MultiAudio]",  
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/r7ho95s8bnms",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"[MultiAudio]",  
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/48ahhlndj2ap",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"[MultiAudio]",  
-				"image":"https://i.postimg.cc/vTvc8VLT/image.jpg",
-				"url":"https://filemoon.sx/d/qy11ze5vmj90",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "Narcos Mexico",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Narcos.Mexico.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/jpmlfyfueexq/narcos-mexico-s01e01-camelot",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/v9jldqidpz4t/narcos-mexico-s01e02-el-sistema-de-plazas",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/h8jiacf5qju6/narcos-mexico-s01e03-el-padrino",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/h6duc3r5k1vk/narcos-mexico-s01e04-rafa-rafa-rafa",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/cmylab5pe670/narcos-mexico-s01e05-la-conexión-colombiana",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/s8f01noq8vfq/narcos-mexico-s01e06-la-última-frontera",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/ulmqms0lg2rf/narcos-mexico-s01e07-jefe-de-jefes",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/dm3qxorws26f/narcos-mexico-s01e08-solo-di-que-no",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/rgij5vrbemcw/narcos-mexico-s01e09-lope-de-vega",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2018]",
+          "online": "true",
+          "image": "https://i.postimg.cc/1XBbLzY1/narcos-season1.png",
+          "url": "https://bysesayeveum.com/d/0fv5ol626k76/narcos-mexico-s01e10-leyenda",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/h1utsvly72yv/narcos-méxico-s02e01-salva-al-tigre",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/1ny2coapvz6q/narcos-méxico-s02e02-alea-iacta-est",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/z3e1c75889i8/narcos-méxico-s02e03-rubén-zuno-arce",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/t1pq617ibhoa/narcos-méxico-s02e04-los-túneles",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/8mlelr9mh2gy/narcos-méxico-s02e05-organización-de-arellano-félix",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/oa2ds1m4wzj2/narcos-méxico-s02e06-el-dedazo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/z27vwwalz5r9/narcos-méxico-s02e07-verdad-y-reconciliación",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/b1xyr0zmxc8g/narcos-méxico-s02e08-se-cayó-el-sistema",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/6l4zt3ormh7d/narcos-méxico-s02e09-crecimiento-prosperidad-y-liberación",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://i.postimg.cc/W4fmjQpC/narcos-season2.png",
+          "url": "https://bysesayeveum.com/d/zzj2ragrllx9/narcos-méxico-s02e10-libre-comercio",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 03",
+      "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/zrfwwev97m6i/narcos-méxico-s03e01-docepasos",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/0nug8c2diy9r/narcos-méxico-s03e02-como-la-flor",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/dsz4yz77xt00/narcos-méxico-s03e03-los-juniors",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/3y9ypyh55vqu/narcos-méxico-s03e04-guadalajara",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/tt9cybjfwyu0/narcos-méxico-s03e05-agente-en-terreno",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/c9gxstcog9fi/narcos-méxico-s03e06-la-jefa",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/7ecfz7j4hty6/narcos-méxico-s03e07-la-voz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/3cpgpvwamcg4/narcos-méxico-s03e08-el-último-danzón",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/0uy42i9yx2it/narcos-méxico-s03e09-rendición-de-cuentas",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://i.postimg.cc/g21kWsF4/season3.png",
+          "url": "https://bysesayeveum.com/d/x7x1ouxi5x6p/narcos-méxico-s03e10-la-vida-en-tiempos-de-guerra",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
 }
