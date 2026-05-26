@@ -1,245 +1,225 @@
 {
-"name": "The Ark",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.The.Ark.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://i.postimg.cc/DwYgMHCq/The-Ark.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
- 				"url":"https://filemoon.sx/d/cprsew1y5dbc",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"",
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/iyv41we1vzgz",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"",
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/od4y2mq9tkme",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"",
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/lgq3vtpfwpqg",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/n80an5l8f3mm",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/2avw3d7bhi28",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/0hr2nd5t5iyn",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/2rkrzfuy8jyo",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/b6smf4f174k9",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/ibxicedluzuz",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 11",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/z2syvtiz9a9m",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 12",
-				"info":"",  
-				"image":"https://images.static-bluray.com/movies/uvcovers/58150_front.jpg",
-				"url":"https://filemoon.sx/d/uwppoyyzl76n",
-                		"userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 02",
- 		"image": "https://i.postimg.cc/qvXwxwST/The-Ark2.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[Español]",
- 				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
- 				"url":"https://filemoon.sx/d/mqswqfp8xo1x",
-                "userAgent":"PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://filemoon.sx/d/59jkofmazlmt",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://filemoon.sx/d/4peqdaoj6czz",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://filemoon.sx/d/mq7v6147iafm",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"[Español]",
- 				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
- 				"url":"https://filemoon.sx/d/rr0nrjjl44tm/Ark_2x05_1080p_Castellian.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://filemoon.sx/d/1osyq0976urr/Ark_2x06_1080p_Castellian.mp4",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[Vose.Sub]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://susanhavekeep.com/hzz46xp8zzg2",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[Vose.Sub]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://susanhavekeep.com/mf19rremoc2s",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 09",
-				"info":"[Vose.Sub]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://susanhavekeep.com/lia3krcjfmcq",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 10",
-				"info":"[Vose.Sub]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://susanhavekeep.com/bzdoodr8onkn",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 11",
-				"info":"[Vose.Sub]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://susanhavekeep.com/qjkunxddhd0b",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 12",
-				"info":"[Vose.Sub]",
-				"image":"https://i.postimg.cc/QdWbvSvw/thearks2-syfywire-large-gfx-premiere-v2.jpg",
-				"url":"https://zacharycollectionmight.com/bxihlb8obr84",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "The Ark",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.The.Ark.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/uzgt7jj3oqk6/1x01-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/r8feanq926px/1x02-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/h6pe45h5qk9c/1x03-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/5cgd8hzklyhm/1x04-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/x18q4zzeyw2e/1x05-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/syigb3xrvn21/1x06-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/80bks4t6x2jp/1x07-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/8vzo9bqjzx4i/1x08-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/c4dx1zm1eb1j/1x09-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/dawtpa3ae0ct/1x10-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/vs3qfnry7mo8/1x11-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://image.tmdb.org/t/p/w500/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
+          "url": "https://bysesayeveum.com/d/oi4hi4pefek0/1x12-the-ark-x265",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+          "url": "https://bysesayeveum.com/d/86fhy6kjdset/the-ark-2x01",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+          "url": "https://bysesayeveum.com/d/b9b663zix9v9/the-ark-2x02",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+          "url": "https://bysesayeveum.com/d/l0qkiqym3qk3/the-ark-2x03",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+          "url": "https://bysesayeveum.com/d/n92ke525ufkn/the-ark-2x04",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+          "url": "https://bysesayeveum.com/d/zsqdxwng5i76/the-ark-2x05",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/318995783/s718/temporada-2.jpg",
+          "url": "https://bysesayeveum.com/d/qofscqzzz8wt/the-ark-2x06",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
 }

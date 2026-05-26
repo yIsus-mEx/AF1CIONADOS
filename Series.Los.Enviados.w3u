@@ -1,173 +1,203 @@
 {
-"name": "Los Enviados",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"url": "https://af1c1onados.vercel.app/Series.Los.Enviados.w3u",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups": 
-	[
-    	{
-      	"name": "TEMPORADA 1",
-      	"info": "2021",
-      	"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-      	"stations": 
-			[
-        		{
-          		"name": "T1 E1 - Caminen con los ojos bien abiertos",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/gfd5fb8zu0tg/Los_Enviados_S01E01.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-          		"isHost": "true",
-          		"online": "true"
-        		},
-        		{
-          		"name": "T1 E2 - El diablo apoyó la cola",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/6g0li9rs3m24/Los_Enviados_S01E02.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T1 E3 - Juventud de Cristo",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/fts4t4jok9up/Los_Enviados_S01E03.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T1 E4 - No grites",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/se3q4u90wet0/Los_Enviados_S01E04.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T1 E5 - Descenso al infierno",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/inqhxgnawp29/Los_Enviados_S01E05.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T1 E6 - El viaje de Salinas",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/cgmm5fgmhs99/Los_Enviados_S01E06.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T1 E7 - Mi nombre es Legión",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/dep398nqslqt/Los_Enviados_S01E07.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T1 E8 - Líbranos del mal",
-          		"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
-          		"url": "https://filemoon.sx/d/i17dv2u1i0q6/Los_Enviados_S01E08.mkv",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2021",
-				"isHost": "true",
-          		"online": "true"
-				}
-      		]
-    	},
-    	{
-      	"name": "TEMPORADA 2",
-      	"info": "2023",
-      	"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-      	"stations": 
-			[
-        		{
-          		"name": "T2 E1 - El oráculo de Porto da Lua",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/armlgibdap8v",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E2 - Las llaves del reino",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/5eu1zwpx800l",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-          		"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E3 - Los corderos del Señor",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/8htt5twg8m2i",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E4 - Requiescat In Pace",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/bdfrnaoiffst",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E5 - Libres de pecado",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/d9xw8dxwgv26",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E6 - El lago de fuego",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/2sqqvgn72gk6",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E7 - Hestia",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/3ruq9930oyky",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				},
-        		{
-          		"name": "T2 E8 - La luz en las tinieblas",
-          		"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
-          		"url": "https://filemoon.sx/d/v21ind9o8c9b",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-          		"info": "2023",
-				"isHost": "true",
-          		"online": "true"
-				}
-      		]
-    	}
-  	]
+  "name": "Los enviados",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Los.enviados.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/8ms1bjic5m29/los-enviados-t1-c01",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/swh3tylkajvv/los-enviados-t1-c02",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/eeb3javercj8/los-enviados-t1-c03",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/iq3436ozgoys/los-enviados-t1-c04",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/mc5ktnfy9ile/los-enviados-t1-c05",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/y43ymyidg349/los-enviados-t1-c06",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/tfr6zoy18nrb/los-enviados-t1-c07",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2021]",
+          "online": "true",
+          "image": "https://es.web.img3.acsta.net/pictures/23/03/13/14/26/4072349.jpg",
+          "url": "https://bysesayeveum.com/d/svkh8mlyco9x/los-enviados-t1-c08",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/r9qibrrzl5sq/los-enviados-t2-c01",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/9bck5xxulw9x/los-enviados-t2-c02",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/tmmjczqzo8fb/los-enviados-t2-c03",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/lows7ynp89nl/los-enviados-t2-c04",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/h5a9j4olzuh1/los-enviados-t2-c05",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/7bo2yiy2v8cg/los-enviados-t2-c06",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/o6mnbqpgq50d/los-enviados-t2-c07",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2023]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+          "url": "https://bysesayeveum.com/d/uj3yq96w5u8s/los-enviados-t2-c08",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
 }
-
-
