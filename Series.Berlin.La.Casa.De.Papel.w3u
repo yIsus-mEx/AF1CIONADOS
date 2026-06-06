@@ -22,7 +22,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -34,7 +34,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -46,7 +46,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -58,7 +58,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -70,7 +70,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -82,7 +82,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -94,7 +94,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -106,7 +106,7 @@
 "info": "[Español][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -127,8 +127,11 @@
  				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
  				"url":"https://bysetayico.com/d/45tbvvjc0rke/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e01-la-colecci%C3%B3n",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
- 				"isHost":"true",
- 				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 02",
@@ -136,8 +139,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/qmn3nqmrffq9/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e02-un-canto-a-la-vida",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 03",
@@ -145,8 +151,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/7zte6loex5n0/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e03-el-s%C3%ADndrome-de-stendhal",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 04",
@@ -154,8 +163,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/pq3sgeo9xqxi/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e04-naranjas-de-la-china",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 05",
@@ -163,8 +175,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/ufm9j0h70tym/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e05-demolition-boys",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 06",
@@ -172,8 +187,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/oylcxs18nofo/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e06-pomelo-loves-mandarina",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 07",
@@ -181,8 +199,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/wrlhe515ygdh/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e07-la-noche-de-las-dos-cobras",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				},
 				{
 				"name": "Episodio 08",
@@ -190,8 +211,11 @@
 				"image":"https://pics.filmaffinity.com/La_casa_de_papel_Berlain_Serie_de_TV-308018879-large.jpg",
 				"url":"https://bysetayico.com/d/6469qgxh8gk8/berl%C3%ADn-y-la-dama-del-armi%C3%B1o-s01e08-la-felicidad-es-del-que-ama",
 				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"isHost":"true",
-				"online":"true"
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
 				}
 			]
 		}
