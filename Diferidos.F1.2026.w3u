@@ -29,15 +29,14 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/yh7p1h7forwm",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "",
-          "embed": "true",
+          "isHost": "true",
           "online": "true"
         },
         {
           "name": "Qualy Sprint",
           "info": "[ESPN]",
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
-          "url": "https://bysetayico.com/d/msugzb008kyg",
+          "url": "https://bysetayico.com/e/msugzb008kyg",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -46,7 +45,61 @@
           "name": "Qualy Sprint",
           "info": "[DAZNF1]",
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
-          "url": "https://bysetayico.com/d/skwxefxdxkft",
+          "url": "https://bysetayico.com/e/skwxefxdxkft",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/9gndmoaqujbl",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/fxxipbcsk7gs",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/ruuw896o6vr3",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/2pb6pw5xhbe1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/wv89g5koqnwb",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/gqi5vd4o9s6m",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
