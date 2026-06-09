@@ -1,92 +1,99 @@
 {
-"name": "Cuando Nadie Nos Ve",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Cuando.Nadie.Nos.Ve.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "",
-"info": "",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"[Español]",
- 				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
- 				"url":"https://nathanfromsubject.com/hnpxywhsccdi",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://nathanfromsubject.com/5elw0tuvah3i",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://nathanfromsubject.com/ioat28ivte95",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://nathanfromsubject.com/uuscpwvvaqi5",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://nathanfromsubject.com/z7doejiaeh4p",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://richardsignfish.com/4ok7b5z7vrwd",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://richardsignfish.com/xj1cj72utzne",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"[Español]",
-				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
-				"url":"https://sarahnewspaperbeat.com/twxekedgpz10",
-          		"userAgent": "PlusMediaPlayer/0.0.9",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "Cuando Nadie Nos Ve",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Cuando.Nadie.Nos.Ve.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "stations": 
+  [
+    {
+      "name": "Capitulo 1",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/gi7rfonmq7n1/cuando-nadie-nos-ve-1x01-2025-domingo-de-ramos",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 2",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/hx33tywmvyqz/cuando-nadie-nos-ve-1x02-lunes-santo",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 3",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/2d8rjwxrv2nt/cuando-nadie-nos-ve-1x03-martes-santo",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 4",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/gfluvocoq367/cuando-nadie-nos-ve-1x04-webrip1080p-x265",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 5",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/9e0r2o69dyoa/cuando-nadie-nos-ve-1x05-el-sargento-andrew-taylor",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 6",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/6uwnh1zxjgk7/cuando-nadie-nos-ve-1x06-jueves-santo",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 7",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/ivm1ii8n8b7d/cuando-nadie-nos-ve-1x7",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 8",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+      "url": "https://bysetayico.com/e/0zlunk7o4fw3/cuando-nadie-nos-ve-s01e08-viernes-santo-ii",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    }
+  ]
 }
