@@ -7,7 +7,80 @@
   "info": "",
   "groups": 
   [
-
+    {
+      "name": "México vs Sudáfrica",
+      "image": "https://imagenes.eleconomista.com.mx/files/webp_768_768/uploads/2026/06/10/6a29b9a037d56.png",
+      "stations": 
+      [
+        {
+          "name": "México vs Sudáfrica",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
+        },
+        {
+        "name": "México vs Sudáfrica",
+        "info":"[TUDN]",
+        "online":"true",
+        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
+        "isHost":"true"
+        },
+        {
+        "name": "México vs Sudáfrica",
+        "info":"[Disney]",
+        "online":"true",
+        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://streamtpday1.xyz/global1.php?stream=dsports",
+        "isHost":"true"
+        },
+        {
+        "name": "México vs Sudáfrica",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "isHost":"true"
+        },
+        {
+        "name": "México vs Sudáfrica",
+        "info":"[Caracol]",
+        "online":"true",
+        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "isHost":"true"
+        },        
+        {
+        "name": "México vs Sudáfrica",
+        "info":"[LA 1]",
+        "online":"true",
+        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
+        "isHost":"true"
+        },
+        {
+        "name": "México vs Sudáfrica",
+        "info":"[Disney]",
+        "online":"true",
+        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "",
+        "url": "https://streamtpday1.xyz/global1.php?stream=disney1",
+        "isHost":"true"
+        }
+      ]
+    },
     {
       "name": "Formula 1: ",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
