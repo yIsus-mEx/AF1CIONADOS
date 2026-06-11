@@ -27,15 +27,16 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
         "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "México vs Sudáfrica",
-        "info":"[Disney]",
+        "info":"[DSport]",
         "online":"true",
         "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
+        "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global1.php?stream=dsports",
         "isHost":"true"
         },
@@ -47,7 +48,8 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "México vs Sudáfrica",
@@ -57,7 +59,8 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
         "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },        
         {
         "name": "México vs Sudáfrica",
@@ -67,7 +70,8 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "",
         "url": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "México vs Sudáfrica",
@@ -75,7 +79,7 @@
         "online":"true",
         "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
+        "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global1.php?stream=disney1",
         "isHost":"true"
         }
