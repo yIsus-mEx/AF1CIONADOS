@@ -45,6 +45,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "embed": "true",
         "isHost":"true"
         },
         {
@@ -109,6 +110,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "embed": "true",
         "isHost":"true"
         },
         {
@@ -250,7 +252,8 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "Haití vs Escocia",
@@ -336,7 +339,8 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "Australia vs Turquia",
