@@ -8,6 +8,60 @@
   "groups": 
   [
     {
+      "name": "24 Hrs Lemans",
+      "image": "https://boutique.lemans.org/10709-superlarge/2026-Collectors-Poster-24H-Le-Mans.jpg",
+      "stations": 
+      [
+        {
+        "name": "24 Hrs Lemans",
+        "info":"[acestream][Eurosport]",
+        "online": "true",
+        "image": "https://boutique.lemans.org/10709-superlarge/2026-Collectors-Poster-24H-Le-Mans.jpg",
+        "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9"
+        },
+        {
+        "name": "24 Hrs Lemans",
+        "info":"[acestream][Eurosport]",
+        "online": "true",
+        "image": "https://boutique.lemans.org/10709-superlarge/2026-Collectors-Poster-24H-Le-Mans.jpg",
+        "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
+        },
+        {
+        "name": "24 Hrs Lemans",
+        "info":"[Eurosport]",
+        "online":"true",
+        "image": "https://boutique.lemans.org/10709-superlarge/2026-Collectors-Poster-24H-Le-Mans.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://paco@shorturl.at/exESf",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "24 Hrs Lemans",
+        "info":"[Eurosport]",
+        "online":"true",
+        "image": "https://boutique.lemans.org/10709-superlarge/2026-Collectors-Poster-24H-Le-Mans.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://paco@shorturl.at/FHkbw",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "24 Hrs Lemans",
+        "info":"[Eurosport]",
+        "online":"true",
+        "image": "https://boutique.lemans.org/10709-superlarge/2026-Collectors-Poster-24H-Le-Mans.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://paco@shorturl.at/4IvBH",
+        "embed": "",
+        "isHost":"true"
+        }
+      ]
+    },
+    {
       "name": "Qatar vs Suiza",
       "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",
       "stations": 
