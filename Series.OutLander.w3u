@@ -1,884 +1,187 @@
 {
-"name": "OutLander",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.OutLander.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/zsi9mnem5xs2/1x01-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/nxl0tdd4v1z3/1x02-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/cx8xa9g6nlm8/1x03-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/8wq0zuog66q3/1x04-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/4h5iinnvaogk/1x05-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/lj5tbsfru7h7/1x06-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/8u6uvwd39lyq/1x07-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/mis51mqtgu7x/1x08-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/11ssn5u7yyj1/1x09-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/z3nw5wxgbtfa/1x10-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/jl93v6ayqumh/1x11-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/41f2kq861jdh/1x12-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 13",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/w7qcqqn3utgs/1x13-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 14",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/3z4a3l0r0eks/1x14-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 15",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/omsqotlxn2me/1x15-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 16",
- 				"info":"",
- 				"image":"https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
- 				"url":"https://bysetayico.com/d/qa3ug81ohdmj/1x16-outlander",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 02",
- 		"image": "https://i.postimg.cc/CLHnvgWY/out22.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/wa66g51xde2o",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/rh0wlur5wzhx",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/txujjhyeemfh",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/zr68ahtadx3d",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/nsnaua0rw2v8",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/99p5qby7ab6m",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/7mv08zq9ztp2",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/a9vh2nanycya",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/n5ael1zujiz6",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/s8hre6m7m4u6",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/yr4c92reqflh",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/5y4477knxhga",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 13",
- 				"info":"",
- 				"image":"https://i.postimg.cc/vBMpt59G/serie-outlander2.jpg",
- 				"url":"https://filemoon.sx/d/2qleagbpujr0",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 03",
- 		"image": "https://i.postimg.cc/5tVpQHsw/out3.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/7kfn0x6kvliv",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/9c6c7dgjvhik",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/tvllhplw5se4",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/flb42sx24lhm",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/sbsrlfqflo32",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/ispoor6fwlis",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/q95gdm69oaor",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/of3zqzw42ayl",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/yxfygxcccqbn",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/h8m2m5wg8kwt",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/m65x6og1jfdn",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/kmjt1a0sjb6d",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 13",
- 				"info":"",
- 				"image":"https://www.allesoverseries.nl/wp-content/uploads/2017/12/Outlander.jpg",
- 				"url":"https://filemoon.sx/d/j6hwapa44w47",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 04",
- 		"image": "https://i.postimg.cc/HnCLYRzv/out4.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/tmy5sjgw2yht",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/3wh4acymz9jg",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/a63sj9drx30c",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/sf1u4t1dt1q7",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/qjgpk5b9btrk",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/qxchn2dy0hdo",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/mx0vpbxnnjcm",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/vadss2rd0186",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/11uincjg7mlv",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/i6zj8rler2zb",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/564xyw7ptrrx",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/kpapj6411zwb",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 13",
- 				"info":"",
- 				"image":"https://i.postimg.cc/YqRS7XW8/outlander-season-4-poster-key-art.webp",
- 				"url":"https://filemoon.sx/d/a86bz7ef3ruz",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 05",
- 		"image": "https://i.postimg.cc/j2LrrX03/out5.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/k9q563mbxfeh",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/rtcalqdd4guu",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/ge1jtskj7shy",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/pzeb3ap2ipqj",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/avzz8oylcx84",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/twzqgevlvm90",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/vca7wbbi8dbf",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/2imvyr8o486o",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/9f9hwy2v82g8",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/z701eqr8u6bg",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webpp",
- 				"url":"https://filemoon.sx/d/75tzrq18yvxu",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"",
- 				"image":"https://i.postimg.cc/02wLdr8S/out55.webp",
- 				"url":"https://filemoon.sx/d/h8qkuf6jk55a",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 06",
- 		"image": "https://i.postimg.cc/YCzG01sq/out6.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/bjer89m6r6kc",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/aid93ta9wntp",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/ukx27x7k2hpi",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/akrouxyu2wv0",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/ukw8dqg5w5o6",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/muwqevrit363",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/ogw66lfhj9cg",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://i.postimg.cc/y6jFpCP8/out66.webp",
- 				"url":"https://filemoon.sx/d/lcpdbot1b53z",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 07",
- 		"image": "https://i.postimg.cc/QNYRLwNj/out7.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/5uyysoot37ci",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/pyikoaeol2bj",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/gbnqqzcpyvb5",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/l14okm0s4rlr",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/1xeuau9isuwm",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/g69wm99xj6r2",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/wf1lkhvniw82",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://filemoon.sx/d/v1feerei2rsk",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 09",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/3Q0lxBb7y2Lxj1J",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 10",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/27BaOnaNnvjEMDX",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 11",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/JzkPxzzNrwaxbyd",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 12",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/8ozgEND7jXZ5mjA",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 13",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/dNjgOlPYmKKO9Wn",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 14",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/wP20501LmQaxdmy",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 15",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/305389823/s718/temporada-7.jpg",
- 				"url":"https://listeamed.net/v/dNjgOlPYnPkO9Wn",
-				"userAgent": "PlusMediaPlayer/0.0.9",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "OutLander",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.OutLander.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "stations": 
+  [
+    {
+      "name": "Capitulo 1",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/zsi9mnem5xs2/1x01-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 2",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/nxl0tdd4v1z3/1x02-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 3",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/cx8xa9g6nlm8/1x03-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 4",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/8wq0zuog66q3/1x04-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 5",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/4h5iinnvaogk/1x05-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 6",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/lj5tbsfru7h7/1x06-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 7",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/8u6uvwd39lyq/1x07-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 8",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/mis51mqtgu7x/1x08-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 9",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/11ssn5u7yyj1/1x09-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 10",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/z3nw5wxgbtfa/1x10-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 11",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/jl93v6ayqumh/1x11-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 12",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/41f2kq861jdh/1x12-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 13",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/w7qcqqn3utgs/1x13-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 14",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/3z4a3l0r0eks/1x14-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 15",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/omsqotlxn2me/1x15-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 16",
+      "info": "[Español][2014]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+      "url": "https://bysetayico.com/e/qa3ug81ohdmj/1x16-outlander",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    }
+  ]
 }
