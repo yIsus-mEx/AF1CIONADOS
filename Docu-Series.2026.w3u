@@ -1,0 +1,61 @@
+{
+  "name": "Docu-Series",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Docu-Series.2026.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Nadal",
+      "image": "https://pbs.twimg.com/media/HHEmh_9XYAAnIs-.jpg",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+	    [
+        {
+          "name": "Sin Mañana",
+          "info": "[2026][Español]",
+          "image": "https://pbs.twimg.com/media/HHEmh_9XYAAnIs-.jpg",
+          "url": "https://bysejikuar.com/e/6ft2rxhh66t5/rafa-s01e01",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "Una Bola Mas",
+          "info": "[2026][Español]",
+          "image": "https://pbs.twimg.com/media/HHEmh_9XYAAnIs-.jpg",
+          "url": "https://bysejikuar.com/e/do6ixcre4p7h/rafa-s01e02",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "El Cazador Cazado",
+          "info": "[2026][Español]",
+          "image": "https://pbs.twimg.com/media/HHEmh_9XYAAnIs-.jpg",
+          "url": "https://bysejikuar.com/e/eiqxyu0mbkb2/rafa-s01e03",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "Sin Miedo",
+          "info": "[2026][Español]",
+          "image": "https://pbs.twimg.com/media/HHEmh_9XYAAnIs-.jpg",
+          "url": "https://bysejikuar.com/e/qhanbh5oymnu/rafa-s01e04",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        }
+      ]
+    }
+  ]
+}
+        
