@@ -8,86 +8,389 @@
   "groups": 
   [
     {
-      "name": "México vs Sudáfrica",
-      "image": "https://imagenes.eleconomista.com.mx/files/webp_768_768/uploads/2026/06/10/6a29b9a037d56.png",
+      "name": "Qatar vs Suiza",
+      "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",
       "stations": 
       [
         {
-          "name": "México vs Sudáfrica",
+          "name": "Qatar vs Suiza",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",
           "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
         },
         {
-          "name": "México vs Sudáfrica",
+          "name": "Qatar vs Suiza",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
         },
         {
-        "name": "México vs Sudáfrica",
-        "info":"[TUDN]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "México vs Sudáfrica",
+        "name": "Qatar vs Suiza",
         "info":"[DSport]",
         "online":"true",
-        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global1.php?stream=dsports",
+        "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "embed": "",
         "isHost":"true"
         },
         {
-        "name": "México vs Sudáfrica",
+        "name": "Qatar vs Suiza",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "isHost":"true"
+        },
+        {
+        "name": "Qatar vs Suiza",
         "info":"[Telemundo]",
         "online":"true",
-        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
+        "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
         "embed": "true",
         "isHost":""
         },
         {
-        "name": "México vs Sudáfrica",
-        "info":"[Caracol]",
+        "name": "Qatar vs Suiza",
+        "info":"[Telemundo]",
         "online":"true",
-        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
-        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
-        "embed": "true",
-        "isHost":""
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
+        "isHost":"true"
         },        
         {
-        "name": "México vs Sudáfrica",
-        "info":"[LA 1]",
+        "name": "Qatar vs Suiza",
+        "info":"[Win]",
         "online":"true",
-        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=winsports",
+        "embed": "",
+        "isHost":"true"
+        }
+      ]
+    },
+    {
+      "name": "Brasil vs Marruecos",
+      "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",
+      "stations": 
+      [
+        {
+          "name": "Brasil vs Marruecos",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+        },
+        {
+          "name": "Brasil vs Marruecos",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "isHost":"true"
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[TUDN]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[TUDN]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=tudnmx",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[Tv LA1]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
         "embed": "true",
         "isHost":""
         },
         {
-        "name": "México vs Sudáfrica",
-        "info":"[Disney]",
+        "name": "Brasil vs Marruecos",
+        "info":"[Tv LA1]",
         "online":"true",
-        "image": "https://i.ytimg.com/vi/U5KnFdJgqJ8/hq720.jpg?v=6a21dbe8&sqp=CNSeqtEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIjNIUS7NF7n9gfm4Dm2l3vgwF-A",        
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global1.php?stream=disney1",
+        "url": "https://streamtpday1.xyz/global2.php?stream=tvla1es",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[Caracol Tv]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[Caracol Tv]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Brasil vs Marruecos",
+        "info":"[Disney]",
+        "online":"true",
+        "image": "https://assets.ejecentral.com.mx/dims4/default/716e28b/2147483647/strip/true/crop/2560x1580+0+0/resize/1440x889!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F8d%2F81%2Fac6a525842d6b53a547e0eb959bf%2F4-portada-brasil-vs-marruecos.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=disney1",
+        "embed": "",
+        "isHost":"true"
+        }
+      ]
+    },
+    {
+      "name": "Haití vs Escocia",
+      "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",
+      "stations": 
+      [
+        {
+          "name": "Haití vs Escocia",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+        },
+        {
+          "name": "Haití vs Escocia",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+        },
+        {
+        "name": "Haití vs Escocia",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "isHost":"true"
+        },
+        {
+        "name": "Haití vs Escocia",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Haití vs Escocia",
+        "info":"[TyC]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/541tyc.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Haití vs Escocia",
+        "info":"[TyC]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=tycsports",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "Haití vs Escocia",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Haití vs Escocia",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c2aabd3a1d14a7f052799.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
+        "isHost":"true"
+        }
+      ]
+    },
+    {
+      "name": "Australia vs Turquia",
+      "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",
+      "stations": 
+      [
+        {
+          "name": "Australia vs Turquia",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+        },
+        {
+          "name": "Australia vs Turquia",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+        },
+        {
+        "name": "Australia vs Turquia",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "isHost":"true"
+        },
+        {
+        "name": "Australia vs Turquia",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Australia vs Turquia",
+        "info":"[TyC]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/541tyc.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Australia vs Turquia",
+        "info":"[TyC]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=tycsports",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "Australia vs Turquia",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Australia vs Turquia",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c3d888f58e6baee03aa87.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
         "isHost":"true"
         }
       ]
