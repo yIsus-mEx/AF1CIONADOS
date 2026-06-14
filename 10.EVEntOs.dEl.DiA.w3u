@@ -155,7 +155,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "embed": "true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "Costa de Marfil vs Ecuador",
@@ -168,28 +168,6 @@
         "embed": "",
         "isHost":"true"
         },
-        {
-        "name": "Costa de Marfil vs Ecuador",
-        "info":"[TUDN]",
-        "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "Costa de Marfil vs Ecuador",
-        "info":"[TUDN]",
-        "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=tudnmx",
-        "embed": "",
-        "isHost":"true"
-        },    
         {
         "name": "Costa de Marfil vs Ecuador",
         "info":"[Telemundo]",
@@ -214,56 +192,12 @@
         },
         {
         "name": "Costa de Marfil vs Ecuador",
-        "info":"[Tv LA1]",
+        "info":"[Win+]",
         "online":"true",
         "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "Costa de Marfil vs Ecuador",
-        "info":"[Tv LA1]",
-        "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=tvla1es",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Costa de Marfil vs Ecuador",
-        "info":"[Caracol Tv]",
-        "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
-        "embed": "true",
-        "isHost":""
-        },
-        {
-        "name": "Costa de Marfil vs Ecuador",
-        "info":"[Caracol Tv]",
-        "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Costa de Marfil vs Ecuador",
-        "info":"[Disney]",
-        "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=disney1",
+        "url": "https://streamtpday1.xyz/global2.php?stream=winsports",
         "embed": "",
         "isHost":"true"
         }
@@ -351,6 +285,57 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
+        "isHost":"true"
+        }
+      ]
+    },
+    {
+      "name": "UFC: Ilia Topuria vs Justin Gaethje",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",
+      "stations": 
+        [
+        {
+        "name": "UFC: Ilia Topuria vs Justin Gaethje",
+        "info":"[Paramount+]",
+        "online":"true",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/ufc/canal1.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "UFC: Ilia Topuria vs Justin Gaethje",
+        "info":"[Paramount+]",
+        "online":"true",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=paramount1",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "UFC: Ilia Topuria vs Justin Gaethje",
+        "info":"[Paramount+][Ingles]",
+        "online":"true",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/ufc/canal2.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "UFC: Ilia Topuria vs Justin Gaethje",
+        "info":"[Paramount+][Ingles]",
+        "online":"true",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=paramount1",
         "embed": "",
         "isHost":"true"
         }
