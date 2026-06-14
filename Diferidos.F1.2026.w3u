@@ -8,6 +8,224 @@
   "groups": 
   [
     {
+      "name": "F1 2026 R07 España [Barcelona] [12-14.Jun26]",
+      "info": "",
+      "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/cm5kvynxrq76",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/qnjajglptyex",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/8i3d8ghegm7h",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/j4eujw2le7n2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/o3ngnwcns5w4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/n79zhis5iqxk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/e/ia4wf61gl9mj",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "https://bysetayico.com/d/j5652pf3xv9h",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": ""
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": ""
+        }
+      ]
+    },
+    {
+      "name": "F1 2026 R06 Monaco [Montecarlo] [05-07.Jun26]",
+      "info": "",
+      "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/ajou385xrozz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/tolmeuipgrcm",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/1nh7nu2h86yu",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/s38ewjl2auri",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/wf140dk5bnnc",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/9yu8nnzykfzz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/8dhtd95yk0yp",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/9cngqrdb74an",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/4gqnhzb0fypn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": ""
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/KzFZfyt5/1-Mc-Laren-Monaco-GP.webp",
+          "url": "https://bysetayico.com/e/3kqzfvjpdxbv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": ""
+        }
+      ]
+    },
+    {
       "name": "F1 2026 R05 Canada [Gilles Villeneuve] [22-44.May26]",
       "info": "",
       "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
@@ -20,7 +238,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/eh6goq1kkfm6",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -29,7 +248,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/yh7p1h7forwm",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -38,7 +258,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/msugzb008kyg",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -47,7 +268,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/skwxefxdxkft",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -56,7 +278,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/9gndmoaqujbl",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -65,7 +288,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/fxxipbcsk7gs",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -74,7 +298,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/ruuw896o6vr3",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -83,7 +308,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/2pb6pw5xhbe1",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -92,7 +318,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/wv89g5koqnwb",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -101,7 +328,8 @@
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/gqi5vd4o9s6m",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         }
       ]
@@ -119,7 +347,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/qifq6sz1opwn",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -128,7 +357,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/3gp7y4hycjzt",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -137,7 +367,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/1lokuq6noo8u",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -146,7 +377,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/k5uuh61hrmwa",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -155,7 +387,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/n18nw1r7x6um",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -164,7 +397,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/aniqw492zu73",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -173,7 +407,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/7ta6ajd81sht",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -182,7 +417,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/2rac80hj305q",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -191,7 +427,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/pf41yswphhpj",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -200,7 +437,8 @@
           "image": "https://i.postimg.cc/GmpQyYQt/Ferrari-Japan-GP.webp",
           "url": "https://bysetayico.com/e/ui8skap5zrwr",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         }
       ]
@@ -218,7 +456,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/5gqiukkvcik7",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -227,7 +466,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/rni4ns2ege9h",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -236,7 +476,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/emvvveu47c2m",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -245,7 +486,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/q85onux7a3uo",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -254,7 +496,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/cgi6q3rqhoyj",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -263,7 +506,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/c4ayeuwid1ec",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -272,7 +516,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/tcaq5n0yctdw",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -281,7 +526,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/vjcvo9d8xvs7",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -290,7 +536,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/4k6nouldwott",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -299,7 +546,8 @@
           "image": "https://i.postimg.cc/9FNnB3t3/Mc-Laren-Chinese-GP-poster.webp",
           "url": "https://bysetayico.com/d/nwns0kcxfw5j",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         }
       ]
@@ -317,7 +565,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/UPhb8nRo",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -326,7 +575,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/zsh4ahdA",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -335,7 +585,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/4UBJvqH4",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -344,7 +595,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/hoYe7R51",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -353,7 +605,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/s2LHYymj",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -362,7 +615,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/eHeaCZ8j",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -371,7 +625,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/6WVNHUgS",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -380,7 +635,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/aGvxQtZz",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -389,7 +645,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/BBsoZhzf",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         },
         {
@@ -398,7 +655,8 @@
           "image": "https://i.postimg.cc/P5VjFLwt/1-Ferrari-Aus-GP-poste.webp",
           "url": "https://pixeldrain.com/u/MNUhv1Ei",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
+          "embed": "true",
           "online": "true"
         }
       ]
