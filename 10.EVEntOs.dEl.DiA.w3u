@@ -42,7 +42,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/dsports2.html",
         "embed": "true",
-        "isHost":""
+        "isHost":"true"
         },
         {
         "name": "Holanda vs Japón",
@@ -64,7 +64,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
         "embed": "true",
-        "isHost":""
+        "isHost":"true"
         },
          {
         "name": "Holanda vs Japón",
@@ -86,7 +86,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "Holanda vs Japón",
@@ -169,7 +169,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "Costa de Marfil vs Ecuador",
@@ -191,7 +191,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "Costa de Marfil vs Ecuador",
@@ -252,7 +252,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "Suecia vs Túnez",
@@ -274,7 +274,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/541tyc.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "Suecia vs Túnez",
@@ -296,7 +296,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "Suecia vs Túnez",
@@ -325,7 +325,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/ufc/canal1.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "UFC: Ilia Topuria vs Justin Gaethje",
@@ -347,7 +347,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/ufc/canal2.html",
         "embed": "true",
-        "isHost":""
+        true
         },
         {
         "name": "UFC: Ilia Topuria vs Justin Gaethje",
