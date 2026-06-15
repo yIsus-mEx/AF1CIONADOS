@@ -324,7 +324,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/ufc/player_espa1.php",
-        "embed": "true",
+        "embed": "",
         "isHost":"true"
         },
         {
@@ -347,7 +347,7 @@
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/tnt1.html",
         "embed": "true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "UFC: Ilia Topuria vs Justin Gaethje",
