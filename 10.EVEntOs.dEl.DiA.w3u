@@ -8,174 +8,47 @@
   "groups": 
   [
     {
-      "name": "Holanda vs Japón",
-      "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",
+      "name": "España vs Islas de Cabo Verde",
+      "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",
       "stations": 
       [
         {
-          "name": "Holanda vs Japón",
+          "name": "España vs Islas de Cabo Verde",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",
+          "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",
           "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
         },
         {
-          "name": "Holanda vs Japón",
+          "name": "España vs Islas de Cabo Verde",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",
+          "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
         },
         {
-          "name": "Holanda vs Japón",
+          "name": "España vs Islas de Cabo Verde",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",
+          "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",
           "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
         },
         {
-        "name": "Holanda vs Japón",
-        "info":"[DSport 2]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/dsports2.html",
-        "embed": "true",
-        "isHost":"true"
-        },
-        {
-        "name": "Holanda vs Japón",
-        "info":"[DSport 2]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=dsports2",
-        "embed": "",
-        "isHost":"true"
-        },
-         {
-        "name": "Holanda vs Japón",
-        "info":"[TUDN]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
-        "embed": "true",
-        "isHost":"true"
-        },
-         {
-        "name": "Holanda vs Japón",
-        "info":"[TUDN]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=tudnmx",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Holanda vs Japón",
-        "info":"[Telemundo]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
-        "embed": "true",
-        "isHost":"true"
-        },
-        {
-        "name": "Holanda vs Japón",
-        "info":"[Telemundo]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
-        "embed": "",
-        "isHost":"true"
-        },    
-        {
-        "name": "Holanda vs Japón",
-        "info":"[Caracol]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
-        "embed": "",
-        "isHost":"true"
-        },
-        {
-        "name": "Holanda vs Japón",
-        "info":"[Disney]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
-        "embed": "",
-        "isHost":"true"
-        },    
-        {
-        "name": "Holanda vs Japón",
-        "info":"[Disney]",
-        "online":"true",
-        "image": "https://i.ytimg.com/vi/fC99vuX47pc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhnWZVs6n0pyZ2khmJgpGzosVBtA",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=disney2",
-        "embed": "",
-        "isHost":"true"
-        }
-      ]
-    },
-    {
-      "name": "Costa de Marfil vs Ecuador",
-      "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",
-      "stations": 
-      [
-        {
-          "name": "Costa de Marfil vs Ecuador",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
-        },
-        {
-          "name": "Costa de Marfil vs Ecuador",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
-        },
-        {
-          "name": "Costa de Marfil vs Ecuador",
-          "info": "[acestream]",
-          "online": "true",
-          "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",
-          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
-        },
-        {
-        "name": "Costa de Marfil vs Ecuador",
+        "name": "España vs Islas de Cabo Verde",
         "info":"[DSport]",
         "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "embed": "true",
-        "isHost":"true"
+        "isHost":""
         },
         {
-        "name": "Costa de Marfil vs Ecuador",
+        "name": "España vs Islas de Cabo Verde",
         "info":"[DSport]",
         "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
@@ -183,10 +56,115 @@
         "isHost":"true"
         },
         {
-        "name": "Costa de Marfil vs Ecuador",
+        "name": "España vs Islas de Cabo Verde",
         "info":"[Telemundo]",
         "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "España vs Islas de Cabo Verde",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "España vs Islas de Cabo Verde",
+        "info":"[Caracol Tv]",
+        "online":"true",
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "España vs Islas de Cabo Verde",
+        "info":"[Caeacol Tv]",
+        "online":"true",
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "España vs Islas de Cabo Verde",
+        "info":"[La1]",
+        "online":"true",
+        "image": "https://depor.com/resizer/v2/AJOS237GERDOJILQTFC7NIWBQY.jpg?auth=30e04866c11f886d11cc6f35b57ceed229fb42428c9123e325333c62f967a531&width=1200&height=600&quality=90&smart=true",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
+        "embed": "true",
+        "isHost":""
+        }
+      ]
+    },
+    {
+      "name": "Bélgica vs Egipto",
+      "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",
+      "stations": 
+      [
+        {
+          "name": "Bélgica vs Egipto",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+        },
+        {
+          "name": "Bélgica vs Egipto",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+        },
+        {
+          "name": "Bélgica vs Egipto",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",
+          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
+        },
+        {
+        "name": "Bélgica vs Egipto",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "embed": "true",
+        "isHost":"true"
+        },
+        {
+        "name": "Bélgica vs Egipto",
+        "info":"[DSport]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Bélgica vs Egipto",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
@@ -194,10 +172,10 @@
         "isHost":"true"
         },
         {
-        "name": "Costa de Marfil vs Ecuador",
+        "name": "Bélgica vs Egipto",
         "info":"[Telemundo]",
         "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
@@ -205,10 +183,10 @@
         "isHost":"true"
         },
         {
-        "name": "Costa de Marfil vs Ecuador",
+        "name": "Bélgica vs Egipto",
         "info":"[Win+]",
         "online":"true",
-        "image": "https://deportesalinstante.news/wp-content/uploads/2026/06/costa-de-marfil-vs-ecuador-mundial-2026-lincoln-financial-field.webp",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f35688f58e6baee03aaff.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=winsports",
@@ -218,36 +196,36 @@
       ]
     },
     {
-      "name": "Suecia vs Túnez",
-      "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",
+      "name": "Arabia Saudita vs Uruguay",
+      "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",
       "stations": 
       [
         {
-          "name": "Suecia vs Túnez",
+          "name": "Arabia Saudita vs Uruguay",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",
+          "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",
           "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
         },
         {
-          "name": "Suecia vs Túnez",
+          "name": "Arabia Saudita vs Uruguay",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",
+          "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
         },
         {
-          "name": "Suecia vs Túnez",
+          "name": "Arabia Saudita vs Uruguay",
           "info": "[acestream]",
           "online": "true",
-          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",
+          "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",
         "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
         },
         {
-        "name": "Suecia vs Túnez",
+        "name": "Arabia Saudita vs Uruguay",
         "info":"[DSport]",
         "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",        
+        "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
@@ -255,10 +233,10 @@
         "isHost":"true"
         },
         {
-        "name": "Suecia vs Túnez",
+        "name": "Arabia Saudita vs Uruguay",
         "info":"[DSport]",
         "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",        
+        "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
@@ -266,10 +244,10 @@
         "isHost":"true"
         },
         {
-        "name": "Suecia vs Túnez",
+        "name": "Arabia Saudita vs Uruguay",
         "info":"[TyC]",
         "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",        
+        "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/541tyc.html",
@@ -277,10 +255,10 @@
         "isHost":"true"
         },
         {
-        "name": "Suecia vs Túnez",
+        "name": "Arabia Saudita vs Uruguay",
         "info":"[TyC]",
         "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",        
+        "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=tycsports",
@@ -288,10 +266,10 @@
         "isHost":"true"
         },    
         {
-        "name": "Suecia vs Túnez",
+        "name": "Arabia Saudita vs Uruguay",
         "info":"[Telemundo]",
         "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",        
+        "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
@@ -299,10 +277,10 @@
         "isHost":"true"
         },
         {
-        "name": "Suecia vs Túnez",
+        "name": "Arabia Saudita vs Uruguay",
         "info":"[Telemundo]",
         "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/13/6a2d786a8f58e6baee03aab1.webp",        
+        "image": "https://f.rpp-noticias.io/2026/06/14/arabia-saudita-vs-uruguay-evento_1878046.jpg?width=1020&quality=80",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
         "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
@@ -312,54 +290,107 @@
       ]
     },
     {
-      "name": "UFC: Ilia Topuria vs Justin Gaethje",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",
+      "name": "Irán vs Nueva Zelanda",
+      "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",
       "stations": 
-        [
+      [
         {
-        "name": "UFC: Ilia Topuria vs Justin GaethjE",
-        "info":"[Paramount+]",
-        "online":"true",
-        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://sudamericaplay2.com",
-        "origin": "https://sudamericaplay2.com",
-        "url": "https://sudamericaplay2.com/ufc/player_espa1.php",
-        "embed": "true",
-        "isHost":"true"
+          "name": "Irán vs Nueva Zelanda",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",
+          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
         },
         {
-        "name": "UFC: Ilia Topuria vs Justin Gaethje",
-        "info":"[Paramount+]",
-        "online":"true",
-        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=paramount1",
-        "embed": "",
-        "isHost":"true"
+          "name": "Irán vs Nueva Zelanda",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
         },
         {
-        "name": "UFC: Ilia Topuria vs Justin Gaethje",
-        "info":"[Paramount+][Ingles]",
+          "name": "Irán vs Nueva Zelanda",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+        },
+        {
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[DSport]",
         "online":"true",
-        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/tnt1.html",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "embed": "true",
         "isHost":""
         },
         {
-        "name": "UFC: Ilia Topuria vs Justin Gaethje",
-        "info":"[Paramount+][Ingles]",
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[DSport]",
         "online":"true",
-        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7I5WFUMFEJGSVJSK7NODGS7GIM.jpg",        
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
         "referer" : "https://streamtpday1.xyz/",
-        "url": "https://streamtpday1.xyz/global2.php?stream=paramount2",
+        "url": "https://streamtpday1.xyz/global2.php?stream=dsports",
         "embed": "",
         "isHost":"true"
+        },
+        {
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[Caracol Tv]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[Caeacol Tv]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
+        "embed": "",
+        "isHost":"true"
+        },    
+        {
+        "name": "Irán vs Nueva Zelanda",
+        "info":"[La1]",
+        "online":"true",
+        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/14/6a2f3e00d3a1d14a7f0527f9.webp",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
+        "embed": "true",
+        "isHost":""
         }
       ]
     },
