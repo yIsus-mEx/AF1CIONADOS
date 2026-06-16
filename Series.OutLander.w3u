@@ -5,183 +5,493 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "info": "Lista_AF1CIONADOS",
   "telegram": "Lista_AF1CIONADOS",
-  "stations": 
+  "groups": 
   [
     {
-      "name": "Capitulo 1",
-      "info": "[Español][2014]",
-      "online": "true",
+      "name": "Temporada 01",
       "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/zsi9mnem5xs2/1x01-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/zsi9mnem5xs2/1x01-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/nxl0tdd4v1z3/1x02-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/cx8xa9g6nlm8/1x03-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/8wq0zuog66q3/1x04-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/4h5iinnvaogk/1x05-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/lj5tbsfru7h7/1x06-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/8u6uvwd39lyq/1x07-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/mis51mqtgu7x/1x08-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/11ssn5u7yyj1/1x09-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/z3nw5wxgbtfa/1x10-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/jl93v6ayqumh/1x11-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/41f2kq861jdh/1x12-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/w7qcqqn3utgs/1x13-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 14",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/3z4a3l0r0eks/1x14-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 15",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/omsqotlxn2me/1x15-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 16",
+          "info": "[Español][2014]",
+          "online": "true",
+          "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
+          "url": "https://bysetayico.com/e/qa3ug81ohdmj/1x16-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        }
+      ]
     },
     {
-      "name": "Capitulo 2",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/nxl0tdd4v1z3/1x02-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
+      "name": "Temporada 02",
+      "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/badkk60dlq6j/2x01-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/sevzsckh8w04/2x02-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/8ivi897jpa0k/2x03-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/kzynxefoopxh/2x04-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/r3r0ws8l9c4m/2x05-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/ic6odwdup79s/2x06-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/b4g41ugnfi39/2x07-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/vukfkyldy8ar/2x08-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/8fy46trtm75s/2x09-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/9yhpk1oh4rsx/2x10-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/vfst3vk517p0/2x11-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/ilc2koh1o27h/2x12-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][2016]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/322679227/s718/temporada-2.jpg",
+          "url": "https://bysetayico.com/e/yp1kxfqdafb3/2x13-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        }
+      ]
     },
     {
-      "name": "Capitulo 3",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/cx8xa9g6nlm8/1x03-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 4",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/8wq0zuog66q3/1x04-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 5",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/4h5iinnvaogk/1x05-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 6",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/lj5tbsfru7h7/1x06-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 7",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/8u6uvwd39lyq/1x07-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 8",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/mis51mqtgu7x/1x08-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 9",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/11ssn5u7yyj1/1x09-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 10",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/z3nw5wxgbtfa/1x10-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 11",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/jl93v6ayqumh/1x11-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 12",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/41f2kq861jdh/1x12-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 13",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/w7qcqqn3utgs/1x13-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 14",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/3z4a3l0r0eks/1x14-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 15",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/omsqotlxn2me/1x15-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
-    },
-    {
-      "name": "Capitulo 16",
-      "info": "[Español][2014]",
-      "online": "true",
-      "image": "https://i.postimg.cc/Mp66kt5K/serie-outlander.jpg",
-      "url": "https://bysetayico.com/e/qa3ug81ohdmj/1x16-outlander",
-      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": ""
+      "name": "Temporada 03",
+      "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/v3sj3a3ph3jf/3x01-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/o1s0ivasxpoy/3x02-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/irys2prfmbce/3x03-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/axr184azxamh/3x04-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/cecqh02zkgo7/3x05-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/5io21zghwabb/3x06-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/1enljk4fnpii/3x07-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/mgtecxy5k5ri/3x08-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 9",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/xm7o6vut1yia/3x09-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 10",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/v3vr70qo5onn/3x10-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 11",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/voswbpeu0kht/3x11-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 12",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/9m3hg0mdym4b/3x12-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 13",
+          "info": "[Español][2017]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/91ewsHLdQVL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://bysetayico.com/d/i1s92r4bwnti/3x13-outlander",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        }
+      ]
     }
   ]
 }
