@@ -319,13 +319,15 @@
           "url": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
           "embed": "",
           "isHost": "true"
-        },
-        {
-          "name": "Uzbekistán vs Colombia",
-          "image": "https://holamusica.com/wp-content/uploads/2026/06/Uzbekistan-%F0%9F%87%BA%F0%9F%87%BF-vs-Colombia-%F0%9F%87%A8%F0%9F%87%B4.jpg",
-          "stations": 
-          [
-            {
+        }
+      ]
+    },
+    {
+      "name": "Uzbekistán vs Colombia",
+      "image": "https://holamusica.com/wp-content/uploads/2026/06/Uzbekistan-%F0%9F%87%BA%F0%9F%87%BF-vs-Colombia-%F0%9F%87%A8%F0%9F%87%B4.jpg",
+      "stations": 
+        [
+          {
               "name": "Uzbekistán vs Colombia",
               "info": "[acestream]",
               "online": "true",
@@ -417,7 +419,8 @@
         {
           "name": "Formula 1: ",
           "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": [
+          "stations": 
+          [
             {
               "name": "Dazn F1 🇪🇸",
               "info": "[acestream]",
@@ -500,7 +503,8 @@
         {
           "name": "Futbol",
           "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": [
+          "stations": 
+          [
             {
               "name": "",
               "info": "[acestream]",
@@ -540,7 +544,8 @@
         {
           "name": "Moto GP",
           "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": [
+          "stations": 
+          [
             {
               "name": "",
               "info": "[acestream]",
@@ -580,7 +585,8 @@
         {
           "name": "Eventos",
           "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": [
+          "stations":
+          [
             {
               "name": "",
               "info": "[acestream]",
@@ -627,3 +633,4 @@
     }
   ]
 }
+
