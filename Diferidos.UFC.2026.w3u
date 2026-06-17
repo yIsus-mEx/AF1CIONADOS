@@ -8,6 +8,82 @@
 "groups":
     [
         {
+         "name": "UFC Freedom 250",
+         "image": "https://i.postimg.cc/HnL61bkv/ufc-freedom-250.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Freedom 250",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/HnL61bkv/ufc-freedom-250.png",
+                "url":"https://bysetayico.com/e/gv1xhnr8feeh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "true",
+                "isHost":""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Muhammad vs. Bonfim",
+         "image": "https://i.postimg.cc/FKBRx4JJ/Muhammad-vs-Bonfim.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Muhammad vs. Bonfim",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/FKBRx4JJ/Muhammad-vs-Bonfim.png",
+                "url":"https://bysetayico.com/e/tlzs2wio9hs5",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "true",
+                "isHost":""
+                }
+            ]
+        },
+        {
+         "name": "Fight Night: Song vs Figueiredo",
+         "image": "https://i.postimg.cc/fbwTsbYG/Song-vs-Figueiredo.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "Fight Night: Song vs Figueiredo",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/fbwTsbYG/Song-vs-Figueiredo.png",
+                "url":"https://bysetayico.com/e/v9sy2azvzmbd",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "true",
+                "isHost":""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Allen vs Costa",
+         "image": "https://i.postimg.cc/137YmCqL/allen-vs-costa.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Allen vs Costa",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/137YmCqL/allen-vs-costa.png",
+                "url":"https://bysetayico.com/e/h6a9u6htl36k",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "true",
+                "isHost":""
+                }
+            ]
+        },
+        {
          "name": "UFC 328: Chimaev vs Strickland",
          "image": "https://i.postimg.cc/yx0CKtbh/Chimaev-vs-Strickland.png",
          "imageScale": "",
