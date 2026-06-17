@@ -8,6 +8,84 @@
   "groups": 
   [
     {
+      "name": "Los Topuria",
+      "image": "https://pics.filmaffinity.com/Los_Topuria_Miniserie_de_TV-599564757-large.jpg",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+	    [
+        {
+          "name": "Capitulo 01",
+          "info": "[2026][Español]",
+          "image": "https://pics.filmaffinity.com/Los_Topuria_Miniserie_de_TV-599564757-large.jpg",
+          "url": "https://byseraguci.com/e/legcvcoflhh5/los-topuria-1x01",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "Capitulo 02",
+          "info": "[2026][Español]",
+          "image": "https://pics.filmaffinity.com/Los_Topuria_Miniserie_de_TV-599564757-large.jpg",
+          "url": "https://byseraguci.com/e/u31jwdw8ld0x/los-topuria-1x02",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "Capitulo 03",
+          "info": "[2026][Español]",
+          "image": "https://pics.filmaffinity.com/Los_Topuria_Miniserie_de_TV-599564757-large.jpg",
+          "url": "https://byseraguci.com/e/5s8zzyhfb62d/los-topuria-1x03",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "Michael Jackson: El veredicto",
+      "image": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcnksxDLkY-paMG0YExQHR6irkgvi4jsgDtHIuKTIExlawo4PlWie14uogjUEtuSjyM89xZImPWHdobRNbqAvANL40DefHYHDqFh.jpg?r=fbe",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+	    [
+        {
+          "name": "Capitulo 01",
+          "info": "[2026][Español]",
+          "image": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcnksxDLkY-paMG0YExQHR6irkgvi4jsgDtHIuKTIExlawo4PlWie14uogjUEtuSjyM89xZImPWHdobRNbqAvANL40DefHYHDqFh.jpg?r=fbe",
+          "url": "https://byseraguci.com/e/hs42nc750z22/michael-jackson-el-veredicto-1x01",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "Capitulo 02",
+          "info": "[2026][Español]",
+          "image": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcnksxDLkY-paMG0YExQHR6irkgvi4jsgDtHIuKTIExlawo4PlWie14uogjUEtuSjyM89xZImPWHdobRNbqAvANL40DefHYHDqFh.jpg?r=fbe",
+          "url": "https://byseraguci.com/e/testjblamo4f/michael-jackson-el-veredicto-1x02",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        },
+        {
+          "name": "Capitulo 03",
+          "info": "[2026][Español]",
+          "image": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcnksxDLkY-paMG0YExQHR6irkgvi4jsgDtHIuKTIExlawo4PlWie14uogjUEtuSjyM89xZImPWHdobRNbqAvANL40DefHYHDqFh.jpg?r=fbe",
+          "url": "https://byseraguci.com/e/u6749v9o45se/michael-jackson-el-veredicto-1x03",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "Nadal",
       "image": "https://pbs.twimg.com/media/HHEmh_9XYAAnIs-.jpg",
       "imageScale": "",
