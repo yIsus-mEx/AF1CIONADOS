@@ -5,13 +5,11 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "telegram": "Enlace_Af1cionados",
   "info": "",
-  "groups": 
-  [
+  "groups": [
     {
       "name": "Argentina vs Austria",
       "image": "https://media.telemundo33.com/2026/06/52944_MATCH43_WC26_16x9_ARG_VS_AUT_FECHA_1230PMET-930AMPT-2.jpg?quality=85&strip=all&resize=850%2C478",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Argentina vs Austria",
           "info": "[acestream]",
@@ -102,33 +100,32 @@
       ]
     },
     {
-      "name": "Francia vs Iraq,
+      "name": "Francia vs Iraq,",
       "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
-      "stations": 
-      [
+      "stations": [
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[acestream]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
           "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[acestream]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[acestream]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
           "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[DSport]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
@@ -139,7 +136,7 @@
           "isHost": ""
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[DSport]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
@@ -150,7 +147,7 @@
           "isHost": "true"
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[Telemundo]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
@@ -161,7 +158,7 @@
           "isHost": "true"
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[Telemundo]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
@@ -172,7 +169,7 @@
           "isHost": "true"
         },
         {
-          "name": "Francia vs Iraq,
+          "name": "Francia vs Iraq",
           "info": "[Trece]",
           "online": "true",
           "image": "https://betbrothers.es/wp-content/uploads/2026/06/jugadores-clave-a-seguir-francia-vs-irak.jpg.webp",
@@ -187,8 +184,7 @@
     {
       "name": "Noruega vs Senegal",
       "image": "https://holamusica.com/wp-content/uploads/2026/06/Noruega-vs-Senegal.jpg",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Noruega vs Senegal",
           "info": "[acestream]",
@@ -281,8 +277,7 @@
     {
       "name": "Jordania vs Argelia",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/22/1782112672635_jorrdan-17821113525291692169827.webp",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Jordania vs Argelia",
           "info": "[acestream]",
@@ -364,218 +359,211 @@
     {
       "name": "Formula 1: ",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": 
-          [
-            {
-              "name": "Dazn F1 🇪🇸",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": "acestream://"
-            },
-            {
-              "name": "Dazn F1 🇪🇸",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": "acestream://"
-            },
-            {
-              "name": "Dazn F1 🇪🇸",
-              "info": "[acestream]",
-              "online": "true",
-              "image": "",
-              "url": "acestream://"
-            },
-            {
-              "name": "Dazn F1 🇪🇸",
-              "info": "[Daddy]",
-              "online": "true",
-              "image": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-              "referer": "",
-              "url": "",
-              "isHost": "true"
-            },
-            {
-              "name": "DazN F1 🇪🇸",
-              "info": "[huhu]",
-              "online": "true",
-              "image": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-              "referer": "",
-              "url": "",
-              "isHost": "true"
-            },
-            {
-              "name": "ESPN Deportes",
-              "info": "[Stream]",
-              "online": "true",
-              "image": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-              "referer": "",
-              "url": "",
-              "isHost": "true"
-            },
-            {
-              "name": "Fox Sports 1",
-              "info": "[Stream]",
-              "online": "true",
-              "image": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-              "referer": "",
-              "url": "",
-              "isHost": "true"
-            },
-            {
-              "name": "Fox Premium",
-              "info": "[Stream]",
-              "online": "true",
-              "image": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-              "referer": "",
-              "url": "",
-              "isHost": "true"
-            }
-          ]
+      "stations": [
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
         },
         {
-          "name": "Boxing & UFC",
-          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Eventos.Boxing.y.Ufc.w3u",
-          "info": "by Tintxi"
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
         },
         {
-          "name": "Futbol",
-          "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": 
-          [
-            {
-              "name": "",
-              "info": "[acestream]",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            }
-          ]
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream]",
+          "online": "true",
+          "image": "",
+          "url": "acestream://"
         },
         {
-          "name": "Moto GP",
-          "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations": 
-          [
-            {
-              "name": "",
-              "info": "[acestream]",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            }
-          ]
+          "name": "Dazn F1 🇪🇸",
+          "info": "[Daddy]",
+          "online": "true",
+          "image": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "",
+          "isHost": "true"
         },
         {
-          "name": "Eventos",
-          "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "stations":
-          [
-            {
-              "name": "",
-              "info": "[acestream]",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[acestream]",
-              "image": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            },
-            {
-              "name": "",
-              "info": "[]",
-              "image": "",
-              "url": "",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
-              "embed": "",
-              "online": "true",
-              "isHost": "true"
-            }
-          ]
+          "name": "DazN F1 🇪🇸",
+          "info": "[huhu]",
+          "online": "true",
+          "image": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "",
+          "isHost": "true"
         },
         {
-          "name": "Eventos del Dia Aces y AceServe",
-          "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
-          "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Multi.Eventos.w3u",
-          "info": "by Tintxi"
+          "name": "ESPN Deportes",
+          "info": "[Stream]",
+          "online": "true",
+          "image": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Fox Sports 1",
+          "info": "[Stream]",
+          "online": "true",
+          "image": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Fox Premium",
+          "info": "[Stream]",
+          "online": "true",
+          "image": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "",
+          "isHost": "true"
         }
       ]
+    },
+    {
+      "name": "Boxing & UFC",
+      "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
+      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Eventos.Boxing.y.Ufc.w3u",
+      "info": "by Tintxi"
+    },
+    {
+      "name": "Futbol",
+      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "stations": [
+        {
+          "name": "",
+          "info": "[acestream]",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[acestream]",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Moto GP",
+      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "stations": [
+        {
+          "name": "",
+          "info": "[acestream]",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[acestream]",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Eventos",
+      "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+      "stations": [
+        {
+          "name": "",
+          "info": "[acestream]",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[acestream]",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
+        },
+        {
+          "name": "",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "online": "true",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "Eventos del Dia Aces y AceServe",
+      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
+      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Multi.Eventos.w3u",
+      "info": "by Tintxi"
     }
   ]
 }
-
