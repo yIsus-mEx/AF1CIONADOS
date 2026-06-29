@@ -8,6 +8,115 @@
   "groups": 
   [
     {
+      "name": "F1 2026 R08 Austria [Red Bull Ring] [26-28.Jun26]",
+      "info": "",
+      "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/8qnhge5qbghl",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/9lh07s2k3iol",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/1scpnsxqbm96",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/e/uad35007bz5i",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/dz69kz7qhkpv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/nql6sqsynlen",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/4yr48g88jtqt",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/lfxg3sprhdcx",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/i4atbohgfza6",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/rbfon66y1b2d",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2026 R07 España [Barcelona] [12-14.Jun26]",
       "info": "",
       "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
@@ -100,7 +209,7 @@
           "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
           "url": "https://bysetayico.com/e/e9b7nwretmde",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
           "embed": "true",
           "online": "true"
         },
@@ -110,7 +219,7 @@
           "image": "https://i.postimg.cc/Qtgv6GSg/1-Williams-Barcelona-GP-poster.webp",
           "url": "https://bysetayico.com/d/mce85h1f1m5r",
           "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
+          "isHost": "",
           "embed": "true",
           "online": "true"
         }
@@ -211,7 +320,7 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
           "embed": "true",
-          "online": ""
+          "online": "true"
         },
         {
           "name": "Carrera",
@@ -221,7 +330,7 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
           "embed": "true",
-          "online": ""
+          "online": "true"
         }
       ]
     },
@@ -327,6 +436,115 @@
           "info": "[DAZNF1]",
           "image": "https://i.postimg.cc/8P7CZS8y/Canadian-GP-poster.webp",
           "url": "https://bysetayico.com/e/gqi5vd4o9s6m",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "F1 2026 R04 Miami [Miami] [01-03.May26]",
+      "info": "",
+      "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/z7cabvttioqg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/i0af72pu5iy2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/rt8h3q24l8w6",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/44won8nxjvvx",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/ymis3a0x8z55",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Sprint",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/nv0wcxiqzb8l",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/8cbpalc3gtwo",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/zs227lfypu7y",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/9x2cyqxfi508",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/8PHqx5hh/Miami.jpg",
+          "url": "https://bysetayico.com/e/4pugkjwqnm7c",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
           "embed": "true",
