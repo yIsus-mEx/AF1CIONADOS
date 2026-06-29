@@ -208,8 +208,8 @@
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
           "referer": "https://streamtpday1.xyz/",
           "url": "https://cgxheq.fubo18.com/telemundo/mono.m3u8?token=e0f7fbeb4deaaaef19eaf0a51ddd37b4118f35dc-58-1782769089-1782751089",
-          "embed": "true",
-          "isHost": ""
+          "embed": "",
+          "isHost": "true"
         },
         {
           "name": "Alemania vs Paraguay",
@@ -224,23 +224,23 @@
         },
         {
           "name": "Alemania vs Paraguay",
-          "info": "[Canal 5]",
+          "info": "[Telemundo]",
           "online": "true",
           "image": "https://e.rpp-noticias.io/xlarge/2026/06/29/alemania-vs-paraguay-evento_1882575.jpg",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
           "referer": "https://streamtpday1.xyz/",
           "url": "https://futbollibres.net/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw==",
-          "embed": "true",
-          "isHost": ""
+          "embed": "",
+          "isHost": "true"
         },
         {
           "name": "Alemania vs Paraguay",
-          "info": "[TyC]",
+          "info": "[Gol]",
           "online": "true",
           "image": "https://e.rpp-noticias.io/xlarge/2026/06/29/alemania-vs-paraguay-evento_1882575.jpg",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
           "referer": "https://streamtpday1.xyz/",
-          "url": "https://futbollibres.net/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=",
+          "url": "https://futbollibres.net/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhcmFjb2w=",
           "embed": "",
           "isHost": "true"
         }
