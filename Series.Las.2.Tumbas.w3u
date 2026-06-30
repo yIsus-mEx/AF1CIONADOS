@@ -1,0 +1,44 @@
+{
+  "name": "Las 2 Tumbas",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Las.2.Tumbas.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "stations": 
+  [
+    {
+      "name": "Capitulo 1",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
+      "url": "https://bysetayico.com/e/ll4d3syoccvk/dos-tumbas-s01e01-parte-i",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 2",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
+      "url": "https://bysetayico.com/e/46cwyhymh6bm/dos-tumbas-s01e02-parte-ii",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 3",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
+      "url": "https://bysetayico.com/e/7yz5h007lna8/dos-tumbas-s01e03-parte-iii",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    }
+  ]
+}
