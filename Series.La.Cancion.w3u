@@ -1,0 +1,44 @@
+{
+  "name": "La Cancion",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.La.Cancion.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "stations": 
+  [
+    {
+      "name": "Capitulo 1",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+      "url": "https://bysetayico.com/e/ypz3qoukz1nz/la-canción-2025-s01e01-la-tele",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 2",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+      "url": "https://bysetayico.com/e/9fb7fipmdz4z/la-canción-2025-s01e02-la-tanqueta",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    },
+    {
+      "name": "Capitulo 3",
+      "info": "[Español][2025]",
+      "online": "true",
+      "image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+      "url": "https://bysetayico.com/e/epx12lj7c37x/la-canción-2025-s01e03-la-gala",
+      "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": ""
+    }
+  ]
+}
