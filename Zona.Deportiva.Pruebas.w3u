@@ -1,0 +1,21 @@
+{
+  "name": "Zona Deportiva",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Zona.Deportiva.Pruebas.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista_AF1CIONADOS",
+  "stations": 
+  [
+    {
+      "name": "Azteca 7 🇲🇽",
+      "info": "[Tv Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Qt8XNSyv/Azteca-7.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://telelibree.com/en-vivo/azteca-7/embed2.php",
+      "embed": "",
+      "isHost": "true"
+    }
+  ]
+}
