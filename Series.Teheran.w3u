@@ -1,157 +1,277 @@
 {
-"name": "Teherán",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://af1c1onados.vercel.app/Series.Teheran.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"telegram": "Lista_AF1CIONADOS",
-"info": "Lista_AF1CIONADOS",
-"groups":
-	[
- 		{
-		"name": "Temporada 01",
- 		"image": "https://i.postimg.cc/GmVcCYpf/teharan01.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
- 				"url":"https://listeamed.net/v/g9Vd5JWoVNgxqQj",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"",
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/6zeREaDa2qpxZPa",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"",
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/PKN4OwnJVNNEDLj",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"",
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/Ro7kOVDVBBoxZWB",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 05",
-				"info":"",  
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/qA3WOmG1zZexKkz",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 06",
-				"info":"",  
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/NMRLEprGqV05XaG",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 07",
-				"info":"",  
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/kKJVORWDr7q53XD",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 08",
-				"info":"",  
-				"image":"https://images.justwatch.com/poster/238693568/s718/teheran.jpg",
-				"url":"https://listeamed.net/v/b4ZJx219Ypz52P3",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-		{
-		"name": "Temporada 02",
- 		"image": "https://i.postimg.cc/fRR4kvyL/teharan02.png",
- 		"imageScale": "",
- 		"info":"",
- 		"stations":
-			[
- 				{
- 				"name": "Episodio 01",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/e028E6RaYoYEYAv",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 02",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/eL2157dXY2Bxrw4",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 03",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/qM1VOPNg1ldxo4k",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 04",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/VqbX53gvYz85Qzp",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 05",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/m7WJxgJny8A5Bze",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 06",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/0DogOGMLYlPxKjM",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 07",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/JzkPxzn6qNLxbyd",
- 				"isHost":"true",
- 				"online":"true"
-				},
-				{
- 				"name": "Episodio 08",
- 				"info":"",
- 				"image":"https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
- 				"url":"https://listeamed.net/v/8ozgENL8Z7n5mjA",
- 				"isHost":"true",
- 				"online":"true"
-				}
-			]
-		}
-	]
+  "name": "Teheran",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1c1onados.vercel.app/Series.Teheran.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "info": "Lista_AF1CIONADOS",
+  "telegram": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "Temporada 01",
+      "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/1ji6nsr992zk/1x01-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/6meprqp30azv/1x02-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/gp6at6axmrxy/1x03-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/dulnhivsfbll/1x04-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/gu9oyho6gtpq/1x05-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/31uryvct5bum/1x06-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/adelr91uxv0m/1x07-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2020]",
+          "online": "true",
+          "image": "https://pics.filmaffinity.com/tehran-388476487-large.jpg",
+          "url": "https://bysetayico.com/e/uziq9acmsx0m/1x08-tehran-x265",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        }
+      ]
+    },
+    {
+      "name": "Temporada 02",
+      "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysezoxexe.com/e/90nkx6vbkgd2/teheran-s2e01-13-000-libroselva",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysezoxexe.com/e/w5ejz4r9vajk/teheran-s2e02-cambio-de-planes-libroselva",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysezoxexe.com/e/rgg1tqnqyq9i/teheran-s2e03-estrés-postraumático-libroselva",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysezoxexe.com/e/jclaakua00zj/teheran-s2e04-los-niños-ricos-libroselva",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysezoxexe.com/e/i1k3kagsfzvc/teheran-s2e05-doble-falta-libroselva",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://m.media-amazon.com/images/I/816+n1W+KIL._AC_UF894,1000_QL80_.jpg",
+          "url": "https://bysezoxexe.com/e/fntgo53jad5m/teheran-s2e07-betty-libroselva",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        }
+      ]
+    },
+    {
+      "name": "Temporada 03",
+      "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Capitulo 1",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/a94fiyl38iiv/teherán-3x01-contraataque",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/91risbcf52s3/teherán-3x02",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/llp9k6ulac0o/teherán-3x03",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/6iqbzatnj13x/teherán-3x04",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/z790daq2pj9o/teherán-3x05",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/th6m03zd657c/teherán-3x06",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/oh0l65zxvtkt/teherán-3x07",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2026]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/340311526/s718/temporada-3.jpg",
+          "url": "https://bysezoxexe.com/e/xknprrly4nss/teherán-3x08-fin",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "isHost": ""
+        }
+      ]
+    }
+  ]
 }
