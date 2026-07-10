@@ -8,6 +8,93 @@
 "groups":
     [
 		{
+		"name":"Drive to Survive 8 [Proximamente]",
+		"image":"https://i.postimg.cc/Y0cG7dFp/season-08.png",
+		"stations":
+			[
+				{
+        		"name": "Drive to Survive - New Kids on the Track ",
+        		"info":"[S08.E01].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - Strictly Business",
+        		"info":"[S08.E02].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - The Number One Problem",
+        		"info":"[S08.E03].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - A Bull with No Horns",
+        		"info":"[S08.E04].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - The Skis the Limit",
+        		"info":"[S08.E05].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - The Duel",
+        		"info":"[S08.E06].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - What Happens in Vegas",
+        		"info":"[S08.E07].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		},
+				{
+        		"name": "Drive to Survive - Call Me Chucky ",
+        		"info":"[S08.E08].[Español]",
+        		"image": "https://i.postimg.cc/Y0cG7dFp/season-08.png",
+        		"url":"",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+				"embed": "true",
+        		"online":""
+        		}
+			]
+		},
+		{
 		"name":"Drive to Survive 7 [Proximamente]",
 		"image":"https://i.postimg.cc/7hg42VWY/season-07.png",
 		"stations":
