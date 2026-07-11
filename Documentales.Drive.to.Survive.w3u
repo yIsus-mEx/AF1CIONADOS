@@ -273,8 +273,8 @@
         		"url":"https://hgcloud.to/mux7ndagvp5n",
         		"userAgent" : "PlusMediaPlayer/0.0.9",
         		"isHost":"true",
-				"embed": "true",
-        		"online":""
+				"embed": "",
+        		"online":"true"
         		},
 				{
         		"name": "Drive to Survive - Forza Ferrari",
