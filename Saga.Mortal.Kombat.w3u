@@ -1,0 +1,51 @@
+{
+"name": "Mortal Kombat",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.Mortal.Kombat.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Mortal Kombat II",
+		"info":"[Español][2026]",
+		"image":"https://m.media-amazon.com/images/M/MV5BZDI1ODhkZWYtM2Q2NS00MmI4LTg3NzUtYTM3NTBlYmQ3NzM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://hgcloud.to/rf0dnvtyq0qj",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"embed": "",
+		"online":"true"
+		},
+		{
+		"name": "Mortal Kombat I",
+		"info":"[Español][2021]",
+		"image":"https://pics.filmaffinity.com/Mortal_Kombat-319065766-large.jpg",
+		"url":"https://hgcloud.to/io4g6ukee6xd",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"embed": "",
+		"online":"true"
+		},
+		{
+		"name": "Mortal Kombat Aniquilacion",
+		"info":"[Español][1997]",
+		"image":"https://m.media-amazon.com/images/M/MV5BZTI4MzkzYmEtNTU1NC00ZDk5LWI4OTktNmRkNWMxN2E1NWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://hgcloud.to/e1wtrzrclhll",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"embed": "",
+		"online":"true"
+		},
+		{
+		"name": "Mortal Kombat",
+		"info":"[Español][1995]",  
+		"image":"https://m.media-amazon.com/images/M/MV5BNjQyYjJjMzEtZTYzYy00ZjFmLTlkNTktNDI5ZjIwNTAxOWE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url":"https://hgcloud.to/xgodxlso5txv",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"embed": "",
+		"online":"true"
+		}
+	]
+}
