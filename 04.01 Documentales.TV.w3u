@@ -341,14 +341,6 @@
     },
 
     {
-      "name": "Colgar las alas (Iker Casillas)",
-      "image": "https://pics.filmaffinity.com/colgar_las_alas-307527699-large.jpg",
-      "url": "https://af1cionados.vercel.app/DocuSerie COLGAR LAS ALAS.w3u",
-      "info": "bY AdriDeCai",
-      "import": false
-    },
-
-    {
       "name": "Como sobrevivimos a la caida de los Black Hawk",
       "image": "https://pics.filmaffinity.com/surviving_black_hawk_down-303223505-large.jpg",
       "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20COMO%20SOBREVIVIMOS%20BLACK%20HAWK.w3u",
@@ -943,14 +935,6 @@
     },
 
     {
-      "name": "Historias de Crimenes",
-      "image": "https://pics.filmaffinity.com/una_historia_de_crimenes-210550889-large.jpg",
-      "url": "https://af1cionados.vercel.app/DocuSerie HISTORIA DE CRIMENES.w3u",
-      "info": "bY. Adri",
-      "import": false
-    },
-
-    {
       "name": "Hombres que robaron al Mundo",
       "image": "https://www.rtve.es/rtve/20191028/documentos-tv-estrena-hombres-robaron-mundo/1986165.shtml",
       "stations": [
@@ -1526,14 +1510,6 @@
     },
 
     {
-      "name": "Pongamos que hablo de Mecano",
-      "image": "https://pics.filmaffinity.com/pongamos_que_hablo_de_mecano-648963867-large.jpg",
-      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20PONGAMOS%20HABLO%20MECANO.w3u",
-      "info": "bY AdriDeCai",
-      "import": false
-    },
-
-    {
       "name": "¿Puedo contarte un secreto?",
       "image": "https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
       "stations": [
@@ -1592,14 +1568,6 @@
           "import": false
         }
       ]
-    },
-
-    {
-      "name": "Real Madrid Hasta el final",
-      "image": "https://pics.filmaffinity.com/real_madrid_hasta_el_final-199921050-large.jpg",
-      "url": "https://af1cionados.vercel.app/DoCuSerie REAL MADRID HASTA EL FINAL.w3u",
-      "info": "bY AdriDeCai",
-      "import": false
     },
 
 {
@@ -1683,14 +1651,6 @@
     },
 
     {
-      "name": "Soy Georgina",
-      "image": "https://pics.filmaffinity.com/soy_georgina-439088863-large.jpg",
-      "url": "https://af1cionados.vercel.app/DoCuSerie SOY GEORGINA.w3u",
-      "info": "bY AdriDeCai",
-      "import": false
-    },
-
-    {
       "name": "Suicidio. El dolor invisible",
       "image": "https://pics.filmaffinity.com/suicidio_el_dolor_invisible-298693855-large.jpg",
       "stations": [
@@ -1736,14 +1696,6 @@
           "import": false
         }
     ]
-    },
-
-    {
-      "name": "Surf Girl Hawaii [VOSE]",
-      "image": "https://pics.filmaffinity.com/surf_girls_hawai_i-290198545-large.jpg",
-      "url": "https://af1cionados.vercel.app/DoCuSerie SURF GIRL HAWAII.w3u",
-      "info": "bY. Adri",
-      "import": false
     },
 
     {
@@ -1906,15 +1858,6 @@
 }
 ]
 },
-
-
-    {
-      "name": "Ultimos Zares, Los",
-      "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
-      "url": "https://af1cionados.vercel.app/DoCuSerie ULTIMOS ZARES.w3u",
-      "info": "bY. Adri",
-      "import": false
-    },
 
     {
       "name": "UniverXO Dabiz",
