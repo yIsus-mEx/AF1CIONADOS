@@ -901,14 +901,6 @@
     },
 
     {
-      "name": "¿Y ahora que? El futuro según Bill Gates",
-      "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
-      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/main/DoCuSerie Y AHORA QUE.w3u",
-      "info": "bY AdriDeCai",
-      "import": false
-    },
-
-    {
       "name": "Joaquin Sabina, sintiendolo mucho",
       "image": "https://pics.filmaffinity.com/sintiendolo_mucho-844556492-large.jpg",
       "stations": [
@@ -1238,38 +1230,6 @@
           "online": "true",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "import": false
-        }
-      ]
-    },
-
-    {
-      "name": "Oppenheimer Destructor de Mundos",
-      "image": "https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg",
-      "stations": [
-        {
-          "name": "Oppenheimer Destructor de Mundos",
-          "info": "[2023]",
-          "image": "https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg",
-          "url": "https://filemoon.to/d/v3afh78dsha6/OPPENHEIMER-_EL_DESTRUCTOR_DE_MUNDOS__DOCUMENTAL_.mp4",
-          "embed": "",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
-
-    {
-      "name": "Oppenheimer Dilema de la Bomba Atomica",
-      "image": "https://pics.filmaffinity.com/to_end_all_war_oppenheimer_the_atomic_bomb-948121966-large.jpg",
-      "stations": [
-        {
-          "name": "Oppenheimer Dilema de la Bomba Atomica",
-          "info": "[2023]",
-          "image": "https://pics.filmaffinity.com/to_end_all_war_oppenheimer_the_atomic_bomb-948121966-large.jpg",
-          "url": "https://filemoon.to/d/zm2oug6iqexu/Oppenheimer__dilema_de_la_bomba_atomica__2023_Documental_.mp4",
-          "embed": "",
-          "isHost": "true",
-          "online": "true"
         }
       ]
     },
