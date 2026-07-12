@@ -1658,6 +1658,26 @@
 "import": false
 },
 
+{
+"name": " Shipwrecked: Pesadilla en el mar",
+"image": "https://pics.filmaffinity.com/shipwrecked_nightmare_at_sea-383363477-msmall.jpg",
+"stations": 
+[
+{
+"name": " Shipwrecked: Pesadilla en el mar  ",
+"image": "https://pics.filmaffinity.com/shipwrecked_nightmare_at_sea-383363477-msmall.jpg",
+"url": "https://byseraguci.com/e/re497wt6p51n",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
     {
       "name": "Sinéad O'Connor: Nothing Compares",
       "image": "https://pics.filmaffinity.com/sinead_o_connor_nothing_compares-701948415-large.jpg",
@@ -1672,30 +1692,6 @@
           "online": "true"
         }
       ]
-    },
-
-    {
-      "name": "Secretos de la Roja, Campeones del Mundo",
-      "image": "https://pics.filmaffinity.com/los_secretos_de_la_roja_campeones_del_mundo-747235482-large.jpg",
-      "stations": [
-        {
-          "name": "Secretos de la Roja, Campeones del Mundo",
-          "info": "[2020]",
-          "image": "https://pics.filmaffinity.com/los_secretos_de_la_roja_campeones_del_mundo-747235482-large.jpg",
-          "url": "https://filemoon.to/d/ixqb3q5x7fuc/Ver_Los_Secretos_Roja_Campeones_Del_Mundo_2020_1080p_mkv.mp4",
-          "embed": "",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
-
-    {
-    "name": "Sapo SA, Memorias de un Ladrón",
-    "image": "https://pics.filmaffinity.com/sapo_s_a_memorias_de_un_ladron-335336716-large.jpg",
-    "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCu%20Serie%20SAPO.w3u",
-    "info": "bY AdriDeCai",
-    "import": false
     },
 
     {
