@@ -8,12 +8,32 @@
   "stations": 
   [
     {
-      "name": "Azteca 7 🇲🇽",
-      "info": "[Tv Libre]",
+      "name": "Espn 🇦🇷",
+      "info": "[Tele Libre]",
       "online": "true",
-      "image": "https://i.postimg.cc/Qt8XNSyv/Azteca-7.png",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://www.telegratishd.com/azteca-7-en-vivo.php",
+      "url": "https://telelibrefull.com/en-vivo/stream-01.php",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 🇦🇷",
+      "info": "[Tele Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://telelibrefull.com/en-vivo/espn/embed5.php",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 🇨🇴",
+      "info": "[Tele Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://telelibrefull.com/en-vivo/espn/embed2.php",
       "embed": "",
       "isHost": "true"
     }
