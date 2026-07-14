@@ -8,7 +8,7 @@
   "groups": 
   [
     {
-      "name": "Temporada 01",
+      "name": "Temporada 01 [Proximamente]",
       "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
       "info": "",
       "stations": 
@@ -16,7 +16,7 @@
         {
           "name": "Capitulo 1",
           "info": "[Español][2022]",
-          "online": "true",
+          "online": "",
           "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
           "url": "",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Temporada 02",
+      "name": "Temporada 02 [Proximamente]",
       "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
       "info": "",
       "stations": 
@@ -35,7 +35,7 @@
         {
           "name": "Capitulo 1",
           "info": "[Español][2024]",
-          "online": "true",
+          "online": "",
           "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
           "url": "",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
