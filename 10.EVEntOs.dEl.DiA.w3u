@@ -189,16 +189,6 @@
           "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
         },
         {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[stream]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "",
-          "url": "https://streamx741.com/global2.php?channel=daznf1",
-          "isHost": "true"
-        },
-        {
           "name": "DazN F1 🇪🇸",
           "info": "[stream]",
           "online": "true",
@@ -206,6 +196,16 @@
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
           "referer": "https://asiria.is/",
           "url": "https://asiria.is/daznf1.php",
+          "isHost": "true"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[stream]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "https://streamx741.com/global2.php?channel=daznf1",
           "isHost": "true"
         },
         {
