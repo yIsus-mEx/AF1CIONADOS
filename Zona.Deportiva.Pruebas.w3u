@@ -8,7 +8,7 @@
   "stations": 
   [
     {
-      "name": "Espnn 🇦🇷",
+      "name": "Espn 🇦🇷",
       "info": "[Tele Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
@@ -16,8 +16,8 @@
       "url": "https://deportesfullhd.org/en-vivo-online/dazn-1-es/embed.php",
       "referer": "https://hamis.romponalis.st/",
       "origin": "https://hamis.romponalis.st/",
-      "embed": "",
-      "isHost": "true"
+      "embed": "true",
+      "isHost": ""
     },
     {
       "name": "Espn 2 🇦🇷",
