@@ -8,7 +8,7 @@
   "groups": 
   [
     {
-      "name": "Temporada 01 [Proximamente]",
+      "name": "Temporada 01",
       "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
       "info": "",
       "stations": 
@@ -16,9 +16,86 @@
         {
           "name": "Capitulo 1",
           "info": "[Español][2022]",
-          "online": "",
+          "online": "true",
           "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
-          "url": "",
+          "url": "https://hgcloud.to/1ag68oin2gby",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/ozqwzatbt6hy",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/qtvhgr1nl4bo",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/8ceoeolou98g",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/ou5sxo6uucmb",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/ebj46rdbidt6",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 7",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/noq6twfysf9m",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 8",
+          "info": "[Español][2022]",
+          "online": "true",
+          "image": "https://images.justwatch.com/poster/302552929/s718/temporada-1.jpg",
+          "url": "https://hgcloud.to/oftfc0criua6",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "",
@@ -27,7 +104,7 @@
       ]
     },
     {
-      "name": "Temporada 02 [Proximamente]",
+      "name": "Temporada 02",
       "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
       "info": "",
       "stations": 
@@ -35,9 +112,64 @@
         {
           "name": "Capitulo 1",
           "info": "[Español][2024]",
-          "online": "",
+          "online": "true",
           "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
-          "url": "",
+          "url": "https://hgcloud.to/muk2tr3j9c8t",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 2",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
+          "url": "https://hgcloud.to/9ranbrpgdsmz",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 3",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
+          "url": "https://hgcloud.to/7ydyu4g1ono5",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 4",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
+          "url": "https://hgcloud.to/cef9st7etqr0",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 5",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
+          "url": "https://hgcloud.to/zqhz7s16anmk",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "",
+          "isHost": "true"
+        },
+        {
+          "name": "Capitulo 6",
+          "info": "[Español][2024]",
+          "online": "true",
+          "image": "https://es.web.img2.acsta.net/pictures/24/02/05/10/03/5071022.jpg",
+          "url": "https://hgcloud.to/t5qgb3s1e8zu",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "",
