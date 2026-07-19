@@ -357,6 +357,55 @@
  			"online":"true"
 			}
 		]
+	},
+	{
+	"name": "Temporada 03",
+ 	"image": "https://i.postimg.cc/fThS8nNg/dragon-03.png",
+ 	"imageScale": "",
+ 	"info":"",
+	"stations":
+		[
+			{
+ 			"name": "Episodio 01",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/fThS8nNg/dragon-03.png",
+ 			"url":"https://hgcloud.to/2hkb3untrpx6",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"embed": "",
+ 			"isHost":"true",
+ 			"online":"true"
+			},
+			{
+ 			"name": "Episodio 02",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/fThS8nNg/dragon-03.png",
+ 			"url":"https://hgcloud.to/xk64upw0j4lf",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"embed": "",
+ 			"isHost":"true",
+ 			"online":"true"
+			},
+			{
+ 			"name": "Episodio 03",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/fThS8nNg/dragon-03.png",
+ 			"url":"https://hgcloud.to/kt7caygwwco0",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"embed": "",
+ 			"isHost":"true",
+ 			"online":"true"
+			},
+			{
+ 			"name": "Episodio 04",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/fThS8nNg/dragon-03.png",
+ 			"url":"https://hgcloud.to/cs1gi4c8q69w",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+ 			"embed": "",
+ 			"isHost":"true",
+ 			"online":"true"
+			}
+		]
 	}
 ]
 }
