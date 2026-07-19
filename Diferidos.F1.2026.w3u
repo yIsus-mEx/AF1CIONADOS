@@ -8,6 +8,115 @@
   "groups": 
   [
     {
+      "name": "F1 2026 R10 Belgica [Spa-Francorchamps] [17-19.JUL26]",
+      "info": "",
+      "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Libres 01",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/ja163l6x36nz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Libres 01",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/ymyahfyv496y",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/f1a8bvaf2kyv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Libres 02",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/41mseelvkf8k",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/i856yvhkigv8",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Libres 03",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/qkteyjulstbw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/cfbnekr12wos",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Qualy",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "https://hgcloud.to/bpimnp2xwm1v",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[ESPN]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": ""
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
+        }
+      ]
+    },
+    {
       "name": "F1 2026 R09 Gran Bretaña [Silverstone] [03-05.Jul26]",
       "info": "",
       "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
