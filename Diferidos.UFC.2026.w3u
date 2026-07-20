@@ -8,6 +8,35 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: Kape vs Horiguchi",
+         "image": "https://i.postimg.cc/XvCxT8d1/Kape-vs-Horiguchi.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Kape vs Horiguchi",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/XvCxT8d1/Kape-vs-Horiguchi.png",
+                "url":"https://pixeldrain.com/u/gSC4Mfje",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Kape vs Horiguchi",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/XvCxT8d1/Kape-vs-Horiguchi.png",
+                "url":"https://cdn.pixeldrain.eu.cc/gSC4Mfje",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Freedom 250",
          "image": "https://i.postimg.cc/HnL61bkv/ufc-freedom-250.png",
          "imageScale": "",
