@@ -8,6 +8,63 @@
 "groups":
     [
         {
+         "name": "UFC Fight Night: du Plessis vs Usman",
+         "image": "https://i.postimg.cc/sf7xvZ90/Du-Plessis-vs-Usman.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: du Plessis vs Usman",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/sf7xvZ90/Du-Plessis-vs-Usman.png",
+                "url":"https://pixeldrain.com/u/1NxuqQKE",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 329: McGregor vs Holloway 2",
+         "image": "https://i.postimg.cc/vm2gtFcW/Mc-Gregor-vs-Holloway-2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 329: McGregor vs Holloway 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/vm2gtFcW/Mc-Gregor-vs-Holloway-2.png",
+                "url":"https://pixeldrain.com/u/MDRiBcss",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Fiziev vs Torres",
+         "image": "https://i.postimg.cc/65Z344rZ/fiziev-vs-torres.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Fiziev vs Torres",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/65Z344rZ/fiziev-vs-torres.png",
+                "url":"https://pixeldrain.com/u/oEomnfLv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "embed": "",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
          "name": "UFC Fight Night: Kape vs Horiguchi",
          "image": "https://i.postimg.cc/XvCxT8d1/Kape-vs-Horiguchi.png",
          "imageScale": "",
@@ -20,16 +77,6 @@
                 "online":"true",
                 "image": "https://i.postimg.cc/XvCxT8d1/Kape-vs-Horiguchi.png",
                 "url":"https://pixeldrain.com/u/gSC4Mfje",
-                "userAgent": "PlusMediaPlayer/0.0.9",
-                "embed": "",
-                "isHost":"true"
-                },
-                {
-                "name": "UFC Fight Night: Kape vs Horiguchi",
-                "info":"[Latino]",
-                "online":"true",
-                "image": "https://i.postimg.cc/XvCxT8d1/Kape-vs-Horiguchi.png",
-                "url":"https://cdn.pixeldrain.eu.cc/gSC4Mfje",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "embed": "",
                 "isHost":"true"
