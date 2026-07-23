@@ -271,7 +271,7 @@
       "name": "Fox Deportes 🇺🇸",
       "info": "[Deporte Libre]",
       "online": "true",
-      "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
       "embed": "",
@@ -281,7 +281,7 @@
       "name": "Fox Deportes 🇺🇸",
       "info": "[Deporte Libre]",
       "online": "true",
-      "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
       "embed": "",
@@ -291,11 +291,21 @@
       "name": "Fox Deportes 🇺🇸",
       "info": "[Deporte Libre]",
       "online": "true",
-      "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes",
       "embed": "",
       "isHost": "true"
+    },
+    {
+      "name": "DSport 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://latamplay1.click/channel/dsports.html",
+      "embed": "true",
+      "isHost": ""
     },
     {
       "name": "DSport 🇦🇷",
@@ -384,6 +394,36 @@
       "image": "https://i.postimg.cc/6q2b8mLc/Win-Sports-Plus.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "url": "https://fltvhd.com/vivo/canal.php?stream=winsports2",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "TyC Sports 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/L87pftW9/tyc-sports-blanco.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://streamx488.sbs/global1.php?channel=tyc",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Rally Tv",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/DzgfkqP5/logo-light.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Rally Tv",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/DzgfkqP5/logo-light.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
       "embed": "",
       "isHost": "true"
     }
