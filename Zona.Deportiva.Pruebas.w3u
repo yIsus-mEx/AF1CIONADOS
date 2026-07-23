@@ -8,12 +8,72 @@
   "stations": 
   [
     {
+      "name": "TUDN 🇺🇸",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Ss7TTWLr/TUDN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canales.php?stream=tudn",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "TUDN 🇺🇸",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Ss7TTWLr/TUDN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=tudn",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "TUDN 🇺🇸",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/Ss7TTWLr/TUDN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=tudn",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
       "name": "Espn 🇦🇷",
       "info": "[Deporte Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "url": "https://fltvhd.com/online/canal.php?stream=espn",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 🇲🇽",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canal.php?stream=espnmx",
       "embed": "",
       "isHost": "true"
     },
@@ -28,6 +88,26 @@
       "isHost": "true"
     },
     {
+      "name": "Espn 2 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/xTHShHsq/ESPN-2.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn2",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 2 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/xTHShHsq/ESPN-2.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn2",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
       "name": "Espn 3 🇦🇷",
       "info": "[Deporte Libre]",
       "online": "true",
@@ -38,12 +118,262 @@
       "isHost": "true"
     },
     {
+      "name": "Espn 3 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/x813HKcX/ESPN-3.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn3",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 3 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/x813HKcX/ESPN-3.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn3",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
       "name": "Espn 4 🇦🇷",
       "info": "[Deporte Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/DyWqTfsG/ESPN-4.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "url": "https://fltvhd.com/online/canal.php?stream=espn4",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 4 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/DyWqTfsG/ESPN-4.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn4",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 4 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/DyWqTfsG/ESPN-4.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn4",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 5 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/y6DPVT4b/ESPN-5.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canal.php?stream=espn5",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 5 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/y6DPVT4b/ESPN-5.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn5",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 5 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/y6DPVT4b/ESPN-5.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn5",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 6 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/VN7qwJ7f/ESPN-6.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canal.php?stream=espn6",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 6 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/VN7qwJ7f/ESPN-6.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn6",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 6 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/VN7qwJ7f/ESPN-6.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn6",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 7 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/6qC48qh2/ESPN-7.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canal.php?stream=espn7",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 7 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/6qC48qh2/ESPN-7.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=espn7",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Espn 7 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/6qC48qh2/ESPN-7.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=espn7",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Fox Deportes 🇺🇸",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Fox Deportes 🇺🇸",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Fox Deportes 🇺🇸",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "DSport 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "DSport 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=dsports",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "DSport 🇦🇷",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "TNT Premium 🇨🇱",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/05Hc9VKy/TNTSP.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canales.php?stream=tntsportschile",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "TNT Premium 🇨🇱",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/05Hc9VKy/TNTSP.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "TNT Premium 🇨🇱",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/05Hc9VKy/TNTSP.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=tntsportschile",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Win Sports + 🇨🇴",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/6q2b8mLc/Win-Sports-Plus.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/online/canales.php?stream=winsports2",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Win Sports + 🇨🇴",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/6q2b8mLc/Win-Sports-Plus.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/canales.php?stream=winsports2",
+      "embed": "",
+      "isHost": "true"
+    },
+    {
+      "name": "Win Sports + 🇨🇴",
+      "info": "[Deporte Libre]",
+      "online": "true",
+      "image": "https://i.postimg.cc/6q2b8mLc/Win-Sports-Plus.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://fltvhd.com/vivo/canal.php?stream=winsports2",
       "embed": "",
       "isHost": "true"
     }
