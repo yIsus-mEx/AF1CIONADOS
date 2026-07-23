@@ -9,43 +9,41 @@
   [
     {
       "name": "Espn 🇦🇷",
-      "info": "[Tele Libre]",
+      "info": "[Deporte Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "",
-      "referer": "https://hamis.romponalis.st/",
-      "origin": "https://hamis.romponalis.st/",
-      "embed": "true",
-      "isHost": ""
+      "url": "https://fltvhd.com/online/canal.php?stream=espn1",
+      "embed": "",
+      "isHost": "true"
     },
     {
       "name": "Espn 2 🇦🇷",
-      "info": "[Tele Libre]",
+      "info": "[Deporte Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/xTHShHsq/ESPN-2.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/espn2.php",
+      "url": "https://fltvhd.com/online/canal.php?stream=espn2",
       "embed": "",
       "isHost": "true"
     },
     {
       "name": "Espn 3 🇦🇷",
-      "info": "[Tele Libre]",
+      "info": "[Deporte Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/x813HKcX/ESPN-3.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/espn3.php",
+      "url": "https://fltvhd.com/online/canal.php?stream=espn3",
       "embed": "",
       "isHost": "true"
     },
     {
       "name": "Espn 4 🇦🇷",
-      "info": "[Tele Libre]",
+      "info": "[Deporte Libre]",
       "online": "true",
       "image": "https://i.postimg.cc/DyWqTfsG/ESPN-4.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/espn4.php",
+      "url": "https://fltvhd.com/online/canal.php?stream=espn4",
       "embed": "",
       "isHost": "true"
     }
