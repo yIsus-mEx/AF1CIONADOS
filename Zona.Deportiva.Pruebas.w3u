@@ -444,30 +444,31 @@
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su/",
       "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
       "embed": "true",
       "isHost": ""
     },
     {
-      "name": "DaznF1",
+      "name": "Dazn",
       "info": "[Motor]",
       "online": "true",
       "image": "",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.php",
+      "url": "https://teledeportes.click/?p=canal&id=150",
+      "referer": "https://hamis.romponalis.st/",
       "embed": "",
       "isHost": "true"
     },
     {
-      "name": "DaznF1",
+      "name": "Dazn",
       "info": "[Motor]",
       "online": "true",
       "image": "",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.php",
+      "url": "https://teledeportes.click/?p=canal&id=150",
+      "referer": "https://hamis.romponalis.st/",
       "embed": "true",
       "isHost": ""
-    }
+    },
   ]
 }
