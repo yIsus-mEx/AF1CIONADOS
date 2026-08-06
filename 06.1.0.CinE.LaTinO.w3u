@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+		{
+		"name": "MovIeS 2026",
+        "image": "",
+		"url": "https://af1c1onados.vercel.app/Movies.Latino.2026.w3u",
+         "info":"",
+         "import": false
+        },
         {
          "name": "MovIeS 2025",
          "image": "",
