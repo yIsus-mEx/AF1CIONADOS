@@ -47,20 +47,31 @@
       ]
     },
     {
-    "name": "Movies",
+    "name": "F1 🏁",
     "info": "",
     "image": "",
     "imageScale": "",
     "stations": 
       [
         {
-          "name": "TUDN 🇲🇽",
-          "info": "[Deporte Libre]",
-          "online": "true",
-          "image": "https://i.postimg.cc/Ss7TTWLr/TUDN.png",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "url": "https://latamplay1.click/channel/tudnmx.html",
-          "embed": "true"
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/rbfon66y1b2d",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "",
+          "embed": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
+          "url": "https://bysetayico.com/d/rbfon66y1b2d",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "",
+          "online": "true"
         }
       ]
     }
