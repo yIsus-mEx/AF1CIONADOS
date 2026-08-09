@@ -15,7 +15,7 @@
     "stations": 
       [
          {
-          "name": "EspN Deportes",
+          "name": "Espn Deportes",
           "info": "[La18hd]",
           "image": "https://i.postimg.cc/hvqrDXV6/Espn-deportes.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -25,7 +25,7 @@
           "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes"         
         },
         {
-          "name": "EspN",
+          "name": "Espn",
           "info": "[la18hd]",
           "image": "https://i.postimg.cc/634j5sgL/espn1.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -35,7 +35,7 @@
           "url": "https://la18hd.su/vivo/canales.php?stream=espn"
         },
         {
-          "name": "EspN 2",
+          "name": "Espn 2",
           "info": "[la18hd]",
           "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -43,6 +43,56 @@
           "isHost": "",
           "embed": "true",
           "url": "https://la18hd.su/vivo/canales.php?stream=espn2"
+        },
+        {
+          "name": "Espn 3",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn3"
+        },
+        {
+          "name": "Espn 4",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn4"
+        },
+        {
+          "name": "Espn 5",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/gcDSzKB3/espn5.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn5"
+        },
+        {
+          "name": "Espn 6",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/7YZBfTpc/espn6.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn6"
+        },
+        {
+          "name": "Espn 7",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/SxXDGbQr/espn7.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn7"
         },
         {
           "name": "TUDN 🇲🇽",
