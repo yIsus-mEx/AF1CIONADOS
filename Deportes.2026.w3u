@@ -15,9 +15,9 @@
     "stations": 
       [
          {
-          "name": "EspN 🇲🇽",
+          "name": "EspN Deportes",
           "info": "[La18hd]",
-          "image": "https://i.postimg.cc/bNNWX5Lh/tudn1.png",
+          "image": "https://i.postimg.cc/hvqrDXV6/Espn-deportes.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "isHost": "",
@@ -25,24 +25,35 @@
           "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes"         
         },
         {
+          "name": "EspN",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn"
+        },
+        {
+          "name": "EspN 2",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espn2"
+        },
+        {
           "name": "TUDN 🇲🇽",
-          "info": "[Deporte Libre]",
+          "info": "[la18hd]",
           "image": "https://i.postimg.cc/2y9cGzs0/TDN.jpg",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "url": "https://latamplay1.click/channel/tudnmx.html",
-          "embed": "true"
-        },
-       
-        {
-          "name": "EspN 🇲🇽",
-          "info": "[la18hd]",
-          "online": "true",
-          "image": "https://i.postimg.cc/JzsF0Bfr/tudn2.png",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
+          "referer": "",
+          "isHost": "true",
           "embed": "",
-          "isHost": "true"
-        }
+          "url": "https://latamplay1.click/channel/tudnmx.html"
+        }       
       ]
     },
     {
