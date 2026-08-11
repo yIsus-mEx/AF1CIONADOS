@@ -255,13 +255,23 @@
         },
         {
           "name": "Fox Sport 3",
-          "info": "[Streamx]",
+          "info": "[Ihost]",
+          "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-789.php"
+        },
+        {
+          "name": "Fox Sport 3",
+          "info": "[Embed]",
           "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "isHost": "",
           "embed": "true",
-          "url": "https://dlhd.st/stream/stream-789.php"
+          "url": "https://dlhd.st/embed/stream-789.php"
         }
       ]
     }
