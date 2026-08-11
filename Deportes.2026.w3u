@@ -103,7 +103,37 @@
           "isHost": "true",
           "embed": "",
           "url": "https://latamplay1.click/channel/tudnmx.html"
-        }       
+        },
+        {
+          "name": "Fox Sport",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+        },
+        {
+          "name": "Fox Sport 2",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/mrJvNndj/Fox-Sport-2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
+        },
+        {
+          "name": "Fox Sport 3",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=foxsports3"
+        }    
       ]
     },
     {
