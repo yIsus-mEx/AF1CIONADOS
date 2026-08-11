@@ -107,31 +107,31 @@
       ]
     },
     {
-    "name": "F1 🏁 [Pruebas]",
+    "name": "Streamx",
     "info": "",
     "image": "",
     "imageScale": "",
     "stations": 
       [
         {
-          "name": "Carrera",
-          "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "name": "Espn",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
           "isHost": "",
           "embed": "true",
-          "online": "true"
+          "url": "https://streamx-hd.com/live1.php?stream=espn"
         },
         {
-          "name": "Carrera",
-          "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/q7ZD46Rw/1-Ferrari-Austrian-GP-poster.webp",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "name": "Espn 2",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
           "isHost": "",
           "embed": "true",
-          "online": "true"
+          "url": "https://streamx-hd.com/live1.php?stream=espn2"
         }
       ]
     }
