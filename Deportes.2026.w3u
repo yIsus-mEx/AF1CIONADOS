@@ -124,6 +124,16 @@
           "url": "https://streamx-hd.com/live1.php?stream=espn"
         },
         {
+          "name": "Espn 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espnmx"
+        },
+        {
           "name": "Espn 2",
           "info": "[Streamx]",
           "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
@@ -132,6 +142,96 @@
           "isHost": "",
           "embed": "true",
           "url": "https://streamx-hd.com/live1.php?stream=espn2"
+        },        
+        {
+          "name": "Espn 2 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn2mx"
+        },
+        {
+          "name": "Espn 3",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn3"
+        },        
+        {
+          "name": "Espn 3 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn3mx"
+        },
+        {
+          "name": "Espn 4",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn4"
+        },        
+        {
+          "name": "Espn 4 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn4mx"
+        },
+        {
+          "name": "Espn 5",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/gcDSzKB3/espn5.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn5"
+        },
+        {
+          "name": "Espn 6",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/7YZBfTpc/espn6.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn6"
+        },
+        {
+          "name": "Espn 7",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/SxXDGbQr/espn7.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=espn7"
+        },
+        {
+          "name": "Fox Sport",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/gJFqmyST/Fox-Sport.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx-hd.com/live1.php?stream=fox1ar"
         }
       ]
     }
