@@ -8,51 +8,15 @@
 "groups":
     [
         {
-         "name": "ZOna DepORtivA 1",
-         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-         "url": "http://verdu.fit:8085/get.php?username=hghc4@3gf(n)!&password=kmgd56(e)3@400&type=m3u_plus",
-         "import": false
-        },
-        {
-         "name": "zOna DepORtivA 2",
-         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-         "url": "http://zonacero.lat:8080/get.php?username=RESTREAMCRUEL&password=T7464747&type=m3u_plus",
-         "import": false
-        },
-        {
-         "name": "zOna DepORtivA 3",
-         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-         "url": "http://juanmoreno.online/get.php?username=MynorOrdonez&password=PxkvQuPRqF&type=m3u_plus",
+         "name": "Mister Voluntos",
+         "image": "https://i.postimg.cc/sfJDzS8T/Voluntos.png",
+         "url": "https://af1c1onados.stark9.workers.dev/mister.voluntos.w3u",
          "import": false
         },
         {
          "name": "zOna DepORtivA [Pruebas]",
          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
          "url": "https://af1c1onados.vercel.app/Zona.Deportiva.Pruebas.w3u",
-         "import": false
-        },
-        {
-         "name": "zOna Live Streams",
-         "image": "https://i.postimg.cc/mDdwRKGk/Live-Stream.png",
-         "url": "",
-         "import": false
-        },
-        {
-         "name": "NBA StREamS",
-         "image": "https://i.postimg.cc/C58MjdLB/logonba-new.png",
-         "url": "",
-         "import": false
-        },
-        {
-         "name": "NHL StREamS",
-         "image": "https://i.postimg.cc/Y91yYHB2/nhl-logo-jersey.png",
-         "url": "",
-         "import": false
-        },
-        {
-         "name": "MLB StREamS",
-         "image": "https://i.postimg.cc/SKFvL14v/MLB.png",
-         "url": "",
          "import": false
         }
     ]
