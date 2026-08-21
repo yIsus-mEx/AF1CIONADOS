@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <!-- ASIGNACIÓN DE CANALES (Deben coincidir con los tvg-id de tu M3U) -->
+  <!-- CANALES -->
   <channel id="sugar_s01e01"><display-name>Sugar S01E01</display-name></channel>
   <channel id="sugar_s01e02"><display-name>Sugar S01E02</display-name></channel>
   <channel id="sugar_s01e03"><display-name>Sugar S01E03</display-name></channel>
@@ -11,7 +11,7 @@
   <channel id="sugar_s01e08"><display-name>Sugar S01E08</display-name></channel>
 
   <!-- CAPÍTULO 1 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e01">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e01">
     <title lang="es">Sugar - S01E01</title>
     <sub-title lang="es">Olivia</sub-title>
     <desc lang="es">El detective privado John Sugar viaja a Los Ángeles para investigar la misteriosa desaparición de Olivia Siegel, la querida nieta de un legendario productor de Hollywood.</desc>
@@ -20,7 +20,7 @@
   </programme>
 
   <!-- CAPÍTULO 2 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e02">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e02">
     <title lang="es">Sugar - S01E02</title>
     <sub-title lang="es">Gente de confianza</sub-title>
     <desc lang="es">Sugar interroga a personas cercanas a Olivia mientras descubre secretos oscuros dentro de la influyente familia Siegel, dándose cuenta de que nadie dice toda la verdad.</desc>
@@ -29,7 +29,7 @@
   </programme>
 
   <!-- CAPÍTULO 3 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e03">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e03">
     <title lang="es">Sugar - S01E03</title>
     <sub-title lang="es">Cruzar la línea</sub-title>
     <desc lang="es">La investigación lleva a Sugar a los rincones más peligrosos del bajo mundo de la ciudad, donde se ve obligado a confrontar sus propios límites éticos para obtener pistas.</desc>
@@ -38,7 +38,7 @@
   </programme>
 
   <!-- CAPÍTULO 4 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e04">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e04">
     <title lang="es">Sugar - S01E04</title>
     <sub-title lang="es">Ojos estrellados</sub-title>
     <desc lang="es">Una pista crucial conecta la desaparición de Olivia con un caso sin resolver del pasado de Hollywood, mientras la salud y estabilidad mental de Sugar comienzan a flaquear.</desc>
@@ -47,7 +47,7 @@
   </programme>
 
   <!-- CAPÍTULO 5 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e05">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e05">
     <title lang="es">Sugar - S01E05</title>
     <sub-title lang="es">Boyas y anclas</sub-title>
     <desc lang="es">Sugar y su aliada Melanie intentan proteger a un testigo clave, pero la situación se sale de control rápidamente cuando figuras poderosas intentan silenciarlos.</desc>
@@ -56,7 +56,7 @@
   </programme>
 
   <!-- CAPÍTULO 6 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e06">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e06">
     <title lang="es">Sugar - S01E06</title>
     <sub-title lang="es">Un lugar seguro</sub-title>
     <desc lang="es">Sugar se acerca peligrosamente al paradero de Olivia, lo que desencadena una violenta confrontación que cambia las reglas del juego y expone una traición inesperada.</desc>
@@ -65,7 +65,7 @@
   </programme>
 
   <!-- CAPÍTULO 7 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e07">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e07">
     <title lang="es">Sugar - S01E07</title>
     <sub-title lang="es">Amigos y extraños</sub-title>
     <desc lang="es">Tras un giro de los acontecimientos impactante, la verdadera e increíble naturaleza de John Sugar y su misteriosa organización sale finalmente a la luz.</desc>
@@ -74,7 +74,7 @@
   </programme>
 
   <!-- CAPÍTULO 8 -->
-  <programme start="20260101000000 +0000" stop="20300101000000 +0000" channel="sugar_s01e08">
+  <programme start="20251231000000 +0000" stop="20251231235959 +0000" channel="sugar_s01e08">
     <title lang="es">Sugar - S01E08</title>
     <sub-title lang="es">Adiós</sub-title>
     <desc lang="es">Final de temporada. Sugar toma una decisión trascendental sobre su futuro en la Tierra mientras cierra el caso de Olivia y confronta una devastadora verdad personal.</desc>
