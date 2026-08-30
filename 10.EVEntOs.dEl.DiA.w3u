@@ -6,149 +6,15 @@
   "telegram": "Enlace_Af1cionados",
   "info": "",
   "groups": [
+
+
     {
-      "name": "Inglaterra vs Argentina",
-      "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-      "stations": [
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://584e20154750a15d14cb59953bb9cdd923c331bb"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "url": "acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[Canal 5]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "https://streamtpday1.xyz/",
-          "url": "https://futbollibres.com.pe/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw",
-          "embed": "true",
-          "isHost": ""
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[DSport]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "",
-          "url": "https://futbollibree.pe/embed/eventos.html?embed=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw",
-          "embed": "true",
-          "isHost": ""
-        },
-        ,
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[DSport]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "https://streamx996.one/",
-          "url": "https://futbollibres.com.pe/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[DSport]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "",
-          "url": "https://futbollibree.pe/embed/eventos.html?embed=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA=",
-          "embed": "true",
-          "isHost": ""
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[America Tv]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "https://streamtpday1.xyz/",
-          "url": "https://futbollibres.com.pe/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YW1lcmljYXR2",
-          "embed": "",
-          "isHost": "true"
-        },
-        {
-          "name": "Inglaterra vs Argentina",
-          "info": "[Telemundo]",
-          "online": "true",
-          "image": "https://i.postimg.cc/g28xRcY3/engvsarg.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "https://streamtpday1.xyz/",
-          "url": "https://futbollibres.com.pe/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv",
-          "embed": "",
-          "isHost": "true"
-        }
-      ]
+      "name": "Eventos del Dia Aces y AceServe",
+      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
+      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Multi.Eventos.w3u",
+      "info": "by Tintxi"
     },
+
     {
       "name": "Formula 1: ",
       "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
@@ -220,12 +86,14 @@
         }
       ]
     },
+
     {
       "name": "Boxing & UFC",
       "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
       "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Eventos.Boxing.y.Ufc.w3u",
       "info": "by Tintxi"
     },
+
     {
       "name": "Futbol",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
@@ -266,6 +134,7 @@
         }
       ]
     },
+
     {
       "name": "Moto GP",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
@@ -306,6 +175,7 @@
         }
       ]
     },
+
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
@@ -345,12 +215,7 @@
           "isHost": "true"
         }
       ]
-    },
-    {
-      "name": "Eventos del Dia Aces y AceServe",
-      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
-      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Multi.Eventos.w3u",
-      "info": "by Tintxi"
     }
+
   ]
 }
