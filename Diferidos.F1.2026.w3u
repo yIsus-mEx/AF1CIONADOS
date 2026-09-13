@@ -7,6 +7,67 @@
   "info": "",
   "groups": 
   [
+
+    {
+      "name": "F1 2026 R12 España [Madring] [13.Sept26]",
+      "info": "",
+      "image": "",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "F1 2026 R12 Italia [Monza] [06.Sept26]",
+      "info": "",
+      "image": "",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "F1 2026 R11 Belgica [Spa-Francorchamps] [17-19.JUL26]",
+      "info": "",
+      "image": "ttps://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
     {
       "name": "F1 2026 R10 Belgica [Spa-Francorchamps] [17-19.JUL26]",
       "info": "",
