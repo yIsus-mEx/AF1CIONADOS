@@ -9,7 +9,7 @@
   [
 
     {
-      "name": "F1 2026 R12 España [Madring] [13.Sept26]",
+      "name": "F1 2026 R14 España [Madring] [13.Sept26]",
       "info": "",
       "image": "",
       "imageScale": "",
@@ -29,7 +29,27 @@
     },
 
     {
-      "name": "F1 2026 R12 Italia [Monza] [06.Sept26]",
+      "name": "F1 2026 R13 Italia [Monza] [06.Sept26]",
+      "info": "",
+      "image": "",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "F1 2026 R12 Paises Bajos [Zandvoort] [23.Agos26]",
       "info": "",
       "image": "",
       "imageScale": "",
