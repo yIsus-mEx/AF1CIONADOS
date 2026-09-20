@@ -9,38 +9,6 @@
     [
 
     {
-    "name": "Eventos del Dia Aces y AceServe 1",
-    "image": "https://i.postimg.cc/Fz61wsT8/logo9-6-142738.png",
-    "stations": [
-      {
-        "name": "Eventos del Dia Aces y AceServe 1",
-        "image": "https://i.postimg.cc/Fz61wsT8/logo9-6-142738.png",
-        "url": "https://af1cionadoaceserve.onrender.com",
-        "info": "by Tintxi",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer": "",
-        "embed": "true",
-        "online": "true",
-        "isHost": "true"
-        }
-      ]
-    },
-
-    {
-      "name": "Eventos del Dia Aces y AceServe 2",
-      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
-      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Multi.Eventos.w3u",
-      "info": "by Tintxi"
-    },
-
-    {
-      "name": "Eventos del Dia Aces y AceServe 3",
-      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
-      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/Aces.m3u",
-      "info": "by Af1cionados"
-    },
-
-    {
       "name": "Formula 1: ",
       "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
       "stations": [
@@ -200,13 +168,6 @@
         }
       ]
     },
-
-    {
-    "name": "AceStream iDS",
-    "image": "https://i.postimg.cc/NfHDCKV2/logo4-17-142934.png",
-    "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AceStream.IDs.w3u",
-    "info":"bY. Af1cionados"
-    }, 
 
     {
       "name": "Eventos",
