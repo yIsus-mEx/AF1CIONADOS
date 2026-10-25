@@ -9,85 +9,6 @@
     [
 
     {
-      "name": "Formula 1: ",
-      "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-      "stations": [
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[acestream][Dazn]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
-        },
-        {
-          "name": "DazN F1 🇪🇸",
-          "info": "[stream]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "https://asiria.is/",
-          "url": "https://asiria.is/daznf1.php",
-          "isHost": "true"
-        },
-        {
-          "name": "Dazn F1 🇪🇸",
-          "info": "[stream]",
-          "online": "true",
-          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "",
-          "url": "https://streamx741.com/global2.php?channel=daznf1",
-          "isHost": "true"
-        },
-        {
-          "name": "Fox Premium",
-          "info": "[Stream]",
-          "online": "true",
-          "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "referer": "",
-          "url": "",
-          "isHost": "true"
-        }
-      ]
-    },
-
-    {
-      "name": "Boxing & UFC",
-      "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Eventos.Boxing.y.Ufc.w3u",
-      "info": "by Tintxi"
-    },
-
-    {
       "name": "El Clasico Liga EA Sport",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
       "stations": [
@@ -192,6 +113,85 @@
           "isHost": "true"
         }
       ]
+    },
+
+    {
+      "name": "Formula 1: ",
+      "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+      "stations": [
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream][Dazn]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream][Dazn]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream][Dazn]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream][Dazn]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[acestream][Dazn]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
+        },
+        {
+          "name": "DazN F1 🇪🇸",
+          "info": "[stream]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "https://asiria.is/",
+          "url": "https://asiria.is/daznf1.php",
+          "isHost": "true"
+        },
+        {
+          "name": "Dazn F1 🇪🇸",
+          "info": "[stream]",
+          "online": "true",
+          "image": "https://i.postimg.cc/xTLJDKsx/photo-2026-07-14-09-52-14.jpg",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "https://streamx741.com/global2.php?channel=daznf1",
+          "isHost": "true"
+        },
+        {
+          "name": "Fox Premium",
+          "info": "[Stream]",
+          "online": "true",
+          "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "url": "",
+          "isHost": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "Boxing & UFC",
+      "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
+      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Eventos.Boxing.y.Ufc.w3u",
+      "info": "by Tintxi"
     },
 
     {
