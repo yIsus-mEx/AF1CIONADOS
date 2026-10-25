@@ -11,7 +11,8 @@
     {
       "name": "El Clasico Liga EA Sport",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": [
+      "stations": 
+        [
         {
           "name": "Clasico Liga EA Sport",
           "info": "[]",
@@ -240,7 +241,8 @@
     {
       "name": "Moto GP",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": [
+      "stations": 
+        [
         {
           "name": "",
           "info": "[acestream][Dazn]",
@@ -281,7 +283,8 @@
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/wTyTfgKc/logo4-16-232532.png",
-      "stations": [
+      "stations": 
+        [
         {
           "name": "",
           "info": "[acestream][Dazn]",
