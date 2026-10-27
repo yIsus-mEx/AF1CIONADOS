@@ -9,6 +9,26 @@
   [
 
     {
+      "name": "F1 2026 R20 MEXICO [Hermanos Rodriguez] [25.Octubre.26]",
+      "info": "",
+      "image": "",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
       "name": "F1 2026 R19 USA [Austin] [25.Octubre.26]",
       "info": "",
       "image": "https://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
@@ -29,16 +49,16 @@
     },
 
     {
-      "name": "F1 2026 R14 España [Madring] [13.Sept26]",
+      "name": "F1 2026 R18 SINGAPUR [Marina Bay] [11.Octubre.26]",
       "info": "",
-      "image": "",
+      "image": "ttps://i.postimg.cc/Hsj7y4sF/Bandera-Singapur.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
-          "info": "[DAZNF1]",
-          "image": "",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/Hsj7y4sF/Bandera-Singapur.jpg",
           "url": "",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
@@ -49,16 +69,76 @@
     },
 
     {
-      "name": "F1 2026 R13 Italia [Monza] [06.Sept26]",
+      "name": "F1 2026 R17 BAREIN [Sepang] [04.Octubre.26]",
       "info": "",
-      "image": "https://turismo.monza.it/sites/default/files/styles/testata_full/public/evento/copertina/26539/55007/GP%202026.jpg?itok=hAKXo4N4",
+      "image": "ttps://i.postimg.cc/YCGnbW8D/Bandera-Barein.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/YCGnbW8D/Bandera-Barein.jpg",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "F1 2026 R16 AZERBAIYAN [Baku] [26.Septiembre.26]",
+      "info": "",
+      "image": "ttps://i.postimg.cc/fL2mGHRJ/Bandera-Azerbaiyan.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/fL2mGHRJ/Bandera-Azerbaiyan.jpg",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "F1 2026 R15 España [Madring] [13.Sept26]",
+      "info": "",
+      "image": "ttps://i.postimg.cc/QM7ynZJM/Bandera-Espana.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
           "info": "[DAZNF1]",
-          "image": "https://turismo.monza.it/sites/default/files/styles/testata_full/public/evento/copertina/26539/55007/GP%202026.jpg?itok=hAKXo4N4",
+          "image": "ttps://i.postimg.cc/QM7ynZJM/Bandera-Espana.jpg",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "F1 2026 R14 Italia [Monza] [06.Sept26]",
+      "info": "",
+      "image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[DAZNF1]",
+          "image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
           "url": "https://bysejikuar.com/e/l6m3xv35c8db",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
@@ -69,16 +149,16 @@
     },
 
     {
-      "name": "F1 2026 R12 Paises Bajos [Zandvoort] [23.Agos26]",
+      "name": "F1 2026 R13 Paises Bajos [Zandvoort] [23.Agos26]",
       "info": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXg8-p_0MobLXEM65Cs6F0VUxQ_QEvMmF7mya5ImOHkOdfEqONKSuGDBC&s=10",
+      "image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
           "info": "[DAZNF1]",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXg8-p_0MobLXEM65Cs6F0VUxQ_QEvMmF7mya5ImOHkOdfEqONKSuGDBC&s=10",
+          "image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
           "url": "https://bysejikuar.com/e/d2m4vfecejf4",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
@@ -89,16 +169,16 @@
     },
 
     {
-      "name": "F1 2026 R11 Hungria [Hungaroring] [26.JUL26]",
+      "name": "F1 2026 R12 Hungria [Hungaroring] [26.JUL26]",
       "info": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1Zr94-W9jNwhhkHkLXONr_Nc5LbDqjGvu-HSsdMejyrTYh04GU1Kuwqi&s=10",
+      "image": "https://i.postimg.cc/CLfJBSWD/bandera-de-Hungria-768x480.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
           "info": "[DAZNF1]",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1Zr94-W9jNwhhkHkLXONr_Nc5LbDqjGvu-HSsdMejyrTYh04GU1Kuwqi&s=10",
+          "image": "https://i.postimg.cc/CLfJBSWD/bandera-de-Hungria-768x480.jpg",
           "url": "https://bysejikuar.com/e/7v405ibbs5je",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
@@ -109,16 +189,16 @@
     },
 
     {
-      "name": "F1 2026 R10 Belgica [Spa-Francorchamps] [17-19.JUL26]",
+      "name": "F1 2026 R11 Belgica [Spa-Francorchamps] [17-19.JUL26]",
       "info": "",
-      "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+      "image": "https://i.postimg.cc/Twgh9CW8/Bandera-Belgica.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
           "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/kGmyWTvX/Ferrari-Belgian-GP.webp",
+          "image": "https://i.postimg.cc/Twgh9CW8/Bandera-Belgica.jpg",
           "url": "https://bysejikuar.com/d/wjumaqk3hfzg",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
@@ -129,16 +209,16 @@
     },
 
     {
-      "name": "F1 2026 R09 Gran Bretaña [Silverstone] [03-05.Jul26]",
+      "name": "F1 2026 R10 Gran Bretaña [Silverstone] [03-05.Jul26]",
       "info": "",
-      "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+      "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Libres 01",
           "info": "[ESPN]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/46sx6hc7bh10/f1-r09-gran-bretaña-silverstone-libres-01-2026espn",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -148,7 +228,7 @@
         {
           "name": "Libres 01",
           "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/42mp8ddimk91/f1-r09-gran-bretaña-silverstone-libres-01-2026daznf1",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -158,7 +238,7 @@
         {
           "name": "Qualy Sprint",
           "info": "[ESPN]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/uh6vkwuztubl/f1-r09-gran-bretaña-silverstone-qualy-sprint-2026espn",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -168,7 +248,7 @@
         {
           "name": "Qualy Sprint",
           "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/n48llt9lkt94/f1-r09-gran-bretaña-silverstone-qualy-sprint-2026daznf1",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -178,7 +258,7 @@
         {
           "name": "Carrera Sprint",
           "info": "[ESPN]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/wfxl93unry4c/f1-r09-gran-bretaña-silverstone-carrera-sprint-2026espn",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -188,7 +268,7 @@
         {
           "name": "Carrera Sprint",
           "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/osgurup9m24j/f1-r09-gran-bretaña-silverstone-carrera-sprint-2026daznf1",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -198,7 +278,7 @@
         {
           "name": "Qualy",
           "info": "[ESPN]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/dlmfq772l3qk/f1-r09-gran-bretaña-silverstone-qualy-2026espn",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -208,7 +288,7 @@
         {
           "name": "Qualy",
           "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://bysetayico.com/e/w7905r1jypx6/f1-r09-gran-bretaña-silverstone-qualy-2026daznf1",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "",
@@ -218,7 +298,7 @@
         {
           "name": "Carrera",
           "info": "[ESPN]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://hgcloud.to/orkwv355kv4j",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -228,7 +308,7 @@
         {
           "name": "Carrera",
           "info": "[DAZNF1]",
-          "image": "https://i.postimg.cc/XvZ1dcTB/1-Ferrari-British-GP.webp",
+          "image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Bretana.jpg",
           "url": "https://hgcloud.to/ifhkfmtkcrs2",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
