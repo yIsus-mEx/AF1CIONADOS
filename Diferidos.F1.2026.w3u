@@ -11,18 +11,18 @@
     {
       "name": "F1 2026 R20 MEXICO [Hermanos Rodriguez] [25.Octubre.26]",
       "info": "",
-      "image": "",
+      "image": "https://i.postimg.cc/B6ngXnPM/Bandera-Mexico.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
           "info": "[]",
-          "image": "",
-          "url": "",
+          "image": "https://i.postimg.cc/B6ngXnPM/Bandera-Mexico.jpg",
+          "url": "https://pixeldrain.com/u/CFNUmph2",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
-          "embed": "true",
+          "embed": "",
           "online": "true"
         }
       ]
