@@ -8,6 +8,26 @@
   "groups": 
   [
 
+
+    {
+      "name": "F1 2026 R21 BRASIL [Autódromo José Carlos Pace]",
+      "info": "[08.Noviembre.26]",
+      "image": "https://i.postimg.cc/1tx3DRks/Bandera-Brasil.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "https://i.postimg.cc/1tx3DRks/Bandera-Brasil.jpg",
+          "url": "https://pixeldrain.com/u/8GH1tQhS",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "F1 2026 R20 MEXICO [Hermanos Rodriguez]",
       "info": "[31.Octubre.26]",
