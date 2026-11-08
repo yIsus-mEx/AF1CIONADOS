@@ -8,7 +8,63 @@
   "groups": 
   [
 
-
+    {
+      "name": "F1 2026 R24 ABU DABI [Circuito Yas Marina]",
+      "info": "[06.Diciembre.26]",
+      "image": "ttps://i.postimg.cc/nhRfk8f1/Bandera-Abu-Dabi.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/nhRfk8f1/Bandera-Abu-Dabi.jpg",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "F1 2026 R23 QATAR [Circuito de Losail]",
+      "info": "[29.Noviembre.26]",
+      "image": "ttps://i.postimg.cc/50xS9Cqd/Bandera-Qatar.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/50xS9Cqd/Bandera-Qatar.jpg",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "F1 2026 R22 USA [Circuito de Las Vegas]",
+      "info": "[22.Noviembre.26]",
+      "image": "ttps://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
+      "imageScale": "",
+      "stations": 
+      [
+        {
+          "name": "Carrera",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
+          "url": "",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "isHost": "true",
+          "embed": "true",
+          "online": "true"
+        }
+      ]
+    },
     {
       "name": "F1 2026 R21 BRASIL [Autódromo José Carlos Pace]",
       "info": "[08.Noviembre.26]",
