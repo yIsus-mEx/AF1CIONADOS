@@ -49,15 +49,15 @@
     {
       "name": "F1 2026 R22 USA [Circuito de Las Vegas]",
       "info": "[22.Noviembre.26]",
-      "image": "ttps://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
+      "image": "https://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
       "imageScale": "",
       "stations": 
       [
         {
           "name": "Carrera",
           "info": "[]",
-          "image": "ttps://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
-          "url": "",
+          "image": "https://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
+          "url": "https://pixeldrain.com/u/WyiBuwsU",
           "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "embed": "true",
