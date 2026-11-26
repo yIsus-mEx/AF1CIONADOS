@@ -8,24 +8,6 @@
   "groups": 
   [
     {
-      "name": "R02 Mexico E-Prix",
-      "image": "https://i.postimg.cc/029XSqnZ/02-Mexico.png",
-      "imageScale": "",
-      "info": "",
-      "stations": 
-      [
-        {
-          "name": "R02 Mexico E-Prix Carrera",
-          "info": "[Latino]",
-          "image": "https://i.postimg.cc/029XSqnZ/02-Mexico.png",
-          "url": "https://bysekoze.com/d/dzj6kxgnrydu",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
-    {
       "name": "R01 Brasil E-Prix",
       "image": "https://i.postimg.cc/PJj32Gjr/01-Brasil.png",
       "imageScale": "",
@@ -36,8 +18,28 @@
           "name": "R01 Brasil E-Prix Carrera",
           "info": "[Latino]",
           "image": "https://i.postimg.cc/PJj32Gjr/01-Brasil.png",
-          "url": "https://bysekoze.com/d/pi1sgcyeaeft",
+          "url": "https://bysekoze.com/e/pi1sgcyeaeft",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "R02 Mexico E-Prix",
+      "image": "https://i.postimg.cc/029XSqnZ/02-Mexico.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "R02 Mexico E-Prix Carrera",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/029XSqnZ/02-Mexico.png",
+          "url": "https://bysekoze.com/e/dzj6kxgnrydu",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
           "isHost": "true",
           "online": "true"
         }
